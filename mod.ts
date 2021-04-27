@@ -1,5 +1,5 @@
 import { csv, path } from "./deps.ts";
-import { fetchFromJisho, getJson } from "./fetchJisho.ts";
+import { getRelevantInfo } from "./fetchJisho.ts";
 
 if (import.meta.main) {
   const keyword: string = Deno.args[0];
@@ -13,15 +13,23 @@ if (import.meta.main) {
     skipFirstRow: false,
     parse: parseKanji,
   });
-
+  let rtkEnchanced = [];
   for (const kanji of kanjiList) {
-    console.log(kanji);
-
-    const affirmative = await confirm("Do you want to go on? [y/n]");
-    if (!affirmative) {
-      break;
+    if (typeof kanji === "string") {
+      console.log(kanji);
+      rtkEnchanced.push({
+        basic: rtk[rtkEnchanced.length],
+        extended: await getRelevantInfo(kanji),
+      });
+      const affirmative = await confirm("Do you want to go on? [y/n]");
+      if (!affirmative) {
+        break;
+      }
     }
   }
+  console.log(
+    writeJson(path.join(Deno.cwd(), "rtkEnchanced.json"), rtkEnchanced),
+  );
 }
 
 function parseKanji(row: unknown) {
@@ -31,7 +39,7 @@ function parseKanji(row: unknown) {
 }
 
 function confirm(question: string): boolean {
-  let answer= false;
+  let answer = false;
   let line = "LUL";
   while (line !== "y" && line !== "n") {
     line = prompt(question) || "bleh";
@@ -42,4 +50,14 @@ function confirm(question: string): boolean {
     }
   }
   return answer;
+}
+
+function writeJson(path: string, data: object): string {
+  try {
+    Deno.writeTextFileSync(path, JSON.stringify(data));
+
+    return "Written to " + path;
+  } catch (e) {
+    return e.message;
+  }
 }

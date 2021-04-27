@@ -99,3 +99,8 @@ if (import.meta.main) {
     }
   }
 }
+
+export function printJson(jsonString: string): void {
+  const json = JSON.parse(jsonString);
+  print(json);
+}
