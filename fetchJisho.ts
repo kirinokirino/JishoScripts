@@ -12,32 +12,12 @@ export async function fetchFromJisho(
   }
 }
 
-export function getJsonData(promise: Promise<Response>) {
-  promise.then((response) => {
-    if (response.status !== 200) {
-      console.error("Response status ", response.status);
-      return null;
-    } else return response.json();
-  }).then((data?) => {
-    if (data) {
-      console.log(data);
-    } else {
-      console.error("No response...");
-    }
-  });
-}
-
-export function getArrayBuffer(promise: Promise<Response>) {
-  promise.then((response) => {
-    if (response.status !== 200) {
-      console.error("Response status ", response.status);
-      return null;
-    } else return response.arrayBuffer();
-  }).then((data?) => {
-    if (data) {
-      Deno.stdout.write(new Uint8Array(data));
-    } else {
-      console.error("No response...");
-    }
+export function getJson(
+  promise: Promise<Response>,
+): Promise<unknown> {
+  return promise.then((response) => {
+    return response.json();
+  }).then(async (jsonData) => {
+    return await jsonData;
   });
 }
