@@ -14,10 +14,17 @@ if (import.meta.main) {
   for (const kanji of kanjiList) {
     if (typeof kanji === "string") {
       console.log(kanji);
-      rtkEnchanced.push({
+      const kanjiInfo: rtkEntry = {
         basic: rtk[rtkEnchanced.length] as string[],
         extended: await getRelevantInfo(kanji),
-      });
+      };
+      console.log(
+        saveEntry(
+          path.join(Deno.cwd(), path.join("kanjis", kanji + ".json")),
+          kanjiInfo,
+        ),
+      );
+      rtkEnchanced.push(kanjiInfo);
       /*
       const affirmative = await confirm("Do you want to go on? [y/n]");
       if (!affirmative) {
@@ -54,6 +61,16 @@ function confirm(question: string): boolean {
     }
   }
   return answer;
+}
+
+function saveEntry(path: string, data: rtkEntry): string {
+  try {
+    Deno.writeTextFileSync(path, JSON.stringify(data));
+
+    return "Written to " + path;
+  } catch (e) {
+    return e.message;
+  }
 }
 
 function writeJson(path: string, data: rtkEntry[]): string {
