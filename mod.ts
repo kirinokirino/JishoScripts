@@ -1,10 +1,7 @@
 import { csv, path } from "./deps.ts";
-import { getRelevantInfo } from "./fetchJisho.ts";
+import { Entry, getRelevantInfo } from "./fetchJisho.ts";
 
 if (import.meta.main) {
-  const keyword: string = Deno.args[0];
-  const page: string = Deno.args[1];
-
   const filePath = path.join(Deno.cwd(), "rtk.csv");
   const rtk = await csv.parse(Deno.readTextFileSync(filePath), {
     skipFirstRow: false,
@@ -13,12 +10,12 @@ if (import.meta.main) {
     skipFirstRow: false,
     parse: parseKanji,
   });
-  let rtkEnchanced = [];
+  const rtkEnchanced: rtkEntry[] = [];
   for (const kanji of kanjiList) {
     if (typeof kanji === "string") {
       console.log(kanji);
       rtkEnchanced.push({
-        basic: rtk[rtkEnchanced.length],
+        basic: rtk[rtkEnchanced.length] as string[],
         extended: await getRelevantInfo(kanji),
       });
       const affirmative = await confirm("Do you want to go on? [y/n]");
@@ -30,6 +27,11 @@ if (import.meta.main) {
   console.log(
     writeJson(path.join(Deno.cwd(), "rtkEnchanced.json"), rtkEnchanced),
   );
+}
+
+interface rtkEntry {
+  basic: string[];
+  extended: Entry[];
 }
 
 function parseKanji(row: unknown) {
@@ -52,7 +54,7 @@ function confirm(question: string): boolean {
   return answer;
 }
 
-function writeJson(path: string, data: object): string {
+function writeJson(path: string, data: rtkEntry[]): string {
   try {
     Deno.writeTextFileSync(path, JSON.stringify(data));
 
