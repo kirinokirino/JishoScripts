@@ -18,10 +18,12 @@ if (import.meta.main) {
         basic: rtk[rtkEnchanced.length] as string[],
         extended: await getRelevantInfo(kanji),
       });
+      /*
       const affirmative = await confirm("Do you want to go on? [y/n]");
       if (!affirmative) {
         break;
       }
+      */
     }
   }
   console.log(
