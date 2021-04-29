@@ -1,1 +1,63 @@
-{"basic":["械","Contraption","732"],"extended":[{"jlpt":["jlpt-n3","jlpt-n2"],"tags":["wanikani20"],"japanese":[{"word":"機械","reading":"きかい"},{"word":"器械","reading":"きかい"}],"senses":[["machine","mechanism"],["instrument","appliance","apparatus"],["Machine"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"工作機械","reading":"こうさくきかい"}],"senses":[["machine tools"],["Machine tool"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"機械化","reading":"きかいか"}],"senses":[["mechanization","mechanisation"],["computerization"],["Mechanization"]]},{"jlpt":["jlpt-n3","jlpt-n2"],"tags":["wanikani20"],"japanese":[{"word":"機械","reading":"きかい"},{"word":"器械","reading":"きかい"}],"senses":[["machine","mechanism"],["instrument","appliance","apparatus"],["Machine"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"工作機械","reading":"こうさくきかい"}],"senses":[["machine tools"],["Machine tool"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"機械化","reading":"きかいか"}],"senses":[["mechanization","mechanisation"],["computerization"],["Mechanization"]]}]}
+{
+  "basic": ["械", "Contraption", "732"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n3", "jlpt-n2"],
+      "tags": ["wanikani20"],
+      "japanese": [
+        { "word": "機械", "reading": "きかい" },
+        { "word": "器械", "reading": "きかい" }
+      ],
+      "senses": [
+        ["machine", "mechanism"],
+        ["instrument", "appliance", "apparatus"],
+        ["Machine"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "工作機械", "reading": "こうさくきかい" }],
+      "senses": [["machine tools"], ["Machine tool"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "機械化", "reading": "きかいか" }],
+      "senses": [
+        ["mechanization", "mechanisation"],
+        ["computerization"],
+        ["Mechanization"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n3", "jlpt-n2"],
+      "tags": ["wanikani20"],
+      "japanese": [
+        { "word": "機械", "reading": "きかい" },
+        { "word": "器械", "reading": "きかい" }
+      ],
+      "senses": [
+        ["machine", "mechanism"],
+        ["instrument", "appliance", "apparatus"],
+        ["Machine"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "工作機械", "reading": "こうさくきかい" }],
+      "senses": [["machine tools"], ["Machine tool"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "機械化", "reading": "きかいか" }],
+      "senses": [
+        ["mechanization", "mechanisation"],
+        ["computerization"],
+        ["Mechanization"]
+      ]
+    }
+  ]
+}

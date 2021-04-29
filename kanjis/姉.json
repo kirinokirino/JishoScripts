@@ -1,1 +1,57 @@
-{"basic":["姉","Elder Sister","442"],"extended":[{"jlpt":["jlpt-n5"],"tags":["wanikani6"],"japanese":[{"word":"お姉さん","reading":"おねえさん"},{"word":"お姐さん","reading":"おねえさん"},{"word":"御姉さん","reading":"おねえさん"},{"word":"御姐さん","reading":"おねえさん"}],"senses":[["older sister","elder sister"],["young lady"],["miss"],["ma'am"],["older girl"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"従姉妹","reading":"いとこ"},{"word":"従姉妹","reading":"じゅうしまい"}],"senses":[["cousin (female)"]]},{"jlpt":["jlpt-n5"],"tags":["wanikani6"],"japanese":[{"word":"お姉さん","reading":"おねえさん"},{"word":"お姐さん","reading":"おねえさん"},{"word":"御姉さん","reading":"おねえさん"},{"word":"御姐さん","reading":"おねえさん"}],"senses":[["older sister","elder sister"],["young lady"],["miss"],["ma'am"],["older girl"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"従姉妹","reading":"いとこ"},{"word":"従姉妹","reading":"じゅうしまい"}],"senses":[["cousin (female)"]]}]}
+{
+  "basic": ["姉", "Elder Sister", "442"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n5"],
+      "tags": ["wanikani6"],
+      "japanese": [
+        { "word": "お姉さん", "reading": "おねえさん" },
+        { "word": "お姐さん", "reading": "おねえさん" },
+        { "word": "御姉さん", "reading": "おねえさん" },
+        { "word": "御姐さん", "reading": "おねえさん" }
+      ],
+      "senses": [
+        ["older sister", "elder sister"],
+        ["young lady"],
+        ["miss"],
+        ["ma'am"],
+        ["older girl"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [
+        { "word": "従姉妹", "reading": "いとこ" },
+        { "word": "従姉妹", "reading": "じゅうしまい" }
+      ],
+      "senses": [["cousin (female)"]]
+    },
+    {
+      "jlpt": ["jlpt-n5"],
+      "tags": ["wanikani6"],
+      "japanese": [
+        { "word": "お姉さん", "reading": "おねえさん" },
+        { "word": "お姐さん", "reading": "おねえさん" },
+        { "word": "御姉さん", "reading": "おねえさん" },
+        { "word": "御姐さん", "reading": "おねえさん" }
+      ],
+      "senses": [
+        ["older sister", "elder sister"],
+        ["young lady"],
+        ["miss"],
+        ["ma'am"],
+        ["older girl"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [
+        { "word": "従姉妹", "reading": "いとこ" },
+        { "word": "従姉妹", "reading": "じゅうしまい" }
+      ],
+      "senses": [["cousin (female)"]]
+    }
+  ]
+}

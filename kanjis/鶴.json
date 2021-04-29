@@ -1,1 +1,33 @@
-{"basic":["鶴","Crane","2093"],"extended":[{"jlpt":[],"tags":["wanikani49"],"japanese":[{"word":"鶴","reading":"つる"},{"word":"鶴","reading":"たず"},{"word":"田鶴","reading":"たず"},{"reading":"ツル"}],"senses":[["crane (any bird of the family Gruidae, esp. the red-crowned crane, Grus japonensis)"],["Crane (bird)"]]},{"jlpt":[],"tags":["wanikani49"],"japanese":[{"word":"鶴","reading":"つる"},{"word":"鶴","reading":"たず"},{"word":"田鶴","reading":"たず"},{"reading":"ツル"}],"senses":[["crane (any bird of the family Gruidae, esp. the red-crowned crane, Grus japonensis)"],["Crane (bird)"]]}]}
+{
+  "basic": ["鶴", "Crane", "2093"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": ["wanikani49"],
+      "japanese": [
+        { "word": "鶴", "reading": "つる" },
+        { "word": "鶴", "reading": "たず" },
+        { "word": "田鶴", "reading": "たず" },
+        { "reading": "ツル" }
+      ],
+      "senses": [
+        ["crane (any bird of the family Gruidae, esp. the red-crowned crane, Grus japonensis)"],
+        ["Crane (bird)"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani49"],
+      "japanese": [
+        { "word": "鶴", "reading": "つる" },
+        { "word": "鶴", "reading": "たず" },
+        { "word": "田鶴", "reading": "たず" },
+        { "reading": "ツル" }
+      ],
+      "senses": [
+        ["crane (any bird of the family Gruidae, esp. the red-crowned crane, Grus japonensis)"],
+        ["Crane (bird)"]
+      ]
+    }
+  ]
+}

@@ -1,1 +1,1019 @@
-{"basic":["行","Going","938"],"extended":[{"jlpt":["jlpt-n5"],"tags":["wanikani12","wanikani14"],"japanese":[{"word":"旅行","reading":"りょこう"}],"senses":[["travel","trip","journey","excursion","tour"],["Travel"]]},{"jlpt":["jlpt-n5"],"tags":["wanikani20"],"japanese":[{"word":"飛行機","reading":"ひこうき"}],"senses":[["aeroplane","airplane","aircraft"],["Fixed-wing aircraft"]]},{"jlpt":["jlpt-n5"],"tags":["wanikani13"],"japanese":[{"word":"銀行","reading":"ぎんこう"}],"senses":[["bank","banking institution"],["Bank"]]},{"jlpt":["jlpt-n4"],"tags":[],"japanese":[{"word":"飛行場","reading":"ひこうじょう"}],"senses":[["airfield","airport"],["Hikoujou"],["Aerodrome"]]},{"jlpt":["jlpt-n2","jlpt-n1"],"tags":["wanikani28"],"japanese":[{"word":"並行","reading":"へいこう"},{"word":"併行","reading":"へいこう"}],"senses":[["going side-by-side","going abreast"],["running concurrently","occurring at the same time","keeping pace with"],["Parallel (geometry)"]]},{"jlpt":["jlpt-n4"],"tags":["wanikani16"],"japanese":[{"word":"急行","reading":"きゅうこう"}],"senses":[["hurrying (to somewhere)","rushing","hastening"],["express (train)"]]},{"jlpt":["jlpt-n3"],"tags":[],"japanese":[{"word":"実行","reading":"じっこう"}],"senses":[["execution (e.g. of a plan)","carrying out","practice","action","implementation","fulfillment","realization"]]},{"jlpt":["jlpt-n3"],"tags":[],"japanese":[{"word":"発行","reading":"はっこう"}],"senses":[["publication","issue (of journal, newspaper, etc.)"],["issue (of banknotes, bonds, passport, etc.)"],["raising an event (software)"]]},{"jlpt":["jlpt-n3"],"tags":[],"japanese":[{"word":"飛行","reading":"ひこう"}],"senses":[["aviation","flight","flying"],["to fly","to take a flight"]]},{"jlpt":["jlpt-n3"],"tags":[],"japanese":[{"word":"通行","reading":"つうこう"}],"senses":[["passage (of people, traffic)","passing"],["common usage"]]},{"jlpt":["jlpt-n2","jlpt-n1"],"tags":[],"japanese":[{"word":"売れ行き","reading":"うれゆき"},{"word":"売行き","reading":"うれゆき"},{"word":"売行","reading":"うれゆき"}],"senses":[["sales","demand"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani40"],"japanese":[{"word":"孝行","reading":"こうこう"}],"senses":[["filial piety"],["showing devotion (to someone)"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"流行る","reading":"はやる"}],"senses":[["to be popular","to come into fashion"],["to be prevalent","to spread widely (e.g. disease)","to be endemic"],["to flourish","to thrive"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani23"],"japanese":[{"word":"施行","reading":"しこう"},{"word":"施行","reading":"せぎょう"},{"word":"施行","reading":"せこう"},{"word":"施行","reading":"しぎょう"}],"senses":[["execution","enforcing","carrying out"],["giving alms","giving food to the poor or monks"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"非行","reading":"ひこう"}],"senses":[["delinquency","misconduct"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani5"],"japanese":[{"word":"走行","reading":"そうこう"}],"senses":[["running (of a car, bus, etc.)","traveling","travelling"],["running (of a program)"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"移行","reading":"いこう"}],"senses":[["switching over to","migration","transition"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"現行","reading":"げんこう"}],"senses":[["present","current","in operation"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"慣行","reading":"かんこう"}],"senses":[["customary practice","habit","traditional event"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"先行","reading":"せんこう"}],"senses":[["going ahead","going first"],["preceding","coming before","being ahead (e.g. of the times)","occurring first","happening prior"],["scoring first","getting off to a lead"],["stalker"]]},{"jlpt":["jlpt-n5"],"tags":["wanikani12","wanikani14"],"japanese":[{"word":"旅行","reading":"りょこう"}],"senses":[["travel","trip","journey","excursion","tour"],["Travel"]]},{"jlpt":["jlpt-n5"],"tags":["wanikani20"],"japanese":[{"word":"飛行機","reading":"ひこうき"}],"senses":[["aeroplane","airplane","aircraft"],["Fixed-wing aircraft"]]},{"jlpt":["jlpt-n5"],"tags":["wanikani13"],"japanese":[{"word":"銀行","reading":"ぎんこう"}],"senses":[["bank","banking institution"],["Bank"]]},{"jlpt":["jlpt-n4"],"tags":[],"japanese":[{"word":"飛行場","reading":"ひこうじょう"}],"senses":[["airfield","airport"],["Hikoujou"],["Aerodrome"]]},{"jlpt":["jlpt-n2","jlpt-n1"],"tags":["wanikani28"],"japanese":[{"word":"並行","reading":"へいこう"},{"word":"併行","reading":"へいこう"}],"senses":[["going side-by-side","going abreast"],["running concurrently","occurring at the same time","keeping pace with"],["Parallel (geometry)"]]},{"jlpt":["jlpt-n4"],"tags":["wanikani16"],"japanese":[{"word":"急行","reading":"きゅうこう"}],"senses":[["hurrying (to somewhere)","rushing","hastening"],["express (train)"]]},{"jlpt":["jlpt-n3"],"tags":[],"japanese":[{"word":"実行","reading":"じっこう"}],"senses":[["execution (e.g. of a plan)","carrying out","practice","action","implementation","fulfillment","realization"]]},{"jlpt":["jlpt-n3"],"tags":[],"japanese":[{"word":"発行","reading":"はっこう"}],"senses":[["publication","issue (of journal, newspaper, etc.)"],["issue (of banknotes, bonds, passport, etc.)"],["raising an event (software)"]]},{"jlpt":["jlpt-n3"],"tags":[],"japanese":[{"word":"飛行","reading":"ひこう"}],"senses":[["aviation","flight","flying"],["to fly","to take a flight"]]},{"jlpt":["jlpt-n3"],"tags":[],"japanese":[{"word":"通行","reading":"つうこう"}],"senses":[["passage (of people, traffic)","passing"],["common usage"]]},{"jlpt":["jlpt-n2","jlpt-n1"],"tags":[],"japanese":[{"word":"売れ行き","reading":"うれゆき"},{"word":"売行き","reading":"うれゆき"},{"word":"売行","reading":"うれゆき"}],"senses":[["sales","demand"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani40"],"japanese":[{"word":"孝行","reading":"こうこう"}],"senses":[["filial piety"],["showing devotion (to someone)"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"流行る","reading":"はやる"}],"senses":[["to be popular","to come into fashion"],["to be prevalent","to spread widely (e.g. disease)","to be endemic"],["to flourish","to thrive"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani23"],"japanese":[{"word":"施行","reading":"しこう"},{"word":"施行","reading":"せぎょう"},{"word":"施行","reading":"せこう"},{"word":"施行","reading":"しぎょう"}],"senses":[["execution","enforcing","carrying out"],["giving alms","giving food to the poor or monks"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"非行","reading":"ひこう"}],"senses":[["delinquency","misconduct"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani5"],"japanese":[{"word":"走行","reading":"そうこう"}],"senses":[["running (of a car, bus, etc.)","traveling","travelling"],["running (of a program)"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"移行","reading":"いこう"}],"senses":[["switching over to","migration","transition"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"現行","reading":"げんこう"}],"senses":[["present","current","in operation"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"慣行","reading":"かんこう"}],"senses":[["customary practice","habit","traditional event"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"先行","reading":"せんこう"}],"senses":[["going ahead","going first"],["preceding","coming before","being ahead (e.g. of the times)","occurring first","happening prior"],["scoring first","getting off to a lead"],["stalker"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani53"],"japanese":[{"word":"徐行","reading":"じょこう"}],"senses":[["going slowly"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"宇宙飛行士","reading":"うちゅうひこうし"}],"senses":[["astronaut"],["Astronaut"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"現行犯","reading":"げんこうはん"}],"senses":[["flagrante delicto","caught red-handed"],["In flagrante delicto"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"歩行","reading":"ほこう"},{"word":"歩こう","reading":"ほこう"}],"senses":[["walk"],["Walking"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"飛行船","reading":"ひこうせん"}],"senses":[["airship","blimp"],["Airship"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"歩行者","reading":"ほこうしゃ"}],"senses":[["pedestrian","walker"],["Pedestrian"]]},{"jlpt":["jlpt-n3","jlpt-n1"],"tags":["wanikani12"],"japanese":[{"word":"流行","reading":"りゅうこう"}],"senses":[["fashion","trend","vogue","craze","fad","popularity"],["prevalence (of a disease)","epidemic"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"奥行き","reading":"おくゆき"},{"word":"奥行","reading":"おくゆき"}],"senses":[["depth","length"],["Okuyuki"]]},{"jlpt":[],"tags":["wanikani48"],"japanese":[{"word":"遂行","reading":"すいこう"}],"senses":[["accomplishment","execution"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"成り行き","reading":"なりゆき"},{"word":"成行き","reading":"なりゆき"},{"word":"成りゆき","reading":"なりゆき"},{"word":"なり行き","reading":"なりゆき"},{"word":"成行","reading":"なりゆき"}],"senses":[["course (of events)","development","progress","outcome","result"],["market order","order without limit"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"同行","reading":"どうこう"}],"senses":[["accompanying","travelling together","traveling together"],["same bank"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"航行","reading":"こうこう"}],"senses":[["cruise","navigation","sailing"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"運行","reading":"うんこう"}],"senses":[["service (bus, train)","operation"],["motion","revolution","movement"]]},{"jlpt":[],"tags":["wanikani6"],"japanese":[{"word":"直行","reading":"ちょっこう"}],"senses":[["through","non-stop","direct","going straight to"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"続行","reading":"ぞっこう"}],"senses":[["continuation","continuance","going on","resuming"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"執行","reading":"しっこう"},{"word":"執行","reading":"しゅぎょう"},{"word":"執行","reading":"しゅうぎょう"},{"word":"執行","reading":"しぎょう"}],"senses":[["execution","carrying out","performance","enforcement","exercise","service"],["lead monk performing various tasks in a temple"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"修学旅行","reading":"しゅうがくりょこう"}],"senses":[["excursion","field trip","school trip"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"試行錯誤","reading":"しこうさくご"}],"senses":[["trial and error"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"通行止め","reading":"つうこうどめ"},{"word":"通行止","reading":"つうこうどめ"}],"senses":[["closure (of a road)","suspension of traffic"],["road closed","closed to traffic","no through road"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"連行","reading":"れんこう"}],"senses":[["taking (a suspect to the police)","dragging (someone) away"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"履行","reading":"りこう"}],"senses":[["performance (of a duty)","fulfillment (of a promise)","fulfilment","execution (of a contract)","discharge","implementation"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"暴行","reading":"ぼうこう"}],"senses":[["assault","outrage","act of violence"],["rape","sexual assault"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"興行","reading":"こうぎょう"}],"senses":[["show","performance","act"],["entertainment industry","show business"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"犯行","reading":"はんこう"}],"senses":[["crime","criminal act","offence","offense"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"雲行き","reading":"くもゆき"},{"word":"雲ゆき","reading":"くもゆき"}],"senses":[["weather","look of the sky"],["situation","turn of affairs","signs","way the wind is blowing"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"先行き","reading":"さきゆき"},{"word":"先行き","reading":"さきいき"}],"senses":[["the future","future prospects"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"代行","reading":"だいこう"}],"senses":[["acting as agent","acting on (someone's) behalf","executing business for"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"横行","reading":"おうこう"},{"word":"横行","reading":"おうぎょう"}],"senses":[["walking sideways","staggering","striding"],["being rampant","being widespread","being prevalent"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"地方行政","reading":"ちほうぎょうせい"}],"senses":[["local administration"]]},{"jlpt":[],"tags":["wanikani50"],"japanese":[{"word":"壮行","reading":"そうこう"}],"senses":[["rousing"]]},{"jlpt":[],"tags":["wanikani57"],"japanese":[{"word":"敢行","reading":"かんこう"}],"senses":[["decisive action","going through with","daring to do","carrying out"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"断行","reading":"だんこう"}],"senses":[["decisive action","carrying out","resolute enforcement","execution"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"執行部","reading":"しっこうぶ"}],"senses":[["(the) executive","administration","leadership"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"持っていく","reading":"もっていく"},{"word":"持って行く","reading":"もっていく"},{"word":"もって行く","reading":"もっていく"},{"word":"持って行く","reading":"もってゆく"},{"word":"もって行く","reading":"もってゆく"},{"word":"持ってゆく","reading":"もってゆく"}],"senses":[["to take","to carry (something) away","to bear"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"連れて行く","reading":"つれていく"},{"word":"連れていく","reading":"つれていく"},{"word":"つれて行く","reading":"つれていく"},{"word":"連れて行く","reading":"つれてゆく"},{"word":"連れてゆく","reading":"つれてゆく"},{"word":"つれて行く","reading":"つれてゆく"}],"senses":[["to take someone (to some place)","to take someone along","to lead someone away"]]},{"jlpt":[],"tags":["wanikani42"],"japanese":[{"word":"親孝行","reading":"おやこうこう"}],"senses":[["filial piety","being kind to one's parents","taking care of one's parents"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"修行","reading":"しゅぎょう"},{"word":"修行","reading":"すぎょう"}],"senses":[["training","practice","discipline","study"],["ascetic practices"],["Sadhana"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"ついて行く","reading":"ついていく"},{"word":"付いていく","reading":"ついていく"},{"word":"付いて行く","reading":"ついていく"},{"word":"ついて行く","reading":"ついてゆく"},{"word":"付いて行く","reading":"ついてゆく"},{"word":"付いてゆく","reading":"ついてゆく"}],"senses":[["to accompany","to follow","to keep up with"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"ないと行けない","reading":"ないといけない"},{"word":"無いといけない","reading":"ないといけない"},{"word":"無いと行けない","reading":"ないといけない"}],"senses":[["have to (verb)","must (verb)"],["is indispensable","absolutely necessary"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"海外旅行","reading":"かいがいりょこう"}],"senses":[["trip abroad","overseas travel"]]},{"jlpt":[],"tags":["wanikani14"],"japanese":[{"word":"旅行者","reading":"りょこうしゃ"}],"senses":[["traveller","traveler"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"旅行会社","reading":"りょこうがいしゃ"}],"senses":[["travel agent","travel agency"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"一行","reading":"いちぎょう"},{"word":"１行","reading":"いちぎょう"}],"senses":[["(one) line","(one) row"],["Yi Xing"]]},{"jlpt":[],"tags":["wanikani14"],"japanese":[{"word":"流行歌","reading":"りゅうこうか"}],"senses":[["popular song","hit song"],["Ryūkōka"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani10"],"japanese":[{"word":"進行","reading":"しんこう"}],"senses":[["moving forward (e.g. vehicle)","onward movement"],["advance (work, procedure, etc.)","advancement","progress"],["progress (of a disease)","disease progression"],["progression (harmonic, melodic)"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"強行","reading":"きょうこう"}],"senses":[["forcing","enforcement"],["forced","enforced"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani38"],"japanese":[{"word":"刊行","reading":"かんこう"}],"senses":[["publication","issue"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"日本銀行","reading":"にっぽんぎんこう"},{"word":"日本銀行","reading":"にほんぎんこう"}],"senses":[["Bank of Japan","BOJ","BoJ"],["Nihonginkou"],["Bank of Japan"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"世界銀行","reading":"せかいぎんこう"}],"senses":[["World Bank"],["World Bank"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"一方通行","reading":"いっぽうつうこう"}],"senses":[["one-way traffic"],["One-way traffic"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"紀行","reading":"きこう"}],"senses":[["traveller's journal","traveler's journal","travelogue"],["Travel literature"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"住友銀行","reading":"すみともぎんこう"}],"senses":[["Sumitomo Bank"],["The Sumitomo Bank"]]},{"jlpt":[],"tags":["wanikani58"],"japanese":[{"word":"執行猶予","reading":"しっこうゆうよ"}],"senses":[["stay of execution","suspended sentence"],["Suspended sentence"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"単行本","reading":"たんこうぼん"}],"senses":[["tankōbon","(manga) volume","(comic) trade paperback"],["single book (as opposed to magazine, anthology, etc.)","separate volume"],["Tankōbon"]]},{"jlpt":[],"tags":["wanikani57"],"japanese":[{"word":"奉行","reading":"ぶぎょう"}],"senses":[["magistrate","shogunate administrator"],["Bugyō"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"よそ行き","reading":"よそゆき"},{"word":"よそ行き","reading":"よそいき"},{"word":"余所行き","reading":"よそゆき"},{"word":"余所行き","reading":"よそいき"},{"word":"他所行き","reading":"よそゆき"},{"word":"他所行き","reading":"よそいき"}],"senses":[["going out"],["one's best clothes"],["formal (e.g. language)","best (behaviour, manners, etc.)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"歩行者天国","reading":"ほこうしゃてんごく"}],"senses":[["pedestrian mall","car-free mall","pedestrian paradise"],["Pedestrian zone"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"上手くいく","reading":"うまくいく"},{"word":"うまく行く","reading":"うまくいく"},{"word":"上手く行く","reading":"うまくいく"},{"word":"旨くいく","reading":"うまくいく"},{"word":"旨く行く","reading":"うまくいく"}],"senses":[["to go smoothly","to turn out well","to do the trick","to have peaceful relations"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"ゆうちょ銀行","reading":"ゆうちょぎんこう"},{"word":"郵貯銀行","reading":"ゆうちょぎんこう"}],"senses":[["JP Bank (former Postal Savings Bank, created when the Postal Services were privatized)"],["Japan Post Bank"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"実力行使","reading":"じつりょくこうし"}],"senses":[["use of force"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"飛行士","reading":"ひこうし"}],"senses":[["pilot"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"執行委員","reading":"しっこういいん"}],"senses":[["executive committee"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"強行採決","reading":"きょうこうさいけつ"}],"senses":[["steamroller voting","steamrollering"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"性行","reading":"せいこう"}],"senses":[["character and conduct"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"平行線","reading":"へいこうせん"}],"senses":[["parallel lines"],["remaining far apart (e.g. in discussions)","not reaching an agreement"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"相互銀行","reading":"そうごぎんこう"}],"senses":[["mutual savings bank"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"婦女暴行","reading":"ふじょぼうこう"}],"senses":[["sexual assault (of a woman)","rape"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"試行","reading":"しこう"}],"senses":[["making an attempt","trial run"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"国内旅行","reading":"こくないりょこう"}],"senses":[["domestic travel"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"旅行券","reading":"りょこうけん"}],"senses":[["travel voucher","travel coupon"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"平行","reading":"へいこう"}],"senses":[["parallelism","running parallel (to, with)"],["running concurrently","occurring at the same time","keeping pace with"],["not reaching an agreement (e.g. of a debate)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"一行","reading":"いっこう"}],"senses":[["party","group","troop","company"],["one act","one action","one deed"]]}]}
+{
+  "basic": ["行", "Going", "938"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n5"],
+      "tags": ["wanikani12", "wanikani14"],
+      "japanese": [{ "word": "旅行", "reading": "りょこう" }],
+      "senses": [["travel", "trip", "journey", "excursion", "tour"], ["Travel"]]
+    },
+    {
+      "jlpt": ["jlpt-n5"],
+      "tags": ["wanikani20"],
+      "japanese": [{ "word": "飛行機", "reading": "ひこうき" }],
+      "senses": [["aeroplane", "airplane", "aircraft"], ["Fixed-wing aircraft"]]
+    },
+    {
+      "jlpt": ["jlpt-n5"],
+      "tags": ["wanikani13"],
+      "japanese": [{ "word": "銀行", "reading": "ぎんこう" }],
+      "senses": [["bank", "banking institution"], ["Bank"]]
+    },
+    {
+      "jlpt": ["jlpt-n4"],
+      "tags": [],
+      "japanese": [{ "word": "飛行場", "reading": "ひこうじょう" }],
+      "senses": [["airfield", "airport"], ["Hikoujou"], ["Aerodrome"]]
+    },
+    {
+      "jlpt": ["jlpt-n2", "jlpt-n1"],
+      "tags": ["wanikani28"],
+      "japanese": [
+        { "word": "並行", "reading": "へいこう" },
+        { "word": "併行", "reading": "へいこう" }
+      ],
+      "senses": [
+        ["going side-by-side", "going abreast"],
+        [
+          "running concurrently",
+          "occurring at the same time",
+          "keeping pace with"
+        ],
+        ["Parallel (geometry)"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n4"],
+      "tags": ["wanikani16"],
+      "japanese": [{ "word": "急行", "reading": "きゅうこう" }],
+      "senses": [
+        ["hurrying (to somewhere)", "rushing", "hastening"],
+        ["express (train)"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": [],
+      "japanese": [{ "word": "実行", "reading": "じっこう" }],
+      "senses": [
+        [
+          "execution (e.g. of a plan)",
+          "carrying out",
+          "practice",
+          "action",
+          "implementation",
+          "fulfillment",
+          "realization"
+        ]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": [],
+      "japanese": [{ "word": "発行", "reading": "はっこう" }],
+      "senses": [
+        ["publication", "issue (of journal, newspaper, etc.)"],
+        ["issue (of banknotes, bonds, passport, etc.)"],
+        ["raising an event (software)"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": [],
+      "japanese": [{ "word": "飛行", "reading": "ひこう" }],
+      "senses": [
+        ["aviation", "flight", "flying"],
+        ["to fly", "to take a flight"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": [],
+      "japanese": [{ "word": "通行", "reading": "つうこう" }],
+      "senses": [["passage (of people, traffic)", "passing"], ["common usage"]]
+    },
+    {
+      "jlpt": ["jlpt-n2", "jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "売れ行き", "reading": "うれゆき" },
+        { "word": "売行き", "reading": "うれゆき" },
+        { "word": "売行", "reading": "うれゆき" }
+      ],
+      "senses": [["sales", "demand"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani40"],
+      "japanese": [{ "word": "孝行", "reading": "こうこう" }],
+      "senses": [["filial piety"], ["showing devotion (to someone)"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "流行る", "reading": "はやる" }],
+      "senses": [
+        ["to be popular", "to come into fashion"],
+        ["to be prevalent", "to spread widely (e.g. disease)", "to be endemic"],
+        ["to flourish", "to thrive"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani23"],
+      "japanese": [
+        { "word": "施行", "reading": "しこう" },
+        { "word": "施行", "reading": "せぎょう" },
+        { "word": "施行", "reading": "せこう" },
+        { "word": "施行", "reading": "しぎょう" }
+      ],
+      "senses": [
+        ["execution", "enforcing", "carrying out"],
+        ["giving alms", "giving food to the poor or monks"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "非行", "reading": "ひこう" }],
+      "senses": [["delinquency", "misconduct"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani5"],
+      "japanese": [{ "word": "走行", "reading": "そうこう" }],
+      "senses": [
+        ["running (of a car, bus, etc.)", "traveling", "travelling"],
+        ["running (of a program)"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "移行", "reading": "いこう" }],
+      "senses": [["switching over to", "migration", "transition"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "現行", "reading": "げんこう" }],
+      "senses": [["present", "current", "in operation"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "慣行", "reading": "かんこう" }],
+      "senses": [["customary practice", "habit", "traditional event"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "先行", "reading": "せんこう" }],
+      "senses": [
+        ["going ahead", "going first"],
+        [
+          "preceding",
+          "coming before",
+          "being ahead (e.g. of the times)",
+          "occurring first",
+          "happening prior"
+        ],
+        ["scoring first", "getting off to a lead"],
+        ["stalker"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n5"],
+      "tags": ["wanikani12", "wanikani14"],
+      "japanese": [{ "word": "旅行", "reading": "りょこう" }],
+      "senses": [["travel", "trip", "journey", "excursion", "tour"], ["Travel"]]
+    },
+    {
+      "jlpt": ["jlpt-n5"],
+      "tags": ["wanikani20"],
+      "japanese": [{ "word": "飛行機", "reading": "ひこうき" }],
+      "senses": [["aeroplane", "airplane", "aircraft"], ["Fixed-wing aircraft"]]
+    },
+    {
+      "jlpt": ["jlpt-n5"],
+      "tags": ["wanikani13"],
+      "japanese": [{ "word": "銀行", "reading": "ぎんこう" }],
+      "senses": [["bank", "banking institution"], ["Bank"]]
+    },
+    {
+      "jlpt": ["jlpt-n4"],
+      "tags": [],
+      "japanese": [{ "word": "飛行場", "reading": "ひこうじょう" }],
+      "senses": [["airfield", "airport"], ["Hikoujou"], ["Aerodrome"]]
+    },
+    {
+      "jlpt": ["jlpt-n2", "jlpt-n1"],
+      "tags": ["wanikani28"],
+      "japanese": [
+        { "word": "並行", "reading": "へいこう" },
+        { "word": "併行", "reading": "へいこう" }
+      ],
+      "senses": [
+        ["going side-by-side", "going abreast"],
+        [
+          "running concurrently",
+          "occurring at the same time",
+          "keeping pace with"
+        ],
+        ["Parallel (geometry)"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n4"],
+      "tags": ["wanikani16"],
+      "japanese": [{ "word": "急行", "reading": "きゅうこう" }],
+      "senses": [
+        ["hurrying (to somewhere)", "rushing", "hastening"],
+        ["express (train)"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": [],
+      "japanese": [{ "word": "実行", "reading": "じっこう" }],
+      "senses": [
+        [
+          "execution (e.g. of a plan)",
+          "carrying out",
+          "practice",
+          "action",
+          "implementation",
+          "fulfillment",
+          "realization"
+        ]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": [],
+      "japanese": [{ "word": "発行", "reading": "はっこう" }],
+      "senses": [
+        ["publication", "issue (of journal, newspaper, etc.)"],
+        ["issue (of banknotes, bonds, passport, etc.)"],
+        ["raising an event (software)"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": [],
+      "japanese": [{ "word": "飛行", "reading": "ひこう" }],
+      "senses": [
+        ["aviation", "flight", "flying"],
+        ["to fly", "to take a flight"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": [],
+      "japanese": [{ "word": "通行", "reading": "つうこう" }],
+      "senses": [["passage (of people, traffic)", "passing"], ["common usage"]]
+    },
+    {
+      "jlpt": ["jlpt-n2", "jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "売れ行き", "reading": "うれゆき" },
+        { "word": "売行き", "reading": "うれゆき" },
+        { "word": "売行", "reading": "うれゆき" }
+      ],
+      "senses": [["sales", "demand"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani40"],
+      "japanese": [{ "word": "孝行", "reading": "こうこう" }],
+      "senses": [["filial piety"], ["showing devotion (to someone)"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "流行る", "reading": "はやる" }],
+      "senses": [
+        ["to be popular", "to come into fashion"],
+        ["to be prevalent", "to spread widely (e.g. disease)", "to be endemic"],
+        ["to flourish", "to thrive"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani23"],
+      "japanese": [
+        { "word": "施行", "reading": "しこう" },
+        { "word": "施行", "reading": "せぎょう" },
+        { "word": "施行", "reading": "せこう" },
+        { "word": "施行", "reading": "しぎょう" }
+      ],
+      "senses": [
+        ["execution", "enforcing", "carrying out"],
+        ["giving alms", "giving food to the poor or monks"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "非行", "reading": "ひこう" }],
+      "senses": [["delinquency", "misconduct"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani5"],
+      "japanese": [{ "word": "走行", "reading": "そうこう" }],
+      "senses": [
+        ["running (of a car, bus, etc.)", "traveling", "travelling"],
+        ["running (of a program)"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "移行", "reading": "いこう" }],
+      "senses": [["switching over to", "migration", "transition"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "現行", "reading": "げんこう" }],
+      "senses": [["present", "current", "in operation"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "慣行", "reading": "かんこう" }],
+      "senses": [["customary practice", "habit", "traditional event"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "先行", "reading": "せんこう" }],
+      "senses": [
+        ["going ahead", "going first"],
+        [
+          "preceding",
+          "coming before",
+          "being ahead (e.g. of the times)",
+          "occurring first",
+          "happening prior"
+        ],
+        ["scoring first", "getting off to a lead"],
+        ["stalker"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani53"],
+      "japanese": [{ "word": "徐行", "reading": "じょこう" }],
+      "senses": [["going slowly"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "宇宙飛行士", "reading": "うちゅうひこうし" }],
+      "senses": [["astronaut"], ["Astronaut"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "現行犯", "reading": "げんこうはん" }],
+      "senses": [
+        ["flagrante delicto", "caught red-handed"],
+        ["In flagrante delicto"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "歩行", "reading": "ほこう" },
+        { "word": "歩こう", "reading": "ほこう" }
+      ],
+      "senses": [["walk"], ["Walking"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "飛行船", "reading": "ひこうせん" }],
+      "senses": [["airship", "blimp"], ["Airship"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "歩行者", "reading": "ほこうしゃ" }],
+      "senses": [["pedestrian", "walker"], ["Pedestrian"]]
+    },
+    {
+      "jlpt": ["jlpt-n3", "jlpt-n1"],
+      "tags": ["wanikani12"],
+      "japanese": [{ "word": "流行", "reading": "りゅうこう" }],
+      "senses": [
+        ["fashion", "trend", "vogue", "craze", "fad", "popularity"],
+        ["prevalence (of a disease)", "epidemic"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "奥行き", "reading": "おくゆき" },
+        { "word": "奥行", "reading": "おくゆき" }
+      ],
+      "senses": [["depth", "length"], ["Okuyuki"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani48"],
+      "japanese": [{ "word": "遂行", "reading": "すいこう" }],
+      "senses": [["accomplishment", "execution"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "成り行き", "reading": "なりゆき" },
+        { "word": "成行き", "reading": "なりゆき" },
+        { "word": "成りゆき", "reading": "なりゆき" },
+        { "word": "なり行き", "reading": "なりゆき" },
+        { "word": "成行", "reading": "なりゆき" }
+      ],
+      "senses": [
+        ["course (of events)", "development", "progress", "outcome", "result"],
+        ["market order", "order without limit"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "同行", "reading": "どうこう" }],
+      "senses": [
+        ["accompanying", "travelling together", "traveling together"],
+        ["same bank"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "航行", "reading": "こうこう" }],
+      "senses": [["cruise", "navigation", "sailing"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "運行", "reading": "うんこう" }],
+      "senses": [
+        ["service (bus, train)", "operation"],
+        ["motion", "revolution", "movement"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani6"],
+      "japanese": [{ "word": "直行", "reading": "ちょっこう" }],
+      "senses": [["through", "non-stop", "direct", "going straight to"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "続行", "reading": "ぞっこう" }],
+      "senses": [["continuation", "continuance", "going on", "resuming"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "執行", "reading": "しっこう" },
+        { "word": "執行", "reading": "しゅぎょう" },
+        { "word": "執行", "reading": "しゅうぎょう" },
+        { "word": "執行", "reading": "しぎょう" }
+      ],
+      "senses": [
+        [
+          "execution",
+          "carrying out",
+          "performance",
+          "enforcement",
+          "exercise",
+          "service"
+        ],
+        ["lead monk performing various tasks in a temple"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "修学旅行", "reading": "しゅうがくりょこう" }],
+      "senses": [["excursion", "field trip", "school trip"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "試行錯誤", "reading": "しこうさくご" }],
+      "senses": [["trial and error"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "通行止め", "reading": "つうこうどめ" },
+        { "word": "通行止", "reading": "つうこうどめ" }
+      ],
+      "senses": [
+        ["closure (of a road)", "suspension of traffic"],
+        ["road closed", "closed to traffic", "no through road"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "連行", "reading": "れんこう" }],
+      "senses": [
+        ["taking (a suspect to the police)", "dragging (someone) away"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "履行", "reading": "りこう" }],
+      "senses": [
+        [
+          "performance (of a duty)",
+          "fulfillment (of a promise)",
+          "fulfilment",
+          "execution (of a contract)",
+          "discharge",
+          "implementation"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "暴行", "reading": "ぼうこう" }],
+      "senses": [
+        ["assault", "outrage", "act of violence"],
+        ["rape", "sexual assault"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "興行", "reading": "こうぎょう" }],
+      "senses": [
+        ["show", "performance", "act"],
+        ["entertainment industry", "show business"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "犯行", "reading": "はんこう" }],
+      "senses": [["crime", "criminal act", "offence", "offense"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "雲行き", "reading": "くもゆき" },
+        { "word": "雲ゆき", "reading": "くもゆき" }
+      ],
+      "senses": [
+        ["weather", "look of the sky"],
+        ["situation", "turn of affairs", "signs", "way the wind is blowing"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "先行き", "reading": "さきゆき" },
+        { "word": "先行き", "reading": "さきいき" }
+      ],
+      "senses": [["the future", "future prospects"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "代行", "reading": "だいこう" }],
+      "senses": [
+        [
+          "acting as agent",
+          "acting on (someone's) behalf",
+          "executing business for"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "横行", "reading": "おうこう" },
+        { "word": "横行", "reading": "おうぎょう" }
+      ],
+      "senses": [
+        ["walking sideways", "staggering", "striding"],
+        ["being rampant", "being widespread", "being prevalent"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "地方行政", "reading": "ちほうぎょうせい" }],
+      "senses": [["local administration"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani50"],
+      "japanese": [{ "word": "壮行", "reading": "そうこう" }],
+      "senses": [["rousing"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani57"],
+      "japanese": [{ "word": "敢行", "reading": "かんこう" }],
+      "senses": [
+        [
+          "decisive action",
+          "going through with",
+          "daring to do",
+          "carrying out"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "断行", "reading": "だんこう" }],
+      "senses": [
+        ["decisive action", "carrying out", "resolute enforcement", "execution"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "執行部", "reading": "しっこうぶ" }],
+      "senses": [["(the) executive", "administration", "leadership"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "持っていく", "reading": "もっていく" },
+        { "word": "持って行く", "reading": "もっていく" },
+        { "word": "もって行く", "reading": "もっていく" },
+        { "word": "持って行く", "reading": "もってゆく" },
+        { "word": "もって行く", "reading": "もってゆく" },
+        { "word": "持ってゆく", "reading": "もってゆく" }
+      ],
+      "senses": [["to take", "to carry (something) away", "to bear"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "連れて行く", "reading": "つれていく" },
+        { "word": "連れていく", "reading": "つれていく" },
+        { "word": "つれて行く", "reading": "つれていく" },
+        { "word": "連れて行く", "reading": "つれてゆく" },
+        { "word": "連れてゆく", "reading": "つれてゆく" },
+        { "word": "つれて行く", "reading": "つれてゆく" }
+      ],
+      "senses": [
+        [
+          "to take someone (to some place)",
+          "to take someone along",
+          "to lead someone away"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani42"],
+      "japanese": [{ "word": "親孝行", "reading": "おやこうこう" }],
+      "senses": [
+        [
+          "filial piety",
+          "being kind to one's parents",
+          "taking care of one's parents"
+        ]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "修行", "reading": "しゅぎょう" },
+        { "word": "修行", "reading": "すぎょう" }
+      ],
+      "senses": [
+        ["training", "practice", "discipline", "study"],
+        ["ascetic practices"],
+        ["Sadhana"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "ついて行く", "reading": "ついていく" },
+        { "word": "付いていく", "reading": "ついていく" },
+        { "word": "付いて行く", "reading": "ついていく" },
+        { "word": "ついて行く", "reading": "ついてゆく" },
+        { "word": "付いて行く", "reading": "ついてゆく" },
+        { "word": "付いてゆく", "reading": "ついてゆく" }
+      ],
+      "senses": [["to accompany", "to follow", "to keep up with"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "ないと行けない", "reading": "ないといけない" },
+        { "word": "無いといけない", "reading": "ないといけない" },
+        { "word": "無いと行けない", "reading": "ないといけない" }
+      ],
+      "senses": [
+        ["have to (verb)", "must (verb)"],
+        ["is indispensable", "absolutely necessary"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "海外旅行", "reading": "かいがいりょこう" }],
+      "senses": [["trip abroad", "overseas travel"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani14"],
+      "japanese": [{ "word": "旅行者", "reading": "りょこうしゃ" }],
+      "senses": [["traveller", "traveler"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "旅行会社", "reading": "りょこうがいしゃ" }],
+      "senses": [["travel agent", "travel agency"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "一行", "reading": "いちぎょう" },
+        { "word": "１行", "reading": "いちぎょう" }
+      ],
+      "senses": [["(one) line", "(one) row"], ["Yi Xing"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani14"],
+      "japanese": [{ "word": "流行歌", "reading": "りゅうこうか" }],
+      "senses": [["popular song", "hit song"], ["Ryūkōka"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani10"],
+      "japanese": [{ "word": "進行", "reading": "しんこう" }],
+      "senses": [
+        ["moving forward (e.g. vehicle)", "onward movement"],
+        ["advance (work, procedure, etc.)", "advancement", "progress"],
+        ["progress (of a disease)", "disease progression"],
+        ["progression (harmonic, melodic)"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "強行", "reading": "きょうこう" }],
+      "senses": [["forcing", "enforcement"], ["forced", "enforced"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani38"],
+      "japanese": [{ "word": "刊行", "reading": "かんこう" }],
+      "senses": [["publication", "issue"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "日本銀行", "reading": "にっぽんぎんこう" },
+        { "word": "日本銀行", "reading": "にほんぎんこう" }
+      ],
+      "senses": [
+        ["Bank of Japan", "BOJ", "BoJ"],
+        ["Nihonginkou"],
+        ["Bank of Japan"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "世界銀行", "reading": "せかいぎんこう" }],
+      "senses": [["World Bank"], ["World Bank"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "一方通行", "reading": "いっぽうつうこう" }],
+      "senses": [["one-way traffic"], ["One-way traffic"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "紀行", "reading": "きこう" }],
+      "senses": [
+        ["traveller's journal", "traveler's journal", "travelogue"],
+        ["Travel literature"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "住友銀行", "reading": "すみともぎんこう" }],
+      "senses": [["Sumitomo Bank"], ["The Sumitomo Bank"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani58"],
+      "japanese": [{ "word": "執行猶予", "reading": "しっこうゆうよ" }],
+      "senses": [
+        ["stay of execution", "suspended sentence"],
+        ["Suspended sentence"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "単行本", "reading": "たんこうぼん" }],
+      "senses": [
+        ["tankōbon", "(manga) volume", "(comic) trade paperback"],
+        [
+          "single book (as opposed to magazine, anthology, etc.)",
+          "separate volume"
+        ],
+        ["Tankōbon"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani57"],
+      "japanese": [{ "word": "奉行", "reading": "ぶぎょう" }],
+      "senses": [["magistrate", "shogunate administrator"], ["Bugyō"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "よそ行き", "reading": "よそゆき" },
+        { "word": "よそ行き", "reading": "よそいき" },
+        { "word": "余所行き", "reading": "よそゆき" },
+        { "word": "余所行き", "reading": "よそいき" },
+        { "word": "他所行き", "reading": "よそゆき" },
+        { "word": "他所行き", "reading": "よそいき" }
+      ],
+      "senses": [
+        ["going out"],
+        ["one's best clothes"],
+        ["formal (e.g. language)", "best (behaviour, manners, etc.)"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "歩行者天国", "reading": "ほこうしゃてんごく" }],
+      "senses": [
+        ["pedestrian mall", "car-free mall", "pedestrian paradise"],
+        ["Pedestrian zone"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "上手くいく", "reading": "うまくいく" },
+        { "word": "うまく行く", "reading": "うまくいく" },
+        { "word": "上手く行く", "reading": "うまくいく" },
+        { "word": "旨くいく", "reading": "うまくいく" },
+        { "word": "旨く行く", "reading": "うまくいく" }
+      ],
+      "senses": [
+        [
+          "to go smoothly",
+          "to turn out well",
+          "to do the trick",
+          "to have peaceful relations"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "ゆうちょ銀行", "reading": "ゆうちょぎんこう" },
+        { "word": "郵貯銀行", "reading": "ゆうちょぎんこう" }
+      ],
+      "senses": [
+        ["JP Bank (former Postal Savings Bank, created when the Postal Services were privatized)"],
+        ["Japan Post Bank"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "実力行使", "reading": "じつりょくこうし" }],
+      "senses": [["use of force"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "飛行士", "reading": "ひこうし" }],
+      "senses": [["pilot"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "執行委員", "reading": "しっこういいん" }],
+      "senses": [["executive committee"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "強行採決", "reading": "きょうこうさいけつ" }],
+      "senses": [["steamroller voting", "steamrollering"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "性行", "reading": "せいこう" }],
+      "senses": [["character and conduct"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "平行線", "reading": "へいこうせん" }],
+      "senses": [
+        ["parallel lines"],
+        [
+          "remaining far apart (e.g. in discussions)",
+          "not reaching an agreement"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "相互銀行", "reading": "そうごぎんこう" }],
+      "senses": [["mutual savings bank"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "婦女暴行", "reading": "ふじょぼうこう" }],
+      "senses": [["sexual assault (of a woman)", "rape"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "試行", "reading": "しこう" }],
+      "senses": [["making an attempt", "trial run"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "国内旅行", "reading": "こくないりょこう" }],
+      "senses": [["domestic travel"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "旅行券", "reading": "りょこうけん" }],
+      "senses": [["travel voucher", "travel coupon"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "平行", "reading": "へいこう" }],
+      "senses": [
+        ["parallelism", "running parallel (to, with)"],
+        [
+          "running concurrently",
+          "occurring at the same time",
+          "keeping pace with"
+        ],
+        ["not reaching an agreement (e.g. of a debate)"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "一行", "reading": "いっこう" }],
+      "senses": [
+        ["party", "group", "troop", "company"],
+        ["one act", "one action", "one deed"]
+      ]
+    }
+  ]
+}

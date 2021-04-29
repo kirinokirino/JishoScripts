@@ -1,1 +1,31 @@
-{"basic":["徹","Penetrate","951"],"extended":[{"jlpt":["jlpt-n2"],"tags":["wanikani42"],"japanese":[{"word":"透き通る","reading":"すきとおる"},{"word":"透きとおる","reading":"すきとおる"},{"word":"透き徹る","reading":"すきとおる"}],"senses":[["to be transparent","to be see-through","to be clear"],["to be clear (voice, sound)"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani42"],"japanese":[{"word":"透き通る","reading":"すきとおる"},{"word":"透きとおる","reading":"すきとおる"},{"word":"透き徹る","reading":"すきとおる"}],"senses":[["to be transparent","to be see-through","to be clear"],["to be clear (voice, sound)"]]}]}
+{
+  "basic": ["徹", "Penetrate", "951"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani42"],
+      "japanese": [
+        { "word": "透き通る", "reading": "すきとおる" },
+        { "word": "透きとおる", "reading": "すきとおる" },
+        { "word": "透き徹る", "reading": "すきとおる" }
+      ],
+      "senses": [
+        ["to be transparent", "to be see-through", "to be clear"],
+        ["to be clear (voice, sound)"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani42"],
+      "japanese": [
+        { "word": "透き通る", "reading": "すきとおる" },
+        { "word": "透きとおる", "reading": "すきとおる" },
+        { "word": "透き徹る", "reading": "すきとおる" }
+      ],
+      "senses": [
+        ["to be transparent", "to be see-through", "to be clear"],
+        ["to be clear (voice, sound)"]
+      ]
+    }
+  ]
+}

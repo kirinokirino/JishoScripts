@@ -1,1 +1,71 @@
-{"basic":["揮","Brandish","715"],"extended":[{"jlpt":["jlpt-n1"],"tags":["wanikani34"],"japanese":[{"word":"指揮","reading":"しき"},{"word":"指麾","reading":"しき"}],"senses":[["command","direction"]]},{"jlpt":[],"tags":["wanikani36"],"japanese":[{"word":"指揮者","reading":"しきしゃ"}],"senses":[["(musical) conductor"],["commander","leader","director"],["Conducting"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani34"],"japanese":[{"word":"発揮","reading":"はっき"}],"senses":[["show (of power, ability, etc.)","exhibition","demonstration","display","manifestation"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani34"],"japanese":[{"word":"指揮","reading":"しき"},{"word":"指麾","reading":"しき"}],"senses":[["command","direction"]]},{"jlpt":[],"tags":["wanikani36"],"japanese":[{"word":"指揮者","reading":"しきしゃ"}],"senses":[["(musical) conductor"],["commander","leader","director"],["Conducting"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani34"],"japanese":[{"word":"発揮","reading":"はっき"}],"senses":[["show (of power, ability, etc.)","exhibition","demonstration","display","manifestation"]]}]}
+{
+  "basic": ["揮", "Brandish", "715"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani34"],
+      "japanese": [
+        { "word": "指揮", "reading": "しき" },
+        { "word": "指麾", "reading": "しき" }
+      ],
+      "senses": [["command", "direction"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani36"],
+      "japanese": [{ "word": "指揮者", "reading": "しきしゃ" }],
+      "senses": [
+        ["(musical) conductor"],
+        ["commander", "leader", "director"],
+        ["Conducting"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani34"],
+      "japanese": [{ "word": "発揮", "reading": "はっき" }],
+      "senses": [
+        [
+          "show (of power, ability, etc.)",
+          "exhibition",
+          "demonstration",
+          "display",
+          "manifestation"
+        ]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani34"],
+      "japanese": [
+        { "word": "指揮", "reading": "しき" },
+        { "word": "指麾", "reading": "しき" }
+      ],
+      "senses": [["command", "direction"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani36"],
+      "japanese": [{ "word": "指揮者", "reading": "しきしゃ" }],
+      "senses": [
+        ["(musical) conductor"],
+        ["commander", "leader", "director"],
+        ["Conducting"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani34"],
+      "japanese": [{ "word": "発揮", "reading": "はっき" }],
+      "senses": [
+        [
+          "show (of power, ability, etc.)",
+          "exhibition",
+          "demonstration",
+          "display",
+          "manifestation"
+        ]
+      ]
+    }
+  ]
+}

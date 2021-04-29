@@ -1,1 +1,45 @@
-{"basic":["偶","Accidentally","2105"],"extended":[{"jlpt":["jlpt-n3"],"tags":[],"japanese":[{"word":"偶々","reading":"たまたま"},{"word":"偶偶","reading":"たまたま"},{"word":"偶","reading":"たまたま"},{"word":"適","reading":"たまたま"}],"senses":[["occasionally","once in a while","seldom"],["casually","unexpectedly","accidentally","by chance"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani50"],"japanese":[{"word":"配偶者","reading":"はいぐうしゃ"}],"senses":[["spouse","wife","husband","partner"]]},{"jlpt":["jlpt-n3"],"tags":[],"japanese":[{"word":"偶々","reading":"たまたま"},{"word":"偶偶","reading":"たまたま"},{"word":"偶","reading":"たまたま"},{"word":"適","reading":"たまたま"}],"senses":[["occasionally","once in a while","seldom"],["casually","unexpectedly","accidentally","by chance"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani50"],"japanese":[{"word":"配偶者","reading":"はいぐうしゃ"}],"senses":[["spouse","wife","husband","partner"]]}]}
+{
+  "basic": ["偶", "Accidentally", "2105"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": [],
+      "japanese": [
+        { "word": "偶々", "reading": "たまたま" },
+        { "word": "偶偶", "reading": "たまたま" },
+        { "word": "偶", "reading": "たまたま" },
+        { "word": "適", "reading": "たまたま" }
+      ],
+      "senses": [
+        ["occasionally", "once in a while", "seldom"],
+        ["casually", "unexpectedly", "accidentally", "by chance"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani50"],
+      "japanese": [{ "word": "配偶者", "reading": "はいぐうしゃ" }],
+      "senses": [["spouse", "wife", "husband", "partner"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": [],
+      "japanese": [
+        { "word": "偶々", "reading": "たまたま" },
+        { "word": "偶偶", "reading": "たまたま" },
+        { "word": "偶", "reading": "たまたま" },
+        { "word": "適", "reading": "たまたま" }
+      ],
+      "senses": [
+        ["occasionally", "once in a while", "seldom"],
+        ["casually", "unexpectedly", "accidentally", "by chance"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani50"],
+      "japanese": [{ "word": "配偶者", "reading": "はいぐうしゃ" }],
+      "senses": [["spouse", "wife", "husband", "partner"]]
+    }
+  ]
+}

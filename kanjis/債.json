@@ -1,1 +1,111 @@
-{"basic":["債","Bond","1664"],"extended":[{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"負債","reading":"ふさい"}],"senses":[["debt","liabilities"],["Liability (financial accounting)"]]},{"jlpt":[],"tags":["wanikani36"],"japanese":[{"word":"国債","reading":"こくさい"}],"senses":[["national debt","national securities","government bonds","government securities"],["Government bond"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"公債","reading":"こうさい"}],"senses":[["public debt","public bond","government securities"],["Government debt"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"社債","reading":"しゃさい"}],"senses":[["corporate bond","corporate debenture"],["Corporate bond"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"割引債","reading":"わりびきさい"}],"senses":[["discount bond"],["Zero-coupon bond"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"起債","reading":"きさい"}],"senses":[["issuing of bonds"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"公社債","reading":"こうしゃさい"}],"senses":[["public bonds"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"負債","reading":"ふさい"}],"senses":[["debt","liabilities"],["Liability (financial accounting)"]]},{"jlpt":[],"tags":["wanikani36"],"japanese":[{"word":"国債","reading":"こくさい"}],"senses":[["national debt","national securities","government bonds","government securities"],["Government bond"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"公債","reading":"こうさい"}],"senses":[["public debt","public bond","government securities"],["Government debt"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"社債","reading":"しゃさい"}],"senses":[["corporate bond","corporate debenture"],["Corporate bond"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"割引債","reading":"わりびきさい"}],"senses":[["discount bond"],["Zero-coupon bond"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"起債","reading":"きさい"}],"senses":[["issuing of bonds"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"公社債","reading":"こうしゃさい"}],"senses":[["public bonds"]]}]}
+{
+  "basic": ["債", "Bond", "1664"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "負債", "reading": "ふさい" }],
+      "senses": [["debt", "liabilities"], ["Liability (financial accounting)"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani36"],
+      "japanese": [{ "word": "国債", "reading": "こくさい" }],
+      "senses": [
+        [
+          "national debt",
+          "national securities",
+          "government bonds",
+          "government securities"
+        ],
+        ["Government bond"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "公債", "reading": "こうさい" }],
+      "senses": [
+        ["public debt", "public bond", "government securities"],
+        ["Government debt"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "社債", "reading": "しゃさい" }],
+      "senses": [["corporate bond", "corporate debenture"], ["Corporate bond"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "割引債", "reading": "わりびきさい" }],
+      "senses": [["discount bond"], ["Zero-coupon bond"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "起債", "reading": "きさい" }],
+      "senses": [["issuing of bonds"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "公社債", "reading": "こうしゃさい" }],
+      "senses": [["public bonds"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "負債", "reading": "ふさい" }],
+      "senses": [["debt", "liabilities"], ["Liability (financial accounting)"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani36"],
+      "japanese": [{ "word": "国債", "reading": "こくさい" }],
+      "senses": [
+        [
+          "national debt",
+          "national securities",
+          "government bonds",
+          "government securities"
+        ],
+        ["Government bond"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "公債", "reading": "こうさい" }],
+      "senses": [
+        ["public debt", "public bond", "government securities"],
+        ["Government debt"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "社債", "reading": "しゃさい" }],
+      "senses": [["corporate bond", "corporate debenture"], ["Corporate bond"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "割引債", "reading": "わりびきさい" }],
+      "senses": [["discount bond"], ["Zero-coupon bond"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "起債", "reading": "きさい" }],
+      "senses": [["issuing of bonds"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "公社債", "reading": "こうしゃさい" }],
+      "senses": [["public bonds"]]
+    }
+  ]
+}

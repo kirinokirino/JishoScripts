@@ -1,1 +1,179 @@
-{"basic":["減","Dwindle","391"],"extended":[{"jlpt":["jlpt-n3"],"tags":[],"japanese":[{"word":"加減","reading":"かげん"}],"senses":[["degree","extent","amount","balance","state","condition"],["(health) condition","state of health"],["adjustment","moderation","regulation"],["addition and subtraction"],["slight sign of ...","slight state of ..."],["just right for ..."]]},{"jlpt":["jlpt-n1"],"tags":["wanikani37"],"japanese":[{"word":"削減","reading":"さくげん"}],"senses":[["cut","reduction","curtailment"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani19"],"japanese":[{"word":"いい加減","reading":"いいかげん"},{"word":"好い加減","reading":"いいかげん"},{"word":"好加減","reading":"いいかげん"}],"senses":[["irresponsible","perfunctory","careless"],["lukewarm","half-baked","halfhearted","vague"],["reasonable","moderate"],["considerably","quite","rather","pretty"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"半減","reading":"はんげん"}],"senses":[["reduction by half","halving"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"激減","reading":"げきげん"}],"senses":[["dramatic decrease","sharp drop","sudden fall"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"節減","reading":"せつげん"}],"senses":[["retrenchment","curtailment","economy"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"低減","reading":"ていげん"}],"senses":[["decrease","reduction","fall","depreciation","mitigation"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"増減","reading":"ぞうげん"}],"senses":[["increase and decrease","fluctuation"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"軽減","reading":"けいげん"}],"senses":[["abatement","reduction"]]},{"jlpt":[],"tags":["wanikani21"],"japanese":[{"word":"いい加減にしろ","reading":"いいかげんにしろ"}],"senses":[["that's enough!","cut it out!","get a life!"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"目減り","reading":"めべり"}],"senses":[["loss (of weight or volume, e.g. in transit)","ullage","outage"],["decrease (in value)","reduction"]]},{"jlpt":["jlpt-n3"],"tags":[],"japanese":[{"word":"加減","reading":"かげん"}],"senses":[["degree","extent","amount","balance","state","condition"],["(health) condition","state of health"],["adjustment","moderation","regulation"],["addition and subtraction"],["slight sign of ...","slight state of ..."],["just right for ..."]]},{"jlpt":["jlpt-n1"],"tags":["wanikani37"],"japanese":[{"word":"削減","reading":"さくげん"}],"senses":[["cut","reduction","curtailment"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani19"],"japanese":[{"word":"いい加減","reading":"いいかげん"},{"word":"好い加減","reading":"いいかげん"},{"word":"好加減","reading":"いいかげん"}],"senses":[["irresponsible","perfunctory","careless"],["lukewarm","half-baked","halfhearted","vague"],["reasonable","moderate"],["considerably","quite","rather","pretty"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"半減","reading":"はんげん"}],"senses":[["reduction by half","halving"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"激減","reading":"げきげん"}],"senses":[["dramatic decrease","sharp drop","sudden fall"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"節減","reading":"せつげん"}],"senses":[["retrenchment","curtailment","economy"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"低減","reading":"ていげん"}],"senses":[["decrease","reduction","fall","depreciation","mitigation"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"増減","reading":"ぞうげん"}],"senses":[["increase and decrease","fluctuation"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"軽減","reading":"けいげん"}],"senses":[["abatement","reduction"]]},{"jlpt":[],"tags":["wanikani21"],"japanese":[{"word":"いい加減にしろ","reading":"いいかげんにしろ"}],"senses":[["that's enough!","cut it out!","get a life!"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"目減り","reading":"めべり"}],"senses":[["loss (of weight or volume, e.g. in transit)","ullage","outage"],["decrease (in value)","reduction"]]}]}
+{
+  "basic": ["減", "Dwindle", "391"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": [],
+      "japanese": [{ "word": "加減", "reading": "かげん" }],
+      "senses": [
+        ["degree", "extent", "amount", "balance", "state", "condition"],
+        ["(health) condition", "state of health"],
+        ["adjustment", "moderation", "regulation"],
+        ["addition and subtraction"],
+        ["slight sign of ...", "slight state of ..."],
+        ["just right for ..."]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani37"],
+      "japanese": [{ "word": "削減", "reading": "さくげん" }],
+      "senses": [["cut", "reduction", "curtailment"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani19"],
+      "japanese": [
+        { "word": "いい加減", "reading": "いいかげん" },
+        { "word": "好い加減", "reading": "いいかげん" },
+        { "word": "好加減", "reading": "いいかげん" }
+      ],
+      "senses": [
+        ["irresponsible", "perfunctory", "careless"],
+        ["lukewarm", "half-baked", "halfhearted", "vague"],
+        ["reasonable", "moderate"],
+        ["considerably", "quite", "rather", "pretty"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "半減", "reading": "はんげん" }],
+      "senses": [["reduction by half", "halving"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "激減", "reading": "げきげん" }],
+      "senses": [["dramatic decrease", "sharp drop", "sudden fall"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "節減", "reading": "せつげん" }],
+      "senses": [["retrenchment", "curtailment", "economy"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "低減", "reading": "ていげん" }],
+      "senses": [
+        ["decrease", "reduction", "fall", "depreciation", "mitigation"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "増減", "reading": "ぞうげん" }],
+      "senses": [["increase and decrease", "fluctuation"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "軽減", "reading": "けいげん" }],
+      "senses": [["abatement", "reduction"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani21"],
+      "japanese": [{ "word": "いい加減にしろ", "reading": "いいかげんにしろ" }],
+      "senses": [["that's enough!", "cut it out!", "get a life!"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "目減り", "reading": "めべり" }],
+      "senses": [
+        ["loss (of weight or volume, e.g. in transit)", "ullage", "outage"],
+        ["decrease (in value)", "reduction"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": [],
+      "japanese": [{ "word": "加減", "reading": "かげん" }],
+      "senses": [
+        ["degree", "extent", "amount", "balance", "state", "condition"],
+        ["(health) condition", "state of health"],
+        ["adjustment", "moderation", "regulation"],
+        ["addition and subtraction"],
+        ["slight sign of ...", "slight state of ..."],
+        ["just right for ..."]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani37"],
+      "japanese": [{ "word": "削減", "reading": "さくげん" }],
+      "senses": [["cut", "reduction", "curtailment"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani19"],
+      "japanese": [
+        { "word": "いい加減", "reading": "いいかげん" },
+        { "word": "好い加減", "reading": "いいかげん" },
+        { "word": "好加減", "reading": "いいかげん" }
+      ],
+      "senses": [
+        ["irresponsible", "perfunctory", "careless"],
+        ["lukewarm", "half-baked", "halfhearted", "vague"],
+        ["reasonable", "moderate"],
+        ["considerably", "quite", "rather", "pretty"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "半減", "reading": "はんげん" }],
+      "senses": [["reduction by half", "halving"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "激減", "reading": "げきげん" }],
+      "senses": [["dramatic decrease", "sharp drop", "sudden fall"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "節減", "reading": "せつげん" }],
+      "senses": [["retrenchment", "curtailment", "economy"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "低減", "reading": "ていげん" }],
+      "senses": [
+        ["decrease", "reduction", "fall", "depreciation", "mitigation"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "増減", "reading": "ぞうげん" }],
+      "senses": [["increase and decrease", "fluctuation"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "軽減", "reading": "けいげん" }],
+      "senses": [["abatement", "reduction"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani21"],
+      "japanese": [{ "word": "いい加減にしろ", "reading": "いいかげんにしろ" }],
+      "senses": [["that's enough!", "cut it out!", "get a life!"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "目減り", "reading": "めべり" }],
+      "senses": [
+        ["loss (of weight or volume, e.g. in transit)", "ullage", "outage"],
+        ["decrease (in value)", "reduction"]
+      ]
+    }
+  ]
+}

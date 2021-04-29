@@ -1,1 +1,73 @@
-{"basic":["扱","Handle","745"],"extended":[{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"取り扱い","reading":"とりあつかい"},{"word":"取扱い","reading":"とりあつかい"},{"word":"取り扱","reading":"とりあつかい"},{"word":"取扱","reading":"とりあつかい"}],"senses":[["treatment","service","handling","management"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani40"],"japanese":[{"word":"取り扱う","reading":"とりあつかう"},{"word":"取扱う","reading":"とりあつかう"}],"senses":[["to handle","to operate (a machine, etc.)","to use"],["to deal with (an issue)","to manage"],["to treat (someone)","to deal with (someone)"],["to deal in","to carry","to sell"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"取扱注意","reading":"とりあつかいちゅうい"},{"word":"取り扱い注意","reading":"とりあつかいちゅうい"}],"senses":[["handling warning"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"取り扱い","reading":"とりあつかい"},{"word":"取扱い","reading":"とりあつかい"},{"word":"取り扱","reading":"とりあつかい"},{"word":"取扱","reading":"とりあつかい"}],"senses":[["treatment","service","handling","management"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani40"],"japanese":[{"word":"取り扱う","reading":"とりあつかう"},{"word":"取扱う","reading":"とりあつかう"}],"senses":[["to handle","to operate (a machine, etc.)","to use"],["to deal with (an issue)","to manage"],["to treat (someone)","to deal with (someone)"],["to deal in","to carry","to sell"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"取扱注意","reading":"とりあつかいちゅうい"},{"word":"取り扱い注意","reading":"とりあつかいちゅうい"}],"senses":[["handling warning"]]}]}
+{
+  "basic": ["扱", "Handle", "745"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "取り扱い", "reading": "とりあつかい" },
+        { "word": "取扱い", "reading": "とりあつかい" },
+        { "word": "取り扱", "reading": "とりあつかい" },
+        { "word": "取扱", "reading": "とりあつかい" }
+      ],
+      "senses": [["treatment", "service", "handling", "management"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani40"],
+      "japanese": [
+        { "word": "取り扱う", "reading": "とりあつかう" },
+        { "word": "取扱う", "reading": "とりあつかう" }
+      ],
+      "senses": [
+        ["to handle", "to operate (a machine, etc.)", "to use"],
+        ["to deal with (an issue)", "to manage"],
+        ["to treat (someone)", "to deal with (someone)"],
+        ["to deal in", "to carry", "to sell"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "取扱注意", "reading": "とりあつかいちゅうい" },
+        { "word": "取り扱い注意", "reading": "とりあつかいちゅうい" }
+      ],
+      "senses": [["handling warning"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "取り扱い", "reading": "とりあつかい" },
+        { "word": "取扱い", "reading": "とりあつかい" },
+        { "word": "取り扱", "reading": "とりあつかい" },
+        { "word": "取扱", "reading": "とりあつかい" }
+      ],
+      "senses": [["treatment", "service", "handling", "management"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani40"],
+      "japanese": [
+        { "word": "取り扱う", "reading": "とりあつかう" },
+        { "word": "取扱う", "reading": "とりあつかう" }
+      ],
+      "senses": [
+        ["to handle", "to operate (a machine, etc.)", "to use"],
+        ["to deal with (an issue)", "to manage"],
+        ["to treat (someone)", "to deal with (someone)"],
+        ["to deal in", "to carry", "to sell"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "取扱注意", "reading": "とりあつかいちゅうい" },
+        { "word": "取り扱い注意", "reading": "とりあつかいちゅうい" }
+      ],
+      "senses": [["handling warning"]]
+    }
+  ]
+}

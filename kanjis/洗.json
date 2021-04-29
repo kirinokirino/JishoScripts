@@ -1,1 +1,81 @@
-{"basic":["洗","Wash","264"],"extended":[{"jlpt":["jlpt-n1","jlpt-n5"],"tags":["wanikani22"],"japanese":[{"word":"お手洗い","reading":"おてあらい"},{"word":"御手洗い","reading":"おてあらい"}],"senses":[["toilet","restroom","lavatory","bathroom"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani20"],"japanese":[{"word":"手洗い","reading":"てあらい"},{"word":"手洗","reading":"てあらい"}],"senses":[["washing one's hands","water (or basin, etc.) for washing one's hands"],["restroom","lavatory","toilet"],["hand-washing (laundry, etc.)"],["Hand washing"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"水洗","reading":"すいせん"}],"senses":[["washing with water","rinsing","flushing"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"合成洗剤","reading":"ごうせいせんざい"}],"senses":[["synthetic detergent"]]},{"jlpt":["jlpt-n1","jlpt-n5"],"tags":["wanikani22"],"japanese":[{"word":"お手洗い","reading":"おてあらい"},{"word":"御手洗い","reading":"おてあらい"}],"senses":[["toilet","restroom","lavatory","bathroom"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani20"],"japanese":[{"word":"手洗い","reading":"てあらい"},{"word":"手洗","reading":"てあらい"}],"senses":[["washing one's hands","water (or basin, etc.) for washing one's hands"],["restroom","lavatory","toilet"],["hand-washing (laundry, etc.)"],["Hand washing"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"水洗","reading":"すいせん"}],"senses":[["washing with water","rinsing","flushing"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"合成洗剤","reading":"ごうせいせんざい"}],"senses":[["synthetic detergent"]]}]}
+{
+  "basic": ["洗", "Wash", "264"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n1", "jlpt-n5"],
+      "tags": ["wanikani22"],
+      "japanese": [
+        { "word": "お手洗い", "reading": "おてあらい" },
+        { "word": "御手洗い", "reading": "おてあらい" }
+      ],
+      "senses": [["toilet", "restroom", "lavatory", "bathroom"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani20"],
+      "japanese": [
+        { "word": "手洗い", "reading": "てあらい" },
+        { "word": "手洗", "reading": "てあらい" }
+      ],
+      "senses": [
+        [
+          "washing one's hands",
+          "water (or basin, etc.) for washing one's hands"
+        ],
+        ["restroom", "lavatory", "toilet"],
+        ["hand-washing (laundry, etc.)"],
+        ["Hand washing"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "水洗", "reading": "すいせん" }],
+      "senses": [["washing with water", "rinsing", "flushing"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "合成洗剤", "reading": "ごうせいせんざい" }],
+      "senses": [["synthetic detergent"]]
+    },
+    {
+      "jlpt": ["jlpt-n1", "jlpt-n5"],
+      "tags": ["wanikani22"],
+      "japanese": [
+        { "word": "お手洗い", "reading": "おてあらい" },
+        { "word": "御手洗い", "reading": "おてあらい" }
+      ],
+      "senses": [["toilet", "restroom", "lavatory", "bathroom"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani20"],
+      "japanese": [
+        { "word": "手洗い", "reading": "てあらい" },
+        { "word": "手洗", "reading": "てあらい" }
+      ],
+      "senses": [
+        [
+          "washing one's hands",
+          "water (or basin, etc.) for washing one's hands"
+        ],
+        ["restroom", "lavatory", "toilet"],
+        ["hand-washing (laundry, etc.)"],
+        ["Hand washing"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "水洗", "reading": "すいせん" }],
+      "senses": [["washing with water", "rinsing", "flushing"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "合成洗剤", "reading": "ごうせいせんざい" }],
+      "senses": [["synthetic detergent"]]
+    }
+  ]
+}

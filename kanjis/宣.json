@@ -1,1 +1,41 @@
-{"basic":["宣","Proclaim","200"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"街宣車","reading":"がいせんしゃ"}],"senses":[["(right-wing) propaganda truck"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"詔","reading":"みことのり"},{"word":"勅","reading":"みことのり"},{"word":"御言宣","reading":"みことのり"},{"word":"勅","reading":"ちょく"},{"word":"詔","reading":"しょう"}],"senses":[["imperial decree","imperial edict"],["Command paper"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"街宣車","reading":"がいせんしゃ"}],"senses":[["(right-wing) propaganda truck"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"詔","reading":"みことのり"},{"word":"勅","reading":"みことのり"},{"word":"御言宣","reading":"みことのり"},{"word":"勅","reading":"ちょく"},{"word":"詔","reading":"しょう"}],"senses":[["imperial decree","imperial edict"],["Command paper"]]}]}
+{
+  "basic": ["宣", "Proclaim", "200"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "街宣車", "reading": "がいせんしゃ" }],
+      "senses": [["(right-wing) propaganda truck"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "詔", "reading": "みことのり" },
+        { "word": "勅", "reading": "みことのり" },
+        { "word": "御言宣", "reading": "みことのり" },
+        { "word": "勅", "reading": "ちょく" },
+        { "word": "詔", "reading": "しょう" }
+      ],
+      "senses": [["imperial decree", "imperial edict"], ["Command paper"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "街宣車", "reading": "がいせんしゃ" }],
+      "senses": [["(right-wing) propaganda truck"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "詔", "reading": "みことのり" },
+        { "word": "勅", "reading": "みことのり" },
+        { "word": "御言宣", "reading": "みことのり" },
+        { "word": "勅", "reading": "ちょく" },
+        { "word": "詔", "reading": "しょう" }
+      ],
+      "senses": [["imperial decree", "imperial edict"], ["Command paper"]]
+    }
+  ]
+}

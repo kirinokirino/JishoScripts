@@ -1,1 +1,29 @@
-{"basic":["崎","Promontory","840"],"extended":[{"jlpt":[],"tags":["wanikani23"],"japanese":[{"word":"川崎","reading":"かわさき"}],"senses":[["Kawasaki (city)"],["Kawasaki"]]},{"jlpt":[],"tags":["wanikani23"],"japanese":[{"word":"長崎","reading":"ながさき"},{"reading":"ナガサキ"}],"senses":[["Nagasaki (city, prefecture)"]]},{"jlpt":[],"tags":["wanikani23"],"japanese":[{"word":"川崎","reading":"かわさき"}],"senses":[["Kawasaki (city)"],["Kawasaki"]]},{"jlpt":[],"tags":["wanikani23"],"japanese":[{"word":"長崎","reading":"ながさき"},{"reading":"ナガサキ"}],"senses":[["Nagasaki (city, prefecture)"]]}]}
+{
+  "basic": ["崎", "Promontory", "840"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": ["wanikani23"],
+      "japanese": [{ "word": "川崎", "reading": "かわさき" }],
+      "senses": [["Kawasaki (city)"], ["Kawasaki"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani23"],
+      "japanese": [{ "word": "長崎", "reading": "ながさき" }, { "reading": "ナガサキ" }],
+      "senses": [["Nagasaki (city, prefecture)"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani23"],
+      "japanese": [{ "word": "川崎", "reading": "かわさき" }],
+      "senses": [["Kawasaki (city)"], ["Kawasaki"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani23"],
+      "japanese": [{ "word": "長崎", "reading": "ながさき" }, { "reading": "ナガサキ" }],
+      "senses": [["Nagasaki (city, prefecture)"]]
+    }
+  ]
+}

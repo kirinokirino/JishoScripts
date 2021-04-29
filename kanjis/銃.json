@@ -1,1 +1,53 @@
-{"basic":["銃","Gun","824"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"機関銃","reading":"きかんじゅう"}],"senses":[["machine gun"],["Machine gun"]]},{"jlpt":[],"tags":["wanikani41"],"japanese":[{"word":"拳銃","reading":"けんじゅう"}],"senses":[["pistol","handgun","revolver"],["Handgun"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"小銃","reading":"しょうじゅう"}],"senses":[["rifle","small arms"],["Rifle"]]},{"jlpt":[],"tags":["wanikani39"],"japanese":[{"word":"短銃","reading":"たんじゅう"}],"senses":[["pistol","revolver"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"機関銃","reading":"きかんじゅう"}],"senses":[["machine gun"],["Machine gun"]]},{"jlpt":[],"tags":["wanikani41"],"japanese":[{"word":"拳銃","reading":"けんじゅう"}],"senses":[["pistol","handgun","revolver"],["Handgun"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"小銃","reading":"しょうじゅう"}],"senses":[["rifle","small arms"],["Rifle"]]},{"jlpt":[],"tags":["wanikani39"],"japanese":[{"word":"短銃","reading":"たんじゅう"}],"senses":[["pistol","revolver"]]}]}
+{
+  "basic": ["銃", "Gun", "824"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "機関銃", "reading": "きかんじゅう" }],
+      "senses": [["machine gun"], ["Machine gun"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani41"],
+      "japanese": [{ "word": "拳銃", "reading": "けんじゅう" }],
+      "senses": [["pistol", "handgun", "revolver"], ["Handgun"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "小銃", "reading": "しょうじゅう" }],
+      "senses": [["rifle", "small arms"], ["Rifle"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani39"],
+      "japanese": [{ "word": "短銃", "reading": "たんじゅう" }],
+      "senses": [["pistol", "revolver"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "機関銃", "reading": "きかんじゅう" }],
+      "senses": [["machine gun"], ["Machine gun"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani41"],
+      "japanese": [{ "word": "拳銃", "reading": "けんじゅう" }],
+      "senses": [["pistol", "handgun", "revolver"], ["Handgun"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "小銃", "reading": "しょうじゅう" }],
+      "senses": [["rifle", "small arms"], ["Rifle"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani39"],
+      "japanese": [{ "word": "短銃", "reading": "たんじゅう" }],
+      "senses": [["pistol", "revolver"]]
+    }
+  ]
+}

@@ -1,1 +1,81 @@
-{"basic":["弟","Younger Brother","1328"],"extended":[{"jlpt":["jlpt-n5"],"tags":["wanikani5"],"japanese":[{"word":"兄弟","reading":"きょうだい"},{"word":"兄弟","reading":"けいてい"}],"senses":[["siblings","brothers and sisters"],["brothers"],["siblings-in-law","brothers-in-law","sisters-in-law"],["mate","friend"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani28"],"japanese":[{"word":"従兄弟","reading":"いとこ"},{"word":"従兄弟","reading":"じゅうけいてい"}],"senses":[["cousin (male)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"子弟","reading":"してい"}],"senses":[["children","sons","children and younger brothers"],["young people"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"実弟","reading":"じってい"}],"senses":[["biological younger brother"]]},{"jlpt":["jlpt-n5"],"tags":["wanikani5"],"japanese":[{"word":"兄弟","reading":"きょうだい"},{"word":"兄弟","reading":"けいてい"}],"senses":[["siblings","brothers and sisters"],["brothers"],["siblings-in-law","brothers-in-law","sisters-in-law"],["mate","friend"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani28"],"japanese":[{"word":"従兄弟","reading":"いとこ"},{"word":"従兄弟","reading":"じゅうけいてい"}],"senses":[["cousin (male)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"子弟","reading":"してい"}],"senses":[["children","sons","children and younger brothers"],["young people"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"実弟","reading":"じってい"}],"senses":[["biological younger brother"]]}]}
+{
+  "basic": ["弟", "Younger Brother", "1328"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n5"],
+      "tags": ["wanikani5"],
+      "japanese": [
+        { "word": "兄弟", "reading": "きょうだい" },
+        { "word": "兄弟", "reading": "けいてい" }
+      ],
+      "senses": [
+        ["siblings", "brothers and sisters"],
+        ["brothers"],
+        ["siblings-in-law", "brothers-in-law", "sisters-in-law"],
+        ["mate", "friend"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani28"],
+      "japanese": [
+        { "word": "従兄弟", "reading": "いとこ" },
+        { "word": "従兄弟", "reading": "じゅうけいてい" }
+      ],
+      "senses": [["cousin (male)"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "子弟", "reading": "してい" }],
+      "senses": [
+        ["children", "sons", "children and younger brothers"],
+        ["young people"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "実弟", "reading": "じってい" }],
+      "senses": [["biological younger brother"]]
+    },
+    {
+      "jlpt": ["jlpt-n5"],
+      "tags": ["wanikani5"],
+      "japanese": [
+        { "word": "兄弟", "reading": "きょうだい" },
+        { "word": "兄弟", "reading": "けいてい" }
+      ],
+      "senses": [
+        ["siblings", "brothers and sisters"],
+        ["brothers"],
+        ["siblings-in-law", "brothers-in-law", "sisters-in-law"],
+        ["mate", "friend"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani28"],
+      "japanese": [
+        { "word": "従兄弟", "reading": "いとこ" },
+        { "word": "従兄弟", "reading": "じゅうけいてい" }
+      ],
+      "senses": [["cousin (male)"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "子弟", "reading": "してい" }],
+      "senses": [
+        ["children", "sons", "children and younger brothers"],
+        ["young people"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "実弟", "reading": "じってい" }],
+      "senses": [["biological younger brother"]]
+    }
+  ]
+}

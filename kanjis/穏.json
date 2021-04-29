@@ -1,1 +1,47 @@
-{"basic":["穏","Calm","1230"],"extended":[{"jlpt":[],"tags":["wanikani46"],"japanese":[{"word":"平穏","reading":"へいおん"}],"senses":[["tranquil","calm","restful","peaceful","quiet"]]},{"jlpt":[],"tags":["wanikani46"],"japanese":[{"word":"不穏","reading":"ふおん"}],"senses":[["disquieting","threatening","turbulent","restless","unsettled","disturbing"]]},{"jlpt":[],"tags":["wanikani46"],"japanese":[{"word":"平穏","reading":"へいおん"}],"senses":[["tranquil","calm","restful","peaceful","quiet"]]},{"jlpt":[],"tags":["wanikani46"],"japanese":[{"word":"不穏","reading":"ふおん"}],"senses":[["disquieting","threatening","turbulent","restless","unsettled","disturbing"]]}]}
+{
+  "basic": ["穏", "Calm", "1230"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": ["wanikani46"],
+      "japanese": [{ "word": "平穏", "reading": "へいおん" }],
+      "senses": [["tranquil", "calm", "restful", "peaceful", "quiet"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani46"],
+      "japanese": [{ "word": "不穏", "reading": "ふおん" }],
+      "senses": [
+        [
+          "disquieting",
+          "threatening",
+          "turbulent",
+          "restless",
+          "unsettled",
+          "disturbing"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani46"],
+      "japanese": [{ "word": "平穏", "reading": "へいおん" }],
+      "senses": [["tranquil", "calm", "restful", "peaceful", "quiet"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani46"],
+      "japanese": [{ "word": "不穏", "reading": "ふおん" }],
+      "senses": [
+        [
+          "disquieting",
+          "threatening",
+          "turbulent",
+          "restless",
+          "unsettled",
+          "disturbing"
+        ]
+      ]
+    }
+  ]
+}

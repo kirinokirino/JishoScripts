@@ -1,1 +1,35 @@
-{"basic":["忙","Busy","665"],"extended":[{"jlpt":["jlpt-n1"],"tags":["wanikani19"],"japanese":[{"word":"多忙","reading":"たぼう"}],"senses":[["being very busy","busyness"]]},{"jlpt":[],"tags":["wanikani60"],"japanese":[{"word":"煩忙","reading":"はんぼう"},{"word":"繁忙","reading":"はんぼう"}],"senses":[["pressure of business","busy"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani19"],"japanese":[{"word":"多忙","reading":"たぼう"}],"senses":[["being very busy","busyness"]]},{"jlpt":[],"tags":["wanikani60"],"japanese":[{"word":"煩忙","reading":"はんぼう"},{"word":"繁忙","reading":"はんぼう"}],"senses":[["pressure of business","busy"]]}]}
+{
+  "basic": ["忙", "Busy", "665"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani19"],
+      "japanese": [{ "word": "多忙", "reading": "たぼう" }],
+      "senses": [["being very busy", "busyness"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani60"],
+      "japanese": [
+        { "word": "煩忙", "reading": "はんぼう" },
+        { "word": "繁忙", "reading": "はんぼう" }
+      ],
+      "senses": [["pressure of business", "busy"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani19"],
+      "japanese": [{ "word": "多忙", "reading": "たぼう" }],
+      "senses": [["being very busy", "busyness"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani60"],
+      "japanese": [
+        { "word": "煩忙", "reading": "はんぼう" },
+        { "word": "繁忙", "reading": "はんぼう" }
+      ],
+      "senses": [["pressure of business", "busy"]]
+    }
+  ]
+}

@@ -1,1 +1,21 @@
-{"basic":["私","Private","968"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"公私","reading":"こうし"}],"senses":[["public and private","official and personal","government and people"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"公私","reading":"こうし"}],"senses":[["public and private","official and personal","government and people"]]}]}
+{
+  "basic": ["私", "Private", "968"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "公私", "reading": "こうし" }],
+      "senses": [
+        ["public and private", "official and personal", "government and people"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "公私", "reading": "こうし" }],
+      "senses": [
+        ["public and private", "official and personal", "government and people"]
+      ]
+    }
+  ]
+}

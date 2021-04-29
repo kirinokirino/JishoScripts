@@ -1,1 +1,133 @@
-{"basic":["討","Chastise","364"],"extended":[{"jlpt":["jlpt-n3"],"tags":["wanikani26"],"japanese":[{"word":"検討","reading":"けんとう"}],"senses":[["consideration","examination","investigation","study","scrutiny","discussion","analysis","review"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"掃討","reading":"そうとう"},{"word":"掃蕩","reading":"そうとう"},{"word":"剿討","reading":"そうとう"},{"word":"掃盪","reading":"そうとう"}],"senses":[["cleaning up","sweeping up","mopping up"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"再検討","reading":"さいけんとう"}],"senses":[["re-examination","review","reconsideration","reappraisal"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"一騎打ち","reading":"いっきうち"},{"word":"一騎打","reading":"いっきうち"},{"word":"一騎討","reading":"いっきうち"},{"word":"一騎討ち","reading":"いっきうち"}],"senses":[["personal combat","one-to-one fight"],["Single combat"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"追い打ち","reading":"おいうち"},{"word":"追い撃ち","reading":"おいうち"},{"word":"追い討ち","reading":"おいうち"},{"word":"追打ち","reading":"おいうち"},{"word":"追撃ち","reading":"おいうち"},{"word":"追討ち","reading":"おいうち"}],"senses":[["attacking a fleeing enemy"],["additional attack on a weakened enemy","additional blow to an already unfortunate situation"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani26"],"japanese":[{"word":"検討","reading":"けんとう"}],"senses":[["consideration","examination","investigation","study","scrutiny","discussion","analysis","review"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"掃討","reading":"そうとう"},{"word":"掃蕩","reading":"そうとう"},{"word":"剿討","reading":"そうとう"},{"word":"掃盪","reading":"そうとう"}],"senses":[["cleaning up","sweeping up","mopping up"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"再検討","reading":"さいけんとう"}],"senses":[["re-examination","review","reconsideration","reappraisal"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"一騎打ち","reading":"いっきうち"},{"word":"一騎打","reading":"いっきうち"},{"word":"一騎討","reading":"いっきうち"},{"word":"一騎討ち","reading":"いっきうち"}],"senses":[["personal combat","one-to-one fight"],["Single combat"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"追い打ち","reading":"おいうち"},{"word":"追い撃ち","reading":"おいうち"},{"word":"追い討ち","reading":"おいうち"},{"word":"追打ち","reading":"おいうち"},{"word":"追撃ち","reading":"おいうち"},{"word":"追討ち","reading":"おいうち"}],"senses":[["attacking a fleeing enemy"],["additional attack on a weakened enemy","additional blow to an already unfortunate situation"]]}]}
+{
+  "basic": ["討", "Chastise", "364"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani26"],
+      "japanese": [{ "word": "検討", "reading": "けんとう" }],
+      "senses": [
+        [
+          "consideration",
+          "examination",
+          "investigation",
+          "study",
+          "scrutiny",
+          "discussion",
+          "analysis",
+          "review"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "掃討", "reading": "そうとう" },
+        { "word": "掃蕩", "reading": "そうとう" },
+        { "word": "剿討", "reading": "そうとう" },
+        { "word": "掃盪", "reading": "そうとう" }
+      ],
+      "senses": [["cleaning up", "sweeping up", "mopping up"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "再検討", "reading": "さいけんとう" }],
+      "senses": [["re-examination", "review", "reconsideration", "reappraisal"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "一騎打ち", "reading": "いっきうち" },
+        { "word": "一騎打", "reading": "いっきうち" },
+        { "word": "一騎討", "reading": "いっきうち" },
+        { "word": "一騎討ち", "reading": "いっきうち" }
+      ],
+      "senses": [["personal combat", "one-to-one fight"], ["Single combat"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "追い打ち", "reading": "おいうち" },
+        { "word": "追い撃ち", "reading": "おいうち" },
+        { "word": "追い討ち", "reading": "おいうち" },
+        { "word": "追打ち", "reading": "おいうち" },
+        { "word": "追撃ち", "reading": "おいうち" },
+        { "word": "追討ち", "reading": "おいうち" }
+      ],
+      "senses": [
+        ["attacking a fleeing enemy"],
+        [
+          "additional attack on a weakened enemy",
+          "additional blow to an already unfortunate situation"
+        ]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani26"],
+      "japanese": [{ "word": "検討", "reading": "けんとう" }],
+      "senses": [
+        [
+          "consideration",
+          "examination",
+          "investigation",
+          "study",
+          "scrutiny",
+          "discussion",
+          "analysis",
+          "review"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "掃討", "reading": "そうとう" },
+        { "word": "掃蕩", "reading": "そうとう" },
+        { "word": "剿討", "reading": "そうとう" },
+        { "word": "掃盪", "reading": "そうとう" }
+      ],
+      "senses": [["cleaning up", "sweeping up", "mopping up"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "再検討", "reading": "さいけんとう" }],
+      "senses": [["re-examination", "review", "reconsideration", "reappraisal"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "一騎打ち", "reading": "いっきうち" },
+        { "word": "一騎打", "reading": "いっきうち" },
+        { "word": "一騎討", "reading": "いっきうち" },
+        { "word": "一騎討ち", "reading": "いっきうち" }
+      ],
+      "senses": [["personal combat", "one-to-one fight"], ["Single combat"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "追い打ち", "reading": "おいうち" },
+        { "word": "追い撃ち", "reading": "おいうち" },
+        { "word": "追い討ち", "reading": "おいうち" },
+        { "word": "追打ち", "reading": "おいうち" },
+        { "word": "追撃ち", "reading": "おいうち" },
+        { "word": "追討ち", "reading": "おいうち" }
+      ],
+      "senses": [
+        ["attacking a fleeing enemy"],
+        [
+          "additional attack on a weakened enemy",
+          "additional blow to an already unfortunate situation"
+        ]
+      ]
+    }
+  ]
+}

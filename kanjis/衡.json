@@ -1,1 +1,79 @@
-{"basic":["衡","Equilibrium","957"],"extended":[{"jlpt":["jlpt-n1"],"tags":["wanikani57"],"japanese":[{"word":"均衡","reading":"きんこう"}],"senses":[["equilibrium","balance"],["Economic equilibrium"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"選考","reading":"せんこう"},{"word":"銓衡","reading":"せんこう"},{"word":"詮衡","reading":"せんこう"}],"senses":[["selection","screening"]]},{"jlpt":[],"tags":["wanikani59"],"japanese":[{"word":"不均衡","reading":"ふきんこう"}],"senses":[["imbalance","lack of balance","lopsidedness","disproportion","inequality","disparity"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"拡大均衡","reading":"かくだいきんこう"}],"senses":[["an expanded or expanding equilibrium"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani57"],"japanese":[{"word":"均衡","reading":"きんこう"}],"senses":[["equilibrium","balance"],["Economic equilibrium"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"選考","reading":"せんこう"},{"word":"銓衡","reading":"せんこう"},{"word":"詮衡","reading":"せんこう"}],"senses":[["selection","screening"]]},{"jlpt":[],"tags":["wanikani59"],"japanese":[{"word":"不均衡","reading":"ふきんこう"}],"senses":[["imbalance","lack of balance","lopsidedness","disproportion","inequality","disparity"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"拡大均衡","reading":"かくだいきんこう"}],"senses":[["an expanded or expanding equilibrium"]]}]}
+{
+  "basic": ["衡", "Equilibrium", "957"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani57"],
+      "japanese": [{ "word": "均衡", "reading": "きんこう" }],
+      "senses": [["equilibrium", "balance"], ["Economic equilibrium"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "選考", "reading": "せんこう" },
+        { "word": "銓衡", "reading": "せんこう" },
+        { "word": "詮衡", "reading": "せんこう" }
+      ],
+      "senses": [["selection", "screening"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani59"],
+      "japanese": [{ "word": "不均衡", "reading": "ふきんこう" }],
+      "senses": [
+        [
+          "imbalance",
+          "lack of balance",
+          "lopsidedness",
+          "disproportion",
+          "inequality",
+          "disparity"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "拡大均衡", "reading": "かくだいきんこう" }],
+      "senses": [["an expanded or expanding equilibrium"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani57"],
+      "japanese": [{ "word": "均衡", "reading": "きんこう" }],
+      "senses": [["equilibrium", "balance"], ["Economic equilibrium"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "選考", "reading": "せんこう" },
+        { "word": "銓衡", "reading": "せんこう" },
+        { "word": "詮衡", "reading": "せんこう" }
+      ],
+      "senses": [["selection", "screening"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani59"],
+      "japanese": [{ "word": "不均衡", "reading": "ふきんこう" }],
+      "senses": [
+        [
+          "imbalance",
+          "lack of balance",
+          "lopsidedness",
+          "disproportion",
+          "inequality",
+          "disparity"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "拡大均衡", "reading": "かくだいきんこう" }],
+      "senses": [["an expanded or expanding equilibrium"]]
+    }
+  ]
+}

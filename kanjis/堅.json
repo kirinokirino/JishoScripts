@@ -1,1 +1,41 @@
-{"basic":["堅","Strict","917"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"中堅","reading":"ちゅうけん"}],"senses":[["nucleus","backbone","mainstay","key figure"],["medium-level","mid-level","middle-ranking","midsize"],["main body (of troops)","crack troops","select troops"],["center field","centre field","center fielder","centre fielder"],["athlete competing in the middle-number match in a team competition, i.e. second in 3-on-3, third in 5-on-5 (kendo, judo, etc.)"]]},{"jlpt":[],"tags":["wanikani44"],"japanese":[{"word":"手堅い","reading":"てがたい"}],"senses":[["steady","firm","solid","secure"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"中堅","reading":"ちゅうけん"}],"senses":[["nucleus","backbone","mainstay","key figure"],["medium-level","mid-level","middle-ranking","midsize"],["main body (of troops)","crack troops","select troops"],["center field","centre field","center fielder","centre fielder"],["athlete competing in the middle-number match in a team competition, i.e. second in 3-on-3, third in 5-on-5 (kendo, judo, etc.)"]]},{"jlpt":[],"tags":["wanikani44"],"japanese":[{"word":"手堅い","reading":"てがたい"}],"senses":[["steady","firm","solid","secure"]]}]}
+{
+  "basic": ["堅", "Strict", "917"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "中堅", "reading": "ちゅうけん" }],
+      "senses": [
+        ["nucleus", "backbone", "mainstay", "key figure"],
+        ["medium-level", "mid-level", "middle-ranking", "midsize"],
+        ["main body (of troops)", "crack troops", "select troops"],
+        ["center field", "centre field", "center fielder", "centre fielder"],
+        ["athlete competing in the middle-number match in a team competition, i.e. second in 3-on-3, third in 5-on-5 (kendo, judo, etc.)"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani44"],
+      "japanese": [{ "word": "手堅い", "reading": "てがたい" }],
+      "senses": [["steady", "firm", "solid", "secure"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "中堅", "reading": "ちゅうけん" }],
+      "senses": [
+        ["nucleus", "backbone", "mainstay", "key figure"],
+        ["medium-level", "mid-level", "middle-ranking", "midsize"],
+        ["main body (of troops)", "crack troops", "select troops"],
+        ["center field", "centre field", "center fielder", "centre fielder"],
+        ["athlete competing in the middle-number match in a team competition, i.e. second in 3-on-3, third in 5-on-5 (kendo, judo, etc.)"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani44"],
+      "japanese": [{ "word": "手堅い", "reading": "てがたい" }],
+      "senses": [["steady", "firm", "solid", "secure"]]
+    }
+  ]
+}

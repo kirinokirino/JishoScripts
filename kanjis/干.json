@@ -1,1 +1,81 @@
-{"basic":["干","Dry","1777"],"extended":[{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"若干","reading":"じゃっかん"},{"word":"若干","reading":"そこば"},{"word":"若干","reading":"そこばく"},{"word":"若干","reading":"そくばく"},{"word":"幾許","reading":"そこばく"},{"word":"幾許","reading":"そくばく"}],"senses":[["some","few","a number of","a little (bit)"],["somewhat","to a certain extent"],["many","a lot"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani19"],"japanese":[{"word":"梅干し","reading":"うめぼし"},{"word":"梅干","reading":"うめぼし"}],"senses":[["umeboshi","pickled dried ume","pickled dried plum"],["Umeboshi"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"物干し","reading":"ものほし"},{"word":"物干","reading":"ものほし"}],"senses":[["frame for drying clothes","clotheshorse"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"若干","reading":"じゃっかん"},{"word":"若干","reading":"そこば"},{"word":"若干","reading":"そこばく"},{"word":"若干","reading":"そくばく"},{"word":"幾許","reading":"そこばく"},{"word":"幾許","reading":"そくばく"}],"senses":[["some","few","a number of","a little (bit)"],["somewhat","to a certain extent"],["many","a lot"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani19"],"japanese":[{"word":"梅干し","reading":"うめぼし"},{"word":"梅干","reading":"うめぼし"}],"senses":[["umeboshi","pickled dried ume","pickled dried plum"],["Umeboshi"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"物干し","reading":"ものほし"},{"word":"物干","reading":"ものほし"}],"senses":[["frame for drying clothes","clotheshorse"]]}]}
+{
+  "basic": ["干", "Dry", "1777"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "若干", "reading": "じゃっかん" },
+        { "word": "若干", "reading": "そこば" },
+        { "word": "若干", "reading": "そこばく" },
+        { "word": "若干", "reading": "そくばく" },
+        { "word": "幾許", "reading": "そこばく" },
+        { "word": "幾許", "reading": "そくばく" }
+      ],
+      "senses": [
+        ["some", "few", "a number of", "a little (bit)"],
+        ["somewhat", "to a certain extent"],
+        ["many", "a lot"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani19"],
+      "japanese": [
+        { "word": "梅干し", "reading": "うめぼし" },
+        { "word": "梅干", "reading": "うめぼし" }
+      ],
+      "senses": [
+        ["umeboshi", "pickled dried ume", "pickled dried plum"],
+        ["Umeboshi"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "物干し", "reading": "ものほし" },
+        { "word": "物干", "reading": "ものほし" }
+      ],
+      "senses": [["frame for drying clothes", "clotheshorse"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "若干", "reading": "じゃっかん" },
+        { "word": "若干", "reading": "そこば" },
+        { "word": "若干", "reading": "そこばく" },
+        { "word": "若干", "reading": "そくばく" },
+        { "word": "幾許", "reading": "そこばく" },
+        { "word": "幾許", "reading": "そくばく" }
+      ],
+      "senses": [
+        ["some", "few", "a number of", "a little (bit)"],
+        ["somewhat", "to a certain extent"],
+        ["many", "a lot"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani19"],
+      "japanese": [
+        { "word": "梅干し", "reading": "うめぼし" },
+        { "word": "梅干", "reading": "うめぼし" }
+      ],
+      "senses": [
+        ["umeboshi", "pickled dried ume", "pickled dried plum"],
+        ["Umeboshi"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "物干し", "reading": "ものほし" },
+        { "word": "物干", "reading": "ものほし" }
+      ],
+      "senses": [["frame for drying clothes", "clotheshorse"]]
+    }
+  ]
+}

@@ -1,1 +1,29 @@
-{"basic":["改","Reformation","567"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"更改","reading":"こうかい"}],"senses":[["renewal","extension","revision"],["Novation"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"農地改革","reading":"のうちかいかく"}],"senses":[["agrarian reform"],["Land reform"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"更改","reading":"こうかい"}],"senses":[["renewal","extension","revision"],["Novation"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"農地改革","reading":"のうちかいかく"}],"senses":[["agrarian reform"],["Land reform"]]}]}
+{
+  "basic": ["改", "Reformation", "567"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "更改", "reading": "こうかい" }],
+      "senses": [["renewal", "extension", "revision"], ["Novation"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "農地改革", "reading": "のうちかいかく" }],
+      "senses": [["agrarian reform"], ["Land reform"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "更改", "reading": "こうかい" }],
+      "senses": [["renewal", "extension", "revision"], ["Novation"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "農地改革", "reading": "のうちかいかく" }],
+      "senses": [["agrarian reform"], ["Land reform"]]
+    }
+  ]
+}

@@ -1,1 +1,23 @@
-{"basic":["餓","Starve","1586"],"extended":[{"jlpt":[],"tags":["wanikani48"],"japanese":[{"word":"飢餓","reading":"きが"},{"word":"饑餓","reading":"きが"}],"senses":[["starvation","famine","hunger"],["Starvation"]]},{"jlpt":[],"tags":["wanikani48"],"japanese":[{"word":"飢餓","reading":"きが"},{"word":"饑餓","reading":"きが"}],"senses":[["starvation","famine","hunger"],["Starvation"]]}]}
+{
+  "basic": ["餓", "Starve", "1586"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": ["wanikani48"],
+      "japanese": [
+        { "word": "飢餓", "reading": "きが" },
+        { "word": "饑餓", "reading": "きが" }
+      ],
+      "senses": [["starvation", "famine", "hunger"], ["Starvation"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani48"],
+      "japanese": [
+        { "word": "飢餓", "reading": "きが" },
+        { "word": "饑餓", "reading": "きが" }
+      ],
+      "senses": [["starvation", "famine", "hunger"], ["Starvation"]]
+    }
+  ]
+}

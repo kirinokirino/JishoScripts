@@ -1,1 +1,63 @@
-{"basic":["奇","Strange","133"],"extended":[{"jlpt":[],"tags":["wanikani29"],"japanese":[{"word":"好奇心","reading":"こうきしん"}],"senses":[["curiosity","inquisitiveness"],["Curiosity"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"物好き","reading":"ものずき"},{"word":"もの好き","reading":"ものずき"},{"word":"物数奇","reading":"ものずき"}],"senses":[["(idle) curiosity","fancifulness","whimsy","(having) strange tastes"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"怪奇","reading":"かいき"}],"senses":[["bizarre","strange","weird","mysterious"],["grotesque"]]},{"jlpt":[],"tags":["wanikani29"],"japanese":[{"word":"好奇心","reading":"こうきしん"}],"senses":[["curiosity","inquisitiveness"],["Curiosity"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"物好き","reading":"ものずき"},{"word":"もの好き","reading":"ものずき"},{"word":"物数奇","reading":"ものずき"}],"senses":[["(idle) curiosity","fancifulness","whimsy","(having) strange tastes"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"怪奇","reading":"かいき"}],"senses":[["bizarre","strange","weird","mysterious"],["grotesque"]]}]}
+{
+  "basic": ["奇", "Strange", "133"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": ["wanikani29"],
+      "japanese": [{ "word": "好奇心", "reading": "こうきしん" }],
+      "senses": [["curiosity", "inquisitiveness"], ["Curiosity"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "物好き", "reading": "ものずき" },
+        { "word": "もの好き", "reading": "ものずき" },
+        { "word": "物数奇", "reading": "ものずき" }
+      ],
+      "senses": [
+        [
+          "(idle) curiosity",
+          "fancifulness",
+          "whimsy",
+          "(having) strange tastes"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "怪奇", "reading": "かいき" }],
+      "senses": [["bizarre", "strange", "weird", "mysterious"], ["grotesque"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani29"],
+      "japanese": [{ "word": "好奇心", "reading": "こうきしん" }],
+      "senses": [["curiosity", "inquisitiveness"], ["Curiosity"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "物好き", "reading": "ものずき" },
+        { "word": "もの好き", "reading": "ものずき" },
+        { "word": "物数奇", "reading": "ものずき" }
+      ],
+      "senses": [
+        [
+          "(idle) curiosity",
+          "fancifulness",
+          "whimsy",
+          "(having) strange tastes"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "怪奇", "reading": "かいき" }],
+      "senses": [["bizarre", "strange", "weird", "mysterious"], ["grotesque"]]
+    }
+  ]
+}

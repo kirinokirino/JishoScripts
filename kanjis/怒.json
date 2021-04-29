@@ -1,1 +1,17 @@
-{"basic":["怒","Angry","759"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"激怒","reading":"げきど"}],"senses":[["rage","indignation","exasperation"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"激怒","reading":"げきど"}],"senses":[["rage","indignation","exasperation"]]}]}
+{
+  "basic": ["怒", "Angry", "759"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "激怒", "reading": "げきど" }],
+      "senses": [["rage", "indignation", "exasperation"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "激怒", "reading": "げきど" }],
+      "senses": [["rage", "indignation", "exasperation"]]
+    }
+  ]
+}

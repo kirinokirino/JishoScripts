@@ -1,1 +1,53 @@
-{"basic":["岐","Branch Off","834"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"分岐","reading":"ぶんき"}],"senses":[["divergence","ramification","bifurcation","branching off"],["Bunki"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"分岐点","reading":"ぶんきてん"}],"senses":[["junction","crossroads","division point","parting of ways"],["Bunkiten"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"多岐","reading":"たき"}],"senses":[["digression","many divergences"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"分岐","reading":"ぶんき"}],"senses":[["divergence","ramification","bifurcation","branching off"],["Bunki"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"分岐点","reading":"ぶんきてん"}],"senses":[["junction","crossroads","division point","parting of ways"],["Bunkiten"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"多岐","reading":"たき"}],"senses":[["digression","many divergences"]]}]}
+{
+  "basic": ["岐", "Branch Off", "834"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "分岐", "reading": "ぶんき" }],
+      "senses": [
+        ["divergence", "ramification", "bifurcation", "branching off"],
+        ["Bunki"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "分岐点", "reading": "ぶんきてん" }],
+      "senses": [
+        ["junction", "crossroads", "division point", "parting of ways"],
+        ["Bunkiten"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "多岐", "reading": "たき" }],
+      "senses": [["digression", "many divergences"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "分岐", "reading": "ぶんき" }],
+      "senses": [
+        ["divergence", "ramification", "bifurcation", "branching off"],
+        ["Bunki"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "分岐点", "reading": "ぶんきてん" }],
+      "senses": [
+        ["junction", "crossroads", "division point", "parting of ways"],
+        ["Bunkiten"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "多岐", "reading": "たき" }],
+      "senses": [["digression", "many divergences"]]
+    }
+  ]
+}

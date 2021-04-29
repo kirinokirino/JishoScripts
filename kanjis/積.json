@@ -1,1 +1,177 @@
-{"basic":["積","Volume","1663"],"extended":[{"jlpt":["jlpt-n2"],"tags":["wanikani29"],"japanese":[{"word":"面積","reading":"めんせき"}],"senses":[["square measure","size (e.g. of land)","area","surface"],["Area"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani29"],"japanese":[{"word":"体積","reading":"たいせき"}],"senses":[["capacity","volume"],["Volume"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"見積もり","reading":"みつもり"},{"word":"見積り","reading":"みつもり"},{"word":"見積","reading":"みつもり"}],"senses":[["estimate","estimation","valuation","quotation"],["Sales quote"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"容積","reading":"ようせき"}],"senses":[["capacity","volume"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"集積","reading":"しゅうせき"}],"senses":[["accumulation"]]},{"jlpt":[],"tags":["wanikani55"],"japanese":[{"word":"累積","reading":"るいせき"}],"senses":[["accumulation"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"蓄積","reading":"ちくせき"}],"senses":[["accumulation","accumulate","store"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"堆積","reading":"たいせき"}],"senses":[["accumulation","pile","heap"],["sedimentation"],["Sedimentation"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"作付面積","reading":"さくづけめんせき"}],"senses":[["planted area"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"上積み","reading":"うわづみ"}],"senses":[["deck cargo","upper layer of goods"],["extra"],["to pile on top of"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"山積","reading":"さんせき"}],"senses":[["piling up","accumulating","forming a (huge) pile","lying in piles"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani29"],"japanese":[{"word":"面積","reading":"めんせき"}],"senses":[["square measure","size (e.g. of land)","area","surface"],["Area"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani29"],"japanese":[{"word":"体積","reading":"たいせき"}],"senses":[["capacity","volume"],["Volume"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"見積もり","reading":"みつもり"},{"word":"見積り","reading":"みつもり"},{"word":"見積","reading":"みつもり"}],"senses":[["estimate","estimation","valuation","quotation"],["Sales quote"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"容積","reading":"ようせき"}],"senses":[["capacity","volume"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"集積","reading":"しゅうせき"}],"senses":[["accumulation"]]},{"jlpt":[],"tags":["wanikani55"],"japanese":[{"word":"累積","reading":"るいせき"}],"senses":[["accumulation"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"蓄積","reading":"ちくせき"}],"senses":[["accumulation","accumulate","store"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"堆積","reading":"たいせき"}],"senses":[["accumulation","pile","heap"],["sedimentation"],["Sedimentation"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"作付面積","reading":"さくづけめんせき"}],"senses":[["planted area"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"上積み","reading":"うわづみ"}],"senses":[["deck cargo","upper layer of goods"],["extra"],["to pile on top of"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"山積","reading":"さんせき"}],"senses":[["piling up","accumulating","forming a (huge) pile","lying in piles"]]}]}
+{
+  "basic": ["積", "Volume", "1663"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani29"],
+      "japanese": [{ "word": "面積", "reading": "めんせき" }],
+      "senses": [
+        ["square measure", "size (e.g. of land)", "area", "surface"],
+        ["Area"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani29"],
+      "japanese": [{ "word": "体積", "reading": "たいせき" }],
+      "senses": [["capacity", "volume"], ["Volume"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "見積もり", "reading": "みつもり" },
+        { "word": "見積り", "reading": "みつもり" },
+        { "word": "見積", "reading": "みつもり" }
+      ],
+      "senses": [
+        ["estimate", "estimation", "valuation", "quotation"],
+        ["Sales quote"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "容積", "reading": "ようせき" }],
+      "senses": [["capacity", "volume"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "集積", "reading": "しゅうせき" }],
+      "senses": [["accumulation"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani55"],
+      "japanese": [{ "word": "累積", "reading": "るいせき" }],
+      "senses": [["accumulation"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "蓄積", "reading": "ちくせき" }],
+      "senses": [["accumulation", "accumulate", "store"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "堆積", "reading": "たいせき" }],
+      "senses": [
+        ["accumulation", "pile", "heap"],
+        ["sedimentation"],
+        ["Sedimentation"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "作付面積", "reading": "さくづけめんせき" }],
+      "senses": [["planted area"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "上積み", "reading": "うわづみ" }],
+      "senses": [
+        ["deck cargo", "upper layer of goods"],
+        ["extra"],
+        ["to pile on top of"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "山積", "reading": "さんせき" }],
+      "senses": [
+        ["piling up", "accumulating", "forming a (huge) pile", "lying in piles"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani29"],
+      "japanese": [{ "word": "面積", "reading": "めんせき" }],
+      "senses": [
+        ["square measure", "size (e.g. of land)", "area", "surface"],
+        ["Area"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani29"],
+      "japanese": [{ "word": "体積", "reading": "たいせき" }],
+      "senses": [["capacity", "volume"], ["Volume"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "見積もり", "reading": "みつもり" },
+        { "word": "見積り", "reading": "みつもり" },
+        { "word": "見積", "reading": "みつもり" }
+      ],
+      "senses": [
+        ["estimate", "estimation", "valuation", "quotation"],
+        ["Sales quote"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "容積", "reading": "ようせき" }],
+      "senses": [["capacity", "volume"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "集積", "reading": "しゅうせき" }],
+      "senses": [["accumulation"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani55"],
+      "japanese": [{ "word": "累積", "reading": "るいせき" }],
+      "senses": [["accumulation"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "蓄積", "reading": "ちくせき" }],
+      "senses": [["accumulation", "accumulate", "store"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "堆積", "reading": "たいせき" }],
+      "senses": [
+        ["accumulation", "pile", "heap"],
+        ["sedimentation"],
+        ["Sedimentation"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "作付面積", "reading": "さくづけめんせき" }],
+      "senses": [["planted area"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "上積み", "reading": "うわづみ" }],
+      "senses": [
+        ["deck cargo", "upper layer of goods"],
+        ["extra"],
+        ["to pile on top of"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "山積", "reading": "さんせき" }],
+      "senses": [
+        ["piling up", "accumulating", "forming a (huge) pile", "lying in piles"]
+      ]
+    }
+  ]
+}

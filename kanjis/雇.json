@@ -1,1 +1,17 @@
-{"basic":["雇","Employ","1164"],"extended":[{"jlpt":[],"tags":["wanikani39"],"japanese":[{"word":"解雇","reading":"かいこ"}],"senses":[["discharge","dismissal"],["Termination of employment"]]},{"jlpt":[],"tags":["wanikani39"],"japanese":[{"word":"解雇","reading":"かいこ"}],"senses":[["discharge","dismissal"],["Termination of employment"]]}]}
+{
+  "basic": ["雇", "Employ", "1164"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": ["wanikani39"],
+      "japanese": [{ "word": "解雇", "reading": "かいこ" }],
+      "senses": [["discharge", "dismissal"], ["Termination of employment"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani39"],
+      "japanese": [{ "word": "解雇", "reading": "かいこ" }],
+      "senses": [["discharge", "dismissal"], ["Termination of employment"]]
+    }
+  ]
+}

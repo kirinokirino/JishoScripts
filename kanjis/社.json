@@ -1,1 +1,422 @@
-{"basic":["社","Company","1173"],"extended":[{"jlpt":["jlpt-n5"],"tags":["wanikani5"],"japanese":[{"word":"会社","reading":"かいしゃ"}],"senses":[["company","corporation"],["workplace"],["Company"]]},{"jlpt":["jlpt-n4"],"tags":["wanikani11"],"japanese":[{"word":"神社","reading":"じんじゃ"},{"word":"神社","reading":"じんしゃ"}],"senses":[["Shinto shrine"],["Shinto shrine"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"商社","reading":"しょうしゃ"}],"senses":[["trading company"],["Sogo shosha"]]},{"jlpt":["jlpt-n4"],"tags":[],"japanese":[{"word":"新聞社","reading":"しんぶんしゃ"}],"senses":[["newspaper company"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani5"],"japanese":[{"word":"入社","reading":"にゅうしゃ"}],"senses":[["joining a company","getting a job with a company","entering a company"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"出社","reading":"しゅっしゃ"}],"senses":[["going to work (e.g. in the morning)","coming to work"]]},{"jlpt":[],"tags":["wanikani56"],"japanese":[{"word":"靖国神社","reading":"やすくにじんじゃ"}],"senses":[["Yasukuni Shrine"],["Yasukuni Shrine"],["Yasukuni Shrine"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"子会社","reading":"こがいしゃ"}],"senses":[["subsidiary (company)"],["Subsidiary"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"航空会社","reading":"こうくうがいしゃ"}],"senses":[["airline company"],["Airline"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"同社","reading":"どうしゃ"}],"senses":[["the same firm"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"当社","reading":"とうしゃ"}],"senses":[["(this) shrine"],["(this) company","(this) firm"]]},{"jlpt":[],"tags":["wanikani32"],"japanese":[{"word":"出版社","reading":"しゅっぱんしゃ"},{"word":"出版者","reading":"しゅっぱんしゃ"}],"senses":[["publisher","publishing house","publishing company"]]},{"jlpt":[],"tags":["wanikani5"],"japanese":[{"word":"本社","reading":"ほんしゃ"},{"word":"本社","reading":"ほんじゃ"}],"senses":[["head office","main office","headquarters","parent company"],["main shrine"],["this company","this shrine"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"地域社会","reading":"ちいきしゃかい"}],"senses":[["regional community"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"他社","reading":"たしゃ"}],"senses":[["another company","other company"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"支社","reading":"ししゃ"}],"senses":[["branch office"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"退社","reading":"たいしゃ"}],"senses":[["resignation","leaving office"],["leaving work (e.g. at the end of the day)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"副社長","reading":"ふくしゃちょう"}],"senses":[["executive vice-president"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"株式会社","reading":"かぶしきがいしゃ"}],"senses":[["stock company","corporation","kabushiki kaisha","KK"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"信販会社","reading":"しんぱんがいしゃ"}],"senses":[["credit company"]]},{"jlpt":["jlpt-n5"],"tags":["wanikani5"],"japanese":[{"word":"会社","reading":"かいしゃ"}],"senses":[["company","corporation"],["workplace"],["Company"]]},{"jlpt":["jlpt-n4"],"tags":["wanikani11"],"japanese":[{"word":"神社","reading":"じんじゃ"},{"word":"神社","reading":"じんしゃ"}],"senses":[["Shinto shrine"],["Shinto shrine"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"商社","reading":"しょうしゃ"}],"senses":[["trading company"],["Sogo shosha"]]},{"jlpt":["jlpt-n4"],"tags":[],"japanese":[{"word":"新聞社","reading":"しんぶんしゃ"}],"senses":[["newspaper company"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani5"],"japanese":[{"word":"入社","reading":"にゅうしゃ"}],"senses":[["joining a company","getting a job with a company","entering a company"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"出社","reading":"しゅっしゃ"}],"senses":[["going to work (e.g. in the morning)","coming to work"]]},{"jlpt":[],"tags":["wanikani56"],"japanese":[{"word":"靖国神社","reading":"やすくにじんじゃ"}],"senses":[["Yasukuni Shrine"],["Yasukuni Shrine"],["Yasukuni Shrine"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"子会社","reading":"こがいしゃ"}],"senses":[["subsidiary (company)"],["Subsidiary"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"航空会社","reading":"こうくうがいしゃ"}],"senses":[["airline company"],["Airline"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"同社","reading":"どうしゃ"}],"senses":[["the same firm"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"当社","reading":"とうしゃ"}],"senses":[["(this) shrine"],["(this) company","(this) firm"]]},{"jlpt":[],"tags":["wanikani32"],"japanese":[{"word":"出版社","reading":"しゅっぱんしゃ"},{"word":"出版者","reading":"しゅっぱんしゃ"}],"senses":[["publisher","publishing house","publishing company"]]},{"jlpt":[],"tags":["wanikani5"],"japanese":[{"word":"本社","reading":"ほんしゃ"},{"word":"本社","reading":"ほんじゃ"}],"senses":[["head office","main office","headquarters","parent company"],["main shrine"],["this company","this shrine"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"地域社会","reading":"ちいきしゃかい"}],"senses":[["regional community"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"他社","reading":"たしゃ"}],"senses":[["another company","other company"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"支社","reading":"ししゃ"}],"senses":[["branch office"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"退社","reading":"たいしゃ"}],"senses":[["resignation","leaving office"],["leaving work (e.g. at the end of the day)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"副社長","reading":"ふくしゃちょう"}],"senses":[["executive vice-president"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"株式会社","reading":"かぶしきがいしゃ"}],"senses":[["stock company","corporation","kabushiki kaisha","KK"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"信販会社","reading":"しんぱんがいしゃ"}],"senses":[["credit company"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"全社","reading":"ぜんしゃ"}],"senses":[["whole company","all the companies"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"自社","reading":"じしゃ"}],"senses":[["one's company","company one works for"],["in-house","belonging to the company"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"貴社","reading":"きしゃ"}],"senses":[["your company"],["your shrine"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"弊社","reading":"へいしゃ"}],"senses":[["our company","our firm"]]},{"jlpt":[],"tags":["wanikani12"],"japanese":[{"word":"会社員","reading":"かいしゃいん"}],"senses":[["company employee","office worker","white-collar worker"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"旅行会社","reading":"りょこうがいしゃ"}],"senses":[["travel agent","travel agency"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"競合他社","reading":"きょうごうたしゃ"}],"senses":[["competing companies","rival companies"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"御社","reading":"おんしゃ"}],"senses":[["your company"],["your shrine"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"情報化社会","reading":"じょうほうかしゃかい"}],"senses":[["information society"],["Information society"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"民社党","reading":"みんしゃとう"}],"senses":[["Democratic Socialist Party"],["Democratic Socialist Party (Japan)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"通信社","reading":"つうしんしゃ"}],"senses":[["news agency"],["News agency"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"市民社会","reading":"しみんしゃかい"}],"senses":[["civil society"],["Civil society"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"大社","reading":"たいしゃ"},{"word":"大社","reading":"おおやしろ"}],"senses":[["grand shrine","famous shrine"],["Izumo Grand Shrine"],["Taisha"]]},{"jlpt":[],"tags":["wanikani5"],"japanese":[{"word":"公社","reading":"こうしゃ"}],"senses":[["public corporation"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"結社","reading":"けっしゃ"}],"senses":[["association","society"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"公社債","reading":"こうしゃさい"}],"senses":[["public bonds"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"会社更生法","reading":"かいしゃこうせいほう"}],"senses":[["Corporate Rehabilitation Law"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"親会社","reading":"おやがいしゃ"}],"senses":[["parent company"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"現代社会","reading":"げんだいしゃかい"}],"senses":[["modern society"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"日本社会","reading":"にほんしゃかい"}],"senses":[["Japanese society"]]}]}
+{
+  "basic": ["社", "Company", "1173"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n5"],
+      "tags": ["wanikani5"],
+      "japanese": [{ "word": "会社", "reading": "かいしゃ" }],
+      "senses": [["company", "corporation"], ["workplace"], ["Company"]]
+    },
+    {
+      "jlpt": ["jlpt-n4"],
+      "tags": ["wanikani11"],
+      "japanese": [
+        { "word": "神社", "reading": "じんじゃ" },
+        { "word": "神社", "reading": "じんしゃ" }
+      ],
+      "senses": [["Shinto shrine"], ["Shinto shrine"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "商社", "reading": "しょうしゃ" }],
+      "senses": [["trading company"], ["Sogo shosha"]]
+    },
+    {
+      "jlpt": ["jlpt-n4"],
+      "tags": [],
+      "japanese": [{ "word": "新聞社", "reading": "しんぶんしゃ" }],
+      "senses": [["newspaper company"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani5"],
+      "japanese": [{ "word": "入社", "reading": "にゅうしゃ" }],
+      "senses": [
+        [
+          "joining a company",
+          "getting a job with a company",
+          "entering a company"
+        ]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "出社", "reading": "しゅっしゃ" }],
+      "senses": [["going to work (e.g. in the morning)", "coming to work"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani56"],
+      "japanese": [{ "word": "靖国神社", "reading": "やすくにじんじゃ" }],
+      "senses": [["Yasukuni Shrine"], ["Yasukuni Shrine"], ["Yasukuni Shrine"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "子会社", "reading": "こがいしゃ" }],
+      "senses": [["subsidiary (company)"], ["Subsidiary"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "航空会社", "reading": "こうくうがいしゃ" }],
+      "senses": [["airline company"], ["Airline"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "同社", "reading": "どうしゃ" }],
+      "senses": [["the same firm"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "当社", "reading": "とうしゃ" }],
+      "senses": [["(this) shrine"], ["(this) company", "(this) firm"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani32"],
+      "japanese": [
+        { "word": "出版社", "reading": "しゅっぱんしゃ" },
+        { "word": "出版者", "reading": "しゅっぱんしゃ" }
+      ],
+      "senses": [["publisher", "publishing house", "publishing company"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani5"],
+      "japanese": [
+        { "word": "本社", "reading": "ほんしゃ" },
+        { "word": "本社", "reading": "ほんじゃ" }
+      ],
+      "senses": [
+        ["head office", "main office", "headquarters", "parent company"],
+        ["main shrine"],
+        ["this company", "this shrine"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "地域社会", "reading": "ちいきしゃかい" }],
+      "senses": [["regional community"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "他社", "reading": "たしゃ" }],
+      "senses": [["another company", "other company"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "支社", "reading": "ししゃ" }],
+      "senses": [["branch office"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "退社", "reading": "たいしゃ" }],
+      "senses": [
+        ["resignation", "leaving office"],
+        ["leaving work (e.g. at the end of the day)"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "副社長", "reading": "ふくしゃちょう" }],
+      "senses": [["executive vice-president"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "株式会社", "reading": "かぶしきがいしゃ" }],
+      "senses": [["stock company", "corporation", "kabushiki kaisha", "KK"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "信販会社", "reading": "しんぱんがいしゃ" }],
+      "senses": [["credit company"]]
+    },
+    {
+      "jlpt": ["jlpt-n5"],
+      "tags": ["wanikani5"],
+      "japanese": [{ "word": "会社", "reading": "かいしゃ" }],
+      "senses": [["company", "corporation"], ["workplace"], ["Company"]]
+    },
+    {
+      "jlpt": ["jlpt-n4"],
+      "tags": ["wanikani11"],
+      "japanese": [
+        { "word": "神社", "reading": "じんじゃ" },
+        { "word": "神社", "reading": "じんしゃ" }
+      ],
+      "senses": [["Shinto shrine"], ["Shinto shrine"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "商社", "reading": "しょうしゃ" }],
+      "senses": [["trading company"], ["Sogo shosha"]]
+    },
+    {
+      "jlpt": ["jlpt-n4"],
+      "tags": [],
+      "japanese": [{ "word": "新聞社", "reading": "しんぶんしゃ" }],
+      "senses": [["newspaper company"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani5"],
+      "japanese": [{ "word": "入社", "reading": "にゅうしゃ" }],
+      "senses": [
+        [
+          "joining a company",
+          "getting a job with a company",
+          "entering a company"
+        ]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "出社", "reading": "しゅっしゃ" }],
+      "senses": [["going to work (e.g. in the morning)", "coming to work"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani56"],
+      "japanese": [{ "word": "靖国神社", "reading": "やすくにじんじゃ" }],
+      "senses": [["Yasukuni Shrine"], ["Yasukuni Shrine"], ["Yasukuni Shrine"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "子会社", "reading": "こがいしゃ" }],
+      "senses": [["subsidiary (company)"], ["Subsidiary"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "航空会社", "reading": "こうくうがいしゃ" }],
+      "senses": [["airline company"], ["Airline"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "同社", "reading": "どうしゃ" }],
+      "senses": [["the same firm"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "当社", "reading": "とうしゃ" }],
+      "senses": [["(this) shrine"], ["(this) company", "(this) firm"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani32"],
+      "japanese": [
+        { "word": "出版社", "reading": "しゅっぱんしゃ" },
+        { "word": "出版者", "reading": "しゅっぱんしゃ" }
+      ],
+      "senses": [["publisher", "publishing house", "publishing company"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani5"],
+      "japanese": [
+        { "word": "本社", "reading": "ほんしゃ" },
+        { "word": "本社", "reading": "ほんじゃ" }
+      ],
+      "senses": [
+        ["head office", "main office", "headquarters", "parent company"],
+        ["main shrine"],
+        ["this company", "this shrine"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "地域社会", "reading": "ちいきしゃかい" }],
+      "senses": [["regional community"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "他社", "reading": "たしゃ" }],
+      "senses": [["another company", "other company"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "支社", "reading": "ししゃ" }],
+      "senses": [["branch office"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "退社", "reading": "たいしゃ" }],
+      "senses": [
+        ["resignation", "leaving office"],
+        ["leaving work (e.g. at the end of the day)"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "副社長", "reading": "ふくしゃちょう" }],
+      "senses": [["executive vice-president"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "株式会社", "reading": "かぶしきがいしゃ" }],
+      "senses": [["stock company", "corporation", "kabushiki kaisha", "KK"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "信販会社", "reading": "しんぱんがいしゃ" }],
+      "senses": [["credit company"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "全社", "reading": "ぜんしゃ" }],
+      "senses": [["whole company", "all the companies"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "自社", "reading": "じしゃ" }],
+      "senses": [
+        ["one's company", "company one works for"],
+        ["in-house", "belonging to the company"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "貴社", "reading": "きしゃ" }],
+      "senses": [["your company"], ["your shrine"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "弊社", "reading": "へいしゃ" }],
+      "senses": [["our company", "our firm"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani12"],
+      "japanese": [{ "word": "会社員", "reading": "かいしゃいん" }],
+      "senses": [["company employee", "office worker", "white-collar worker"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "旅行会社", "reading": "りょこうがいしゃ" }],
+      "senses": [["travel agent", "travel agency"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "競合他社", "reading": "きょうごうたしゃ" }],
+      "senses": [["competing companies", "rival companies"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "御社", "reading": "おんしゃ" }],
+      "senses": [["your company"], ["your shrine"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "情報化社会", "reading": "じょうほうかしゃかい" }],
+      "senses": [["information society"], ["Information society"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "民社党", "reading": "みんしゃとう" }],
+      "senses": [
+        ["Democratic Socialist Party"],
+        ["Democratic Socialist Party (Japan)"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "通信社", "reading": "つうしんしゃ" }],
+      "senses": [["news agency"], ["News agency"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "市民社会", "reading": "しみんしゃかい" }],
+      "senses": [["civil society"], ["Civil society"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "大社", "reading": "たいしゃ" },
+        { "word": "大社", "reading": "おおやしろ" }
+      ],
+      "senses": [
+        ["grand shrine", "famous shrine"],
+        ["Izumo Grand Shrine"],
+        ["Taisha"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani5"],
+      "japanese": [{ "word": "公社", "reading": "こうしゃ" }],
+      "senses": [["public corporation"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "結社", "reading": "けっしゃ" }],
+      "senses": [["association", "society"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "公社債", "reading": "こうしゃさい" }],
+      "senses": [["public bonds"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "会社更生法", "reading": "かいしゃこうせいほう" }],
+      "senses": [["Corporate Rehabilitation Law"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "親会社", "reading": "おやがいしゃ" }],
+      "senses": [["parent company"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "現代社会", "reading": "げんだいしゃかい" }],
+      "senses": [["modern society"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "日本社会", "reading": "にほんしゃかい" }],
+      "senses": [["Japanese society"]]
+    }
+  ]
+}

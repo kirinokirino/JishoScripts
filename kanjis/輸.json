@@ -1,1 +1,83 @@
-{"basic":["輸","Transport","307"],"extended":[{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"運輸","reading":"うんゆ"}],"senses":[["transportation"]]},{"jlpt":[],"tags":["wanikani32"],"japanese":[{"word":"密輸","reading":"みつゆ"}],"senses":[["smuggling","contraband trade"],["Smuggling"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"空輸","reading":"くうゆ"}],"senses":[["air transport","air lift","airlift"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"禁輸","reading":"きんゆ"}],"senses":[["embargo"],["Embargo"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"逆輸入","reading":"ぎゃくゆにゅう"}],"senses":[["reimportation","reimport","reverse import","importing back"],["(cultural, etc.) reverse import (e.g. California rolls being introduced in Japan)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"運輸省","reading":"うんゆしょう"}],"senses":[["Ministry of Transport"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"運輸","reading":"うんゆ"}],"senses":[["transportation"]]},{"jlpt":[],"tags":["wanikani32"],"japanese":[{"word":"密輸","reading":"みつゆ"}],"senses":[["smuggling","contraband trade"],["Smuggling"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"空輸","reading":"くうゆ"}],"senses":[["air transport","air lift","airlift"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"禁輸","reading":"きんゆ"}],"senses":[["embargo"],["Embargo"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"逆輸入","reading":"ぎゃくゆにゅう"}],"senses":[["reimportation","reimport","reverse import","importing back"],["(cultural, etc.) reverse import (e.g. California rolls being introduced in Japan)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"運輸省","reading":"うんゆしょう"}],"senses":[["Ministry of Transport"]]}]}
+{
+  "basic": ["輸", "Transport", "307"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "運輸", "reading": "うんゆ" }],
+      "senses": [["transportation"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani32"],
+      "japanese": [{ "word": "密輸", "reading": "みつゆ" }],
+      "senses": [["smuggling", "contraband trade"], ["Smuggling"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "空輸", "reading": "くうゆ" }],
+      "senses": [["air transport", "air lift", "airlift"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "禁輸", "reading": "きんゆ" }],
+      "senses": [["embargo"], ["Embargo"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "逆輸入", "reading": "ぎゃくゆにゅう" }],
+      "senses": [
+        ["reimportation", "reimport", "reverse import", "importing back"],
+        ["(cultural, etc.) reverse import (e.g. California rolls being introduced in Japan)"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "運輸省", "reading": "うんゆしょう" }],
+      "senses": [["Ministry of Transport"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "運輸", "reading": "うんゆ" }],
+      "senses": [["transportation"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani32"],
+      "japanese": [{ "word": "密輸", "reading": "みつゆ" }],
+      "senses": [["smuggling", "contraband trade"], ["Smuggling"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "空輸", "reading": "くうゆ" }],
+      "senses": [["air transport", "air lift", "airlift"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "禁輸", "reading": "きんゆ" }],
+      "senses": [["embargo"], ["Embargo"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "逆輸入", "reading": "ぎゃくゆにゅう" }],
+      "senses": [
+        ["reimportation", "reimport", "reverse import", "importing back"],
+        ["(cultural, etc.) reverse import (e.g. California rolls being introduced in Japan)"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "運輸省", "reading": "うんゆしょう" }],
+      "senses": [["Ministry of Transport"]]
+    }
+  ]
+}

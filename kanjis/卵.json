@@ -1,1 +1,29 @@
-{"basic":["卵","Egg","1526"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"産卵","reading":"さんらん"}],"senses":[["egg-laying","spawning"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"受精卵","reading":"じゅせいらん"}],"senses":[["fertilized egg","fertilised egg"],["Zygote"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"産卵","reading":"さんらん"}],"senses":[["egg-laying","spawning"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"受精卵","reading":"じゅせいらん"}],"senses":[["fertilized egg","fertilised egg"],["Zygote"]]}]}
+{
+  "basic": ["卵", "Egg", "1526"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "産卵", "reading": "さんらん" }],
+      "senses": [["egg-laying", "spawning"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "受精卵", "reading": "じゅせいらん" }],
+      "senses": [["fertilized egg", "fertilised egg"], ["Zygote"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "産卵", "reading": "さんらん" }],
+      "senses": [["egg-laying", "spawning"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "受精卵", "reading": "じゅせいらん" }],
+      "senses": [["fertilized egg", "fertilised egg"], ["Zygote"]]
+    }
+  ]
+}

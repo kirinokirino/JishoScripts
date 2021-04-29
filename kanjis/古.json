@@ -1,1 +1,107 @@
-{"basic":["古","Old","16"],"extended":[{"jlpt":["jlpt-n3"],"tags":["wanikani3"],"japanese":[{"word":"中古","reading":"ちゅうこ"},{"word":"中古","reading":"ちゅうぶる"}],"senses":[["used","second-hand","old"],["Middle Ages (in Japan esp. Heian period)"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"稽古","reading":"けいこ"}],"senses":[["practice","practising","training","study"],["Keiko"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"中古車","reading":"ちゅうこしゃ"}],"senses":[["used car","secondhand car"],["Used car"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"最古","reading":"さいこ"}],"senses":[["the oldest"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani5"],"japanese":[{"word":"考古学","reading":"こうこがく"}],"senses":[["archaeology","archeology"],["Archaeology"]]},{"jlpt":[],"tags":["wanikani9"],"japanese":[{"word":"名古屋","reading":"なごや"}],"senses":[["Nagoya (city)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"土耳古","reading":"トルコ"},{"word":"土耳其","reading":"トルコ"}],"senses":[["Turkey"],["turquoise"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani3"],"japanese":[{"word":"中古","reading":"ちゅうこ"},{"word":"中古","reading":"ちゅうぶる"}],"senses":[["used","second-hand","old"],["Middle Ages (in Japan esp. Heian period)"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"稽古","reading":"けいこ"}],"senses":[["practice","practising","training","study"],["Keiko"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"中古車","reading":"ちゅうこしゃ"}],"senses":[["used car","secondhand car"],["Used car"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"最古","reading":"さいこ"}],"senses":[["the oldest"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani5"],"japanese":[{"word":"考古学","reading":"こうこがく"}],"senses":[["archaeology","archeology"],["Archaeology"]]},{"jlpt":[],"tags":["wanikani9"],"japanese":[{"word":"名古屋","reading":"なごや"}],"senses":[["Nagoya (city)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"土耳古","reading":"トルコ"},{"word":"土耳其","reading":"トルコ"}],"senses":[["Turkey"],["turquoise"]]}]}
+{
+  "basic": ["古", "Old", "16"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani3"],
+      "japanese": [
+        { "word": "中古", "reading": "ちゅうこ" },
+        { "word": "中古", "reading": "ちゅうぶる" }
+      ],
+      "senses": [
+        ["used", "second-hand", "old"],
+        ["Middle Ages (in Japan esp. Heian period)"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "稽古", "reading": "けいこ" }],
+      "senses": [["practice", "practising", "training", "study"], ["Keiko"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "中古車", "reading": "ちゅうこしゃ" }],
+      "senses": [["used car", "secondhand car"], ["Used car"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "最古", "reading": "さいこ" }],
+      "senses": [["the oldest"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani5"],
+      "japanese": [{ "word": "考古学", "reading": "こうこがく" }],
+      "senses": [["archaeology", "archeology"], ["Archaeology"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani9"],
+      "japanese": [{ "word": "名古屋", "reading": "なごや" }],
+      "senses": [["Nagoya (city)"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "土耳古", "reading": "トルコ" },
+        { "word": "土耳其", "reading": "トルコ" }
+      ],
+      "senses": [["Turkey"], ["turquoise"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani3"],
+      "japanese": [
+        { "word": "中古", "reading": "ちゅうこ" },
+        { "word": "中古", "reading": "ちゅうぶる" }
+      ],
+      "senses": [
+        ["used", "second-hand", "old"],
+        ["Middle Ages (in Japan esp. Heian period)"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "稽古", "reading": "けいこ" }],
+      "senses": [["practice", "practising", "training", "study"], ["Keiko"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "中古車", "reading": "ちゅうこしゃ" }],
+      "senses": [["used car", "secondhand car"], ["Used car"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "最古", "reading": "さいこ" }],
+      "senses": [["the oldest"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani5"],
+      "japanese": [{ "word": "考古学", "reading": "こうこがく" }],
+      "senses": [["archaeology", "archeology"], ["Archaeology"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani9"],
+      "japanese": [{ "word": "名古屋", "reading": "なごや" }],
+      "senses": [["Nagoya (city)"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "土耳古", "reading": "トルコ" },
+        { "word": "土耳其", "reading": "トルコ" }
+      ],
+      "senses": [["Turkey"], ["turquoise"]]
+    }
+  ]
+}

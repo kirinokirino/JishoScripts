@@ -1,1 +1,237 @@
-{"basic":["挙","Raise","2088"],"extended":[{"jlpt":["jlpt-n1"],"tags":["wanikani21","wanikani23"],"japanese":[{"word":"選挙","reading":"せんきょ"}],"senses":[["election"],["Election"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"総選挙","reading":"そうせんきょ"}],"senses":[["general election (of the lower house)"],["General election"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"選挙権","reading":"せんきょけん"}],"senses":[["suffrage","the right to vote"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"選挙戦","reading":"せんきょせん"}],"senses":[["election campaign"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"列挙","reading":"れっきょ"}],"senses":[["enumeration","list"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"選挙運動","reading":"せんきょうんどう"}],"senses":[["election campaign","political campaign","campaigning","electioneering","canvassing"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"一挙に","reading":"いっきょに"}],"senses":[["at a stroke","with a single swoop"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"直接選挙","reading":"ちょくせつせんきょ"}],"senses":[["direct election"],["Direct election"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"検挙","reading":"けんきょ"}],"senses":[["arrest","roundup"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"暴挙","reading":"ぼうきょ"}],"senses":[["violence","reckless action","(an) outrage"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"快挙","reading":"かいきょ"}],"senses":[["brilliant achievement","spectacular feat","splendid accomplishment","remarkable deed"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"選挙人","reading":"せんきょにん"}],"senses":[["voter","constituent","elector"],["presidential elector (US)","member of the Electoral College"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"一挙","reading":"いっきょ"}],"senses":[["one effort","one action"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"旗揚げ","reading":"はたあげ"},{"word":"旗揚","reading":"はたあげ"},{"word":"旗挙げ","reading":"はたあげ"},{"word":"旗挙","reading":"はたあげ"}],"senses":[["raising an army"],["launching business"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"小選挙区","reading":"しょうせんきょく"}],"senses":[["small electoral district","single-member constituency"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani21","wanikani23"],"japanese":[{"word":"選挙","reading":"せんきょ"}],"senses":[["election"],["Election"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"総選挙","reading":"そうせんきょ"}],"senses":[["general election (of the lower house)"],["General election"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"選挙権","reading":"せんきょけん"}],"senses":[["suffrage","the right to vote"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"選挙戦","reading":"せんきょせん"}],"senses":[["election campaign"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"列挙","reading":"れっきょ"}],"senses":[["enumeration","list"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"選挙運動","reading":"せんきょうんどう"}],"senses":[["election campaign","political campaign","campaigning","electioneering","canvassing"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"一挙に","reading":"いっきょに"}],"senses":[["at a stroke","with a single swoop"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"直接選挙","reading":"ちょくせつせんきょ"}],"senses":[["direct election"],["Direct election"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"検挙","reading":"けんきょ"}],"senses":[["arrest","roundup"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"暴挙","reading":"ぼうきょ"}],"senses":[["violence","reckless action","(an) outrage"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"快挙","reading":"かいきょ"}],"senses":[["brilliant achievement","spectacular feat","splendid accomplishment","remarkable deed"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"選挙人","reading":"せんきょにん"}],"senses":[["voter","constituent","elector"],["presidential elector (US)","member of the Electoral College"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"一挙","reading":"いっきょ"}],"senses":[["one effort","one action"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"旗揚げ","reading":"はたあげ"},{"word":"旗揚","reading":"はたあげ"},{"word":"旗挙げ","reading":"はたあげ"},{"word":"旗挙","reading":"はたあげ"}],"senses":[["raising an army"],["launching business"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"小選挙区","reading":"しょうせんきょく"}],"senses":[["small electoral district","single-member constituency"]]}]}
+{
+  "basic": ["挙", "Raise", "2088"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani21", "wanikani23"],
+      "japanese": [{ "word": "選挙", "reading": "せんきょ" }],
+      "senses": [["election"], ["Election"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "総選挙", "reading": "そうせんきょ" }],
+      "senses": [
+        ["general election (of the lower house)"],
+        ["General election"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "選挙権", "reading": "せんきょけん" }],
+      "senses": [["suffrage", "the right to vote"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "選挙戦", "reading": "せんきょせん" }],
+      "senses": [["election campaign"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "列挙", "reading": "れっきょ" }],
+      "senses": [["enumeration", "list"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "選挙運動", "reading": "せんきょうんどう" }],
+      "senses": [
+        [
+          "election campaign",
+          "political campaign",
+          "campaigning",
+          "electioneering",
+          "canvassing"
+        ]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "一挙に", "reading": "いっきょに" }],
+      "senses": [["at a stroke", "with a single swoop"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "直接選挙", "reading": "ちょくせつせんきょ" }],
+      "senses": [["direct election"], ["Direct election"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "検挙", "reading": "けんきょ" }],
+      "senses": [["arrest", "roundup"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "暴挙", "reading": "ぼうきょ" }],
+      "senses": [["violence", "reckless action", "(an) outrage"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "快挙", "reading": "かいきょ" }],
+      "senses": [
+        [
+          "brilliant achievement",
+          "spectacular feat",
+          "splendid accomplishment",
+          "remarkable deed"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "選挙人", "reading": "せんきょにん" }],
+      "senses": [
+        ["voter", "constituent", "elector"],
+        ["presidential elector (US)", "member of the Electoral College"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "一挙", "reading": "いっきょ" }],
+      "senses": [["one effort", "one action"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "旗揚げ", "reading": "はたあげ" },
+        { "word": "旗揚", "reading": "はたあげ" },
+        { "word": "旗挙げ", "reading": "はたあげ" },
+        { "word": "旗挙", "reading": "はたあげ" }
+      ],
+      "senses": [["raising an army"], ["launching business"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "小選挙区", "reading": "しょうせんきょく" }],
+      "senses": [["small electoral district", "single-member constituency"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani21", "wanikani23"],
+      "japanese": [{ "word": "選挙", "reading": "せんきょ" }],
+      "senses": [["election"], ["Election"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "総選挙", "reading": "そうせんきょ" }],
+      "senses": [
+        ["general election (of the lower house)"],
+        ["General election"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "選挙権", "reading": "せんきょけん" }],
+      "senses": [["suffrage", "the right to vote"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "選挙戦", "reading": "せんきょせん" }],
+      "senses": [["election campaign"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "列挙", "reading": "れっきょ" }],
+      "senses": [["enumeration", "list"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "選挙運動", "reading": "せんきょうんどう" }],
+      "senses": [
+        [
+          "election campaign",
+          "political campaign",
+          "campaigning",
+          "electioneering",
+          "canvassing"
+        ]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "一挙に", "reading": "いっきょに" }],
+      "senses": [["at a stroke", "with a single swoop"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "直接選挙", "reading": "ちょくせつせんきょ" }],
+      "senses": [["direct election"], ["Direct election"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "検挙", "reading": "けんきょ" }],
+      "senses": [["arrest", "roundup"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "暴挙", "reading": "ぼうきょ" }],
+      "senses": [["violence", "reckless action", "(an) outrage"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "快挙", "reading": "かいきょ" }],
+      "senses": [
+        [
+          "brilliant achievement",
+          "spectacular feat",
+          "splendid accomplishment",
+          "remarkable deed"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "選挙人", "reading": "せんきょにん" }],
+      "senses": [
+        ["voter", "constituent", "elector"],
+        ["presidential elector (US)", "member of the Electoral College"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "一挙", "reading": "いっきょ" }],
+      "senses": [["one effort", "one action"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "旗揚げ", "reading": "はたあげ" },
+        { "word": "旗揚", "reading": "はたあげ" },
+        { "word": "旗挙げ", "reading": "はたあげ" },
+        { "word": "旗挙", "reading": "はたあげ" }
+      ],
+      "senses": [["raising an army"], ["launching business"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "小選挙区", "reading": "しょうせんきょく" }],
+      "senses": [["small electoral district", "single-member constituency"]]
+    }
+  ]
+}

@@ -1,1 +1,29 @@
-{"basic":["創","Genesis","1759"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"独創的","reading":"どくそうてき"}],"senses":[["creative","original"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani26"],"japanese":[{"word":"独創","reading":"どくそう"}],"senses":[["originality"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"独創的","reading":"どくそうてき"}],"senses":[["creative","original"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani26"],"japanese":[{"word":"独創","reading":"どくそう"}],"senses":[["originality"]]}]}
+{
+  "basic": ["創", "Genesis", "1759"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "独創的", "reading": "どくそうてき" }],
+      "senses": [["creative", "original"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani26"],
+      "japanese": [{ "word": "独創", "reading": "どくそう" }],
+      "senses": [["originality"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "独創的", "reading": "どくそうてき" }],
+      "senses": [["creative", "original"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani26"],
+      "japanese": [{ "word": "独創", "reading": "どくそう" }],
+      "senses": [["originality"]]
+    }
+  ]
+}

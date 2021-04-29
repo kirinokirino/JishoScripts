@@ -1,1 +1,65 @@
-{"basic":["従","Accompany","942"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"服従","reading":"ふくじゅう"}],"senses":[["obedience","submission","resignation"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"侍従","reading":"じじゅう"}],"senses":[["chamberlain"],["Chamberlain of Japan"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"専従","reading":"せんじゅう"}],"senses":[["working exclusively for","working full-time (for)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"に従って","reading":"にしたがって"}],"senses":[["in accordance with","according to","as X, then Y (e.g. as we age we gain wisdom, as wine matures it becomes more valuable, etc.)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"服従","reading":"ふくじゅう"}],"senses":[["obedience","submission","resignation"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"侍従","reading":"じじゅう"}],"senses":[["chamberlain"],["Chamberlain of Japan"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"専従","reading":"せんじゅう"}],"senses":[["working exclusively for","working full-time (for)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"に従って","reading":"にしたがって"}],"senses":[["in accordance with","according to","as X, then Y (e.g. as we age we gain wisdom, as wine matures it becomes more valuable, etc.)"]]}]}
+{
+  "basic": ["従", "Accompany", "942"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "服従", "reading": "ふくじゅう" }],
+      "senses": [["obedience", "submission", "resignation"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "侍従", "reading": "じじゅう" }],
+      "senses": [["chamberlain"], ["Chamberlain of Japan"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "専従", "reading": "せんじゅう" }],
+      "senses": [["working exclusively for", "working full-time (for)"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "に従って", "reading": "にしたがって" }],
+      "senses": [
+        [
+          "in accordance with",
+          "according to",
+          "as X, then Y (e.g. as we age we gain wisdom, as wine matures it becomes more valuable, etc.)"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "服従", "reading": "ふくじゅう" }],
+      "senses": [["obedience", "submission", "resignation"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "侍従", "reading": "じじゅう" }],
+      "senses": [["chamberlain"], ["Chamberlain of Japan"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "専従", "reading": "せんじゅう" }],
+      "senses": [["working exclusively for", "working full-time (for)"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "に従って", "reading": "にしたがって" }],
+      "senses": [
+        [
+          "in accordance with",
+          "according to",
+          "as X, then Y (e.g. as we age we gain wisdom, as wine matures it becomes more valuable, etc.)"
+        ]
+      ]
+    }
+  ]
+}

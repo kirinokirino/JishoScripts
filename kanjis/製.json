@@ -1,1 +1,195 @@
-{"basic":["製","Made In…","448"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"精製","reading":"せいせい"}],"senses":[["refining","purification"],["Refining"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"乳製品","reading":"にゅうせいひん"}],"senses":[["dairy products"],["Dairy product"]]},{"jlpt":[],"tags":["wanikani24"],"japanese":[{"word":"木製","reading":"もくせい"}],"senses":[["wooden","made of wood"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"電気製品","reading":"でんきせいひん"}],"senses":[["electronic goods"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"手製","reading":"てせい"}],"senses":[["handmade"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"複製","reading":"ふくせい"}],"senses":[["reproduction","duplication","reprinting"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"特製","reading":"とくせい"}],"senses":[["special make","deluxe"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"新製品","reading":"しんせいひん"}],"senses":[["new product","new line (of products)"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"作製","reading":"さくせい"}],"senses":[["manufacture","production"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"鉄製","reading":"てっせい"},{"word":"鉄製","reading":"てつせい"}],"senses":[["made of iron"]]},{"jlpt":[],"tags":["wanikani56"],"japanese":[{"word":"縫製","reading":"ほうせい"},{"word":"縫成","reading":"ほうせい"}],"senses":[["sewing (by machine)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"既製","reading":"きせい"}],"senses":[["ready-made","off the shelf"]]},{"jlpt":[],"tags":["wanikani24"],"japanese":[{"word":"日本製","reading":"にほんせい"}],"senses":[["made in Japan"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"新日本製鐵","reading":"しんにっぽんせいてつ"},{"word":"新日本製鐵","reading":"しんにほんせいてつ"},{"word":"新日本製鉄","reading":"しんにっぽんせいてつ"},{"word":"新日本製鉄","reading":"しんにほんせいてつ"}],"senses":[["Nippon Steel Corporation"],["Nippon Steel"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"乳製品","reading":"にゅうせいひん"}],"senses":[["dairy products"],["Dairy product"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"精製","reading":"せいせい"}],"senses":[["refining","purification"],["Refining"]]},{"jlpt":[],"tags":["wanikani24"],"japanese":[{"word":"木製","reading":"もくせい"}],"senses":[["wooden","made of wood"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"手製","reading":"てせい"}],"senses":[["handmade"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"電気製品","reading":"でんきせいひん"}],"senses":[["electronic goods"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"複製","reading":"ふくせい"}],"senses":[["reproduction","duplication","reprinting"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"特製","reading":"とくせい"}],"senses":[["special make","deluxe"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"新製品","reading":"しんせいひん"}],"senses":[["new product","new line (of products)"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"作製","reading":"さくせい"}],"senses":[["manufacture","production"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"鉄製","reading":"てっせい"},{"word":"鉄製","reading":"てつせい"}],"senses":[["made of iron"]]},{"jlpt":[],"tags":["wanikani56"],"japanese":[{"word":"縫製","reading":"ほうせい"},{"word":"縫成","reading":"ほうせい"}],"senses":[["sewing (by machine)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"既製","reading":"きせい"}],"senses":[["ready-made","off the shelf"]]},{"jlpt":[],"tags":["wanikani24"],"japanese":[{"word":"日本製","reading":"にほんせい"}],"senses":[["made in Japan"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"新日本製鐵","reading":"しんにっぽんせいてつ"},{"word":"新日本製鐵","reading":"しんにほんせいてつ"},{"word":"新日本製鉄","reading":"しんにっぽんせいてつ"},{"word":"新日本製鉄","reading":"しんにほんせいてつ"}],"senses":[["Nippon Steel Corporation"],["Nippon Steel"]]}]}
+{
+  "basic": ["製", "Made In…", "448"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "精製", "reading": "せいせい" }],
+      "senses": [["refining", "purification"], ["Refining"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "乳製品", "reading": "にゅうせいひん" }],
+      "senses": [["dairy products"], ["Dairy product"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani24"],
+      "japanese": [{ "word": "木製", "reading": "もくせい" }],
+      "senses": [["wooden", "made of wood"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "電気製品", "reading": "でんきせいひん" }],
+      "senses": [["electronic goods"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "手製", "reading": "てせい" }],
+      "senses": [["handmade"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "複製", "reading": "ふくせい" }],
+      "senses": [["reproduction", "duplication", "reprinting"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "特製", "reading": "とくせい" }],
+      "senses": [["special make", "deluxe"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "新製品", "reading": "しんせいひん" }],
+      "senses": [["new product", "new line (of products)"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "作製", "reading": "さくせい" }],
+      "senses": [["manufacture", "production"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "鉄製", "reading": "てっせい" },
+        { "word": "鉄製", "reading": "てつせい" }
+      ],
+      "senses": [["made of iron"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani56"],
+      "japanese": [
+        { "word": "縫製", "reading": "ほうせい" },
+        { "word": "縫成", "reading": "ほうせい" }
+      ],
+      "senses": [["sewing (by machine)"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "既製", "reading": "きせい" }],
+      "senses": [["ready-made", "off the shelf"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani24"],
+      "japanese": [{ "word": "日本製", "reading": "にほんせい" }],
+      "senses": [["made in Japan"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "新日本製鐵", "reading": "しんにっぽんせいてつ" },
+        { "word": "新日本製鐵", "reading": "しんにほんせいてつ" },
+        { "word": "新日本製鉄", "reading": "しんにっぽんせいてつ" },
+        { "word": "新日本製鉄", "reading": "しんにほんせいてつ" }
+      ],
+      "senses": [["Nippon Steel Corporation"], ["Nippon Steel"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "乳製品", "reading": "にゅうせいひん" }],
+      "senses": [["dairy products"], ["Dairy product"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "精製", "reading": "せいせい" }],
+      "senses": [["refining", "purification"], ["Refining"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani24"],
+      "japanese": [{ "word": "木製", "reading": "もくせい" }],
+      "senses": [["wooden", "made of wood"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "手製", "reading": "てせい" }],
+      "senses": [["handmade"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "電気製品", "reading": "でんきせいひん" }],
+      "senses": [["electronic goods"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "複製", "reading": "ふくせい" }],
+      "senses": [["reproduction", "duplication", "reprinting"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "特製", "reading": "とくせい" }],
+      "senses": [["special make", "deluxe"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "新製品", "reading": "しんせいひん" }],
+      "senses": [["new product", "new line (of products)"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "作製", "reading": "さくせい" }],
+      "senses": [["manufacture", "production"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "鉄製", "reading": "てっせい" },
+        { "word": "鉄製", "reading": "てつせい" }
+      ],
+      "senses": [["made of iron"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani56"],
+      "japanese": [
+        { "word": "縫製", "reading": "ほうせい" },
+        { "word": "縫成", "reading": "ほうせい" }
+      ],
+      "senses": [["sewing (by machine)"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "既製", "reading": "きせい" }],
+      "senses": [["ready-made", "off the shelf"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani24"],
+      "japanese": [{ "word": "日本製", "reading": "にほんせい" }],
+      "senses": [["made in Japan"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "新日本製鐵", "reading": "しんにっぽんせいてつ" },
+        { "word": "新日本製鐵", "reading": "しんにほんせいてつ" },
+        { "word": "新日本製鉄", "reading": "しんにっぽんせいてつ" },
+        { "word": "新日本製鉄", "reading": "しんにほんせいてつ" }
+      ],
+      "senses": [["Nippon Steel Corporation"], ["Nippon Steel"]]
+    }
+  ]
+}

@@ -1,1 +1,45 @@
-{"basic":["励","Encourage","931"],"extended":[{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"奨励","reading":"しょうれい"}],"senses":[["encouragement","promotion","inducement","incitement","stimulation"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani26"],"japanese":[{"word":"激励","reading":"げきれい"}],"senses":[["encouragement","spurring (on)","cheering (on)"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"奨励","reading":"しょうれい"}],"senses":[["encouragement","promotion","inducement","incitement","stimulation"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani26"],"japanese":[{"word":"激励","reading":"げきれい"}],"senses":[["encouragement","spurring (on)","cheering (on)"]]}]}
+{
+  "basic": ["励", "Encourage", "931"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "奨励", "reading": "しょうれい" }],
+      "senses": [
+        [
+          "encouragement",
+          "promotion",
+          "inducement",
+          "incitement",
+          "stimulation"
+        ]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani26"],
+      "japanese": [{ "word": "激励", "reading": "げきれい" }],
+      "senses": [["encouragement", "spurring (on)", "cheering (on)"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "奨励", "reading": "しょうれい" }],
+      "senses": [
+        [
+          "encouragement",
+          "promotion",
+          "inducement",
+          "incitement",
+          "stimulation"
+        ]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani26"],
+      "japanese": [{ "word": "激励", "reading": "げきれい" }],
+      "senses": [["encouragement", "spurring (on)", "cheering (on)"]]
+    }
+  ]
+}

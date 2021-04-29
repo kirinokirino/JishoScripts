@@ -1,1 +1,23 @@
-{"basic":["贈","Presents","542"],"extended":[{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"寄贈","reading":"きぞう"},{"word":"寄贈","reading":"きそう"}],"senses":[["donation","presentation","gift"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"寄贈","reading":"きぞう"},{"word":"寄贈","reading":"きそう"}],"senses":[["donation","presentation","gift"]]}]}
+{
+  "basic": ["贈", "Presents", "542"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "寄贈", "reading": "きぞう" },
+        { "word": "寄贈", "reading": "きそう" }
+      ],
+      "senses": [["donation", "presentation", "gift"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "寄贈", "reading": "きぞう" },
+        { "word": "寄贈", "reading": "きそう" }
+      ],
+      "senses": [["donation", "presentation", "gift"]]
+    }
+  ]
+}

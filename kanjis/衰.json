@@ -1,1 +1,17 @@
-{"basic":["衰","Decline","2037"],"extended":[{"jlpt":["jlpt-n1"],"tags":["wanikani49"],"japanese":[{"word":"老衰","reading":"ろうすい"}],"senses":[["senility","senile decay","infirmity (through age)"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani49"],"japanese":[{"word":"老衰","reading":"ろうすい"}],"senses":[["senility","senile decay","infirmity (through age)"]]}]}
+{
+  "basic": ["衰", "Decline", "2037"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani49"],
+      "japanese": [{ "word": "老衰", "reading": "ろうすい" }],
+      "senses": [["senility", "senile decay", "infirmity (through age)"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani49"],
+      "japanese": [{ "word": "老衰", "reading": "ろうすい" }],
+      "senses": [["senility", "senile decay", "infirmity (through age)"]]
+    }
+  ]
+}

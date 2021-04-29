@@ -1,1 +1,75 @@
-{"basic":["殻","Husk","767"],"extended":[{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"貝殻","reading":"かいがら"},{"word":"貝がら","reading":"かいがら"},{"word":"貝殼","reading":"かいがら"}],"senses":[["seashell","shell"],["Seashell"]]},{"jlpt":[],"tags":["wanikani60"],"japanese":[{"word":"吸い殻","reading":"すいがら"},{"word":"吸殻","reading":"すいがら"},{"word":"吸いがら","reading":"すいがら"},{"word":"吸がら","reading":"すいがら"}],"senses":[["cigarette end","cigarette butt","tobacco ashes"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"地殻変動","reading":"ちかくへんどう"}],"senses":[["diastrophism","movement and deformation of the earth's crust"],["upheaval (e.g. in politics)","seismic shift","earthshaking changes"],["Diastrophism"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"貝殻","reading":"かいがら"},{"word":"貝がら","reading":"かいがら"},{"word":"貝殼","reading":"かいがら"}],"senses":[["seashell","shell"],["Seashell"]]},{"jlpt":[],"tags":["wanikani60"],"japanese":[{"word":"吸い殻","reading":"すいがら"},{"word":"吸殻","reading":"すいがら"},{"word":"吸いがら","reading":"すいがら"},{"word":"吸がら","reading":"すいがら"}],"senses":[["cigarette end","cigarette butt","tobacco ashes"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"地殻変動","reading":"ちかくへんどう"}],"senses":[["diastrophism","movement and deformation of the earth's crust"],["upheaval (e.g. in politics)","seismic shift","earthshaking changes"],["Diastrophism"]]}]}
+{
+  "basic": ["殻", "Husk", "767"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "貝殻", "reading": "かいがら" },
+        { "word": "貝がら", "reading": "かいがら" },
+        { "word": "貝殼", "reading": "かいがら" }
+      ],
+      "senses": [["seashell", "shell"], ["Seashell"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani60"],
+      "japanese": [
+        { "word": "吸い殻", "reading": "すいがら" },
+        { "word": "吸殻", "reading": "すいがら" },
+        { "word": "吸いがら", "reading": "すいがら" },
+        { "word": "吸がら", "reading": "すいがら" }
+      ],
+      "senses": [["cigarette end", "cigarette butt", "tobacco ashes"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "地殻変動", "reading": "ちかくへんどう" }],
+      "senses": [
+        ["diastrophism", "movement and deformation of the earth's crust"],
+        [
+          "upheaval (e.g. in politics)",
+          "seismic shift",
+          "earthshaking changes"
+        ],
+        ["Diastrophism"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "貝殻", "reading": "かいがら" },
+        { "word": "貝がら", "reading": "かいがら" },
+        { "word": "貝殼", "reading": "かいがら" }
+      ],
+      "senses": [["seashell", "shell"], ["Seashell"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani60"],
+      "japanese": [
+        { "word": "吸い殻", "reading": "すいがら" },
+        { "word": "吸殻", "reading": "すいがら" },
+        { "word": "吸いがら", "reading": "すいがら" },
+        { "word": "吸がら", "reading": "すいがら" }
+      ],
+      "senses": [["cigarette end", "cigarette butt", "tobacco ashes"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "地殻変動", "reading": "ちかくへんどう" }],
+      "senses": [
+        ["diastrophism", "movement and deformation of the earth's crust"],
+        [
+          "upheaval (e.g. in politics)",
+          "seismic shift",
+          "earthshaking changes"
+        ],
+        ["Diastrophism"]
+      ]
+    }
+  ]
+}

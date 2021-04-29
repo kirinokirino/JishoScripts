@@ -1,1 +1,23 @@
-{"basic":["斎","Purification","1869"],"extended":[{"jlpt":["jlpt-n3"],"tags":["wanikani42"],"japanese":[{"word":"書斎","reading":"しょさい"}],"senses":[["study","library","den","home office","reading room"],["Study (room)"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani42"],"japanese":[{"word":"書斎","reading":"しょさい"}],"senses":[["study","library","den","home office","reading room"],["Study (room)"]]}]}
+{
+  "basic": ["斎", "Purification", "1869"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani42"],
+      "japanese": [{ "word": "書斎", "reading": "しょさい" }],
+      "senses": [
+        ["study", "library", "den", "home office", "reading room"],
+        ["Study (room)"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani42"],
+      "japanese": [{ "word": "書斎", "reading": "しょさい" }],
+      "senses": [
+        ["study", "library", "den", "home office", "reading room"],
+        ["Study (room)"]
+      ]
+    }
+  ]
+}

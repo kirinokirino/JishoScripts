@@ -1,1 +1,121 @@
-{"basic":["囲","Surround","1948"],"extended":[{"jlpt":["jlpt-n3"],"tags":["wanikani14"],"japanese":[{"word":"周囲","reading":"しゅうい"}],"senses":[["surroundings","environs"],["circumference"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani42"],"japanese":[{"word":"範囲","reading":"はんい"}],"senses":[["extent","scope","sphere","range","span"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani14"],"japanese":[{"word":"雰囲気","reading":"ふんいき"},{"word":"ふんい気","reading":"ふんいき"},{"word":"ふん囲気","reading":"ふんいき"},{"word":"雰囲気","reading":"ふいんき"}],"senses":[["atmosphere","mood","ambience","ambiance","aura","feel"],["a certain air","presence","special aura","something (about someone)"],["(Earth's) atmosphere"]]},{"jlpt":[],"tags":["wanikani41"],"japanese":[{"word":"包囲","reading":"ほうい"}],"senses":[["siege","encirclement","envelopment","surrounding","besiegement"],["Envelopment"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"取り囲む","reading":"とりかこむ"},{"word":"取囲む","reading":"とりかこむ"},{"word":"取りかこむ","reading":"とりかこむ"},{"word":"とり囲む","reading":"とりかこむ"}],"senses":[["to surround","to crowd around"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"広範囲","reading":"こうはんい"}],"senses":[["extensive","vast range","wide scope"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani14"],"japanese":[{"word":"周囲","reading":"しゅうい"}],"senses":[["surroundings","environs"],["circumference"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani42"],"japanese":[{"word":"範囲","reading":"はんい"}],"senses":[["extent","scope","sphere","range","span"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani14"],"japanese":[{"word":"雰囲気","reading":"ふんいき"},{"word":"ふんい気","reading":"ふんいき"},{"word":"ふん囲気","reading":"ふんいき"},{"word":"雰囲気","reading":"ふいんき"}],"senses":[["atmosphere","mood","ambience","ambiance","aura","feel"],["a certain air","presence","special aura","something (about someone)"],["(Earth's) atmosphere"]]},{"jlpt":[],"tags":["wanikani41"],"japanese":[{"word":"包囲","reading":"ほうい"}],"senses":[["siege","encirclement","envelopment","surrounding","besiegement"],["Envelopment"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"取り囲む","reading":"とりかこむ"},{"word":"取囲む","reading":"とりかこむ"},{"word":"取りかこむ","reading":"とりかこむ"},{"word":"とり囲む","reading":"とりかこむ"}],"senses":[["to surround","to crowd around"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"広範囲","reading":"こうはんい"}],"senses":[["extensive","vast range","wide scope"]]}]}
+{
+  "basic": ["囲", "Surround", "1948"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani14"],
+      "japanese": [{ "word": "周囲", "reading": "しゅうい" }],
+      "senses": [["surroundings", "environs"], ["circumference"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani42"],
+      "japanese": [{ "word": "範囲", "reading": "はんい" }],
+      "senses": [["extent", "scope", "sphere", "range", "span"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani14"],
+      "japanese": [
+        { "word": "雰囲気", "reading": "ふんいき" },
+        { "word": "ふんい気", "reading": "ふんいき" },
+        { "word": "ふん囲気", "reading": "ふんいき" },
+        { "word": "雰囲気", "reading": "ふいんき" }
+      ],
+      "senses": [
+        ["atmosphere", "mood", "ambience", "ambiance", "aura", "feel"],
+        [
+          "a certain air",
+          "presence",
+          "special aura",
+          "something (about someone)"
+        ],
+        ["(Earth's) atmosphere"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani41"],
+      "japanese": [{ "word": "包囲", "reading": "ほうい" }],
+      "senses": [
+        ["siege", "encirclement", "envelopment", "surrounding", "besiegement"],
+        ["Envelopment"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "取り囲む", "reading": "とりかこむ" },
+        { "word": "取囲む", "reading": "とりかこむ" },
+        { "word": "取りかこむ", "reading": "とりかこむ" },
+        { "word": "とり囲む", "reading": "とりかこむ" }
+      ],
+      "senses": [["to surround", "to crowd around"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "広範囲", "reading": "こうはんい" }],
+      "senses": [["extensive", "vast range", "wide scope"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani14"],
+      "japanese": [{ "word": "周囲", "reading": "しゅうい" }],
+      "senses": [["surroundings", "environs"], ["circumference"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani42"],
+      "japanese": [{ "word": "範囲", "reading": "はんい" }],
+      "senses": [["extent", "scope", "sphere", "range", "span"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani14"],
+      "japanese": [
+        { "word": "雰囲気", "reading": "ふんいき" },
+        { "word": "ふんい気", "reading": "ふんいき" },
+        { "word": "ふん囲気", "reading": "ふんいき" },
+        { "word": "雰囲気", "reading": "ふいんき" }
+      ],
+      "senses": [
+        ["atmosphere", "mood", "ambience", "ambiance", "aura", "feel"],
+        [
+          "a certain air",
+          "presence",
+          "special aura",
+          "something (about someone)"
+        ],
+        ["(Earth's) atmosphere"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani41"],
+      "japanese": [{ "word": "包囲", "reading": "ほうい" }],
+      "senses": [
+        ["siege", "encirclement", "envelopment", "surrounding", "besiegement"],
+        ["Envelopment"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "取り囲む", "reading": "とりかこむ" },
+        { "word": "取囲む", "reading": "とりかこむ" },
+        { "word": "取りかこむ", "reading": "とりかこむ" },
+        { "word": "とり囲む", "reading": "とりかこむ" }
+      ],
+      "senses": [["to surround", "to crowd around"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "広範囲", "reading": "こうはんい" }],
+      "senses": [["extensive", "vast range", "wide scope"]]
+    }
+  ]
+}

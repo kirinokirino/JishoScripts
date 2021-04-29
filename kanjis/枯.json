@@ -1,1 +1,27 @@
-{"basic":["枯","Wither","219"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"木枯らし","reading":"こがらし"},{"word":"木枯し","reading":"こがらし"},{"word":"凩","reading":"こがらし"},{"word":"木枯","reading":"こがらし"}],"senses":[["cold wintry wind"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"木枯らし","reading":"こがらし"},{"word":"木枯し","reading":"こがらし"},{"word":"凩","reading":"こがらし"},{"word":"木枯","reading":"こがらし"}],"senses":[["cold wintry wind"]]}]}
+{
+  "basic": ["枯", "Wither", "219"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "木枯らし", "reading": "こがらし" },
+        { "word": "木枯し", "reading": "こがらし" },
+        { "word": "凩", "reading": "こがらし" },
+        { "word": "木枯", "reading": "こがらし" }
+      ],
+      "senses": [["cold wintry wind"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "木枯らし", "reading": "こがらし" },
+        { "word": "木枯し", "reading": "こがらし" },
+        { "word": "凩", "reading": "こがらし" },
+        { "word": "木枯", "reading": "こがらし" }
+      ],
+      "senses": [["cold wintry wind"]]
+    }
+  ]
+}

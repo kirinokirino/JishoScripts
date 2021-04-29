@@ -1,1 +1,27 @@
-{"basic":["操","Maneuver","724"],"extended":[{"jlpt":["jlpt-n2"],"tags":["wanikani33"],"japanese":[{"word":"体操","reading":"たいそう"}],"senses":[["gymnastics","physical exercises"],["artistic gymnastics","gymnastics competition"],["physical education (class)","PE"],["Gymnastics"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani33"],"japanese":[{"word":"体操","reading":"たいそう"}],"senses":[["gymnastics","physical exercises"],["artistic gymnastics","gymnastics competition"],["physical education (class)","PE"],["Gymnastics"]]}]}
+{
+  "basic": ["操", "Maneuver", "724"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani33"],
+      "japanese": [{ "word": "体操", "reading": "たいそう" }],
+      "senses": [
+        ["gymnastics", "physical exercises"],
+        ["artistic gymnastics", "gymnastics competition"],
+        ["physical education (class)", "PE"],
+        ["Gymnastics"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani33"],
+      "japanese": [{ "word": "体操", "reading": "たいそう" }],
+      "senses": [
+        ["gymnastics", "physical exercises"],
+        ["artistic gymnastics", "gymnastics competition"],
+        ["physical education (class)", "PE"],
+        ["Gymnastics"]
+      ]
+    }
+  ]
+}

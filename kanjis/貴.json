@@ -1,1 +1,39 @@
-{"basic":["貴","Precious","1908"],"extended":[{"jlpt":[],"tags":["wanikani34"],"japanese":[{"word":"兄貴","reading":"あにき"},{"reading":"アニキ"}],"senses":[["elder brother"],["one's senior"],["older man","man older than oneself"],["Aniki"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"騰貴","reading":"とうき"}],"senses":[["rise (in price or value)","appreciation","advance"]]},{"jlpt":[],"tags":["wanikani34"],"japanese":[{"word":"兄貴","reading":"あにき"},{"reading":"アニキ"}],"senses":[["elder brother"],["one's senior"],["older man","man older than oneself"],["Aniki"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"騰貴","reading":"とうき"}],"senses":[["rise (in price or value)","appreciation","advance"]]}]}
+{
+  "basic": ["貴", "Precious", "1908"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": ["wanikani34"],
+      "japanese": [{ "word": "兄貴", "reading": "あにき" }, { "reading": "アニキ" }],
+      "senses": [
+        ["elder brother"],
+        ["one's senior"],
+        ["older man", "man older than oneself"],
+        ["Aniki"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "騰貴", "reading": "とうき" }],
+      "senses": [["rise (in price or value)", "appreciation", "advance"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani34"],
+      "japanese": [{ "word": "兄貴", "reading": "あにき" }, { "reading": "アニキ" }],
+      "senses": [
+        ["elder brother"],
+        ["one's senior"],
+        ["older man", "man older than oneself"],
+        ["Aniki"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "騰貴", "reading": "とうき" }],
+      "senses": [["rise (in price or value)", "appreciation", "advance"]]
+    }
+  ]
+}

@@ -1,1 +1,414 @@
-{"basic":["権","Authority","613"],"extended":[{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"政権","reading":"せいけん"}],"senses":[["(political) administration","political power"],["Regime"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"棄権","reading":"きけん"}],"senses":[["abstention (from voting)","renunciation (of a right)","withdrawal (from a contest)"],["Abstention"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"主権","reading":"しゅけん"},{"word":"主權","reading":"しゅけん"}],"senses":[["sovereignty","supremacy","dominion"],["Sovereignty"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"特権","reading":"とっけん"}],"senses":[["privilege","special right"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"所有権","reading":"しょゆうけん"}],"senses":[["ownership","dominion","ownership rights","proprietorship","property rights"],["Ownership"]]},{"jlpt":[],"tags":["wanikani21"],"japanese":[{"word":"人権","reading":"じんけん"}],"senses":[["human rights","civil liberties"],["Human rights"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"選手権","reading":"せんしゅけん"}],"senses":[["championship","title (of champion)"],["Championship"]]},{"jlpt":[],"tags":["wanikani36"],"japanese":[{"word":"債権","reading":"さいけん"}],"senses":[["credit","claim"],["Law of obligations"]]},{"jlpt":[],"tags":["wanikani35"],"japanese":[{"word":"著作権","reading":"ちょさくけん"}],"senses":[["copyright"],["Copyright"]]},{"jlpt":[],"tags":["wanikani52"],"japanese":[{"word":"覇権","reading":"はけん"}],"senses":[["hegemony"],["Hegemony"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"公民権","reading":"こうみんけん"}],"senses":[["civil rights","franchise","citizenship"],["Civil and political rights"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"拒否権","reading":"きょひけん"}],"senses":[["right of veto"],["Veto"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"選挙権","reading":"せんきょけん"}],"senses":[["suffrage","the right to vote"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"市民権","reading":"しみんけん"}],"senses":[["citizenship","civic rights","civil rights"],["widespread acceptance","social recognition","common use"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"主導権","reading":"しゅどうけん"}],"senses":[["hegemony","leadership","initiative"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"有権者","reading":"ゆうけんしゃ"}],"senses":[["(eligible) voter","elector","constituent","the electorate"],["holder of a right","rightsholder","right holder"],["bigwig","person with political clout"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"職権","reading":"しょっけん"}],"senses":[["one's (official) authority","power"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"全権","reading":"ぜんけん"}],"senses":[["plenipotentiary powers","full authority"]]},{"jlpt":[],"tags":["wanikani30"],"japanese":[{"word":"版権","reading":"はんけん"}],"senses":[["copyright"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"実権","reading":"じっけん"}],"senses":[["real power"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"政権","reading":"せいけん"}],"senses":[["(political) administration","political power"],["Regime"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"棄権","reading":"きけん"}],"senses":[["abstention (from voting)","renunciation (of a right)","withdrawal (from a contest)"],["Abstention"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"主権","reading":"しゅけん"},{"word":"主權","reading":"しゅけん"}],"senses":[["sovereignty","supremacy","dominion"],["Sovereignty"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"特権","reading":"とっけん"}],"senses":[["privilege","special right"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"所有権","reading":"しょゆうけん"}],"senses":[["ownership","dominion","ownership rights","proprietorship","property rights"],["Ownership"]]},{"jlpt":[],"tags":["wanikani21"],"japanese":[{"word":"人権","reading":"じんけん"}],"senses":[["human rights","civil liberties"],["Human rights"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"選手権","reading":"せんしゅけん"}],"senses":[["championship","title (of champion)"],["Championship"]]},{"jlpt":[],"tags":["wanikani36"],"japanese":[{"word":"債権","reading":"さいけん"}],"senses":[["credit","claim"],["Law of obligations"]]},{"jlpt":[],"tags":["wanikani35"],"japanese":[{"word":"著作権","reading":"ちょさくけん"}],"senses":[["copyright"],["Copyright"]]},{"jlpt":[],"tags":["wanikani52"],"japanese":[{"word":"覇権","reading":"はけん"}],"senses":[["hegemony"],["Hegemony"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"公民権","reading":"こうみんけん"}],"senses":[["civil rights","franchise","citizenship"],["Civil and political rights"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"拒否権","reading":"きょひけん"}],"senses":[["right of veto"],["Veto"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"選挙権","reading":"せんきょけん"}],"senses":[["suffrage","the right to vote"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"市民権","reading":"しみんけん"}],"senses":[["citizenship","civic rights","civil rights"],["widespread acceptance","social recognition","common use"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"主導権","reading":"しゅどうけん"}],"senses":[["hegemony","leadership","initiative"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"有権者","reading":"ゆうけんしゃ"}],"senses":[["(eligible) voter","elector","constituent","the electorate"],["holder of a right","rightsholder","right holder"],["bigwig","person with political clout"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"職権","reading":"しょっけん"}],"senses":[["one's (official) authority","power"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"全権","reading":"ぜんけん"}],"senses":[["plenipotentiary powers","full authority"]]},{"jlpt":[],"tags":["wanikani30"],"japanese":[{"word":"版権","reading":"はんけん"}],"senses":[["copyright"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"実権","reading":"じっけん"}],"senses":[["real power"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"人権擁護","reading":"じんけんようご"}],"senses":[["protection of human rights"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"抵当権","reading":"ていとうけん"}],"senses":[["mortgage","right of pledge","lien"],["Hypothec"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"参政権","reading":"さんせいけん"}],"senses":[["suffrage","franchise"],["Suffrage"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"自治権","reading":"じちけん"}],"senses":[["autonomy","right of self-government"],["Autonomy"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"地方分権","reading":"ちほうぶんけん"}],"senses":[["decentralization of power","decentralisation of power"],["Decentralization"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"中央集権","reading":"ちゅうおうしゅうけん"}],"senses":[["centralized authoritarian rule","centralised authoritarian rule"],["Centralisation"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"強権","reading":"きょうけん"}],"senses":[["strong power of the state","iron fist","heavy hand"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"復権","reading":"ふっけん"},{"word":"復権","reading":"ふくけん"}],"senses":[["rehabilitation","reinstatement","restoration of rights"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"分権","reading":"ぶんけん"}],"senses":[["decentralization of authority","decentralisation of authority"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"利権","reading":"りけん"}],"senses":[["interest","rights","concession"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"三権","reading":"さんけん"}],"senses":[["the three powers of government (legislative, executive and judicial)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"金権","reading":"きんけん"}],"senses":[["power of money","financial influence"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"既得権","reading":"きとくけん"}],"senses":[["vested rights"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"国権","reading":"こっけん"}],"senses":[["power of the state","national sovereignty","sovereign rights"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"発言権","reading":"はつげんけん"}],"senses":[["right to speak"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"請求権","reading":"せいきゅうけん"}],"senses":[["claim rights"]]}]}
+{
+  "basic": ["権", "Authority", "613"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "政権", "reading": "せいけん" }],
+      "senses": [["(political) administration", "political power"], ["Regime"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "棄権", "reading": "きけん" }],
+      "senses": [
+        [
+          "abstention (from voting)",
+          "renunciation (of a right)",
+          "withdrawal (from a contest)"
+        ],
+        ["Abstention"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "主権", "reading": "しゅけん" },
+        { "word": "主權", "reading": "しゅけん" }
+      ],
+      "senses": [["sovereignty", "supremacy", "dominion"], ["Sovereignty"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "特権", "reading": "とっけん" }],
+      "senses": [["privilege", "special right"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "所有権", "reading": "しょゆうけん" }],
+      "senses": [
+        [
+          "ownership",
+          "dominion",
+          "ownership rights",
+          "proprietorship",
+          "property rights"
+        ],
+        ["Ownership"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani21"],
+      "japanese": [{ "word": "人権", "reading": "じんけん" }],
+      "senses": [["human rights", "civil liberties"], ["Human rights"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "選手権", "reading": "せんしゅけん" }],
+      "senses": [["championship", "title (of champion)"], ["Championship"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani36"],
+      "japanese": [{ "word": "債権", "reading": "さいけん" }],
+      "senses": [["credit", "claim"], ["Law of obligations"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani35"],
+      "japanese": [{ "word": "著作権", "reading": "ちょさくけん" }],
+      "senses": [["copyright"], ["Copyright"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani52"],
+      "japanese": [{ "word": "覇権", "reading": "はけん" }],
+      "senses": [["hegemony"], ["Hegemony"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "公民権", "reading": "こうみんけん" }],
+      "senses": [
+        ["civil rights", "franchise", "citizenship"],
+        ["Civil and political rights"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "拒否権", "reading": "きょひけん" }],
+      "senses": [["right of veto"], ["Veto"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "選挙権", "reading": "せんきょけん" }],
+      "senses": [["suffrage", "the right to vote"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "市民権", "reading": "しみんけん" }],
+      "senses": [
+        ["citizenship", "civic rights", "civil rights"],
+        ["widespread acceptance", "social recognition", "common use"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "主導権", "reading": "しゅどうけん" }],
+      "senses": [["hegemony", "leadership", "initiative"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "有権者", "reading": "ゆうけんしゃ" }],
+      "senses": [
+        ["(eligible) voter", "elector", "constituent", "the electorate"],
+        ["holder of a right", "rightsholder", "right holder"],
+        ["bigwig", "person with political clout"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "職権", "reading": "しょっけん" }],
+      "senses": [["one's (official) authority", "power"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "全権", "reading": "ぜんけん" }],
+      "senses": [["plenipotentiary powers", "full authority"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani30"],
+      "japanese": [{ "word": "版権", "reading": "はんけん" }],
+      "senses": [["copyright"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "実権", "reading": "じっけん" }],
+      "senses": [["real power"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "政権", "reading": "せいけん" }],
+      "senses": [["(political) administration", "political power"], ["Regime"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "棄権", "reading": "きけん" }],
+      "senses": [
+        [
+          "abstention (from voting)",
+          "renunciation (of a right)",
+          "withdrawal (from a contest)"
+        ],
+        ["Abstention"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "主権", "reading": "しゅけん" },
+        { "word": "主權", "reading": "しゅけん" }
+      ],
+      "senses": [["sovereignty", "supremacy", "dominion"], ["Sovereignty"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "特権", "reading": "とっけん" }],
+      "senses": [["privilege", "special right"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "所有権", "reading": "しょゆうけん" }],
+      "senses": [
+        [
+          "ownership",
+          "dominion",
+          "ownership rights",
+          "proprietorship",
+          "property rights"
+        ],
+        ["Ownership"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani21"],
+      "japanese": [{ "word": "人権", "reading": "じんけん" }],
+      "senses": [["human rights", "civil liberties"], ["Human rights"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "選手権", "reading": "せんしゅけん" }],
+      "senses": [["championship", "title (of champion)"], ["Championship"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani36"],
+      "japanese": [{ "word": "債権", "reading": "さいけん" }],
+      "senses": [["credit", "claim"], ["Law of obligations"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani35"],
+      "japanese": [{ "word": "著作権", "reading": "ちょさくけん" }],
+      "senses": [["copyright"], ["Copyright"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani52"],
+      "japanese": [{ "word": "覇権", "reading": "はけん" }],
+      "senses": [["hegemony"], ["Hegemony"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "公民権", "reading": "こうみんけん" }],
+      "senses": [
+        ["civil rights", "franchise", "citizenship"],
+        ["Civil and political rights"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "拒否権", "reading": "きょひけん" }],
+      "senses": [["right of veto"], ["Veto"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "選挙権", "reading": "せんきょけん" }],
+      "senses": [["suffrage", "the right to vote"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "市民権", "reading": "しみんけん" }],
+      "senses": [
+        ["citizenship", "civic rights", "civil rights"],
+        ["widespread acceptance", "social recognition", "common use"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "主導権", "reading": "しゅどうけん" }],
+      "senses": [["hegemony", "leadership", "initiative"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "有権者", "reading": "ゆうけんしゃ" }],
+      "senses": [
+        ["(eligible) voter", "elector", "constituent", "the electorate"],
+        ["holder of a right", "rightsholder", "right holder"],
+        ["bigwig", "person with political clout"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "職権", "reading": "しょっけん" }],
+      "senses": [["one's (official) authority", "power"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "全権", "reading": "ぜんけん" }],
+      "senses": [["plenipotentiary powers", "full authority"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani30"],
+      "japanese": [{ "word": "版権", "reading": "はんけん" }],
+      "senses": [["copyright"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "実権", "reading": "じっけん" }],
+      "senses": [["real power"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "人権擁護", "reading": "じんけんようご" }],
+      "senses": [["protection of human rights"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "抵当権", "reading": "ていとうけん" }],
+      "senses": [["mortgage", "right of pledge", "lien"], ["Hypothec"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "参政権", "reading": "さんせいけん" }],
+      "senses": [["suffrage", "franchise"], ["Suffrage"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "自治権", "reading": "じちけん" }],
+      "senses": [["autonomy", "right of self-government"], ["Autonomy"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "地方分権", "reading": "ちほうぶんけん" }],
+      "senses": [
+        ["decentralization of power", "decentralisation of power"],
+        ["Decentralization"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "中央集権", "reading": "ちゅうおうしゅうけん" }],
+      "senses": [
+        ["centralized authoritarian rule", "centralised authoritarian rule"],
+        ["Centralisation"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "強権", "reading": "きょうけん" }],
+      "senses": [["strong power of the state", "iron fist", "heavy hand"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "復権", "reading": "ふっけん" },
+        { "word": "復権", "reading": "ふくけん" }
+      ],
+      "senses": [["rehabilitation", "reinstatement", "restoration of rights"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "分権", "reading": "ぶんけん" }],
+      "senses": [
+        ["decentralization of authority", "decentralisation of authority"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "利権", "reading": "りけん" }],
+      "senses": [["interest", "rights", "concession"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "三権", "reading": "さんけん" }],
+      "senses": [
+        ["the three powers of government (legislative, executive and judicial)"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "金権", "reading": "きんけん" }],
+      "senses": [["power of money", "financial influence"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "既得権", "reading": "きとくけん" }],
+      "senses": [["vested rights"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "国権", "reading": "こっけん" }],
+      "senses": [
+        ["power of the state", "national sovereignty", "sovereign rights"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "発言権", "reading": "はつげんけん" }],
+      "senses": [["right to speak"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "請求権", "reading": "せいきゅうけん" }],
+      "senses": [["claim rights"]]
+    }
+  ]
+}

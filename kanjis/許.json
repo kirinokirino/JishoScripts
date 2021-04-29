@@ -1,1 +1,255 @@
-{"basic":["許","Permit","611"],"extended":[{"jlpt":["jlpt-n3"],"tags":["wanikani39"],"japanese":[{"word":"免許","reading":"めんきょ"}],"senses":[["license","permit","licence","certificate"],["Menkyo"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"手元","reading":"てもと"},{"word":"手許","reading":"てもと"},{"word":"手もと","reading":"てもと"}],"senses":[["at hand","on hand","nearby","close at hand"],["way of moving one's arms","skill"],["money at hand","pocket money"],["grip","handle"],["Temoto"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"若干","reading":"じゃっかん"},{"word":"若干","reading":"そこば"},{"word":"若干","reading":"そこばく"},{"word":"若干","reading":"そくばく"},{"word":"幾許","reading":"そこばく"},{"word":"幾許","reading":"そくばく"}],"senses":[["some","few","a number of","a little (bit)"],["somewhat","to a certain extent"],["many","a lot"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"運転免許","reading":"うんてんめんきょ"}],"senses":[["driver's license","driver's licence"],["Driver's license"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"足元","reading":"あしもと"},{"word":"足もと","reading":"あしもと"},{"word":"足下","reading":"あしもと"},{"word":"足許","reading":"あしもと"}],"senses":[["at one's feet","underfoot","one's step (as in \"watch your step\")"],["gait","pace","step"],["most recent","current"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"身元","reading":"みもと"},{"word":"身許","reading":"みもと"},{"word":"身もと","reading":"みもと"}],"senses":[["person's identity","ID","past","background"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"特許","reading":"とっきょ"}],"senses":[["patent","special permission","licence (license)","concession","franchise","charter"],["proprietary"],["Patent"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"免許証","reading":"めんきょしょう"}],"senses":[["licence","license","permit","certificate (of qualification)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"耳元","reading":"みみもと"},{"word":"耳許","reading":"みみもと"},{"word":"耳もと","reading":"みみもと"}],"senses":[["close to the ear"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"特許庁","reading":"とっきょちょう"}],"senses":[["Patent Office","Patent Agency"],["Tokkyochou"],["Japan Patent Office"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"無免許","reading":"むめんきょ"}],"senses":[["unlicensed","without a license (licence)"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani39"],"japanese":[{"word":"免許","reading":"めんきょ"}],"senses":[["license","permit","licence","certificate"],["Menkyo"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"手元","reading":"てもと"},{"word":"手許","reading":"てもと"},{"word":"手もと","reading":"てもと"}],"senses":[["at hand","on hand","nearby","close at hand"],["way of moving one's arms","skill"],["money at hand","pocket money"],["grip","handle"],["Temoto"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"若干","reading":"じゃっかん"},{"word":"若干","reading":"そこば"},{"word":"若干","reading":"そこばく"},{"word":"若干","reading":"そくばく"},{"word":"幾許","reading":"そこばく"},{"word":"幾許","reading":"そくばく"}],"senses":[["some","few","a number of","a little (bit)"],["somewhat","to a certain extent"],["many","a lot"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"運転免許","reading":"うんてんめんきょ"}],"senses":[["driver's license","driver's licence"],["Driver's license"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"足元","reading":"あしもと"},{"word":"足もと","reading":"あしもと"},{"word":"足下","reading":"あしもと"},{"word":"足許","reading":"あしもと"}],"senses":[["at one's feet","underfoot","one's step (as in \"watch your step\")"],["gait","pace","step"],["most recent","current"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"身元","reading":"みもと"},{"word":"身許","reading":"みもと"},{"word":"身もと","reading":"みもと"}],"senses":[["person's identity","ID","past","background"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"特許","reading":"とっきょ"}],"senses":[["patent","special permission","licence (license)","concession","franchise","charter"],["proprietary"],["Patent"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"免許証","reading":"めんきょしょう"}],"senses":[["licence","license","permit","certificate (of qualification)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"耳元","reading":"みみもと"},{"word":"耳許","reading":"みみもと"},{"word":"耳もと","reading":"みみもと"}],"senses":[["close to the ear"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"特許庁","reading":"とっきょちょう"}],"senses":[["Patent Office","Patent Agency"],["Tokkyochou"],["Japan Patent Office"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"無免許","reading":"むめんきょ"}],"senses":[["unlicensed","without a license (licence)"]]}]}
+{
+  "basic": ["許", "Permit", "611"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani39"],
+      "japanese": [{ "word": "免許", "reading": "めんきょ" }],
+      "senses": [["license", "permit", "licence", "certificate"], ["Menkyo"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "手元", "reading": "てもと" },
+        { "word": "手許", "reading": "てもと" },
+        { "word": "手もと", "reading": "てもと" }
+      ],
+      "senses": [
+        ["at hand", "on hand", "nearby", "close at hand"],
+        ["way of moving one's arms", "skill"],
+        ["money at hand", "pocket money"],
+        ["grip", "handle"],
+        ["Temoto"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "若干", "reading": "じゃっかん" },
+        { "word": "若干", "reading": "そこば" },
+        { "word": "若干", "reading": "そこばく" },
+        { "word": "若干", "reading": "そくばく" },
+        { "word": "幾許", "reading": "そこばく" },
+        { "word": "幾許", "reading": "そくばく" }
+      ],
+      "senses": [
+        ["some", "few", "a number of", "a little (bit)"],
+        ["somewhat", "to a certain extent"],
+        ["many", "a lot"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "運転免許", "reading": "うんてんめんきょ" }],
+      "senses": [["driver's license", "driver's licence"], ["Driver's license"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "足元", "reading": "あしもと" },
+        { "word": "足もと", "reading": "あしもと" },
+        { "word": "足下", "reading": "あしもと" },
+        { "word": "足許", "reading": "あしもと" }
+      ],
+      "senses": [
+        [
+          "at one's feet",
+          "underfoot",
+          "one's step (as in \"watch your step\")"
+        ],
+        ["gait", "pace", "step"],
+        ["most recent", "current"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "身元", "reading": "みもと" },
+        { "word": "身許", "reading": "みもと" },
+        { "word": "身もと", "reading": "みもと" }
+      ],
+      "senses": [["person's identity", "ID", "past", "background"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "特許", "reading": "とっきょ" }],
+      "senses": [
+        [
+          "patent",
+          "special permission",
+          "licence (license)",
+          "concession",
+          "franchise",
+          "charter"
+        ],
+        ["proprietary"],
+        ["Patent"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "免許証", "reading": "めんきょしょう" }],
+      "senses": [
+        ["licence", "license", "permit", "certificate (of qualification)"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "耳元", "reading": "みみもと" },
+        { "word": "耳許", "reading": "みみもと" },
+        { "word": "耳もと", "reading": "みみもと" }
+      ],
+      "senses": [["close to the ear"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "特許庁", "reading": "とっきょちょう" }],
+      "senses": [
+        ["Patent Office", "Patent Agency"],
+        ["Tokkyochou"],
+        ["Japan Patent Office"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "無免許", "reading": "むめんきょ" }],
+      "senses": [["unlicensed", "without a license (licence)"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani39"],
+      "japanese": [{ "word": "免許", "reading": "めんきょ" }],
+      "senses": [["license", "permit", "licence", "certificate"], ["Menkyo"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "手元", "reading": "てもと" },
+        { "word": "手許", "reading": "てもと" },
+        { "word": "手もと", "reading": "てもと" }
+      ],
+      "senses": [
+        ["at hand", "on hand", "nearby", "close at hand"],
+        ["way of moving one's arms", "skill"],
+        ["money at hand", "pocket money"],
+        ["grip", "handle"],
+        ["Temoto"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "若干", "reading": "じゃっかん" },
+        { "word": "若干", "reading": "そこば" },
+        { "word": "若干", "reading": "そこばく" },
+        { "word": "若干", "reading": "そくばく" },
+        { "word": "幾許", "reading": "そこばく" },
+        { "word": "幾許", "reading": "そくばく" }
+      ],
+      "senses": [
+        ["some", "few", "a number of", "a little (bit)"],
+        ["somewhat", "to a certain extent"],
+        ["many", "a lot"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "運転免許", "reading": "うんてんめんきょ" }],
+      "senses": [["driver's license", "driver's licence"], ["Driver's license"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "足元", "reading": "あしもと" },
+        { "word": "足もと", "reading": "あしもと" },
+        { "word": "足下", "reading": "あしもと" },
+        { "word": "足許", "reading": "あしもと" }
+      ],
+      "senses": [
+        [
+          "at one's feet",
+          "underfoot",
+          "one's step (as in \"watch your step\")"
+        ],
+        ["gait", "pace", "step"],
+        ["most recent", "current"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "身元", "reading": "みもと" },
+        { "word": "身許", "reading": "みもと" },
+        { "word": "身もと", "reading": "みもと" }
+      ],
+      "senses": [["person's identity", "ID", "past", "background"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "特許", "reading": "とっきょ" }],
+      "senses": [
+        [
+          "patent",
+          "special permission",
+          "licence (license)",
+          "concession",
+          "franchise",
+          "charter"
+        ],
+        ["proprietary"],
+        ["Patent"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "免許証", "reading": "めんきょしょう" }],
+      "senses": [
+        ["licence", "license", "permit", "certificate (of qualification)"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "耳元", "reading": "みみもと" },
+        { "word": "耳許", "reading": "みみもと" },
+        { "word": "耳もと", "reading": "みみもと" }
+      ],
+      "senses": [["close to the ear"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "特許庁", "reading": "とっきょちょう" }],
+      "senses": [
+        ["Patent Office", "Patent Agency"],
+        ["Tokkyochou"],
+        ["Japan Patent Office"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "無免許", "reading": "むめんきょ" }],
+      "senses": [["unlicensed", "without a license (licence)"]]
+    }
+  ]
+}

@@ -1,1 +1,29 @@
-{"basic":["賄","Bribe","84"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"収賄","reading":"しゅうわい"}],"senses":[["accepting bribes","corruption","graft"]]},{"jlpt":[],"tags":["wanikani40"],"japanese":[{"word":"贈賄","reading":"ぞうわい"}],"senses":[["bribery","graft"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"収賄","reading":"しゅうわい"}],"senses":[["accepting bribes","corruption","graft"]]},{"jlpt":[],"tags":["wanikani40"],"japanese":[{"word":"贈賄","reading":"ぞうわい"}],"senses":[["bribery","graft"]]}]}
+{
+  "basic": ["賄", "Bribe", "84"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "収賄", "reading": "しゅうわい" }],
+      "senses": [["accepting bribes", "corruption", "graft"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani40"],
+      "japanese": [{ "word": "贈賄", "reading": "ぞうわい" }],
+      "senses": [["bribery", "graft"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "収賄", "reading": "しゅうわい" }],
+      "senses": [["accepting bribes", "corruption", "graft"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani40"],
+      "japanese": [{ "word": "贈賄", "reading": "ぞうわい" }],
+      "senses": [["bribery", "graft"]]
+    }
+  ]
+}

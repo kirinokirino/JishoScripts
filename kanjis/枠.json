@@ -1,1 +1,25 @@
-{"basic":["枠","Frame","212"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"抜粋","reading":"ばっすい"},{"word":"抜萃","reading":"ばっすい"},{"word":"抜枠","reading":"ばっすい"}],"senses":[["extract","excerpt","selection"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"抜粋","reading":"ばっすい"},{"word":"抜萃","reading":"ばっすい"},{"word":"抜枠","reading":"ばっすい"}],"senses":[["extract","excerpt","selection"]]}]}
+{
+  "basic": ["枠", "Frame", "212"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "抜粋", "reading": "ばっすい" },
+        { "word": "抜萃", "reading": "ばっすい" },
+        { "word": "抜枠", "reading": "ばっすい" }
+      ],
+      "senses": [["extract", "excerpt", "selection"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "抜粋", "reading": "ばっすい" },
+        { "word": "抜萃", "reading": "ばっすい" },
+        { "word": "抜枠", "reading": "ばっすい" }
+      ],
+      "senses": [["extract", "excerpt", "selection"]]
+    }
+  ]
+}

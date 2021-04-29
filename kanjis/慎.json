@@ -1,1 +1,53 @@
-{"basic":["慎","Humility","677"],"extended":[{"jlpt":["jlpt-n3"],"tags":[],"japanese":[{"word":"用心","reading":"ようじん"},{"word":"要心","reading":"ようじん"},{"word":"要慎","reading":"ようじん"}],"senses":[["care","precaution","guarding","caution"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"謹慎","reading":"きんしん"}],"senses":[["self restraint","moderating one's behaviour","penitence","discipline"],["confinement to one's home","house arrest"]]},{"jlpt":["jlpt-n3"],"tags":[],"japanese":[{"word":"用心","reading":"ようじん"},{"word":"要心","reading":"ようじん"},{"word":"要慎","reading":"ようじん"}],"senses":[["care","precaution","guarding","caution"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"謹慎","reading":"きんしん"}],"senses":[["self restraint","moderating one's behaviour","penitence","discipline"],["confinement to one's home","house arrest"]]}]}
+{
+  "basic": ["慎", "Humility", "677"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": [],
+      "japanese": [
+        { "word": "用心", "reading": "ようじん" },
+        { "word": "要心", "reading": "ようじん" },
+        { "word": "要慎", "reading": "ようじん" }
+      ],
+      "senses": [["care", "precaution", "guarding", "caution"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "謹慎", "reading": "きんしん" }],
+      "senses": [
+        [
+          "self restraint",
+          "moderating one's behaviour",
+          "penitence",
+          "discipline"
+        ],
+        ["confinement to one's home", "house arrest"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": [],
+      "japanese": [
+        { "word": "用心", "reading": "ようじん" },
+        { "word": "要心", "reading": "ようじん" },
+        { "word": "要慎", "reading": "ようじん" }
+      ],
+      "senses": [["care", "precaution", "guarding", "caution"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "謹慎", "reading": "きんしん" }],
+      "senses": [
+        [
+          "self restraint",
+          "moderating one's behaviour",
+          "penitence",
+          "discipline"
+        ],
+        ["confinement to one's home", "house arrest"]
+      ]
+    }
+  ]
+}

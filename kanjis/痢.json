@@ -1,1 +1,17 @@
-{"basic":["痢","Diarrhea","1821"],"extended":[{"jlpt":["jlpt-n1"],"tags":["wanikani60"],"japanese":[{"word":"下痢","reading":"げり"}],"senses":[["diarrhea","diarrhoea"],["Diarrhea"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani60"],"japanese":[{"word":"下痢","reading":"げり"}],"senses":[["diarrhea","diarrhoea"],["Diarrhea"]]}]}
+{
+  "basic": ["痢", "Diarrhea", "1821"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani60"],
+      "japanese": [{ "word": "下痢", "reading": "げり" }],
+      "senses": [["diarrhea", "diarrhoea"], ["Diarrhea"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani60"],
+      "japanese": [{ "word": "下痢", "reading": "げり" }],
+      "senses": [["diarrhea", "diarrhoea"], ["Diarrhea"]]
+    }
+  ]
+}

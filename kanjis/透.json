@@ -1,1 +1,79 @@
-{"basic":["透","Transparent","981"],"extended":[{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"見通し","reading":"みとおし"},{"word":"見透し","reading":"みとおし"},{"word":"見通","reading":"みとおし"}],"senses":[["unobstructed view","perspective","visibility","vista"],["forecast","outlook","prospect","prediction"],["insight","foresight"]]},{"jlpt":[],"tags":["wanikani49"],"japanese":[{"word":"浸透","reading":"しんとう"},{"word":"滲透","reading":"しんとう"}],"senses":[["penetration (e.g. market)","pervasion (e.g. thought, ideology)"],["permeation","soaking","osmosis"],["Osmosis"]]},{"jlpt":[],"tags":["wanikani42"],"japanese":[{"word":"不透明","reading":"ふとうめい"}],"senses":[["opaque","obscure","murky","turbid"],["opacity","obscurity"],["unclear","unpredictable","uncertain"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"見通し","reading":"みとおし"},{"word":"見透し","reading":"みとおし"},{"word":"見通","reading":"みとおし"}],"senses":[["unobstructed view","perspective","visibility","vista"],["forecast","outlook","prospect","prediction"],["insight","foresight"]]},{"jlpt":[],"tags":["wanikani49"],"japanese":[{"word":"浸透","reading":"しんとう"},{"word":"滲透","reading":"しんとう"}],"senses":[["penetration (e.g. market)","pervasion (e.g. thought, ideology)"],["permeation","soaking","osmosis"],["Osmosis"]]},{"jlpt":[],"tags":["wanikani42"],"japanese":[{"word":"不透明","reading":"ふとうめい"}],"senses":[["opaque","obscure","murky","turbid"],["opacity","obscurity"],["unclear","unpredictable","uncertain"]]}]}
+{
+  "basic": ["透", "Transparent", "981"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "見通し", "reading": "みとおし" },
+        { "word": "見透し", "reading": "みとおし" },
+        { "word": "見通", "reading": "みとおし" }
+      ],
+      "senses": [
+        ["unobstructed view", "perspective", "visibility", "vista"],
+        ["forecast", "outlook", "prospect", "prediction"],
+        ["insight", "foresight"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani49"],
+      "japanese": [
+        { "word": "浸透", "reading": "しんとう" },
+        { "word": "滲透", "reading": "しんとう" }
+      ],
+      "senses": [
+        ["penetration (e.g. market)", "pervasion (e.g. thought, ideology)"],
+        ["permeation", "soaking", "osmosis"],
+        ["Osmosis"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani42"],
+      "japanese": [{ "word": "不透明", "reading": "ふとうめい" }],
+      "senses": [
+        ["opaque", "obscure", "murky", "turbid"],
+        ["opacity", "obscurity"],
+        ["unclear", "unpredictable", "uncertain"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "見通し", "reading": "みとおし" },
+        { "word": "見透し", "reading": "みとおし" },
+        { "word": "見通", "reading": "みとおし" }
+      ],
+      "senses": [
+        ["unobstructed view", "perspective", "visibility", "vista"],
+        ["forecast", "outlook", "prospect", "prediction"],
+        ["insight", "foresight"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani49"],
+      "japanese": [
+        { "word": "浸透", "reading": "しんとう" },
+        { "word": "滲透", "reading": "しんとう" }
+      ],
+      "senses": [
+        ["penetration (e.g. market)", "pervasion (e.g. thought, ideology)"],
+        ["permeation", "soaking", "osmosis"],
+        ["Osmosis"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani42"],
+      "japanese": [{ "word": "不透明", "reading": "ふとうめい" }],
+      "senses": [
+        ["opaque", "obscure", "murky", "turbid"],
+        ["opacity", "obscurity"],
+        ["unclear", "unpredictable", "uncertain"]
+      ]
+    }
+  ]
+}

@@ -1,1 +1,17 @@
-{"basic":["妬","Jealous","123"],"extended":[{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"嫉妬","reading":"しっと"}],"senses":[["jealousy","envy"],["Envy"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"嫉妬","reading":"しっと"}],"senses":[["jealousy","envy"],["Envy"]]}]}
+{
+  "basic": ["妬", "Jealous", "123"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "嫉妬", "reading": "しっと" }],
+      "senses": [["jealousy", "envy"], ["Envy"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "嫉妬", "reading": "しっと" }],
+      "senses": [["jealousy", "envy"], ["Envy"]]
+    }
+  ]
+}

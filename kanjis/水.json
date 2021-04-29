@@ -1,1 +1,489 @@
-{"basic":["水","Water","137"],"extended":[{"jlpt":["jlpt-n2"],"tags":["wanikani37"],"japanese":[{"word":"香水","reading":"こうすい"}],"senses":[["perfume"],["Perfume"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani49"],"japanese":[{"word":"淡水","reading":"たんすい"}],"senses":[["fresh water (i.e. not salt water)"],["Fresh water"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"海水浴","reading":"かいすいよく"}],"senses":[["swimming in the ocean","sea bathing","seawater bath","going for a dip in the ocean"],["Sea bathing"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani52"],"japanese":[{"word":"噴水","reading":"ふんすい"}],"senses":[["water fountain"],["Fountain"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani56"],"japanese":[{"word":"洪水","reading":"こうずい"}],"senses":[["flood","flooding"],["Flood"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani41"],"japanese":[{"word":"潜水","reading":"せんすい"}],"senses":[["diving","submerging","going underwater"],["Underwater diving"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"下水","reading":"げすい"}],"senses":[["drainage","ditch","gutter","sewerage"],["sewage","black water"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"断水","reading":"だんすい"}],"senses":[["suspension of water supply","water outage"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani40"],"japanese":[{"word":"排水","reading":"はいすい"}],"senses":[["drainage","draining","pumping out (water)","sewerage"],["displacement"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"大水","reading":"おおみず"}],"senses":[["flood"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"海水","reading":"かいすい"}],"senses":[["seawater","saltwater"],["Seawater"]]},{"jlpt":[],"tags":["wanikani20"],"japanese":[{"word":"防水","reading":"ぼうすい"}],"senses":[["waterproofing","making watertight"],["Waterproofing"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"雨水","reading":"あまみず"},{"word":"雨水","reading":"うすい"}],"senses":[["rain water"],["\"rain water\" solar term (approx. February 19)"],["Yushui (solar term)"]]},{"jlpt":[],"tags":["wanikani41"],"japanese":[{"word":"潜水艦","reading":"せんすいかん"}],"senses":[["submarine"],["Submarine"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"海水浴場","reading":"かいすいよくじょう"}],"senses":[["swimming area (in the ocean)","swimming beach","seawater baths"],["Seaside resort"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"下水道","reading":"げすいどう"}],"senses":[["sewer","sewer system","sewerage","drain"],["Sanitary sewer"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"飲料水","reading":"いんりょうすい"}],"senses":[["drinking water"],["Drinking water"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"地下水","reading":"ちかすい"}],"senses":[["underground water"],["Groundwater"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"水道水","reading":"すいどうすい"}],"senses":[["tap-water"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"増水","reading":"ぞうすい"}],"senses":[["rising water (of river, lake, etc.)","swelling water","increased water","high water"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani37"],"japanese":[{"word":"香水","reading":"こうすい"}],"senses":[["perfume"],["Perfume"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani49"],"japanese":[{"word":"淡水","reading":"たんすい"}],"senses":[["fresh water (i.e. not salt water)"],["Fresh water"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"海水浴","reading":"かいすいよく"}],"senses":[["swimming in the ocean","sea bathing","seawater bath","going for a dip in the ocean"],["Sea bathing"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani52"],"japanese":[{"word":"噴水","reading":"ふんすい"}],"senses":[["water fountain"],["Fountain"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani56"],"japanese":[{"word":"洪水","reading":"こうずい"}],"senses":[["flood","flooding"],["Flood"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani41"],"japanese":[{"word":"潜水","reading":"せんすい"}],"senses":[["diving","submerging","going underwater"],["Underwater diving"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"下水","reading":"げすい"}],"senses":[["drainage","ditch","gutter","sewerage"],["sewage","black water"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"断水","reading":"だんすい"}],"senses":[["suspension of water supply","water outage"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani40"],"japanese":[{"word":"排水","reading":"はいすい"}],"senses":[["drainage","draining","pumping out (water)","sewerage"],["displacement"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"大水","reading":"おおみず"}],"senses":[["flood"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"海水","reading":"かいすい"}],"senses":[["seawater","saltwater"],["Seawater"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"雨水","reading":"あまみず"},{"word":"雨水","reading":"うすい"}],"senses":[["rain water"],["\"rain water\" solar term (approx. February 19)"],["Yushui (solar term)"]]},{"jlpt":[],"tags":["wanikani20"],"japanese":[{"word":"防水","reading":"ぼうすい"}],"senses":[["waterproofing","making watertight"],["Waterproofing"]]},{"jlpt":[],"tags":["wanikani41"],"japanese":[{"word":"潜水艦","reading":"せんすいかん"}],"senses":[["submarine"],["Submarine"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"海水浴場","reading":"かいすいよくじょう"}],"senses":[["swimming area (in the ocean)","swimming beach","seawater baths"],["Seaside resort"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"下水道","reading":"げすいどう"}],"senses":[["sewer","sewer system","sewerage","drain"],["Sanitary sewer"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"飲料水","reading":"いんりょうすい"}],"senses":[["drinking water"],["Drinking water"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"地下水","reading":"ちかすい"}],"senses":[["underground water"],["Groundwater"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"水道水","reading":"すいどうすい"}],"senses":[["tap-water"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"増水","reading":"ぞうすい"}],"senses":[["rising water (of river, lake, etc.)","swelling water","increased water","high water"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"高水準","reading":"こうすいじゅん"}],"senses":[["high level"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"給水","reading":"きゅうすい"}],"senses":[["water supply"]]},{"jlpt":[],"tags":["wanikani32"],"japanese":[{"word":"汚水","reading":"おすい"}],"senses":[["filthy water","sewage"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"原水爆","reading":"げんすいばく"}],"senses":[["atomic and hydrogen bombs","nuclear and thermonuclear bombs"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"冷水","reading":"れいすい"}],"senses":[["cold water"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"放水","reading":"ほうすい"}],"senses":[["hosing down","drainage","discharge of water","spraying with water"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"降水量","reading":"こうすいりょう"}],"senses":[["amount of precipitation","precipitation"]]},{"jlpt":[],"tags":["wanikani49"],"japanese":[{"word":"浸水","reading":"しんすい"}],"senses":[["inundation","submersion","flood"]]},{"jlpt":[],"tags":["wanikani58"],"japanese":[{"word":"瑞々しい","reading":"みずみずしい"},{"word":"瑞瑞しい","reading":"みずみずしい"},{"word":"水々しい","reading":"みずみずしい"},{"word":"水水しい","reading":"みずみずしい"}],"senses":[["fresh and youthful","lively","vibrant","vivacious","juicy (e.g. fruit)"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"降水","reading":"こうすい"}],"senses":[["rainfall","precipitation"],["Precipitation (meteorology)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"鼻水","reading":"はなみず"},{"word":"はな水","reading":"はなみず"},{"word":"洟水","reading":"はなみず"}],"senses":[["nasal mucus","dripping nose","snot"]]},{"jlpt":[],"tags":["wanikani17"],"japanese":[{"word":"塩水","reading":"しおみず"},{"word":"塩水","reading":"えんすい"}],"senses":[["salt water","brine"],["Brine"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"貯水","reading":"ちょすい"}],"senses":[["storage of water"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"渇水","reading":"かっすい"}],"senses":[["water shortage"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"低水準","reading":"ていすいじゅん"}],"senses":[["substandard","low-level"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"用水","reading":"ようすい"}],"senses":[["irrigation water","water for fire","city water","cistern water"]]},{"jlpt":[],"tags":["wanikani53"],"japanese":[{"word":"浄水","reading":"じょうすい"}],"senses":[["clean water"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"飲み水","reading":"のみみず"},{"word":"飲水","reading":"のみみず"}],"senses":[["drinking water","potable water"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"呼び水","reading":"よびみず"},{"word":"呼水","reading":"よびみず"}],"senses":[["pump-priming","rousing","stimulation"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"脱水","reading":"だっすい"}],"senses":[["evaporation","dehydration","desiccation"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"治水","reading":"ちすい"}],"senses":[["river management","river improvement","flood control"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"取水","reading":"しゅすい"}],"senses":[["drawing water from river or lake","water intake"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"湧水","reading":"ゆうすい"}],"senses":[["spring","welling of water"],["Spring (hydrology)"]]}]}
+{
+  "basic": ["水", "Water", "137"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani37"],
+      "japanese": [{ "word": "香水", "reading": "こうすい" }],
+      "senses": [["perfume"], ["Perfume"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani49"],
+      "japanese": [{ "word": "淡水", "reading": "たんすい" }],
+      "senses": [["fresh water (i.e. not salt water)"], ["Fresh water"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "海水浴", "reading": "かいすいよく" }],
+      "senses": [
+        [
+          "swimming in the ocean",
+          "sea bathing",
+          "seawater bath",
+          "going for a dip in the ocean"
+        ],
+        ["Sea bathing"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani52"],
+      "japanese": [{ "word": "噴水", "reading": "ふんすい" }],
+      "senses": [["water fountain"], ["Fountain"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani56"],
+      "japanese": [{ "word": "洪水", "reading": "こうずい" }],
+      "senses": [["flood", "flooding"], ["Flood"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani41"],
+      "japanese": [{ "word": "潜水", "reading": "せんすい" }],
+      "senses": [
+        ["diving", "submerging", "going underwater"],
+        ["Underwater diving"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "下水", "reading": "げすい" }],
+      "senses": [
+        ["drainage", "ditch", "gutter", "sewerage"],
+        ["sewage", "black water"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "断水", "reading": "だんすい" }],
+      "senses": [["suspension of water supply", "water outage"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani40"],
+      "japanese": [{ "word": "排水", "reading": "はいすい" }],
+      "senses": [
+        ["drainage", "draining", "pumping out (water)", "sewerage"],
+        ["displacement"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "大水", "reading": "おおみず" }],
+      "senses": [["flood"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "海水", "reading": "かいすい" }],
+      "senses": [["seawater", "saltwater"], ["Seawater"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani20"],
+      "japanese": [{ "word": "防水", "reading": "ぼうすい" }],
+      "senses": [["waterproofing", "making watertight"], ["Waterproofing"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "雨水", "reading": "あまみず" },
+        { "word": "雨水", "reading": "うすい" }
+      ],
+      "senses": [
+        ["rain water"],
+        ["\"rain water\" solar term (approx. February 19)"],
+        ["Yushui (solar term)"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani41"],
+      "japanese": [{ "word": "潜水艦", "reading": "せんすいかん" }],
+      "senses": [["submarine"], ["Submarine"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "海水浴場", "reading": "かいすいよくじょう" }],
+      "senses": [
+        ["swimming area (in the ocean)", "swimming beach", "seawater baths"],
+        ["Seaside resort"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "下水道", "reading": "げすいどう" }],
+      "senses": [
+        ["sewer", "sewer system", "sewerage", "drain"],
+        ["Sanitary sewer"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "飲料水", "reading": "いんりょうすい" }],
+      "senses": [["drinking water"], ["Drinking water"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "地下水", "reading": "ちかすい" }],
+      "senses": [["underground water"], ["Groundwater"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "水道水", "reading": "すいどうすい" }],
+      "senses": [["tap-water"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "増水", "reading": "ぞうすい" }],
+      "senses": [
+        [
+          "rising water (of river, lake, etc.)",
+          "swelling water",
+          "increased water",
+          "high water"
+        ]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani37"],
+      "japanese": [{ "word": "香水", "reading": "こうすい" }],
+      "senses": [["perfume"], ["Perfume"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani49"],
+      "japanese": [{ "word": "淡水", "reading": "たんすい" }],
+      "senses": [["fresh water (i.e. not salt water)"], ["Fresh water"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "海水浴", "reading": "かいすいよく" }],
+      "senses": [
+        [
+          "swimming in the ocean",
+          "sea bathing",
+          "seawater bath",
+          "going for a dip in the ocean"
+        ],
+        ["Sea bathing"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani52"],
+      "japanese": [{ "word": "噴水", "reading": "ふんすい" }],
+      "senses": [["water fountain"], ["Fountain"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani56"],
+      "japanese": [{ "word": "洪水", "reading": "こうずい" }],
+      "senses": [["flood", "flooding"], ["Flood"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani41"],
+      "japanese": [{ "word": "潜水", "reading": "せんすい" }],
+      "senses": [
+        ["diving", "submerging", "going underwater"],
+        ["Underwater diving"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "下水", "reading": "げすい" }],
+      "senses": [
+        ["drainage", "ditch", "gutter", "sewerage"],
+        ["sewage", "black water"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "断水", "reading": "だんすい" }],
+      "senses": [["suspension of water supply", "water outage"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani40"],
+      "japanese": [{ "word": "排水", "reading": "はいすい" }],
+      "senses": [
+        ["drainage", "draining", "pumping out (water)", "sewerage"],
+        ["displacement"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "大水", "reading": "おおみず" }],
+      "senses": [["flood"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "海水", "reading": "かいすい" }],
+      "senses": [["seawater", "saltwater"], ["Seawater"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "雨水", "reading": "あまみず" },
+        { "word": "雨水", "reading": "うすい" }
+      ],
+      "senses": [
+        ["rain water"],
+        ["\"rain water\" solar term (approx. February 19)"],
+        ["Yushui (solar term)"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani20"],
+      "japanese": [{ "word": "防水", "reading": "ぼうすい" }],
+      "senses": [["waterproofing", "making watertight"], ["Waterproofing"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani41"],
+      "japanese": [{ "word": "潜水艦", "reading": "せんすいかん" }],
+      "senses": [["submarine"], ["Submarine"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "海水浴場", "reading": "かいすいよくじょう" }],
+      "senses": [
+        ["swimming area (in the ocean)", "swimming beach", "seawater baths"],
+        ["Seaside resort"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "下水道", "reading": "げすいどう" }],
+      "senses": [
+        ["sewer", "sewer system", "sewerage", "drain"],
+        ["Sanitary sewer"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "飲料水", "reading": "いんりょうすい" }],
+      "senses": [["drinking water"], ["Drinking water"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "地下水", "reading": "ちかすい" }],
+      "senses": [["underground water"], ["Groundwater"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "水道水", "reading": "すいどうすい" }],
+      "senses": [["tap-water"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "増水", "reading": "ぞうすい" }],
+      "senses": [
+        [
+          "rising water (of river, lake, etc.)",
+          "swelling water",
+          "increased water",
+          "high water"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "高水準", "reading": "こうすいじゅん" }],
+      "senses": [["high level"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "給水", "reading": "きゅうすい" }],
+      "senses": [["water supply"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani32"],
+      "japanese": [{ "word": "汚水", "reading": "おすい" }],
+      "senses": [["filthy water", "sewage"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "原水爆", "reading": "げんすいばく" }],
+      "senses": [
+        ["atomic and hydrogen bombs", "nuclear and thermonuclear bombs"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "冷水", "reading": "れいすい" }],
+      "senses": [["cold water"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "放水", "reading": "ほうすい" }],
+      "senses": [
+        ["hosing down", "drainage", "discharge of water", "spraying with water"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "降水量", "reading": "こうすいりょう" }],
+      "senses": [["amount of precipitation", "precipitation"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani49"],
+      "japanese": [{ "word": "浸水", "reading": "しんすい" }],
+      "senses": [["inundation", "submersion", "flood"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani58"],
+      "japanese": [
+        { "word": "瑞々しい", "reading": "みずみずしい" },
+        { "word": "瑞瑞しい", "reading": "みずみずしい" },
+        { "word": "水々しい", "reading": "みずみずしい" },
+        { "word": "水水しい", "reading": "みずみずしい" }
+      ],
+      "senses": [
+        [
+          "fresh and youthful",
+          "lively",
+          "vibrant",
+          "vivacious",
+          "juicy (e.g. fruit)"
+        ]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "降水", "reading": "こうすい" }],
+      "senses": [["rainfall", "precipitation"], ["Precipitation (meteorology)"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "鼻水", "reading": "はなみず" },
+        { "word": "はな水", "reading": "はなみず" },
+        { "word": "洟水", "reading": "はなみず" }
+      ],
+      "senses": [["nasal mucus", "dripping nose", "snot"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani17"],
+      "japanese": [
+        { "word": "塩水", "reading": "しおみず" },
+        { "word": "塩水", "reading": "えんすい" }
+      ],
+      "senses": [["salt water", "brine"], ["Brine"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "貯水", "reading": "ちょすい" }],
+      "senses": [["storage of water"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "渇水", "reading": "かっすい" }],
+      "senses": [["water shortage"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "低水準", "reading": "ていすいじゅん" }],
+      "senses": [["substandard", "low-level"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "用水", "reading": "ようすい" }],
+      "senses": [
+        ["irrigation water", "water for fire", "city water", "cistern water"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani53"],
+      "japanese": [{ "word": "浄水", "reading": "じょうすい" }],
+      "senses": [["clean water"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "飲み水", "reading": "のみみず" },
+        { "word": "飲水", "reading": "のみみず" }
+      ],
+      "senses": [["drinking water", "potable water"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "呼び水", "reading": "よびみず" },
+        { "word": "呼水", "reading": "よびみず" }
+      ],
+      "senses": [["pump-priming", "rousing", "stimulation"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "脱水", "reading": "だっすい" }],
+      "senses": [["evaporation", "dehydration", "desiccation"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "治水", "reading": "ちすい" }],
+      "senses": [["river management", "river improvement", "flood control"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "取水", "reading": "しゅすい" }],
+      "senses": [["drawing water from river or lake", "water intake"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "湧水", "reading": "ゆうすい" }],
+      "senses": [["spring", "welling of water"], ["Spring (hydrology)"]]
+    }
+  ]
+}

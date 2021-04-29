@@ -1,1 +1,39 @@
-{"basic":["賜","Grant","1131"],"extended":[{"jlpt":["jlpt-n2"],"tags":["wanikani34"],"japanese":[{"word":"承る","reading":"うけたまわる"},{"word":"受け賜る","reading":"うけたまわる"}],"senses":[["to hear","to be told","to know"],["to receive (order)","to undertake","to comply","to take (a reservation, etc.)"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani34"],"japanese":[{"word":"承る","reading":"うけたまわる"},{"word":"受け賜る","reading":"うけたまわる"}],"senses":[["to hear","to be told","to know"],["to receive (order)","to undertake","to comply","to take (a reservation, etc.)"]]}]}
+{
+  "basic": ["賜", "Grant", "1131"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani34"],
+      "japanese": [
+        { "word": "承る", "reading": "うけたまわる" },
+        { "word": "受け賜る", "reading": "うけたまわる" }
+      ],
+      "senses": [
+        ["to hear", "to be told", "to know"],
+        [
+          "to receive (order)",
+          "to undertake",
+          "to comply",
+          "to take (a reservation, etc.)"
+        ]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani34"],
+      "japanese": [
+        { "word": "承る", "reading": "うけたまわる" },
+        { "word": "受け賜る", "reading": "うけたまわる" }
+      ],
+      "senses": [
+        ["to hear", "to be told", "to know"],
+        [
+          "to receive (order)",
+          "to undertake",
+          "to comply",
+          "to take (a reservation, etc.)"
+        ]
+      ]
+    }
+  ]
+}

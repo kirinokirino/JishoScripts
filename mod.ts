@@ -38,7 +38,7 @@ if (import.meta.main) {
   );
 }
 
-interface rtkEntry {
+export interface rtkEntry {
   basic: string[];
   extended: Entry[];
 }

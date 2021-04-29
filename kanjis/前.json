@@ -1,1 +1,611 @@
-{"basic":["前","In Front","309"],"extended":[{"jlpt":["jlpt-n5"],"tags":["wanikani8"],"japanese":[{"word":"名前","reading":"なまえ"},{"word":"名まえ","reading":"なまえ"}],"senses":[["name"],["given name","first name"],["Name"]]},{"jlpt":["jlpt-n5"],"tags":["wanikani6"],"japanese":[{"word":"午前","reading":"ごぜん"}],"senses":[["morning","a.m."]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"手前","reading":"てまえ"}],"senses":[["before oneself","in front of one","nearby"],["a bit before reaching (a location)","this side (of a location)"],["one's standpoint","one's appearance","face","honour"],["skill","dexterity","artistry","ingenuity"],["tea-ceremony procedures"],["I","me"],["you"],["Lead (leg)"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani7"],"japanese":[{"word":"以前","reading":"いぜん"},{"word":"已前","reading":"いぜん"}],"senses":[["ago","since","before","previous"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani8"],"japanese":[{"word":"お前","reading":"おまえ"},{"word":"お前","reading":"おまい"},{"word":"御前","reading":"おまえ"},{"word":"御前","reading":"おまい"}],"senses":[["you"],["presence (of a god, nobleman, etc.)"]]},{"jlpt":["jlpt-n2","jlpt-n1"],"tags":["wanikani8"],"japanese":[{"word":"当たり前","reading":"あたりまえ"},{"word":"当り前","reading":"あたりまえ"},{"word":"あたり前","reading":"あたりまえ"},{"word":"当りまえ","reading":"あたりまえ"}],"senses":[["natural","reasonable","obvious"],["usual","common","ordinary","commonplace","the norm"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"直前","reading":"ちょくぜん"}],"senses":[["just before"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"腕前","reading":"うでまえ"},{"word":"腕まえ","reading":"うでまえ"}],"senses":[["ability","skill","facility"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"事前","reading":"じぜん"}],"senses":[["prior","beforehand","in advance","before the fact","ex ante"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani17"],"japanese":[{"word":"建前","reading":"たてまえ"},{"word":"建て前","reading":"たてまえ"},{"word":"立前","reading":"たてまえ"},{"word":"立て前","reading":"たてまえ"}],"senses":[["face","official stance","public position or attitude (as opposed to private thoughts)"],["ceremony for the erection of the framework of a house"]]},{"jlpt":[],"tags":["wanikani17"],"japanese":[{"word":"紀元前","reading":"きげんぜん"}],"senses":[["pre-era","BC","BCE"],["Ante Christum Natum"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"戦前","reading":"せんぜん"}],"senses":[["pre-war days","before the war"],["Pre-war"]]},{"jlpt":[],"tags":["wanikani13"],"japanese":[{"word":"駅前","reading":"えきまえ"}],"senses":[["in front of a station"],["Ekimae"]]},{"jlpt":[],"tags":["wanikani13"],"japanese":[{"word":"当然","reading":"とうぜん"},{"word":"当前","reading":"とうぜん"}],"senses":[["natural","right","proper","just","reasonable","appropriate","deserved"],["naturally","as a matter of course","rightly","deservedly","justly","of course"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"人前","reading":"ひとまえ"},{"word":"人まえ","reading":"ひとまえ"}],"senses":[["presence of other people","(in) public","(in) front of others"]]},{"jlpt":[],"tags":["wanikani44"],"japanese":[{"word":"寸前","reading":"すんぜん"}],"senses":[["just before","on the verge of","on the brink of"],["just in front of","just ahead of"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"目の前","reading":"めのまえ"}],"senses":[["before one's eyes","in front of one","under one's nose"],["immediate","imminent","around the corner"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"目前","reading":"もくぜん"}],"senses":[["before one's very eyes","under one's nose","imminence","close at hand"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"最前列","reading":"さいぜんれつ"}],"senses":[["front row"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"一人前","reading":"いちにんまえ"},{"word":"一人前","reading":"ひとりまえ"},{"word":"一人まえ","reading":"いちにんまえ"},{"word":"一人まえ","reading":"ひとりまえ"}],"senses":[["one portion","one serving","one person"],["adult","grown-up","person who has come of age"],["fully fledged","established","qualified"]]},{"jlpt":["jlpt-n5"],"tags":["wanikani8"],"japanese":[{"word":"名前","reading":"なまえ"},{"word":"名まえ","reading":"なまえ"}],"senses":[["name"],["given name","first name"],["Name"]]},{"jlpt":["jlpt-n5"],"tags":["wanikani6"],"japanese":[{"word":"午前","reading":"ごぜん"}],"senses":[["morning","a.m."]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"手前","reading":"てまえ"}],"senses":[["before oneself","in front of one","nearby"],["a bit before reaching (a location)","this side (of a location)"],["one's standpoint","one's appearance","face","honour"],["skill","dexterity","artistry","ingenuity"],["tea-ceremony procedures"],["I","me"],["you"],["Lead (leg)"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani7"],"japanese":[{"word":"以前","reading":"いぜん"},{"word":"已前","reading":"いぜん"}],"senses":[["ago","since","before","previous"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani8"],"japanese":[{"word":"お前","reading":"おまえ"},{"word":"お前","reading":"おまい"},{"word":"御前","reading":"おまえ"},{"word":"御前","reading":"おまい"}],"senses":[["you"],["presence (of a god, nobleman, etc.)"]]},{"jlpt":["jlpt-n2","jlpt-n1"],"tags":["wanikani8"],"japanese":[{"word":"当たり前","reading":"あたりまえ"},{"word":"当り前","reading":"あたりまえ"},{"word":"あたり前","reading":"あたりまえ"},{"word":"当りまえ","reading":"あたりまえ"}],"senses":[["natural","reasonable","obvious"],["usual","common","ordinary","commonplace","the norm"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"直前","reading":"ちょくぜん"}],"senses":[["just before"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"腕前","reading":"うでまえ"},{"word":"腕まえ","reading":"うでまえ"}],"senses":[["ability","skill","facility"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"事前","reading":"じぜん"}],"senses":[["prior","beforehand","in advance","before the fact","ex ante"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani17"],"japanese":[{"word":"建前","reading":"たてまえ"},{"word":"建て前","reading":"たてまえ"},{"word":"立前","reading":"たてまえ"},{"word":"立て前","reading":"たてまえ"}],"senses":[["face","official stance","public position or attitude (as opposed to private thoughts)"],["ceremony for the erection of the framework of a house"]]},{"jlpt":[],"tags":["wanikani17"],"japanese":[{"word":"紀元前","reading":"きげんぜん"}],"senses":[["pre-era","BC","BCE"],["Ante Christum Natum"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"戦前","reading":"せんぜん"}],"senses":[["pre-war days","before the war"],["Pre-war"]]},{"jlpt":[],"tags":["wanikani13"],"japanese":[{"word":"駅前","reading":"えきまえ"}],"senses":[["in front of a station"],["Ekimae"]]},{"jlpt":[],"tags":["wanikani13"],"japanese":[{"word":"当然","reading":"とうぜん"},{"word":"当前","reading":"とうぜん"}],"senses":[["natural","right","proper","just","reasonable","appropriate","deserved"],["naturally","as a matter of course","rightly","deservedly","justly","of course"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"人前","reading":"ひとまえ"},{"word":"人まえ","reading":"ひとまえ"}],"senses":[["presence of other people","(in) public","(in) front of others"]]},{"jlpt":[],"tags":["wanikani44"],"japanese":[{"word":"寸前","reading":"すんぜん"}],"senses":[["just before","on the verge of","on the brink of"],["just in front of","just ahead of"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"目の前","reading":"めのまえ"}],"senses":[["before one's eyes","in front of one","under one's nose"],["immediate","imminent","around the corner"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"目前","reading":"もくぜん"}],"senses":[["before one's very eyes","under one's nose","imminence","close at hand"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"最前列","reading":"さいぜんれつ"}],"senses":[["front row"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"一人前","reading":"いちにんまえ"},{"word":"一人前","reading":"ひとりまえ"},{"word":"一人まえ","reading":"いちにんまえ"},{"word":"一人まえ","reading":"ひとりまえ"}],"senses":[["one portion","one serving","one person"],["adult","grown-up","person who has come of age"],["fully fledged","established","qualified"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"生前","reading":"せいぜん"}],"senses":[["while alive","during one's lifetime"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"昼前","reading":"ひるまえ"}],"senses":[["morning","forenoon"],["just before noon"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"持ち前","reading":"もちまえ"},{"word":"持前","reading":"もちまえ"},{"word":"持ちまえ","reading":"もちまえ"}],"senses":[["one's nature","characteristic","inherent","natural"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"空前","reading":"くうぜん"}],"senses":[["unprecedented","record-breaking"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"自前","reading":"じまえ"}],"senses":[["paying one's own expenses"],["going into business for oneself","working independently","person who earns their own living"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"目先","reading":"めさき"},{"word":"目前","reading":"めさき"}],"senses":[["before one's eyes","under one's nose"],["immediate (e.g. interests)","present","at hand","short-run"],["foresight","near future"],["appearance"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"門前","reading":"もんぜん"}],"senses":[["before the gate","in front of the gate"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"男前","reading":"おとこまえ"},{"reading":"オトコマエ"}],"senses":[["handsome man","man's looks","good looks"],["manliness"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"気前","reading":"きまえ"}],"senses":[["generosity"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"午前中","reading":"ごぜんちゅう"}],"senses":[["in the morning","during the morning"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"前々","reading":"まえまえ"},{"word":"前前","reading":"まえまえ"}],"senses":[["a long time ago","long before now"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"最前線","reading":"さいぜんせん"}],"senses":[["front line","forefront"],["Front line"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"人前","reading":"にんまえ"}],"senses":[["portion of food"]]},{"jlpt":[],"tags":["wanikani8"],"japanese":[{"word":"この前","reading":"このまえ"},{"word":"此の前","reading":"このまえ"}],"senses":[["some time ago","recently","lately"],["last (Sunday, etc.)","previous"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"中前","reading":"ちゅうぜん"}],"senses":[["front of center field","front of centre field"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"門前払い","reading":"もんぜんばらい"}],"senses":[["turning another away at the gate or front door","refusing to receive a caller"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"出前","reading":"でまえ"}],"senses":[["home delivery (of food)","outside catering"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"大前提","reading":"だいぜんてい"}],"senses":[["major premise (in a syllogism)"],["important condition","basic premise","basic assumption"],["something that should be obvious to all","something that should not have to be argued","something that goes without mentioning"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"左前","reading":"ひだりまえ"}],"senses":[["wearing a kimono with the right side over the left (normally used only for the dead)"],["going badly (one's business, one's fortune, the economy)","being in a bad financial situation"],["front left","front and left","before and left"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"二人前","reading":"ふたりまえ"},{"word":"二人前","reading":"ににんまえ"}],"senses":[["for two people","(work) of two","(meals) for two"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"数年前","reading":"すうねんまえ"}],"senses":[["a few years ago","some years back"]]}]}
+{
+  "basic": ["前", "In Front", "309"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n5"],
+      "tags": ["wanikani8"],
+      "japanese": [
+        { "word": "名前", "reading": "なまえ" },
+        { "word": "名まえ", "reading": "なまえ" }
+      ],
+      "senses": [["name"], ["given name", "first name"], ["Name"]]
+    },
+    {
+      "jlpt": ["jlpt-n5"],
+      "tags": ["wanikani6"],
+      "japanese": [{ "word": "午前", "reading": "ごぜん" }],
+      "senses": [["morning", "a.m."]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "手前", "reading": "てまえ" }],
+      "senses": [
+        ["before oneself", "in front of one", "nearby"],
+        ["a bit before reaching (a location)", "this side (of a location)"],
+        ["one's standpoint", "one's appearance", "face", "honour"],
+        ["skill", "dexterity", "artistry", "ingenuity"],
+        ["tea-ceremony procedures"],
+        ["I", "me"],
+        ["you"],
+        ["Lead (leg)"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani7"],
+      "japanese": [
+        { "word": "以前", "reading": "いぜん" },
+        { "word": "已前", "reading": "いぜん" }
+      ],
+      "senses": [["ago", "since", "before", "previous"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani8"],
+      "japanese": [
+        { "word": "お前", "reading": "おまえ" },
+        { "word": "お前", "reading": "おまい" },
+        { "word": "御前", "reading": "おまえ" },
+        { "word": "御前", "reading": "おまい" }
+      ],
+      "senses": [["you"], ["presence (of a god, nobleman, etc.)"]]
+    },
+    {
+      "jlpt": ["jlpt-n2", "jlpt-n1"],
+      "tags": ["wanikani8"],
+      "japanese": [
+        { "word": "当たり前", "reading": "あたりまえ" },
+        { "word": "当り前", "reading": "あたりまえ" },
+        { "word": "あたり前", "reading": "あたりまえ" },
+        { "word": "当りまえ", "reading": "あたりまえ" }
+      ],
+      "senses": [
+        ["natural", "reasonable", "obvious"],
+        ["usual", "common", "ordinary", "commonplace", "the norm"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "直前", "reading": "ちょくぜん" }],
+      "senses": [["just before"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "腕前", "reading": "うでまえ" },
+        { "word": "腕まえ", "reading": "うでまえ" }
+      ],
+      "senses": [["ability", "skill", "facility"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "事前", "reading": "じぜん" }],
+      "senses": [
+        ["prior", "beforehand", "in advance", "before the fact", "ex ante"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani17"],
+      "japanese": [
+        { "word": "建前", "reading": "たてまえ" },
+        { "word": "建て前", "reading": "たてまえ" },
+        { "word": "立前", "reading": "たてまえ" },
+        { "word": "立て前", "reading": "たてまえ" }
+      ],
+      "senses": [
+        [
+          "face",
+          "official stance",
+          "public position or attitude (as opposed to private thoughts)"
+        ],
+        ["ceremony for the erection of the framework of a house"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani17"],
+      "japanese": [{ "word": "紀元前", "reading": "きげんぜん" }],
+      "senses": [["pre-era", "BC", "BCE"], ["Ante Christum Natum"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "戦前", "reading": "せんぜん" }],
+      "senses": [["pre-war days", "before the war"], ["Pre-war"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani13"],
+      "japanese": [{ "word": "駅前", "reading": "えきまえ" }],
+      "senses": [["in front of a station"], ["Ekimae"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani13"],
+      "japanese": [
+        { "word": "当然", "reading": "とうぜん" },
+        { "word": "当前", "reading": "とうぜん" }
+      ],
+      "senses": [
+        [
+          "natural",
+          "right",
+          "proper",
+          "just",
+          "reasonable",
+          "appropriate",
+          "deserved"
+        ],
+        [
+          "naturally",
+          "as a matter of course",
+          "rightly",
+          "deservedly",
+          "justly",
+          "of course"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "人前", "reading": "ひとまえ" },
+        { "word": "人まえ", "reading": "ひとまえ" }
+      ],
+      "senses": [
+        ["presence of other people", "(in) public", "(in) front of others"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani44"],
+      "japanese": [{ "word": "寸前", "reading": "すんぜん" }],
+      "senses": [
+        ["just before", "on the verge of", "on the brink of"],
+        ["just in front of", "just ahead of"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "目の前", "reading": "めのまえ" }],
+      "senses": [
+        ["before one's eyes", "in front of one", "under one's nose"],
+        ["immediate", "imminent", "around the corner"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "目前", "reading": "もくぜん" }],
+      "senses": [
+        [
+          "before one's very eyes",
+          "under one's nose",
+          "imminence",
+          "close at hand"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "最前列", "reading": "さいぜんれつ" }],
+      "senses": [["front row"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "一人前", "reading": "いちにんまえ" },
+        { "word": "一人前", "reading": "ひとりまえ" },
+        { "word": "一人まえ", "reading": "いちにんまえ" },
+        { "word": "一人まえ", "reading": "ひとりまえ" }
+      ],
+      "senses": [
+        ["one portion", "one serving", "one person"],
+        ["adult", "grown-up", "person who has come of age"],
+        ["fully fledged", "established", "qualified"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n5"],
+      "tags": ["wanikani8"],
+      "japanese": [
+        { "word": "名前", "reading": "なまえ" },
+        { "word": "名まえ", "reading": "なまえ" }
+      ],
+      "senses": [["name"], ["given name", "first name"], ["Name"]]
+    },
+    {
+      "jlpt": ["jlpt-n5"],
+      "tags": ["wanikani6"],
+      "japanese": [{ "word": "午前", "reading": "ごぜん" }],
+      "senses": [["morning", "a.m."]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "手前", "reading": "てまえ" }],
+      "senses": [
+        ["before oneself", "in front of one", "nearby"],
+        ["a bit before reaching (a location)", "this side (of a location)"],
+        ["one's standpoint", "one's appearance", "face", "honour"],
+        ["skill", "dexterity", "artistry", "ingenuity"],
+        ["tea-ceremony procedures"],
+        ["I", "me"],
+        ["you"],
+        ["Lead (leg)"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani7"],
+      "japanese": [
+        { "word": "以前", "reading": "いぜん" },
+        { "word": "已前", "reading": "いぜん" }
+      ],
+      "senses": [["ago", "since", "before", "previous"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani8"],
+      "japanese": [
+        { "word": "お前", "reading": "おまえ" },
+        { "word": "お前", "reading": "おまい" },
+        { "word": "御前", "reading": "おまえ" },
+        { "word": "御前", "reading": "おまい" }
+      ],
+      "senses": [["you"], ["presence (of a god, nobleman, etc.)"]]
+    },
+    {
+      "jlpt": ["jlpt-n2", "jlpt-n1"],
+      "tags": ["wanikani8"],
+      "japanese": [
+        { "word": "当たり前", "reading": "あたりまえ" },
+        { "word": "当り前", "reading": "あたりまえ" },
+        { "word": "あたり前", "reading": "あたりまえ" },
+        { "word": "当りまえ", "reading": "あたりまえ" }
+      ],
+      "senses": [
+        ["natural", "reasonable", "obvious"],
+        ["usual", "common", "ordinary", "commonplace", "the norm"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "直前", "reading": "ちょくぜん" }],
+      "senses": [["just before"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "腕前", "reading": "うでまえ" },
+        { "word": "腕まえ", "reading": "うでまえ" }
+      ],
+      "senses": [["ability", "skill", "facility"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "事前", "reading": "じぜん" }],
+      "senses": [
+        ["prior", "beforehand", "in advance", "before the fact", "ex ante"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani17"],
+      "japanese": [
+        { "word": "建前", "reading": "たてまえ" },
+        { "word": "建て前", "reading": "たてまえ" },
+        { "word": "立前", "reading": "たてまえ" },
+        { "word": "立て前", "reading": "たてまえ" }
+      ],
+      "senses": [
+        [
+          "face",
+          "official stance",
+          "public position or attitude (as opposed to private thoughts)"
+        ],
+        ["ceremony for the erection of the framework of a house"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani17"],
+      "japanese": [{ "word": "紀元前", "reading": "きげんぜん" }],
+      "senses": [["pre-era", "BC", "BCE"], ["Ante Christum Natum"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "戦前", "reading": "せんぜん" }],
+      "senses": [["pre-war days", "before the war"], ["Pre-war"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani13"],
+      "japanese": [{ "word": "駅前", "reading": "えきまえ" }],
+      "senses": [["in front of a station"], ["Ekimae"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani13"],
+      "japanese": [
+        { "word": "当然", "reading": "とうぜん" },
+        { "word": "当前", "reading": "とうぜん" }
+      ],
+      "senses": [
+        [
+          "natural",
+          "right",
+          "proper",
+          "just",
+          "reasonable",
+          "appropriate",
+          "deserved"
+        ],
+        [
+          "naturally",
+          "as a matter of course",
+          "rightly",
+          "deservedly",
+          "justly",
+          "of course"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "人前", "reading": "ひとまえ" },
+        { "word": "人まえ", "reading": "ひとまえ" }
+      ],
+      "senses": [
+        ["presence of other people", "(in) public", "(in) front of others"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani44"],
+      "japanese": [{ "word": "寸前", "reading": "すんぜん" }],
+      "senses": [
+        ["just before", "on the verge of", "on the brink of"],
+        ["just in front of", "just ahead of"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "目の前", "reading": "めのまえ" }],
+      "senses": [
+        ["before one's eyes", "in front of one", "under one's nose"],
+        ["immediate", "imminent", "around the corner"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "目前", "reading": "もくぜん" }],
+      "senses": [
+        [
+          "before one's very eyes",
+          "under one's nose",
+          "imminence",
+          "close at hand"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "最前列", "reading": "さいぜんれつ" }],
+      "senses": [["front row"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "一人前", "reading": "いちにんまえ" },
+        { "word": "一人前", "reading": "ひとりまえ" },
+        { "word": "一人まえ", "reading": "いちにんまえ" },
+        { "word": "一人まえ", "reading": "ひとりまえ" }
+      ],
+      "senses": [
+        ["one portion", "one serving", "one person"],
+        ["adult", "grown-up", "person who has come of age"],
+        ["fully fledged", "established", "qualified"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "生前", "reading": "せいぜん" }],
+      "senses": [["while alive", "during one's lifetime"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "昼前", "reading": "ひるまえ" }],
+      "senses": [["morning", "forenoon"], ["just before noon"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "持ち前", "reading": "もちまえ" },
+        { "word": "持前", "reading": "もちまえ" },
+        { "word": "持ちまえ", "reading": "もちまえ" }
+      ],
+      "senses": [["one's nature", "characteristic", "inherent", "natural"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "空前", "reading": "くうぜん" }],
+      "senses": [["unprecedented", "record-breaking"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "自前", "reading": "じまえ" }],
+      "senses": [
+        ["paying one's own expenses"],
+        [
+          "going into business for oneself",
+          "working independently",
+          "person who earns their own living"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "目先", "reading": "めさき" },
+        { "word": "目前", "reading": "めさき" }
+      ],
+      "senses": [
+        ["before one's eyes", "under one's nose"],
+        ["immediate (e.g. interests)", "present", "at hand", "short-run"],
+        ["foresight", "near future"],
+        ["appearance"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "門前", "reading": "もんぜん" }],
+      "senses": [["before the gate", "in front of the gate"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "男前", "reading": "おとこまえ" },
+        { "reading": "オトコマエ" }
+      ],
+      "senses": [["handsome man", "man's looks", "good looks"], ["manliness"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "気前", "reading": "きまえ" }],
+      "senses": [["generosity"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "午前中", "reading": "ごぜんちゅう" }],
+      "senses": [["in the morning", "during the morning"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "前々", "reading": "まえまえ" },
+        { "word": "前前", "reading": "まえまえ" }
+      ],
+      "senses": [["a long time ago", "long before now"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "最前線", "reading": "さいぜんせん" }],
+      "senses": [["front line", "forefront"], ["Front line"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "人前", "reading": "にんまえ" }],
+      "senses": [["portion of food"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani8"],
+      "japanese": [
+        { "word": "この前", "reading": "このまえ" },
+        { "word": "此の前", "reading": "このまえ" }
+      ],
+      "senses": [
+        ["some time ago", "recently", "lately"],
+        ["last (Sunday, etc.)", "previous"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "中前", "reading": "ちゅうぜん" }],
+      "senses": [["front of center field", "front of centre field"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "門前払い", "reading": "もんぜんばらい" }],
+      "senses": [
+        [
+          "turning another away at the gate or front door",
+          "refusing to receive a caller"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "出前", "reading": "でまえ" }],
+      "senses": [["home delivery (of food)", "outside catering"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "大前提", "reading": "だいぜんてい" }],
+      "senses": [
+        ["major premise (in a syllogism)"],
+        ["important condition", "basic premise", "basic assumption"],
+        [
+          "something that should be obvious to all",
+          "something that should not have to be argued",
+          "something that goes without mentioning"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "左前", "reading": "ひだりまえ" }],
+      "senses": [
+        ["wearing a kimono with the right side over the left (normally used only for the dead)"],
+        [
+          "going badly (one's business, one's fortune, the economy)",
+          "being in a bad financial situation"
+        ],
+        ["front left", "front and left", "before and left"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "二人前", "reading": "ふたりまえ" },
+        { "word": "二人前", "reading": "ににんまえ" }
+      ],
+      "senses": [["for two people", "(work) of two", "(meals) for two"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "数年前", "reading": "すうねんまえ" }],
+      "senses": [["a few years ago", "some years back"]]
+    }
+  ]
+}

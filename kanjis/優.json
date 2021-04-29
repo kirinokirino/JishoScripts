@@ -1,1 +1,77 @@
-{"basic":["優","Tenderness","1068"],"extended":[{"jlpt":["jlpt-n3"],"tags":["wanikani23"],"japanese":[{"word":"俳優","reading":"はいゆう"}],"senses":[["actor","actress","player","performer"],["Actor"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani25"],"japanese":[{"word":"女優","reading":"じょゆう"}],"senses":[["actress"]]},{"jlpt":[],"tags":["wanikani23"],"japanese":[{"word":"男優","reading":"だんゆう"}],"senses":[["actor (male)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"名優","reading":"めいゆう"}],"senses":[["great actor","famous actor","star"]]},{"jlpt":[],"tags":["wanikani54"],"japanese":[{"word":"最優遇","reading":"さいゆうぐう"}],"senses":[["most favourable treatment","most favorable treatment","very warm reception"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani23"],"japanese":[{"word":"俳優","reading":"はいゆう"}],"senses":[["actor","actress","player","performer"],["Actor"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani25"],"japanese":[{"word":"女優","reading":"じょゆう"}],"senses":[["actress"]]},{"jlpt":[],"tags":["wanikani23"],"japanese":[{"word":"男優","reading":"だんゆう"}],"senses":[["actor (male)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"名優","reading":"めいゆう"}],"senses":[["great actor","famous actor","star"]]},{"jlpt":[],"tags":["wanikani54"],"japanese":[{"word":"最優遇","reading":"さいゆうぐう"}],"senses":[["most favourable treatment","most favorable treatment","very warm reception"]]}]}
+{
+  "basic": ["優", "Tenderness", "1068"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani23"],
+      "japanese": [{ "word": "俳優", "reading": "はいゆう" }],
+      "senses": [["actor", "actress", "player", "performer"], ["Actor"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani25"],
+      "japanese": [{ "word": "女優", "reading": "じょゆう" }],
+      "senses": [["actress"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani23"],
+      "japanese": [{ "word": "男優", "reading": "だんゆう" }],
+      "senses": [["actor (male)"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "名優", "reading": "めいゆう" }],
+      "senses": [["great actor", "famous actor", "star"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani54"],
+      "japanese": [{ "word": "最優遇", "reading": "さいゆうぐう" }],
+      "senses": [
+        [
+          "most favourable treatment",
+          "most favorable treatment",
+          "very warm reception"
+        ]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani23"],
+      "japanese": [{ "word": "俳優", "reading": "はいゆう" }],
+      "senses": [["actor", "actress", "player", "performer"], ["Actor"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani25"],
+      "japanese": [{ "word": "女優", "reading": "じょゆう" }],
+      "senses": [["actress"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani23"],
+      "japanese": [{ "word": "男優", "reading": "だんゆう" }],
+      "senses": [["actor (male)"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "名優", "reading": "めいゆう" }],
+      "senses": [["great actor", "famous actor", "star"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani54"],
+      "japanese": [{ "word": "最優遇", "reading": "さいゆうぐう" }],
+      "senses": [
+        [
+          "most favourable treatment",
+          "most favorable treatment",
+          "very warm reception"
+        ]
+      ]
+    }
+  ]
+}

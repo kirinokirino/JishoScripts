@@ -1,1 +1,41 @@
-{"basic":["堪","Withstand","1907"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"持ち堪える","reading":"もちこたえる"},{"word":"持堪える","reading":"もちこたえる"},{"word":"持ちこたえる","reading":"もちこたえる"}],"senses":[["to hold out (e.g. against an attack)","to hang on","to withstand","to endure","to last"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"持ち堪える","reading":"もちこたえる"},{"word":"持堪える","reading":"もちこたえる"},{"word":"持ちこたえる","reading":"もちこたえる"}],"senses":[["to hold out (e.g. against an attack)","to hang on","to withstand","to endure","to last"]]}]}
+{
+  "basic": ["堪", "Withstand", "1907"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "持ち堪える", "reading": "もちこたえる" },
+        { "word": "持堪える", "reading": "もちこたえる" },
+        { "word": "持ちこたえる", "reading": "もちこたえる" }
+      ],
+      "senses": [
+        [
+          "to hold out (e.g. against an attack)",
+          "to hang on",
+          "to withstand",
+          "to endure",
+          "to last"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "持ち堪える", "reading": "もちこたえる" },
+        { "word": "持堪える", "reading": "もちこたえる" },
+        { "word": "持ちこたえる", "reading": "もちこたえる" }
+      ],
+      "senses": [
+        [
+          "to hold out (e.g. against an attack)",
+          "to hang on",
+          "to withstand",
+          "to endure",
+          "to last"
+        ]
+      ]
+    }
+  ]
+}

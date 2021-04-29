@@ -1,1 +1,53 @@
-{"basic":["距","Long-Distance","1375"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"長距離","reading":"ちょうきょり"}],"senses":[["long distance","long haul"]]},{"jlpt":[],"tags":["wanikani45"],"japanese":[{"word":"近距離","reading":"きんきょり"}],"senses":[["short distance"]]},{"jlpt":[],"tags":["wanikani45"],"japanese":[{"word":"短距離","reading":"たんきょり"}],"senses":[["short distance","short range","short-haul"]]},{"jlpt":[],"tags":["wanikani45"],"japanese":[{"word":"遠距離","reading":"えんきょり"}],"senses":[["long distance","tele-"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"長距離","reading":"ちょうきょり"}],"senses":[["long distance","long haul"]]},{"jlpt":[],"tags":["wanikani45"],"japanese":[{"word":"近距離","reading":"きんきょり"}],"senses":[["short distance"]]},{"jlpt":[],"tags":["wanikani45"],"japanese":[{"word":"短距離","reading":"たんきょり"}],"senses":[["short distance","short range","short-haul"]]},{"jlpt":[],"tags":["wanikani45"],"japanese":[{"word":"遠距離","reading":"えんきょり"}],"senses":[["long distance","tele-"]]}]}
+{
+  "basic": ["距", "Long-Distance", "1375"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "長距離", "reading": "ちょうきょり" }],
+      "senses": [["long distance", "long haul"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani45"],
+      "japanese": [{ "word": "近距離", "reading": "きんきょり" }],
+      "senses": [["short distance"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani45"],
+      "japanese": [{ "word": "短距離", "reading": "たんきょり" }],
+      "senses": [["short distance", "short range", "short-haul"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani45"],
+      "japanese": [{ "word": "遠距離", "reading": "えんきょり" }],
+      "senses": [["long distance", "tele-"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "長距離", "reading": "ちょうきょり" }],
+      "senses": [["long distance", "long haul"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani45"],
+      "japanese": [{ "word": "近距離", "reading": "きんきょり" }],
+      "senses": [["short distance"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani45"],
+      "japanese": [{ "word": "短距離", "reading": "たんきょり" }],
+      "senses": [["short distance", "short range", "short-haul"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani45"],
+      "japanese": [{ "word": "遠距離", "reading": "えんきょり" }],
+      "senses": [["long distance", "tele-"]]
+    }
+  ]
+}

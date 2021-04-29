@@ -1,1 +1,129 @@
-{"basic":["老","Old Man","1340"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"海老","reading":"えび"},{"word":"蝦","reading":"えび"},{"word":"蛯","reading":"えび"},{"word":"鰕","reading":"えび"},{"reading":"エビ"}],"senses":[["prawn","shrimp","lobster","crayfish"],["Ebi"],["Shrimp"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"長老","reading":"ちょうろう"}],"senses":[["elder","senior"],["senior monk"],["dean","presbyter","patriarch"],["Zhang Lu"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"初老","reading":"しょろう"}],"senses":[["past middle age","nearing old age","near-elderly"],["age 40"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"養老","reading":"ようろう"}],"senses":[["making provision for the elderly","making provision for one's old age"],["spending one's old age in comfort"],["Yōrō era (717.11.17-724.2.4)"],["Yōrō"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"敬老","reading":"けいろう"}],"senses":[["respect for the aged"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"養老院","reading":"ようろういん"}],"senses":[["home for the aged","old people's home"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"海老","reading":"えび"},{"word":"蝦","reading":"えび"},{"word":"蛯","reading":"えび"},{"word":"鰕","reading":"えび"},{"reading":"エビ"}],"senses":[["prawn","shrimp","lobster","crayfish"],["Ebi"],["Shrimp"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"長老","reading":"ちょうろう"}],"senses":[["elder","senior"],["senior monk"],["dean","presbyter","patriarch"],["Zhang Lu"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"初老","reading":"しょろう"}],"senses":[["past middle age","nearing old age","near-elderly"],["age 40"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"養老","reading":"ようろう"}],"senses":[["making provision for the elderly","making provision for one's old age"],["spending one's old age in comfort"],["Yōrō era (717.11.17-724.2.4)"],["Yōrō"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"敬老","reading":"けいろう"}],"senses":[["respect for the aged"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"養老院","reading":"ようろういん"}],"senses":[["home for the aged","old people's home"]]}]}
+{
+  "basic": ["老", "Old Man", "1340"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "海老", "reading": "えび" },
+        { "word": "蝦", "reading": "えび" },
+        { "word": "蛯", "reading": "えび" },
+        { "word": "鰕", "reading": "えび" },
+        { "reading": "エビ" }
+      ],
+      "senses": [
+        ["prawn", "shrimp", "lobster", "crayfish"],
+        ["Ebi"],
+        ["Shrimp"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "長老", "reading": "ちょうろう" }],
+      "senses": [
+        ["elder", "senior"],
+        ["senior monk"],
+        ["dean", "presbyter", "patriarch"],
+        ["Zhang Lu"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "初老", "reading": "しょろう" }],
+      "senses": [
+        ["past middle age", "nearing old age", "near-elderly"],
+        ["age 40"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "養老", "reading": "ようろう" }],
+      "senses": [
+        [
+          "making provision for the elderly",
+          "making provision for one's old age"
+        ],
+        ["spending one's old age in comfort"],
+        ["Yōrō era (717.11.17-724.2.4)"],
+        ["Yōrō"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "敬老", "reading": "けいろう" }],
+      "senses": [["respect for the aged"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "養老院", "reading": "ようろういん" }],
+      "senses": [["home for the aged", "old people's home"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "海老", "reading": "えび" },
+        { "word": "蝦", "reading": "えび" },
+        { "word": "蛯", "reading": "えび" },
+        { "word": "鰕", "reading": "えび" },
+        { "reading": "エビ" }
+      ],
+      "senses": [
+        ["prawn", "shrimp", "lobster", "crayfish"],
+        ["Ebi"],
+        ["Shrimp"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "長老", "reading": "ちょうろう" }],
+      "senses": [
+        ["elder", "senior"],
+        ["senior monk"],
+        ["dean", "presbyter", "patriarch"],
+        ["Zhang Lu"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "初老", "reading": "しょろう" }],
+      "senses": [
+        ["past middle age", "nearing old age", "near-elderly"],
+        ["age 40"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "養老", "reading": "ようろう" }],
+      "senses": [
+        [
+          "making provision for the elderly",
+          "making provision for one's old age"
+        ],
+        ["spending one's old age in comfort"],
+        ["Yōrō era (717.11.17-724.2.4)"],
+        ["Yōrō"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "敬老", "reading": "けいろう" }],
+      "senses": [["respect for the aged"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "養老院", "reading": "ようろういん" }],
+      "senses": [["home for the aged", "old people's home"]]
+    }
+  ]
+}

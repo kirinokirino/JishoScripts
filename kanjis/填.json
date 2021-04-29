@@ -1,1 +1,41 @@
-{"basic":["填","Inlay","166"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"充填","reading":"じゅうてん"},{"word":"充塡","reading":"じゅうてん"}],"senses":[["filling (up)","replenishing","filling in (tooth)","loading (gun with ammunition, camera with film, etc.)","packing","plugging"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"充填","reading":"じゅうてん"},{"word":"充塡","reading":"じゅうてん"}],"senses":[["filling (up)","replenishing","filling in (tooth)","loading (gun with ammunition, camera with film, etc.)","packing","plugging"]]}]}
+{
+  "basic": ["填", "Inlay", "166"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "充填", "reading": "じゅうてん" },
+        { "word": "充塡", "reading": "じゅうてん" }
+      ],
+      "senses": [
+        [
+          "filling (up)",
+          "replenishing",
+          "filling in (tooth)",
+          "loading (gun with ammunition, camera with film, etc.)",
+          "packing",
+          "plugging"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "充填", "reading": "じゅうてん" },
+        { "word": "充塡", "reading": "じゅうてん" }
+      ],
+      "senses": [
+        [
+          "filling (up)",
+          "replenishing",
+          "filling in (tooth)",
+          "loading (gun with ammunition, camera with film, etc.)",
+          "packing",
+          "plugging"
+        ]
+      ]
+    }
+  ]
+}

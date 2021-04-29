@@ -1,1 +1,73 @@
-{"basic":["孝","Filial Piety","1342"],"extended":[{"jlpt":[],"tags":["wanikani42"],"japanese":[{"word":"親孝行","reading":"おやこうこう"}],"senses":[["filial piety","being kind to one's parents","taking care of one's parents"]]},{"jlpt":[],"tags":["wanikani40"],"japanese":[{"word":"不孝","reading":"ふこう"},{"word":"不孝","reading":"ふきょう"}],"senses":[["undutifulness to one's parents","lack of filial piety"],["(the crime of) cursing one's parents"],["disowning one's child"]]},{"jlpt":[],"tags":["wanikani42"],"japanese":[{"word":"親不孝","reading":"おやふこう"},{"word":"親不幸","reading":"おやふこう"}],"senses":[["lack of filial piety","disobedience to one's parents"]]},{"jlpt":[],"tags":["wanikani42"],"japanese":[{"word":"親孝行","reading":"おやこうこう"}],"senses":[["filial piety","being kind to one's parents","taking care of one's parents"]]},{"jlpt":[],"tags":["wanikani40"],"japanese":[{"word":"不孝","reading":"ふこう"},{"word":"不孝","reading":"ふきょう"}],"senses":[["undutifulness to one's parents","lack of filial piety"],["(the crime of) cursing one's parents"],["disowning one's child"]]},{"jlpt":[],"tags":["wanikani42"],"japanese":[{"word":"親不孝","reading":"おやふこう"},{"word":"親不幸","reading":"おやふこう"}],"senses":[["lack of filial piety","disobedience to one's parents"]]}]}
+{
+  "basic": ["孝", "Filial Piety", "1342"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": ["wanikani42"],
+      "japanese": [{ "word": "親孝行", "reading": "おやこうこう" }],
+      "senses": [
+        [
+          "filial piety",
+          "being kind to one's parents",
+          "taking care of one's parents"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani40"],
+      "japanese": [
+        { "word": "不孝", "reading": "ふこう" },
+        { "word": "不孝", "reading": "ふきょう" }
+      ],
+      "senses": [
+        ["undutifulness to one's parents", "lack of filial piety"],
+        ["(the crime of) cursing one's parents"],
+        ["disowning one's child"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani42"],
+      "japanese": [
+        { "word": "親不孝", "reading": "おやふこう" },
+        { "word": "親不幸", "reading": "おやふこう" }
+      ],
+      "senses": [["lack of filial piety", "disobedience to one's parents"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani42"],
+      "japanese": [{ "word": "親孝行", "reading": "おやこうこう" }],
+      "senses": [
+        [
+          "filial piety",
+          "being kind to one's parents",
+          "taking care of one's parents"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani40"],
+      "japanese": [
+        { "word": "不孝", "reading": "ふこう" },
+        { "word": "不孝", "reading": "ふきょう" }
+      ],
+      "senses": [
+        ["undutifulness to one's parents", "lack of filial piety"],
+        ["(the crime of) cursing one's parents"],
+        ["disowning one's child"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani42"],
+      "japanese": [
+        { "word": "親不孝", "reading": "おやふこう" },
+        { "word": "親不幸", "reading": "おやふこう" }
+      ],
+      "senses": [["lack of filial piety", "disobedience to one's parents"]]
+    }
+  ]
+}

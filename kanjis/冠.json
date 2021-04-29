@@ -1,1 +1,29 @@
-{"basic":["冠","Crown","326"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"栄冠","reading":"えいかん"}],"senses":[["laurels","garland"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"三冠馬","reading":"さんかんば"}],"senses":[["winner of Japan's three main horse races"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"栄冠","reading":"えいかん"}],"senses":[["laurels","garland"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"三冠馬","reading":"さんかんば"}],"senses":[["winner of Japan's three main horse races"]]}]}
+{
+  "basic": ["冠", "Crown", "326"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "栄冠", "reading": "えいかん" }],
+      "senses": [["laurels", "garland"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "三冠馬", "reading": "さんかんば" }],
+      "senses": [["winner of Japan's three main horse races"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "栄冠", "reading": "えいかん" }],
+      "senses": [["laurels", "garland"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "三冠馬", "reading": "さんかんば" }],
+      "senses": [["winner of Japan's three main horse races"]]
+    }
+  ]
+}

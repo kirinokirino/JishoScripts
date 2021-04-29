@@ -1,1 +1,227 @@
-{"basic":["果","Fruit","1202"],"extended":[{"jlpt":["jlpt-n3"],"tags":["wanikani17"],"japanese":[{"word":"結果","reading":"けっか"}],"senses":[["result","consequence","outcome","effect"],["coming to fruition","bearing fruit"],["as a result","consequently","therefore"],["Corollary"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani25"],"japanese":[{"word":"効果","reading":"こうか"}],"senses":[["effect","effectiveness","efficacy","result"],["effects (e.g. sound effects, visual effects, special effects)"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"成果","reading":"せいか"}],"senses":[["(good) result","outcome","fruits (of one's labors)","product","accomplishment"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"林檎","reading":"りんご"},{"word":"苹果","reading":"りんご"},{"word":"苹果","reading":"へいか"},{"word":"苹果","reading":"ひょうか"},{"word":"林檎","reading":"りゅうごう"},{"word":"林檎","reading":"りんきん"},{"word":"林檎","reading":"りんき"},{"reading":"リンゴ"}],"senses":[["apple (fruit)"],["apple tree (Malus pumila)"],["Apple"]]},{"jlpt":[],"tags":["wanikani27"],"japanese":[{"word":"効果的","reading":"こうかてき"}],"senses":[["effective","successful"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"困り果てる","reading":"こまりはてる"},{"word":"困りはてる","reading":"こまりはてる"}],"senses":[["to be at a complete loss","to be without recourse","to be completely stymied","to have absolutely no idea what to do"]]},{"jlpt":[],"tags":["wanikani28"],"japanese":[{"word":"逆効果","reading":"ぎゃくこうか"},{"word":"逆効果","reading":"ぎゃっこうか"}],"senses":[["opposite effect","adverse effect","backfiring"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"因果","reading":"いんが"}],"senses":[["cause and effect","causality"],["karma","fate"],["unfortunate","unlucky","ill-fated"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"芒果","reading":"マンゴー"},{"word":"芒果","reading":"マンゴ"}],"senses":[["mango (Mangifera indica)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"青果","reading":"せいか"}],"senses":[["fruit(s) and vegetables","produce"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"研究結果","reading":"けんきゅうけっか"}],"senses":[["results of a scientific investigation","findings"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani17"],"japanese":[{"word":"結果","reading":"けっか"}],"senses":[["result","consequence","outcome","effect"],["coming to fruition","bearing fruit"],["as a result","consequently","therefore"],["Corollary"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani25"],"japanese":[{"word":"効果","reading":"こうか"}],"senses":[["effect","effectiveness","efficacy","result"],["effects (e.g. sound effects, visual effects, special effects)"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"成果","reading":"せいか"}],"senses":[["(good) result","outcome","fruits (of one's labors)","product","accomplishment"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"林檎","reading":"りんご"},{"word":"苹果","reading":"りんご"},{"word":"苹果","reading":"へいか"},{"word":"苹果","reading":"ひょうか"},{"word":"林檎","reading":"りゅうごう"},{"word":"林檎","reading":"りんきん"},{"word":"林檎","reading":"りんき"},{"reading":"リンゴ"}],"senses":[["apple (fruit)"],["apple tree (Malus pumila)"],["Apple"]]},{"jlpt":[],"tags":["wanikani27"],"japanese":[{"word":"効果的","reading":"こうかてき"}],"senses":[["effective","successful"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"困り果てる","reading":"こまりはてる"},{"word":"困りはてる","reading":"こまりはてる"}],"senses":[["to be at a complete loss","to be without recourse","to be completely stymied","to have absolutely no idea what to do"]]},{"jlpt":[],"tags":["wanikani28"],"japanese":[{"word":"逆効果","reading":"ぎゃくこうか"},{"word":"逆効果","reading":"ぎゃっこうか"}],"senses":[["opposite effect","adverse effect","backfiring"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"因果","reading":"いんが"}],"senses":[["cause and effect","causality"],["karma","fate"],["unfortunate","unlucky","ill-fated"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"芒果","reading":"マンゴー"},{"word":"芒果","reading":"マンゴ"}],"senses":[["mango (Mangifera indica)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"青果","reading":"せいか"}],"senses":[["fruit(s) and vegetables","produce"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"研究結果","reading":"けんきゅうけっか"}],"senses":[["results of a scientific investigation","findings"]]}]}
+{
+  "basic": ["果", "Fruit", "1202"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani17"],
+      "japanese": [{ "word": "結果", "reading": "けっか" }],
+      "senses": [
+        ["result", "consequence", "outcome", "effect"],
+        ["coming to fruition", "bearing fruit"],
+        ["as a result", "consequently", "therefore"],
+        ["Corollary"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani25"],
+      "japanese": [{ "word": "効果", "reading": "こうか" }],
+      "senses": [
+        ["effect", "effectiveness", "efficacy", "result"],
+        ["effects (e.g. sound effects, visual effects, special effects)"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "成果", "reading": "せいか" }],
+      "senses": [
+        [
+          "(good) result",
+          "outcome",
+          "fruits (of one's labors)",
+          "product",
+          "accomplishment"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "林檎", "reading": "りんご" },
+        { "word": "苹果", "reading": "りんご" },
+        { "word": "苹果", "reading": "へいか" },
+        { "word": "苹果", "reading": "ひょうか" },
+        { "word": "林檎", "reading": "りゅうごう" },
+        { "word": "林檎", "reading": "りんきん" },
+        { "word": "林檎", "reading": "りんき" },
+        { "reading": "リンゴ" }
+      ],
+      "senses": [["apple (fruit)"], ["apple tree (Malus pumila)"], ["Apple"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani27"],
+      "japanese": [{ "word": "効果的", "reading": "こうかてき" }],
+      "senses": [["effective", "successful"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "困り果てる", "reading": "こまりはてる" },
+        { "word": "困りはてる", "reading": "こまりはてる" }
+      ],
+      "senses": [
+        [
+          "to be at a complete loss",
+          "to be without recourse",
+          "to be completely stymied",
+          "to have absolutely no idea what to do"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani28"],
+      "japanese": [
+        { "word": "逆効果", "reading": "ぎゃくこうか" },
+        { "word": "逆効果", "reading": "ぎゃっこうか" }
+      ],
+      "senses": [["opposite effect", "adverse effect", "backfiring"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "因果", "reading": "いんが" }],
+      "senses": [
+        ["cause and effect", "causality"],
+        ["karma", "fate"],
+        ["unfortunate", "unlucky", "ill-fated"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "芒果", "reading": "マンゴー" },
+        { "word": "芒果", "reading": "マンゴ" }
+      ],
+      "senses": [["mango (Mangifera indica)"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "青果", "reading": "せいか" }],
+      "senses": [["fruit(s) and vegetables", "produce"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "研究結果", "reading": "けんきゅうけっか" }],
+      "senses": [["results of a scientific investigation", "findings"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani17"],
+      "japanese": [{ "word": "結果", "reading": "けっか" }],
+      "senses": [
+        ["result", "consequence", "outcome", "effect"],
+        ["coming to fruition", "bearing fruit"],
+        ["as a result", "consequently", "therefore"],
+        ["Corollary"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani25"],
+      "japanese": [{ "word": "効果", "reading": "こうか" }],
+      "senses": [
+        ["effect", "effectiveness", "efficacy", "result"],
+        ["effects (e.g. sound effects, visual effects, special effects)"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "成果", "reading": "せいか" }],
+      "senses": [
+        [
+          "(good) result",
+          "outcome",
+          "fruits (of one's labors)",
+          "product",
+          "accomplishment"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "林檎", "reading": "りんご" },
+        { "word": "苹果", "reading": "りんご" },
+        { "word": "苹果", "reading": "へいか" },
+        { "word": "苹果", "reading": "ひょうか" },
+        { "word": "林檎", "reading": "りゅうごう" },
+        { "word": "林檎", "reading": "りんきん" },
+        { "word": "林檎", "reading": "りんき" },
+        { "reading": "リンゴ" }
+      ],
+      "senses": [["apple (fruit)"], ["apple tree (Malus pumila)"], ["Apple"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani27"],
+      "japanese": [{ "word": "効果的", "reading": "こうかてき" }],
+      "senses": [["effective", "successful"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "困り果てる", "reading": "こまりはてる" },
+        { "word": "困りはてる", "reading": "こまりはてる" }
+      ],
+      "senses": [
+        [
+          "to be at a complete loss",
+          "to be without recourse",
+          "to be completely stymied",
+          "to have absolutely no idea what to do"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani28"],
+      "japanese": [
+        { "word": "逆効果", "reading": "ぎゃくこうか" },
+        { "word": "逆効果", "reading": "ぎゃっこうか" }
+      ],
+      "senses": [["opposite effect", "adverse effect", "backfiring"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "因果", "reading": "いんが" }],
+      "senses": [
+        ["cause and effect", "causality"],
+        ["karma", "fate"],
+        ["unfortunate", "unlucky", "ill-fated"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "芒果", "reading": "マンゴー" },
+        { "word": "芒果", "reading": "マンゴ" }
+      ],
+      "senses": [["mango (Mangifera indica)"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "青果", "reading": "せいか" }],
+      "senses": [["fruit(s) and vegetables", "produce"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "研究結果", "reading": "けんきゅうけっか" }],
+      "senses": [["results of a scientific investigation", "findings"]]
+    }
+  ]
+}

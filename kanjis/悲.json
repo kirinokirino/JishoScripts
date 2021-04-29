@@ -1,1 +1,45 @@
-{"basic":["悲","Sad","1763"],"extended":[{"jlpt":["jlpt-n3"],"tags":["wanikani17"],"japanese":[{"word":"恋","reading":"こい"},{"word":"戀","reading":"こい"},{"word":"孤悲","reading":"こい"}],"senses":[["(romantic) love"]]},{"jlpt":[],"tags":["wanikani51"],"japanese":[{"word":"慈悲","reading":"じひ"}],"senses":[["mercy","compassion","clemency","pity","charity","benevolence"],["Hodgson's hawk-cuckoo (Cuculus fugax)","Horsfield's hawk cuckoo"],["Karuṇā"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani17"],"japanese":[{"word":"恋","reading":"こい"},{"word":"戀","reading":"こい"},{"word":"孤悲","reading":"こい"}],"senses":[["(romantic) love"]]},{"jlpt":[],"tags":["wanikani51"],"japanese":[{"word":"慈悲","reading":"じひ"}],"senses":[["mercy","compassion","clemency","pity","charity","benevolence"],["Hodgson's hawk-cuckoo (Cuculus fugax)","Horsfield's hawk cuckoo"],["Karuṇā"]]}]}
+{
+  "basic": ["悲", "Sad", "1763"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani17"],
+      "japanese": [
+        { "word": "恋", "reading": "こい" },
+        { "word": "戀", "reading": "こい" },
+        { "word": "孤悲", "reading": "こい" }
+      ],
+      "senses": [["(romantic) love"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani51"],
+      "japanese": [{ "word": "慈悲", "reading": "じひ" }],
+      "senses": [
+        ["mercy", "compassion", "clemency", "pity", "charity", "benevolence"],
+        ["Hodgson's hawk-cuckoo (Cuculus fugax)", "Horsfield's hawk cuckoo"],
+        ["Karuṇā"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani17"],
+      "japanese": [
+        { "word": "恋", "reading": "こい" },
+        { "word": "戀", "reading": "こい" },
+        { "word": "孤悲", "reading": "こい" }
+      ],
+      "senses": [["(romantic) love"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani51"],
+      "japanese": [{ "word": "慈悲", "reading": "じひ" }],
+      "senses": [
+        ["mercy", "compassion", "clemency", "pity", "charity", "benevolence"],
+        ["Hodgson's hawk-cuckoo (Cuculus fugax)", "Horsfield's hawk cuckoo"],
+        ["Karuṇā"]
+      ]
+    }
+  ]
+}

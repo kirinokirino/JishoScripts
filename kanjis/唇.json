@@ -1,1 +1,43 @@
-{"basic":["唇","Lips","2169"],"extended":[{"jlpt":[],"tags":["wanikani47"],"japanese":[{"word":"下唇","reading":"したくちびる"},{"word":"下唇","reading":"かしん"}],"senses":[["lower lip"]]},{"jlpt":[],"tags":["wanikani47"],"japanese":[{"word":"上唇","reading":"うわくちびる"},{"word":"上くちびる","reading":"うわくちびる"},{"word":"上唇","reading":"じょうしん"}],"senses":[["upper lip"],["labrum"]]},{"jlpt":[],"tags":["wanikani47"],"japanese":[{"word":"下唇","reading":"したくちびる"},{"word":"下唇","reading":"かしん"}],"senses":[["lower lip"]]},{"jlpt":[],"tags":["wanikani47"],"japanese":[{"word":"上唇","reading":"うわくちびる"},{"word":"上くちびる","reading":"うわくちびる"},{"word":"上唇","reading":"じょうしん"}],"senses":[["upper lip"],["labrum"]]}]}
+{
+  "basic": ["唇", "Lips", "2169"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": ["wanikani47"],
+      "japanese": [
+        { "word": "下唇", "reading": "したくちびる" },
+        { "word": "下唇", "reading": "かしん" }
+      ],
+      "senses": [["lower lip"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani47"],
+      "japanese": [
+        { "word": "上唇", "reading": "うわくちびる" },
+        { "word": "上くちびる", "reading": "うわくちびる" },
+        { "word": "上唇", "reading": "じょうしん" }
+      ],
+      "senses": [["upper lip"], ["labrum"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani47"],
+      "japanese": [
+        { "word": "下唇", "reading": "したくちびる" },
+        { "word": "下唇", "reading": "かしん" }
+      ],
+      "senses": [["lower lip"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani47"],
+      "japanese": [
+        { "word": "上唇", "reading": "うわくちびる" },
+        { "word": "上くちびる", "reading": "うわくちびる" },
+        { "word": "上唇", "reading": "じょうしん" }
+      ],
+      "senses": [["upper lip"], ["labrum"]]
+    }
+  ]
+}

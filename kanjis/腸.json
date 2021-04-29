@@ -1,1 +1,87 @@
-{"basic":["腸","Intestines","583"],"extended":[{"jlpt":[],"tags":["wanikani57"],"japanese":[{"word":"盲腸","reading":"もうちょう"}],"senses":[["cecum","caecum","blind gut"],["(vermiform) appendix"],["appendicitis"],["Cecum"]]},{"jlpt":[],"tags":["wanikani59"],"japanese":[{"word":"大腸菌","reading":"だいちょうきん"}],"senses":[["Escherichia coli (E. coli)"],["colon bacterium"],["Escherichia coli"]]},{"jlpt":[],"tags":["wanikani57"],"japanese":[{"word":"大腸","reading":"だいちょう"},{"word":"大腸","reading":"おおわた"}],"senses":[["large intestine","large bowel","colon"],["Large intestine"]]},{"jlpt":[],"tags":["wanikani57"],"japanese":[{"word":"胃腸","reading":"いちょう"}],"senses":[["stomach and intestines","gastrointestinal tract","digestive organs"]]},{"jlpt":[],"tags":["wanikani57"],"japanese":[{"word":"盲腸","reading":"もうちょう"}],"senses":[["cecum","caecum","blind gut"],["(vermiform) appendix"],["appendicitis"],["Cecum"]]},{"jlpt":[],"tags":["wanikani59"],"japanese":[{"word":"大腸菌","reading":"だいちょうきん"}],"senses":[["Escherichia coli (E. coli)"],["colon bacterium"],["Escherichia coli"]]},{"jlpt":[],"tags":["wanikani57"],"japanese":[{"word":"大腸","reading":"だいちょう"},{"word":"大腸","reading":"おおわた"}],"senses":[["large intestine","large bowel","colon"],["Large intestine"]]},{"jlpt":[],"tags":["wanikani57"],"japanese":[{"word":"胃腸","reading":"いちょう"}],"senses":[["stomach and intestines","gastrointestinal tract","digestive organs"]]}]}
+{
+  "basic": ["腸", "Intestines", "583"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": ["wanikani57"],
+      "japanese": [{ "word": "盲腸", "reading": "もうちょう" }],
+      "senses": [
+        ["cecum", "caecum", "blind gut"],
+        ["(vermiform) appendix"],
+        ["appendicitis"],
+        ["Cecum"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani59"],
+      "japanese": [{ "word": "大腸菌", "reading": "だいちょうきん" }],
+      "senses": [
+        ["Escherichia coli (E. coli)"],
+        ["colon bacterium"],
+        ["Escherichia coli"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani57"],
+      "japanese": [
+        { "word": "大腸", "reading": "だいちょう" },
+        { "word": "大腸", "reading": "おおわた" }
+      ],
+      "senses": [
+        ["large intestine", "large bowel", "colon"],
+        ["Large intestine"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani57"],
+      "japanese": [{ "word": "胃腸", "reading": "いちょう" }],
+      "senses": [
+        ["stomach and intestines", "gastrointestinal tract", "digestive organs"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani57"],
+      "japanese": [{ "word": "盲腸", "reading": "もうちょう" }],
+      "senses": [
+        ["cecum", "caecum", "blind gut"],
+        ["(vermiform) appendix"],
+        ["appendicitis"],
+        ["Cecum"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani59"],
+      "japanese": [{ "word": "大腸菌", "reading": "だいちょうきん" }],
+      "senses": [
+        ["Escherichia coli (E. coli)"],
+        ["colon bacterium"],
+        ["Escherichia coli"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani57"],
+      "japanese": [
+        { "word": "大腸", "reading": "だいちょう" },
+        { "word": "大腸", "reading": "おおわた" }
+      ],
+      "senses": [
+        ["large intestine", "large bowel", "colon"],
+        ["Large intestine"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani57"],
+      "japanese": [{ "word": "胃腸", "reading": "いちょう" }],
+      "senses": [
+        ["stomach and intestines", "gastrointestinal tract", "digestive organs"]
+      ]
+    }
+  ]
+}

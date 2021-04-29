@@ -1,1 +1,17 @@
-{"basic":["左","Left","81"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"向かって左","reading":"むかってひだり"}],"senses":[["on the left as one faces (it)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"向かって左","reading":"むかってひだり"}],"senses":[["on the left as one faces (it)"]]}]}
+{
+  "basic": ["左", "Left", "81"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "向かって左", "reading": "むかってひだり" }],
+      "senses": [["on the left as one faces (it)"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "向かって左", "reading": "むかってひだり" }],
+      "senses": [["on the left as one faces (it)"]]
+    }
+  ]
+}

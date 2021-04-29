@@ -1,1 +1,17 @@
-{"basic":["搬","Conveyor","2018"],"extended":[{"jlpt":["jlpt-n1"],"tags":["wanikani50"],"japanese":[{"word":"運搬","reading":"うんぱん"}],"senses":[["transport","transportation","conveyance","carriage"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani50"],"japanese":[{"word":"運搬","reading":"うんぱん"}],"senses":[["transport","transportation","conveyance","carriage"]]}]}
+{
+  "basic": ["搬", "Conveyor", "2018"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani50"],
+      "japanese": [{ "word": "運搬", "reading": "うんぱん" }],
+      "senses": [["transport", "transportation", "conveyance", "carriage"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani50"],
+      "japanese": [{ "word": "運搬", "reading": "うんぱん" }],
+      "senses": [["transport", "transportation", "conveyance", "carriage"]]
+    }
+  ]
+}

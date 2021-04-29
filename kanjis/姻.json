@@ -1,1 +1,17 @@
-{"basic":["姻","Matrimony","627"],"extended":[{"jlpt":[],"tags":["wanikani59"],"japanese":[{"word":"婚姻","reading":"こんいん"}],"senses":[["marriage","matrimony"]]},{"jlpt":[],"tags":["wanikani59"],"japanese":[{"word":"婚姻","reading":"こんいん"}],"senses":[["marriage","matrimony"]]}]}
+{
+  "basic": ["姻", "Matrimony", "627"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": ["wanikani59"],
+      "japanese": [{ "word": "婚姻", "reading": "こんいん" }],
+      "senses": [["marriage", "matrimony"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani59"],
+      "japanese": [{ "word": "婚姻", "reading": "こんいん" }],
+      "senses": [["marriage", "matrimony"]]
+    }
+  ]
+}

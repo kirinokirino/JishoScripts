@@ -1,1 +1,119 @@
-{"basic":["縁","Affinity","1472"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"血縁","reading":"けつえん"},{"word":"血縁","reading":"けちえん"}],"senses":[["blood relationship","consanguinity"],["blood relative"],["Consanguinity"]]},{"jlpt":[],"tags":["wanikani44"],"japanese":[{"word":"無縁","reading":"むえん"}],"senses":[["unrelated","unconnected","irrelevant","indifferent","divorced from","having nothing to do with one","being foreign to one"],["without relations (esp. of a deceased person)","having no surviving relatives"],["unrelated to the teachings of Buddha","unable to be saved by Buddha"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"因縁","reading":"いんねん"},{"word":"因縁","reading":"いんえん"}],"senses":[["fate","destiny"],["connection","tie","bond","origin"],["pretext","justification"],["hetu and prataya (direct causes and indirect conditions, which underlie the actions of all things)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"絶縁","reading":"ぜつえん"}],"senses":[["breaking off relations","disconnection"],["insulation (esp. electrical)","isolation"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"血縁","reading":"けつえん"},{"word":"血縁","reading":"けちえん"}],"senses":[["blood relationship","consanguinity"],["blood relative"],["Consanguinity"]]},{"jlpt":[],"tags":["wanikani44"],"japanese":[{"word":"無縁","reading":"むえん"}],"senses":[["unrelated","unconnected","irrelevant","indifferent","divorced from","having nothing to do with one","being foreign to one"],["without relations (esp. of a deceased person)","having no surviving relatives"],["unrelated to the teachings of Buddha","unable to be saved by Buddha"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"因縁","reading":"いんねん"},{"word":"因縁","reading":"いんえん"}],"senses":[["fate","destiny"],["connection","tie","bond","origin"],["pretext","justification"],["hetu and prataya (direct causes and indirect conditions, which underlie the actions of all things)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"絶縁","reading":"ぜつえん"}],"senses":[["breaking off relations","disconnection"],["insulation (esp. electrical)","isolation"]]}]}
+{
+  "basic": ["縁", "Affinity", "1472"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "血縁", "reading": "けつえん" },
+        { "word": "血縁", "reading": "けちえん" }
+      ],
+      "senses": [
+        ["blood relationship", "consanguinity"],
+        ["blood relative"],
+        ["Consanguinity"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani44"],
+      "japanese": [{ "word": "無縁", "reading": "むえん" }],
+      "senses": [
+        [
+          "unrelated",
+          "unconnected",
+          "irrelevant",
+          "indifferent",
+          "divorced from",
+          "having nothing to do with one",
+          "being foreign to one"
+        ],
+        [
+          "without relations (esp. of a deceased person)",
+          "having no surviving relatives"
+        ],
+        ["unrelated to the teachings of Buddha", "unable to be saved by Buddha"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "因縁", "reading": "いんねん" },
+        { "word": "因縁", "reading": "いんえん" }
+      ],
+      "senses": [
+        ["fate", "destiny"],
+        ["connection", "tie", "bond", "origin"],
+        ["pretext", "justification"],
+        ["hetu and prataya (direct causes and indirect conditions, which underlie the actions of all things)"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "絶縁", "reading": "ぜつえん" }],
+      "senses": [
+        ["breaking off relations", "disconnection"],
+        ["insulation (esp. electrical)", "isolation"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "血縁", "reading": "けつえん" },
+        { "word": "血縁", "reading": "けちえん" }
+      ],
+      "senses": [
+        ["blood relationship", "consanguinity"],
+        ["blood relative"],
+        ["Consanguinity"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani44"],
+      "japanese": [{ "word": "無縁", "reading": "むえん" }],
+      "senses": [
+        [
+          "unrelated",
+          "unconnected",
+          "irrelevant",
+          "indifferent",
+          "divorced from",
+          "having nothing to do with one",
+          "being foreign to one"
+        ],
+        [
+          "without relations (esp. of a deceased person)",
+          "having no surviving relatives"
+        ],
+        ["unrelated to the teachings of Buddha", "unable to be saved by Buddha"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "因縁", "reading": "いんねん" },
+        { "word": "因縁", "reading": "いんえん" }
+      ],
+      "senses": [
+        ["fate", "destiny"],
+        ["connection", "tie", "bond", "origin"],
+        ["pretext", "justification"],
+        ["hetu and prataya (direct causes and indirect conditions, which underlie the actions of all things)"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "絶縁", "reading": "ぜつえん" }],
+      "senses": [
+        ["breaking off relations", "disconnection"],
+        ["insulation (esp. electrical)", "isolation"]
+      ]
+    }
+  ]
+}

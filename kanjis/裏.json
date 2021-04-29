@@ -1,1 +1,59 @@
-{"basic":["裏","Back","426"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"表裏","reading":"ひょうり"},{"word":"表裏","reading":"おもてうら"}],"senses":[["front and back","inside and outside","two sides","both sides"],["duplicity","double-dealing","being two-faced"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"脳裏","reading":"のうり"},{"word":"脳裡","reading":"のうり"}],"senses":[["one's mind"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"舞台裏","reading":"ぶたいうら"}],"senses":[["offstage","backstage","behind the scenes"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"表裏","reading":"ひょうり"},{"word":"表裏","reading":"おもてうら"}],"senses":[["front and back","inside and outside","two sides","both sides"],["duplicity","double-dealing","being two-faced"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"脳裏","reading":"のうり"},{"word":"脳裡","reading":"のうり"}],"senses":[["one's mind"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"舞台裏","reading":"ぶたいうら"}],"senses":[["offstage","backstage","behind the scenes"]]}]}
+{
+  "basic": ["裏", "Back", "426"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "表裏", "reading": "ひょうり" },
+        { "word": "表裏", "reading": "おもてうら" }
+      ],
+      "senses": [
+        ["front and back", "inside and outside", "two sides", "both sides"],
+        ["duplicity", "double-dealing", "being two-faced"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "脳裏", "reading": "のうり" },
+        { "word": "脳裡", "reading": "のうり" }
+      ],
+      "senses": [["one's mind"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "舞台裏", "reading": "ぶたいうら" }],
+      "senses": [["offstage", "backstage", "behind the scenes"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "表裏", "reading": "ひょうり" },
+        { "word": "表裏", "reading": "おもてうら" }
+      ],
+      "senses": [
+        ["front and back", "inside and outside", "two sides", "both sides"],
+        ["duplicity", "double-dealing", "being two-faced"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "脳裏", "reading": "のうり" },
+        { "word": "脳裡", "reading": "のうり" }
+      ],
+      "senses": [["one's mind"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "舞台裏", "reading": "ぶたいうら" }],
+      "senses": [["offstage", "backstage", "behind the scenes"]]
+    }
+  ]
+}

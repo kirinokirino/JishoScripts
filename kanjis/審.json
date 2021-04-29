@@ -1,1 +1,91 @@
-{"basic":["審","Hearing","2059"],"extended":[{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"不審","reading":"ふしん"}],"senses":[["incomplete understanding","doubt","question","distrust","suspicion","strangeness","infidelity"]]},{"jlpt":[],"tags":["wanikani58"],"japanese":[{"word":"陪審","reading":"ばいしん"}],"senses":[["jury"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"一審","reading":"いっしん"}],"senses":[["first instance","first trial"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"再審","reading":"さいしん"}],"senses":[["retrial","reopening of a case"],["review","reexamination"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"主審","reading":"しゅしん"}],"senses":[["chief umpire","referee (soccer, boxing, etc.)"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"不審","reading":"ふしん"}],"senses":[["incomplete understanding","doubt","question","distrust","suspicion","strangeness","infidelity"]]},{"jlpt":[],"tags":["wanikani58"],"japanese":[{"word":"陪審","reading":"ばいしん"}],"senses":[["jury"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"一審","reading":"いっしん"}],"senses":[["first instance","first trial"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"再審","reading":"さいしん"}],"senses":[["retrial","reopening of a case"],["review","reexamination"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"主審","reading":"しゅしん"}],"senses":[["chief umpire","referee (soccer, boxing, etc.)"]]}]}
+{
+  "basic": ["審", "Hearing", "2059"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "不審", "reading": "ふしん" }],
+      "senses": [
+        [
+          "incomplete understanding",
+          "doubt",
+          "question",
+          "distrust",
+          "suspicion",
+          "strangeness",
+          "infidelity"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani58"],
+      "japanese": [{ "word": "陪審", "reading": "ばいしん" }],
+      "senses": [["jury"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "一審", "reading": "いっしん" }],
+      "senses": [["first instance", "first trial"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "再審", "reading": "さいしん" }],
+      "senses": [
+        ["retrial", "reopening of a case"],
+        ["review", "reexamination"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "主審", "reading": "しゅしん" }],
+      "senses": [["chief umpire", "referee (soccer, boxing, etc.)"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "不審", "reading": "ふしん" }],
+      "senses": [
+        [
+          "incomplete understanding",
+          "doubt",
+          "question",
+          "distrust",
+          "suspicion",
+          "strangeness",
+          "infidelity"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani58"],
+      "japanese": [{ "word": "陪審", "reading": "ばいしん" }],
+      "senses": [["jury"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "一審", "reading": "いっしん" }],
+      "senses": [["first instance", "first trial"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "再審", "reading": "さいしん" }],
+      "senses": [
+        ["retrial", "reopening of a case"],
+        ["review", "reexamination"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "主審", "reading": "しゅしん" }],
+      "senses": [["chief umpire", "referee (soccer, boxing, etc.)"]]
+    }
+  ]
+}

@@ -1,1 +1,53 @@
-{"basic":["赦","Pardon","1881"],"extended":[{"jlpt":[],"tags":["wanikani58"],"japanese":[{"word":"恩赦","reading":"おんしゃ"}],"senses":[["amnesty","pardon"],["Amnesty"]]},{"jlpt":[],"tags":["wanikani58"],"japanese":[{"word":"容赦","reading":"ようしゃ"}],"senses":[["pardon","forgiveness","tolerance","overlooking"],["leniency","mercy","going easy (on someone)"]]},{"jlpt":[],"tags":["wanikani60"],"japanese":[{"word":"容赦なく","reading":"ようしゃなく"},{"word":"容赦無く","reading":"ようしゃなく"}],"senses":[["mercilessly","relentlessly","unsparingly"]]},{"jlpt":[],"tags":["wanikani58"],"japanese":[{"word":"恩赦","reading":"おんしゃ"}],"senses":[["amnesty","pardon"],["Amnesty"]]},{"jlpt":[],"tags":["wanikani58"],"japanese":[{"word":"容赦","reading":"ようしゃ"}],"senses":[["pardon","forgiveness","tolerance","overlooking"],["leniency","mercy","going easy (on someone)"]]},{"jlpt":[],"tags":["wanikani60"],"japanese":[{"word":"容赦なく","reading":"ようしゃなく"},{"word":"容赦無く","reading":"ようしゃなく"}],"senses":[["mercilessly","relentlessly","unsparingly"]]}]}
+{
+  "basic": ["赦", "Pardon", "1881"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": ["wanikani58"],
+      "japanese": [{ "word": "恩赦", "reading": "おんしゃ" }],
+      "senses": [["amnesty", "pardon"], ["Amnesty"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani58"],
+      "japanese": [{ "word": "容赦", "reading": "ようしゃ" }],
+      "senses": [
+        ["pardon", "forgiveness", "tolerance", "overlooking"],
+        ["leniency", "mercy", "going easy (on someone)"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani60"],
+      "japanese": [
+        { "word": "容赦なく", "reading": "ようしゃなく" },
+        { "word": "容赦無く", "reading": "ようしゃなく" }
+      ],
+      "senses": [["mercilessly", "relentlessly", "unsparingly"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani58"],
+      "japanese": [{ "word": "恩赦", "reading": "おんしゃ" }],
+      "senses": [["amnesty", "pardon"], ["Amnesty"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani58"],
+      "japanese": [{ "word": "容赦", "reading": "ようしゃ" }],
+      "senses": [
+        ["pardon", "forgiveness", "tolerance", "overlooking"],
+        ["leniency", "mercy", "going easy (on someone)"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani60"],
+      "japanese": [
+        { "word": "容赦なく", "reading": "ようしゃなく" },
+        { "word": "容赦無く", "reading": "ようしゃなく" }
+      ],
+      "senses": [["mercilessly", "relentlessly", "unsparingly"]]
+    }
+  ]
+}

@@ -1,1 +1,75 @@
-{"basic":["奨","Exhort","790"],"extended":[{"jlpt":[],"tags":["wanikani49"],"japanese":[{"word":"推奨","reading":"すいしょう"}],"senses":[["recommendation","endorsement"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"報奨金","reading":"ほうしょうきん"},{"word":"褒奨金","reading":"ほうしょうきん"}],"senses":[["cash bonus","reward","bounty"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"勧奨","reading":"かんしょう"}],"senses":[["encouragement","stimulation"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"選奨","reading":"せんしょう"}],"senses":[["recommendation"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"推奨環境","reading":"すいしょうかんきょう"}],"senses":[["system requirements (i.e. recommended hardware and software to run a package)"]]},{"jlpt":[],"tags":["wanikani49"],"japanese":[{"word":"推奨","reading":"すいしょう"}],"senses":[["recommendation","endorsement"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"報奨金","reading":"ほうしょうきん"},{"word":"褒奨金","reading":"ほうしょうきん"}],"senses":[["cash bonus","reward","bounty"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"勧奨","reading":"かんしょう"}],"senses":[["encouragement","stimulation"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"選奨","reading":"せんしょう"}],"senses":[["recommendation"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"推奨環境","reading":"すいしょうかんきょう"}],"senses":[["system requirements (i.e. recommended hardware and software to run a package)"]]}]}
+{
+  "basic": ["奨", "Exhort", "790"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": ["wanikani49"],
+      "japanese": [{ "word": "推奨", "reading": "すいしょう" }],
+      "senses": [["recommendation", "endorsement"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "報奨金", "reading": "ほうしょうきん" },
+        { "word": "褒奨金", "reading": "ほうしょうきん" }
+      ],
+      "senses": [["cash bonus", "reward", "bounty"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "勧奨", "reading": "かんしょう" }],
+      "senses": [["encouragement", "stimulation"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "選奨", "reading": "せんしょう" }],
+      "senses": [["recommendation"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "推奨環境", "reading": "すいしょうかんきょう" }],
+      "senses": [
+        ["system requirements (i.e. recommended hardware and software to run a package)"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani49"],
+      "japanese": [{ "word": "推奨", "reading": "すいしょう" }],
+      "senses": [["recommendation", "endorsement"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "報奨金", "reading": "ほうしょうきん" },
+        { "word": "褒奨金", "reading": "ほうしょうきん" }
+      ],
+      "senses": [["cash bonus", "reward", "bounty"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "勧奨", "reading": "かんしょう" }],
+      "senses": [["encouragement", "stimulation"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "選奨", "reading": "せんしょう" }],
+      "senses": [["recommendation"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "推奨環境", "reading": "すいしょうかんきょう" }],
+      "senses": [
+        ["system requirements (i.e. recommended hardware and software to run a package)"]
+      ]
+    }
+  ]
+}

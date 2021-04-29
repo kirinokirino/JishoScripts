@@ -1,1 +1,31 @@
-{"basic":["蝶","Butterfly","560"],"extended":[{"jlpt":[],"tags":["wanikani58"],"japanese":[{"word":"蝶々","reading":"ちょうちょう"},{"word":"蝶々","reading":"ちょうちょ"},{"word":"蝶蝶","reading":"ちょうちょう"},{"word":"蝶蝶","reading":"ちょうちょ"},{"reading":"チョウチョウ"},{"reading":"チョウチョ"}],"senses":[["butterfly"]]},{"jlpt":[],"tags":["wanikani58"],"japanese":[{"word":"蝶々","reading":"ちょうちょう"},{"word":"蝶々","reading":"ちょうちょ"},{"word":"蝶蝶","reading":"ちょうちょう"},{"word":"蝶蝶","reading":"ちょうちょ"},{"reading":"チョウチョウ"},{"reading":"チョウチョ"}],"senses":[["butterfly"]]}]}
+{
+  "basic": ["蝶", "Butterfly", "560"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": ["wanikani58"],
+      "japanese": [
+        { "word": "蝶々", "reading": "ちょうちょう" },
+        { "word": "蝶々", "reading": "ちょうちょ" },
+        { "word": "蝶蝶", "reading": "ちょうちょう" },
+        { "word": "蝶蝶", "reading": "ちょうちょ" },
+        { "reading": "チョウチョウ" },
+        { "reading": "チョウチョ" }
+      ],
+      "senses": [["butterfly"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani58"],
+      "japanese": [
+        { "word": "蝶々", "reading": "ちょうちょう" },
+        { "word": "蝶々", "reading": "ちょうちょ" },
+        { "word": "蝶蝶", "reading": "ちょうちょう" },
+        { "word": "蝶蝶", "reading": "ちょうちょ" },
+        { "reading": "チョウチョウ" },
+        { "reading": "チョウチョ" }
+      ],
+      "senses": [["butterfly"]]
+    }
+  ]
+}

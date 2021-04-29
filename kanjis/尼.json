@@ -1,1 +1,59 @@
-{"basic":["尼","Nun","1133"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"雪特尼","reading":"シドニー"}],"senses":[["Sydney"],["Sidney","Sydney (Australia)"],["Sydney"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"馬尼剌","reading":"マニラ"}],"senses":[["Manila (Philippines)"],["Manila (Philipines)"],["Manila"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"印度尼西亜","reading":"インドネシア"}],"senses":[["Indonesia"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"突尼斯","reading":"チュニジア"},{"word":"突尼斯","reading":"テュニジア"}],"senses":[["Tunisia"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"雪特尼","reading":"シドニー"}],"senses":[["Sydney"],["Sidney","Sydney (Australia)"],["Sydney"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"馬尼剌","reading":"マニラ"}],"senses":[["Manila (Philippines)"],["Manila (Philipines)"],["Manila"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"印度尼西亜","reading":"インドネシア"}],"senses":[["Indonesia"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"突尼斯","reading":"チュニジア"},{"word":"突尼斯","reading":"テュニジア"}],"senses":[["Tunisia"]]}]}
+{
+  "basic": ["尼", "Nun", "1133"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "雪特尼", "reading": "シドニー" }],
+      "senses": [["Sydney"], ["Sidney", "Sydney (Australia)"], ["Sydney"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "馬尼剌", "reading": "マニラ" }],
+      "senses": [["Manila (Philippines)"], ["Manila (Philipines)"], ["Manila"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "印度尼西亜", "reading": "インドネシア" }],
+      "senses": [["Indonesia"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "突尼斯", "reading": "チュニジア" },
+        { "word": "突尼斯", "reading": "テュニジア" }
+      ],
+      "senses": [["Tunisia"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "雪特尼", "reading": "シドニー" }],
+      "senses": [["Sydney"], ["Sidney", "Sydney (Australia)"], ["Sydney"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "馬尼剌", "reading": "マニラ" }],
+      "senses": [["Manila (Philippines)"], ["Manila (Philipines)"], ["Manila"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "印度尼西亜", "reading": "インドネシア" }],
+      "senses": [["Indonesia"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "突尼斯", "reading": "チュニジア" },
+        { "word": "突尼斯", "reading": "テュニジア" }
+      ],
+      "senses": [["Tunisia"]]
+    }
+  ]
+}

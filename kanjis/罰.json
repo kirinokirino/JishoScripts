@@ -1,1 +1,71 @@
-{"basic":["罰","Penalty","896"],"extended":[{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"処罰","reading":"しょばつ"}],"senses":[["punishment","penalty"],["Sanctions (law)"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani37"],"japanese":[{"word":"刑罰","reading":"けいばつ"}],"senses":[["(criminal) punishment","penalty","sentence"],["Punishment"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"体罰","reading":"たいばつ"}],"senses":[["corporal punishment"],["Corporal punishment"]]},{"jlpt":[],"tags":["wanikani43"],"japanese":[{"word":"懲罰","reading":"ちょうばつ"}],"senses":[["discipline","punishment","reprimand"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"賞罰","reading":"しょうばつ"}],"senses":[["reward and punishment"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"処罰","reading":"しょばつ"}],"senses":[["punishment","penalty"],["Sanctions (law)"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani37"],"japanese":[{"word":"刑罰","reading":"けいばつ"}],"senses":[["(criminal) punishment","penalty","sentence"],["Punishment"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"体罰","reading":"たいばつ"}],"senses":[["corporal punishment"],["Corporal punishment"]]},{"jlpt":[],"tags":["wanikani43"],"japanese":[{"word":"懲罰","reading":"ちょうばつ"}],"senses":[["discipline","punishment","reprimand"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"賞罰","reading":"しょうばつ"}],"senses":[["reward and punishment"]]}]}
+{
+  "basic": ["罰", "Penalty", "896"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "処罰", "reading": "しょばつ" }],
+      "senses": [["punishment", "penalty"], ["Sanctions (law)"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani37"],
+      "japanese": [{ "word": "刑罰", "reading": "けいばつ" }],
+      "senses": [
+        ["(criminal) punishment", "penalty", "sentence"],
+        ["Punishment"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "体罰", "reading": "たいばつ" }],
+      "senses": [["corporal punishment"], ["Corporal punishment"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani43"],
+      "japanese": [{ "word": "懲罰", "reading": "ちょうばつ" }],
+      "senses": [["discipline", "punishment", "reprimand"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "賞罰", "reading": "しょうばつ" }],
+      "senses": [["reward and punishment"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "処罰", "reading": "しょばつ" }],
+      "senses": [["punishment", "penalty"], ["Sanctions (law)"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani37"],
+      "japanese": [{ "word": "刑罰", "reading": "けいばつ" }],
+      "senses": [
+        ["(criminal) punishment", "penalty", "sentence"],
+        ["Punishment"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "体罰", "reading": "たいばつ" }],
+      "senses": [["corporal punishment"], ["Corporal punishment"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani43"],
+      "japanese": [{ "word": "懲罰", "reading": "ちょうばつ" }],
+      "senses": [["discipline", "punishment", "reprimand"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "賞罰", "reading": "しょうばつ" }],
+      "senses": [["reward and punishment"]]
+    }
+  ]
+}

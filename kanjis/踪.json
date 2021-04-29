@@ -1,1 +1,21 @@
-{"basic":["踪","Trail","1382"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"失踪","reading":"しっそう"}],"senses":[["disappearance","running away","going missing","absconding"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"失踪","reading":"しっそう"}],"senses":[["disappearance","running away","going missing","absconding"]]}]}
+{
+  "basic": ["踪", "Trail", "1382"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "失踪", "reading": "しっそう" }],
+      "senses": [
+        ["disappearance", "running away", "going missing", "absconding"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "失踪", "reading": "しっそう" }],
+      "senses": [
+        ["disappearance", "running away", "going missing", "absconding"]
+      ]
+    }
+  ]
+}

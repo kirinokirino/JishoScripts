@@ -1,1 +1,29 @@
-{"basic":["促","Stimulate","1373"],"extended":[{"jlpt":["jlpt-n2"],"tags":["wanikani29","wanikani31"],"japanese":[{"word":"催促","reading":"さいそく"}],"senses":[["pressing","urging","demanding","demand"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"督促","reading":"とくそく"}],"senses":[["urge","demand","importunity"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani29","wanikani31"],"japanese":[{"word":"催促","reading":"さいそく"}],"senses":[["pressing","urging","demanding","demand"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"督促","reading":"とくそく"}],"senses":[["urge","demand","importunity"]]}]}
+{
+  "basic": ["促", "Stimulate", "1373"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani29", "wanikani31"],
+      "japanese": [{ "word": "催促", "reading": "さいそく" }],
+      "senses": [["pressing", "urging", "demanding", "demand"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "督促", "reading": "とくそく" }],
+      "senses": [["urge", "demand", "importunity"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani29", "wanikani31"],
+      "japanese": [{ "word": "催促", "reading": "さいそく" }],
+      "senses": [["pressing", "urging", "demanding", "demand"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "督促", "reading": "とくそく" }],
+      "senses": [["urge", "demand", "importunity"]]
+    }
+  ]
+}

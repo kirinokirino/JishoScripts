@@ -1,1 +1,83 @@
-{"basic":["毒","Poison","1651"],"extended":[{"jlpt":["jlpt-n3"],"tags":[],"japanese":[{"word":"気の毒","reading":"きのどく"},{"word":"気のどく","reading":"きのどく"}],"senses":[["pitiful","unfortunate","poor","miserable","wretched"],["unpardonable","regrettable"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani15"],"japanese":[{"word":"中毒","reading":"ちゅうどく"}],"senses":[["poisoning"],["addiction"]]},{"jlpt":[],"tags":["wanikani15"],"japanese":[{"word":"食中毒","reading":"しょくちゅうどく"}],"senses":[["food poisoning"],["Foodborne illness"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"消毒","reading":"しょうどく"}],"senses":[["disinfection","sterilization","sterilisation"],["Disinfectant"]]},{"jlpt":[],"tags":["wanikani15"],"japanese":[{"word":"有毒","reading":"ゆうどく"}],"senses":[["poisonous","toxic"]]},{"jlpt":["jlpt-n3"],"tags":[],"japanese":[{"word":"気の毒","reading":"きのどく"},{"word":"気のどく","reading":"きのどく"}],"senses":[["pitiful","unfortunate","poor","miserable","wretched"],["unpardonable","regrettable"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani15"],"japanese":[{"word":"中毒","reading":"ちゅうどく"}],"senses":[["poisoning"],["addiction"]]},{"jlpt":[],"tags":["wanikani15"],"japanese":[{"word":"食中毒","reading":"しょくちゅうどく"}],"senses":[["food poisoning"],["Foodborne illness"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"消毒","reading":"しょうどく"}],"senses":[["disinfection","sterilization","sterilisation"],["Disinfectant"]]},{"jlpt":[],"tags":["wanikani15"],"japanese":[{"word":"有毒","reading":"ゆうどく"}],"senses":[["poisonous","toxic"]]}]}
+{
+  "basic": ["毒", "Poison", "1651"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": [],
+      "japanese": [
+        { "word": "気の毒", "reading": "きのどく" },
+        { "word": "気のどく", "reading": "きのどく" }
+      ],
+      "senses": [
+        ["pitiful", "unfortunate", "poor", "miserable", "wretched"],
+        ["unpardonable", "regrettable"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani15"],
+      "japanese": [{ "word": "中毒", "reading": "ちゅうどく" }],
+      "senses": [["poisoning"], ["addiction"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani15"],
+      "japanese": [{ "word": "食中毒", "reading": "しょくちゅうどく" }],
+      "senses": [["food poisoning"], ["Foodborne illness"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "消毒", "reading": "しょうどく" }],
+      "senses": [
+        ["disinfection", "sterilization", "sterilisation"],
+        ["Disinfectant"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani15"],
+      "japanese": [{ "word": "有毒", "reading": "ゆうどく" }],
+      "senses": [["poisonous", "toxic"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": [],
+      "japanese": [
+        { "word": "気の毒", "reading": "きのどく" },
+        { "word": "気のどく", "reading": "きのどく" }
+      ],
+      "senses": [
+        ["pitiful", "unfortunate", "poor", "miserable", "wretched"],
+        ["unpardonable", "regrettable"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani15"],
+      "japanese": [{ "word": "中毒", "reading": "ちゅうどく" }],
+      "senses": [["poisoning"], ["addiction"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani15"],
+      "japanese": [{ "word": "食中毒", "reading": "しょくちゅうどく" }],
+      "senses": [["food poisoning"], ["Foodborne illness"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "消毒", "reading": "しょうどく" }],
+      "senses": [
+        ["disinfection", "sterilization", "sterilisation"],
+        ["Disinfectant"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani15"],
+      "japanese": [{ "word": "有毒", "reading": "ゆうどく" }],
+      "senses": [["poisonous", "toxic"]]
+    }
+  ]
+}

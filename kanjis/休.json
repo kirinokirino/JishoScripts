@@ -1,1 +1,209 @@
-{"basic":["休","Rest","1038"],"extended":[{"jlpt":["jlpt-n5"],"tags":["wanikani7"],"japanese":[{"word":"夏休み","reading":"なつやすみ"}],"senses":[["summer vacation","summer holiday"],["Summer vacation"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"一休み","reading":"ひとやすみ"},{"word":"ひと休み","reading":"ひとやすみ"}],"senses":[["(short) rest","breather","break"]]},{"jlpt":["jlpt-n2","jlpt-n1"],"tags":[],"japanese":[{"word":"お休み","reading":"おやすみ"},{"word":"御休み","reading":"おやすみ"}],"senses":[["holiday","day off","absence"],["sleep","rest"],["Good night"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"定休日","reading":"ていきゅうび"}],"senses":[["regular holiday","fixed day off","regular closing day"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"連休","reading":"れんきゅう"}],"senses":[["consecutive holidays"]]},{"jlpt":[],"tags":["wanikani15"],"japanese":[{"word":"春休み","reading":"はるやすみ"},{"word":"春休","reading":"はるやすみ"}],"senses":[["spring break","spring vacation"],["Spring break"]]},{"jlpt":[],"tags":["wanikani6"],"japanese":[{"word":"冬休み","reading":"ふゆやすみ"}],"senses":[["winter vacation","winter holidays"],["Winter vacation"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"週休","reading":"しゅうきゅう"}],"senses":[["weekly holiday"]]},{"jlpt":["jlpt-n4"],"tags":["wanikani15"],"japanese":[{"word":"昼休み","reading":"ひるやすみ"}],"senses":[["lunch break","noon recess","noon rest period"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"お休みなさい","reading":"おやすみなさい"},{"word":"御休みなさい","reading":"おやすみなさい"}],"senses":[["good night"]]},{"jlpt":[],"tags":["wanikani17"],"japanese":[{"word":"無休","reading":"むきゅう"}],"senses":[["without a holiday","nonstop"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"帰休","reading":"ききゅう"}],"senses":[["leave","furlough"],["temporary layoff"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"定休","reading":"ていきゅう"}],"senses":[["regular holiday","fixed day off","regular closing day"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"運休","reading":"うんきゅう"}],"senses":[["suspension (of a transportation service)","cancellation","stoppage"]]},{"jlpt":["jlpt-n5"],"tags":["wanikani7"],"japanese":[{"word":"夏休み","reading":"なつやすみ"}],"senses":[["summer vacation","summer holiday"],["Summer vacation"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"一休み","reading":"ひとやすみ"},{"word":"ひと休み","reading":"ひとやすみ"}],"senses":[["(short) rest","breather","break"]]},{"jlpt":["jlpt-n2","jlpt-n1"],"tags":[],"japanese":[{"word":"お休み","reading":"おやすみ"},{"word":"御休み","reading":"おやすみ"}],"senses":[["holiday","day off","absence"],["sleep","rest"],["Good night"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"定休日","reading":"ていきゅうび"}],"senses":[["regular holiday","fixed day off","regular closing day"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"連休","reading":"れんきゅう"}],"senses":[["consecutive holidays"]]},{"jlpt":[],"tags":["wanikani15"],"japanese":[{"word":"春休み","reading":"はるやすみ"},{"word":"春休","reading":"はるやすみ"}],"senses":[["spring break","spring vacation"],["Spring break"]]},{"jlpt":[],"tags":["wanikani6"],"japanese":[{"word":"冬休み","reading":"ふゆやすみ"}],"senses":[["winter vacation","winter holidays"],["Winter vacation"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"週休","reading":"しゅうきゅう"}],"senses":[["weekly holiday"]]},{"jlpt":["jlpt-n4"],"tags":["wanikani15"],"japanese":[{"word":"昼休み","reading":"ひるやすみ"}],"senses":[["lunch break","noon recess","noon rest period"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"お休みなさい","reading":"おやすみなさい"},{"word":"御休みなさい","reading":"おやすみなさい"}],"senses":[["good night"]]},{"jlpt":[],"tags":["wanikani17"],"japanese":[{"word":"無休","reading":"むきゅう"}],"senses":[["without a holiday","nonstop"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"帰休","reading":"ききゅう"}],"senses":[["leave","furlough"],["temporary layoff"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"定休","reading":"ていきゅう"}],"senses":[["regular holiday","fixed day off","regular closing day"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"運休","reading":"うんきゅう"}],"senses":[["suspension (of a transportation service)","cancellation","stoppage"]]}]}
+{
+  "basic": ["休", "Rest", "1038"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n5"],
+      "tags": ["wanikani7"],
+      "japanese": [{ "word": "夏休み", "reading": "なつやすみ" }],
+      "senses": [["summer vacation", "summer holiday"], ["Summer vacation"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [
+        { "word": "一休み", "reading": "ひとやすみ" },
+        { "word": "ひと休み", "reading": "ひとやすみ" }
+      ],
+      "senses": [["(short) rest", "breather", "break"]]
+    },
+    {
+      "jlpt": ["jlpt-n2", "jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "お休み", "reading": "おやすみ" },
+        { "word": "御休み", "reading": "おやすみ" }
+      ],
+      "senses": [
+        ["holiday", "day off", "absence"],
+        ["sleep", "rest"],
+        ["Good night"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "定休日", "reading": "ていきゅうび" }],
+      "senses": [["regular holiday", "fixed day off", "regular closing day"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "連休", "reading": "れんきゅう" }],
+      "senses": [["consecutive holidays"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani15"],
+      "japanese": [
+        { "word": "春休み", "reading": "はるやすみ" },
+        { "word": "春休", "reading": "はるやすみ" }
+      ],
+      "senses": [["spring break", "spring vacation"], ["Spring break"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani6"],
+      "japanese": [{ "word": "冬休み", "reading": "ふゆやすみ" }],
+      "senses": [["winter vacation", "winter holidays"], ["Winter vacation"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "週休", "reading": "しゅうきゅう" }],
+      "senses": [["weekly holiday"]]
+    },
+    {
+      "jlpt": ["jlpt-n4"],
+      "tags": ["wanikani15"],
+      "japanese": [{ "word": "昼休み", "reading": "ひるやすみ" }],
+      "senses": [["lunch break", "noon recess", "noon rest period"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "お休みなさい", "reading": "おやすみなさい" },
+        { "word": "御休みなさい", "reading": "おやすみなさい" }
+      ],
+      "senses": [["good night"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani17"],
+      "japanese": [{ "word": "無休", "reading": "むきゅう" }],
+      "senses": [["without a holiday", "nonstop"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "帰休", "reading": "ききゅう" }],
+      "senses": [["leave", "furlough"], ["temporary layoff"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "定休", "reading": "ていきゅう" }],
+      "senses": [["regular holiday", "fixed day off", "regular closing day"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "運休", "reading": "うんきゅう" }],
+      "senses": [
+        ["suspension (of a transportation service)", "cancellation", "stoppage"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n5"],
+      "tags": ["wanikani7"],
+      "japanese": [{ "word": "夏休み", "reading": "なつやすみ" }],
+      "senses": [["summer vacation", "summer holiday"], ["Summer vacation"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [
+        { "word": "一休み", "reading": "ひとやすみ" },
+        { "word": "ひと休み", "reading": "ひとやすみ" }
+      ],
+      "senses": [["(short) rest", "breather", "break"]]
+    },
+    {
+      "jlpt": ["jlpt-n2", "jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "お休み", "reading": "おやすみ" },
+        { "word": "御休み", "reading": "おやすみ" }
+      ],
+      "senses": [
+        ["holiday", "day off", "absence"],
+        ["sleep", "rest"],
+        ["Good night"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "定休日", "reading": "ていきゅうび" }],
+      "senses": [["regular holiday", "fixed day off", "regular closing day"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "連休", "reading": "れんきゅう" }],
+      "senses": [["consecutive holidays"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani15"],
+      "japanese": [
+        { "word": "春休み", "reading": "はるやすみ" },
+        { "word": "春休", "reading": "はるやすみ" }
+      ],
+      "senses": [["spring break", "spring vacation"], ["Spring break"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani6"],
+      "japanese": [{ "word": "冬休み", "reading": "ふゆやすみ" }],
+      "senses": [["winter vacation", "winter holidays"], ["Winter vacation"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "週休", "reading": "しゅうきゅう" }],
+      "senses": [["weekly holiday"]]
+    },
+    {
+      "jlpt": ["jlpt-n4"],
+      "tags": ["wanikani15"],
+      "japanese": [{ "word": "昼休み", "reading": "ひるやすみ" }],
+      "senses": [["lunch break", "noon recess", "noon rest period"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "お休みなさい", "reading": "おやすみなさい" },
+        { "word": "御休みなさい", "reading": "おやすみなさい" }
+      ],
+      "senses": [["good night"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani17"],
+      "japanese": [{ "word": "無休", "reading": "むきゅう" }],
+      "senses": [["without a holiday", "nonstop"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "帰休", "reading": "ききゅう" }],
+      "senses": [["leave", "furlough"], ["temporary layoff"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "定休", "reading": "ていきゅう" }],
+      "senses": [["regular holiday", "fixed day off", "regular closing day"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "運休", "reading": "うんきゅう" }],
+      "senses": [
+        ["suspension (of a transportation service)", "cancellation", "stoppage"]
+      ]
+    }
+  ]
+}

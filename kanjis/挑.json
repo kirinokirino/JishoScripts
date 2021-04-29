@@ -1,1 +1,17 @@
-{"basic":["挑","Challenge","710"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"初挑戦","reading":"はつちょうせん"}],"senses":[["first challenge","first try"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"初挑戦","reading":"はつちょうせん"}],"senses":[["first challenge","first try"]]}]}
+{
+  "basic": ["挑", "Challenge", "710"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "初挑戦", "reading": "はつちょうせん" }],
+      "senses": [["first challenge", "first try"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "初挑戦", "reading": "はつちょうせん" }],
+      "senses": [["first challenge", "first try"]]
+    }
+  ]
+}

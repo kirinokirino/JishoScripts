@@ -1,1 +1,147 @@
-{"basic":["劇","Drama","2152"],"extended":[{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"演劇","reading":"えんげき"}],"senses":[["drama","theatre","theater","play"],["Theatre"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani17"],"japanese":[{"word":"喜劇","reading":"きげき"}],"senses":[["comedy","funny show"],["Comedy"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani17"],"japanese":[{"word":"悲劇","reading":"ひげき"}],"senses":[["tragedy","tragic drama","tragic play"],["tragedy","calamity","disaster"]]},{"jlpt":["jlpt-n3"],"tags":[],"japanese":[{"word":"急激","reading":"きゅうげき"},{"word":"急劇","reading":"きゅうげき"}],"senses":[["sudden","abrupt","rapid","sharp","drastic","radical"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"時代劇","reading":"じだいげき"}],"senses":[["historical play","period drama"],["Jidaigeki"]]},{"jlpt":[],"tags":["wanikani17"],"japanese":[{"word":"歌劇","reading":"かげき"}],"senses":[["opera"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"観劇","reading":"かんげき"}],"senses":[["theatre-going","theater-going"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"国立劇場","reading":"こくりつげきじょう"}],"senses":[["national theater"],["Kokuritsugekijou"],["National Theatre of Japan"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"新劇","reading":"しんげき"}],"senses":[["school of western-inspired Japanese drama which developed towards the end of the Meiji period","shingeki","new-drama (movement)"],["Shingeki"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"演劇","reading":"えんげき"}],"senses":[["drama","theatre","theater","play"],["Theatre"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani17"],"japanese":[{"word":"喜劇","reading":"きげき"}],"senses":[["comedy","funny show"],["Comedy"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani17"],"japanese":[{"word":"悲劇","reading":"ひげき"}],"senses":[["tragedy","tragic drama","tragic play"],["tragedy","calamity","disaster"]]},{"jlpt":["jlpt-n3"],"tags":[],"japanese":[{"word":"急激","reading":"きゅうげき"},{"word":"急劇","reading":"きゅうげき"}],"senses":[["sudden","abrupt","rapid","sharp","drastic","radical"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"時代劇","reading":"じだいげき"}],"senses":[["historical play","period drama"],["Jidaigeki"]]},{"jlpt":[],"tags":["wanikani17"],"japanese":[{"word":"歌劇","reading":"かげき"}],"senses":[["opera"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"観劇","reading":"かんげき"}],"senses":[["theatre-going","theater-going"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"国立劇場","reading":"こくりつげきじょう"}],"senses":[["national theater"],["Kokuritsugekijou"],["National Theatre of Japan"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"新劇","reading":"しんげき"}],"senses":[["school of western-inspired Japanese drama which developed towards the end of the Meiji period","shingeki","new-drama (movement)"],["Shingeki"]]}]}
+{
+  "basic": ["劇", "Drama", "2152"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "演劇", "reading": "えんげき" }],
+      "senses": [["drama", "theatre", "theater", "play"], ["Theatre"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani17"],
+      "japanese": [{ "word": "喜劇", "reading": "きげき" }],
+      "senses": [["comedy", "funny show"], ["Comedy"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani17"],
+      "japanese": [{ "word": "悲劇", "reading": "ひげき" }],
+      "senses": [
+        ["tragedy", "tragic drama", "tragic play"],
+        ["tragedy", "calamity", "disaster"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": [],
+      "japanese": [
+        { "word": "急激", "reading": "きゅうげき" },
+        { "word": "急劇", "reading": "きゅうげき" }
+      ],
+      "senses": [["sudden", "abrupt", "rapid", "sharp", "drastic", "radical"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "時代劇", "reading": "じだいげき" }],
+      "senses": [["historical play", "period drama"], ["Jidaigeki"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani17"],
+      "japanese": [{ "word": "歌劇", "reading": "かげき" }],
+      "senses": [["opera"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "観劇", "reading": "かんげき" }],
+      "senses": [["theatre-going", "theater-going"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "国立劇場", "reading": "こくりつげきじょう" }],
+      "senses": [
+        ["national theater"],
+        ["Kokuritsugekijou"],
+        ["National Theatre of Japan"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "新劇", "reading": "しんげき" }],
+      "senses": [
+        [
+          "school of western-inspired Japanese drama which developed towards the end of the Meiji period",
+          "shingeki",
+          "new-drama (movement)"
+        ],
+        ["Shingeki"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "演劇", "reading": "えんげき" }],
+      "senses": [["drama", "theatre", "theater", "play"], ["Theatre"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani17"],
+      "japanese": [{ "word": "喜劇", "reading": "きげき" }],
+      "senses": [["comedy", "funny show"], ["Comedy"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani17"],
+      "japanese": [{ "word": "悲劇", "reading": "ひげき" }],
+      "senses": [
+        ["tragedy", "tragic drama", "tragic play"],
+        ["tragedy", "calamity", "disaster"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": [],
+      "japanese": [
+        { "word": "急激", "reading": "きゅうげき" },
+        { "word": "急劇", "reading": "きゅうげき" }
+      ],
+      "senses": [["sudden", "abrupt", "rapid", "sharp", "drastic", "radical"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "時代劇", "reading": "じだいげき" }],
+      "senses": [["historical play", "period drama"], ["Jidaigeki"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani17"],
+      "japanese": [{ "word": "歌劇", "reading": "かげき" }],
+      "senses": [["opera"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "観劇", "reading": "かんげき" }],
+      "senses": [["theatre-going", "theater-going"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "国立劇場", "reading": "こくりつげきじょう" }],
+      "senses": [
+        ["national theater"],
+        ["Kokuritsugekijou"],
+        ["National Theatre of Japan"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "新劇", "reading": "しんげき" }],
+      "senses": [
+        [
+          "school of western-inspired Japanese drama which developed towards the end of the Meiji period",
+          "shingeki",
+          "new-drama (movement)"
+        ],
+        ["Shingeki"]
+      ]
+    }
+  ]
+}

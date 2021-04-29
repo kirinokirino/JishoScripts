@@ -1,1 +1,33 @@
-{"basic":["窮","Hard Up","1424"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"追究","reading":"ついきゅう"},{"word":"追窮","reading":"ついきゅう"}],"senses":[["investigation (e.g. academically, of the unknown)","close inquiry (enquiry)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"追究","reading":"ついきゅう"},{"word":"追窮","reading":"ついきゅう"}],"senses":[["investigation (e.g. academically, of the unknown)","close inquiry (enquiry)"]]}]}
+{
+  "basic": ["窮", "Hard Up", "1424"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "追究", "reading": "ついきゅう" },
+        { "word": "追窮", "reading": "ついきゅう" }
+      ],
+      "senses": [
+        [
+          "investigation (e.g. academically, of the unknown)",
+          "close inquiry (enquiry)"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "追究", "reading": "ついきゅう" },
+        { "word": "追窮", "reading": "ついきゅう" }
+      ],
+      "senses": [
+        [
+          "investigation (e.g. academically, of the unknown)",
+          "close inquiry (enquiry)"
+        ]
+      ]
+    }
+  ]
+}

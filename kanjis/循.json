@@ -1,1 +1,17 @@
-{"basic":["循","Sequential","1998"],"extended":[{"jlpt":[],"tags":["wanikani57"],"japanese":[{"word":"悪循環","reading":"あくじゅんかん"}],"senses":[["vicious circle","vicious cycle"]]},{"jlpt":[],"tags":["wanikani57"],"japanese":[{"word":"悪循環","reading":"あくじゅんかん"}],"senses":[["vicious circle","vicious cycle"]]}]}
+{
+  "basic": ["循", "Sequential", "1998"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": ["wanikani57"],
+      "japanese": [{ "word": "悪循環", "reading": "あくじゅんかん" }],
+      "senses": [["vicious circle", "vicious cycle"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani57"],
+      "japanese": [{ "word": "悪循環", "reading": "あくじゅんかん" }],
+      "senses": [["vicious circle", "vicious cycle"]]
+    }
+  ]
+}

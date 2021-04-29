@@ -1,1 +1,53 @@
-{"basic":["項","Paragraph","86"],"extended":[{"jlpt":["jlpt-n1"],"tags":["wanikani39"],"japanese":[{"word":"事項","reading":"じこう"}],"senses":[["matter","item","facts"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"条項","reading":"じょうこう"}],"senses":[["clause","article","stipulations"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"禁止事項","reading":"きんしじこう"}],"senses":[["prohibited item","banned item"]]},{"jlpt":[],"tags":["wanikani39"],"japanese":[{"word":"要項","reading":"ようこう"}],"senses":[["important points","main points"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani39"],"japanese":[{"word":"事項","reading":"じこう"}],"senses":[["matter","item","facts"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"条項","reading":"じょうこう"}],"senses":[["clause","article","stipulations"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"禁止事項","reading":"きんしじこう"}],"senses":[["prohibited item","banned item"]]},{"jlpt":[],"tags":["wanikani39"],"japanese":[{"word":"要項","reading":"ようこう"}],"senses":[["important points","main points"]]}]}
+{
+  "basic": ["項", "Paragraph", "86"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani39"],
+      "japanese": [{ "word": "事項", "reading": "じこう" }],
+      "senses": [["matter", "item", "facts"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "条項", "reading": "じょうこう" }],
+      "senses": [["clause", "article", "stipulations"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "禁止事項", "reading": "きんしじこう" }],
+      "senses": [["prohibited item", "banned item"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani39"],
+      "japanese": [{ "word": "要項", "reading": "ようこう" }],
+      "senses": [["important points", "main points"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani39"],
+      "japanese": [{ "word": "事項", "reading": "じこう" }],
+      "senses": [["matter", "item", "facts"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "条項", "reading": "じょうこう" }],
+      "senses": [["clause", "article", "stipulations"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "禁止事項", "reading": "きんしじこう" }],
+      "senses": [["prohibited item", "banned item"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani39"],
+      "japanese": [{ "word": "要項", "reading": "ようこう" }],
+      "senses": [["important points", "main points"]]
+    }
+  ]
+}

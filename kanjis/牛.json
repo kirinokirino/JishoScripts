@@ -1,1 +1,47 @@
-{"basic":["牛","Cow","260"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"和牛","reading":"わぎゅう"}],"senses":[["Wagyu beef","Japanese beef"],["Wagyu"]]},{"jlpt":[],"tags":["wanikani4"],"japanese":[{"word":"子牛","reading":"こうし"},{"word":"子牛","reading":"こうじ"},{"word":"小牛","reading":"こうし"},{"word":"小牛","reading":"こうじ"},{"word":"仔牛","reading":"こうし"},{"word":"仔牛","reading":"こうじ"},{"word":"犢","reading":"こうし"},{"word":"犢","reading":"こうじ"}],"senses":[["calf","small cow"],["Kouji"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"和牛","reading":"わぎゅう"}],"senses":[["Wagyu beef","Japanese beef"],["Wagyu"]]},{"jlpt":[],"tags":["wanikani4"],"japanese":[{"word":"子牛","reading":"こうし"},{"word":"子牛","reading":"こうじ"},{"word":"小牛","reading":"こうし"},{"word":"小牛","reading":"こうじ"},{"word":"仔牛","reading":"こうし"},{"word":"仔牛","reading":"こうじ"},{"word":"犢","reading":"こうし"},{"word":"犢","reading":"こうじ"}],"senses":[["calf","small cow"],["Kouji"]]}]}
+{
+  "basic": ["牛", "Cow", "260"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "和牛", "reading": "わぎゅう" }],
+      "senses": [["Wagyu beef", "Japanese beef"], ["Wagyu"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani4"],
+      "japanese": [
+        { "word": "子牛", "reading": "こうし" },
+        { "word": "子牛", "reading": "こうじ" },
+        { "word": "小牛", "reading": "こうし" },
+        { "word": "小牛", "reading": "こうじ" },
+        { "word": "仔牛", "reading": "こうし" },
+        { "word": "仔牛", "reading": "こうじ" },
+        { "word": "犢", "reading": "こうし" },
+        { "word": "犢", "reading": "こうじ" }
+      ],
+      "senses": [["calf", "small cow"], ["Kouji"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "和牛", "reading": "わぎゅう" }],
+      "senses": [["Wagyu beef", "Japanese beef"], ["Wagyu"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani4"],
+      "japanese": [
+        { "word": "子牛", "reading": "こうし" },
+        { "word": "子牛", "reading": "こうじ" },
+        { "word": "小牛", "reading": "こうし" },
+        { "word": "小牛", "reading": "こうじ" },
+        { "word": "仔牛", "reading": "こうし" },
+        { "word": "仔牛", "reading": "こうじ" },
+        { "word": "犢", "reading": "こうし" },
+        { "word": "犢", "reading": "こうじ" }
+      ],
+      "senses": [["calf", "small cow"], ["Kouji"]]
+    }
+  ]
+}

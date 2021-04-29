@@ -1,1 +1,27 @@
-{"basic":["錮","Weld","623"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"禁錮","reading":"きんこ"},{"word":"禁固","reading":"きんこ"}],"senses":[["imprisonment (without forced labour)","incarceration","confinement"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"禁錮","reading":"きんこ"},{"word":"禁固","reading":"きんこ"}],"senses":[["imprisonment (without forced labour)","incarceration","confinement"]]}]}
+{
+  "basic": ["錮", "Weld", "623"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "禁錮", "reading": "きんこ" },
+        { "word": "禁固", "reading": "きんこ" }
+      ],
+      "senses": [
+        ["imprisonment (without forced labour)", "incarceration", "confinement"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "禁錮", "reading": "きんこ" },
+        { "word": "禁固", "reading": "きんこ" }
+      ],
+      "senses": [
+        ["imprisonment (without forced labour)", "incarceration", "confinement"]
+      ]
+    }
+  ]
+}

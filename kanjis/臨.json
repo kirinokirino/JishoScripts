@@ -1,1 +1,17 @@
-{"basic":["臨","Look To","918"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"君臨","reading":"くんりん"}],"senses":[["reigning","controlling","dictating"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"君臨","reading":"くんりん"}],"senses":[["reigning","controlling","dictating"]]}]}
+{
+  "basic": ["臨", "Look To", "918"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "君臨", "reading": "くんりん" }],
+      "senses": [["reigning", "controlling", "dictating"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "君臨", "reading": "くんりん" }],
+      "senses": [["reigning", "controlling", "dictating"]]
+    }
+  ]
+}

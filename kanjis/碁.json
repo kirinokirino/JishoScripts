@@ -1,1 +1,17 @@
-{"basic":["碁","Go","1903"],"extended":[{"jlpt":[],"tags":["wanikani46"],"japanese":[{"word":"囲碁","reading":"いご"}],"senses":[["go","board game of capturing territory"],["Go (game)"]]},{"jlpt":[],"tags":["wanikani46"],"japanese":[{"word":"囲碁","reading":"いご"}],"senses":[["go","board game of capturing territory"],["Go (game)"]]}]}
+{
+  "basic": ["碁", "Go", "1903"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": ["wanikani46"],
+      "japanese": [{ "word": "囲碁", "reading": "いご" }],
+      "senses": [["go", "board game of capturing territory"], ["Go (game)"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani46"],
+      "japanese": [{ "word": "囲碁", "reading": "いご" }],
+      "senses": [["go", "board game of capturing territory"], ["Go (game)"]]
+    }
+  ]
+}

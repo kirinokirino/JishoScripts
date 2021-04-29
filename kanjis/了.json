@@ -1,1 +1,109 @@
-{"basic":["了","Complete","101"],"extended":[{"jlpt":["jlpt-n3"],"tags":["wanikani14"],"japanese":[{"word":"完了","reading":"かんりょう"}],"senses":[["completion","conclusion"],["perfect (tense, form, aspect)"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani10"],"japanese":[{"word":"終了","reading":"しゅうりょう"}],"senses":[["end","close","termination"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"修了","reading":"しゅうりょう"}],"senses":[["completion (of a course)"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani47"],"japanese":[{"word":"明瞭","reading":"めいりょう"},{"word":"明りょう","reading":"めいりょう"},{"word":"明亮","reading":"めいりょう"},{"word":"明了","reading":"めいりょう"}],"senses":[["clear","plain","distinct","obvious","evident","articulate"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"魅了","reading":"みりょう"}],"senses":[["fascination"],["to charm","to fascinate","to mesmerize"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"満了","reading":"まんりょう"}],"senses":[["expiration","termination"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"終了後","reading":"しゅうりょうご"}],"senses":[["after the end (of something)","post-"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani14"],"japanese":[{"word":"完了","reading":"かんりょう"}],"senses":[["completion","conclusion"],["perfect (tense, form, aspect)"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani10"],"japanese":[{"word":"終了","reading":"しゅうりょう"}],"senses":[["end","close","termination"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"修了","reading":"しゅうりょう"}],"senses":[["completion (of a course)"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani47"],"japanese":[{"word":"明瞭","reading":"めいりょう"},{"word":"明りょう","reading":"めいりょう"},{"word":"明亮","reading":"めいりょう"},{"word":"明了","reading":"めいりょう"}],"senses":[["clear","plain","distinct","obvious","evident","articulate"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"魅了","reading":"みりょう"}],"senses":[["fascination"],["to charm","to fascinate","to mesmerize"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"満了","reading":"まんりょう"}],"senses":[["expiration","termination"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"終了後","reading":"しゅうりょうご"}],"senses":[["after the end (of something)","post-"]]}]}
+{
+  "basic": ["了", "Complete", "101"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani14"],
+      "japanese": [{ "word": "完了", "reading": "かんりょう" }],
+      "senses": [
+        ["completion", "conclusion"],
+        ["perfect (tense, form, aspect)"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani10"],
+      "japanese": [{ "word": "終了", "reading": "しゅうりょう" }],
+      "senses": [["end", "close", "termination"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "修了", "reading": "しゅうりょう" }],
+      "senses": [["completion (of a course)"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani47"],
+      "japanese": [
+        { "word": "明瞭", "reading": "めいりょう" },
+        { "word": "明りょう", "reading": "めいりょう" },
+        { "word": "明亮", "reading": "めいりょう" },
+        { "word": "明了", "reading": "めいりょう" }
+      ],
+      "senses": [
+        ["clear", "plain", "distinct", "obvious", "evident", "articulate"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "魅了", "reading": "みりょう" }],
+      "senses": [["fascination"], ["to charm", "to fascinate", "to mesmerize"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "満了", "reading": "まんりょう" }],
+      "senses": [["expiration", "termination"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "終了後", "reading": "しゅうりょうご" }],
+      "senses": [["after the end (of something)", "post-"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani14"],
+      "japanese": [{ "word": "完了", "reading": "かんりょう" }],
+      "senses": [
+        ["completion", "conclusion"],
+        ["perfect (tense, form, aspect)"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani10"],
+      "japanese": [{ "word": "終了", "reading": "しゅうりょう" }],
+      "senses": [["end", "close", "termination"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "修了", "reading": "しゅうりょう" }],
+      "senses": [["completion (of a course)"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani47"],
+      "japanese": [
+        { "word": "明瞭", "reading": "めいりょう" },
+        { "word": "明りょう", "reading": "めいりょう" },
+        { "word": "明亮", "reading": "めいりょう" },
+        { "word": "明了", "reading": "めいりょう" }
+      ],
+      "senses": [
+        ["clear", "plain", "distinct", "obvious", "evident", "articulate"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "魅了", "reading": "みりょう" }],
+      "senses": [["fascination"], ["to charm", "to fascinate", "to mesmerize"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "満了", "reading": "まんりょう" }],
+      "senses": [["expiration", "termination"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "終了後", "reading": "しゅうりょうご" }],
+      "senses": [["after the end (of something)", "post-"]]
+    }
+  ]
+}

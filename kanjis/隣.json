@@ -1,1 +1,29 @@
-{"basic":["隣","Neighboring","1408"],"extended":[{"jlpt":[],"tags":["wanikani40"],"japanese":[{"word":"近隣","reading":"きんりん"}],"senses":[["neighbourhood","neighborhood","vicinity"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"善隣","reading":"ぜんりん"}],"senses":[["good neighbour","good neighbor"]]},{"jlpt":[],"tags":["wanikani40"],"japanese":[{"word":"近隣","reading":"きんりん"}],"senses":[["neighbourhood","neighborhood","vicinity"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"善隣","reading":"ぜんりん"}],"senses":[["good neighbour","good neighbor"]]}]}
+{
+  "basic": ["隣", "Neighboring", "1408"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": ["wanikani40"],
+      "japanese": [{ "word": "近隣", "reading": "きんりん" }],
+      "senses": [["neighbourhood", "neighborhood", "vicinity"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "善隣", "reading": "ぜんりん" }],
+      "senses": [["good neighbour", "good neighbor"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani40"],
+      "japanese": [{ "word": "近隣", "reading": "きんりん" }],
+      "senses": [["neighbourhood", "neighborhood", "vicinity"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "善隣", "reading": "ぜんりん" }],
+      "senses": [["good neighbour", "good neighbor"]]
+    }
+  ]
+}

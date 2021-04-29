@@ -1,1 +1,223 @@
-{"basic":["居","Reside","1143"],"extended":[{"jlpt":["jlpt-n3"],"tags":[],"japanese":[{"word":"芝居","reading":"しばい"}],"senses":[["play","drama"],["Acting"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"皇居","reading":"こうきょ"},{"word":"皇居","reading":"こうぎょ"}],"senses":[["Imperial Palace (of Japan)","imperial residence"],["Koukyo"],["Tokyo Imperial Palace"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"鳥居","reading":"とりい"}],"senses":[["torii","Shinto shrine archway"],["Torii"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"住まい","reading":"すまい"},{"word":"住い","reading":"すまい"},{"word":"住居","reading":"すまい"}],"senses":[["dwelling","house","residence","address"],["living","life"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"同居","reading":"どうきょ"}],"senses":[["coexistence","living together"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"別居","reading":"べっきょ"}],"senses":[["separation","living apart"],["Legal separation"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"敷居","reading":"しきい"},{"word":"閾","reading":"しきい"},{"word":"閾","reading":"しきみ"},{"word":"閾","reading":"しき"}],"senses":[["threshold (esp. one with grooves for sliding doors)","sill"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"転居","reading":"てんきょ"}],"senses":[["moving","changing residence","change of address"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"新居","reading":"しんきょ"}],"senses":[["new home"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"紙芝居","reading":"かみしばい"}],"senses":[["kamishibai","storytelling with pictures","form of Japanese street theater and storytelling (popular from the 1930s to the 1950s)"],["Kamishibai"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"雑居","reading":"ざっきょ"}],"senses":[["living together","mixed residence","sharing living quarters"],["multi-tenant","community"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"入居","reading":"にゅうきょ"}],"senses":[["moving into (house)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"住居","reading":"じゅうきょ"}],"senses":[["dwelling","house","residence","address"]]},{"jlpt":["jlpt-n3"],"tags":[],"japanese":[{"word":"芝居","reading":"しばい"}],"senses":[["play","drama"],["Acting"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"皇居","reading":"こうきょ"},{"word":"皇居","reading":"こうぎょ"}],"senses":[["Imperial Palace (of Japan)","imperial residence"],["Koukyo"],["Tokyo Imperial Palace"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"鳥居","reading":"とりい"}],"senses":[["torii","Shinto shrine archway"],["Torii"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"住まい","reading":"すまい"},{"word":"住い","reading":"すまい"},{"word":"住居","reading":"すまい"}],"senses":[["dwelling","house","residence","address"],["living","life"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"同居","reading":"どうきょ"}],"senses":[["coexistence","living together"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"別居","reading":"べっきょ"}],"senses":[["separation","living apart"],["Legal separation"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"敷居","reading":"しきい"},{"word":"閾","reading":"しきい"},{"word":"閾","reading":"しきみ"},{"word":"閾","reading":"しき"}],"senses":[["threshold (esp. one with grooves for sliding doors)","sill"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"転居","reading":"てんきょ"}],"senses":[["moving","changing residence","change of address"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"新居","reading":"しんきょ"}],"senses":[["new home"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"紙芝居","reading":"かみしばい"}],"senses":[["kamishibai","storytelling with pictures","form of Japanese street theater and storytelling (popular from the 1930s to the 1950s)"],["Kamishibai"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"雑居","reading":"ざっきょ"}],"senses":[["living together","mixed residence","sharing living quarters"],["multi-tenant","community"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"入居","reading":"にゅうきょ"}],"senses":[["moving into (house)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"住居","reading":"じゅうきょ"}],"senses":[["dwelling","house","residence","address"]]}]}
+{
+  "basic": ["居", "Reside", "1143"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": [],
+      "japanese": [{ "word": "芝居", "reading": "しばい" }],
+      "senses": [["play", "drama"], ["Acting"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "皇居", "reading": "こうきょ" },
+        { "word": "皇居", "reading": "こうぎょ" }
+      ],
+      "senses": [
+        ["Imperial Palace (of Japan)", "imperial residence"],
+        ["Koukyo"],
+        ["Tokyo Imperial Palace"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "鳥居", "reading": "とりい" }],
+      "senses": [["torii", "Shinto shrine archway"], ["Torii"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [
+        { "word": "住まい", "reading": "すまい" },
+        { "word": "住い", "reading": "すまい" },
+        { "word": "住居", "reading": "すまい" }
+      ],
+      "senses": [
+        ["dwelling", "house", "residence", "address"],
+        ["living", "life"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "同居", "reading": "どうきょ" }],
+      "senses": [["coexistence", "living together"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "別居", "reading": "べっきょ" }],
+      "senses": [["separation", "living apart"], ["Legal separation"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "敷居", "reading": "しきい" },
+        { "word": "閾", "reading": "しきい" },
+        { "word": "閾", "reading": "しきみ" },
+        { "word": "閾", "reading": "しき" }
+      ],
+      "senses": [
+        ["threshold (esp. one with grooves for sliding doors)", "sill"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "転居", "reading": "てんきょ" }],
+      "senses": [["moving", "changing residence", "change of address"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "新居", "reading": "しんきょ" }],
+      "senses": [["new home"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "紙芝居", "reading": "かみしばい" }],
+      "senses": [
+        [
+          "kamishibai",
+          "storytelling with pictures",
+          "form of Japanese street theater and storytelling (popular from the 1930s to the 1950s)"
+        ],
+        ["Kamishibai"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "雑居", "reading": "ざっきょ" }],
+      "senses": [
+        ["living together", "mixed residence", "sharing living quarters"],
+        ["multi-tenant", "community"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "入居", "reading": "にゅうきょ" }],
+      "senses": [["moving into (house)"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "住居", "reading": "じゅうきょ" }],
+      "senses": [["dwelling", "house", "residence", "address"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": [],
+      "japanese": [{ "word": "芝居", "reading": "しばい" }],
+      "senses": [["play", "drama"], ["Acting"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "皇居", "reading": "こうきょ" },
+        { "word": "皇居", "reading": "こうぎょ" }
+      ],
+      "senses": [
+        ["Imperial Palace (of Japan)", "imperial residence"],
+        ["Koukyo"],
+        ["Tokyo Imperial Palace"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "鳥居", "reading": "とりい" }],
+      "senses": [["torii", "Shinto shrine archway"], ["Torii"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [
+        { "word": "住まい", "reading": "すまい" },
+        { "word": "住い", "reading": "すまい" },
+        { "word": "住居", "reading": "すまい" }
+      ],
+      "senses": [
+        ["dwelling", "house", "residence", "address"],
+        ["living", "life"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "同居", "reading": "どうきょ" }],
+      "senses": [["coexistence", "living together"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "別居", "reading": "べっきょ" }],
+      "senses": [["separation", "living apart"], ["Legal separation"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "敷居", "reading": "しきい" },
+        { "word": "閾", "reading": "しきい" },
+        { "word": "閾", "reading": "しきみ" },
+        { "word": "閾", "reading": "しき" }
+      ],
+      "senses": [
+        ["threshold (esp. one with grooves for sliding doors)", "sill"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "転居", "reading": "てんきょ" }],
+      "senses": [["moving", "changing residence", "change of address"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "新居", "reading": "しんきょ" }],
+      "senses": [["new home"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "紙芝居", "reading": "かみしばい" }],
+      "senses": [
+        [
+          "kamishibai",
+          "storytelling with pictures",
+          "form of Japanese street theater and storytelling (popular from the 1930s to the 1950s)"
+        ],
+        ["Kamishibai"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "雑居", "reading": "ざっきょ" }],
+      "senses": [
+        ["living together", "mixed residence", "sharing living quarters"],
+        ["multi-tenant", "community"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "入居", "reading": "にゅうきょ" }],
+      "senses": [["moving into (house)"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "住居", "reading": "じゅうきょ" }],
+      "senses": [["dwelling", "house", "residence", "address"]]
+    }
+  ]
+}

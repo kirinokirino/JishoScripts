@@ -1,1 +1,95 @@
-{"basic":["彩","Coloring","1850"],"extended":[{"jlpt":["jlpt-n1"],"tags":["wanikani48"],"japanese":[{"word":"色彩","reading":"しきさい"}],"senses":[["colour","color","hue","tints"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"多彩","reading":"たさい"}],"senses":[["variegated","varicoloured","varicolored","multi-coloured","multi-colored","diverse"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"精彩","reading":"せいさい"},{"word":"生彩","reading":"せいさい"}],"senses":[["brilliance","luster","lustre","colorfulness","colourfulness"],["vividness","life"]]},{"jlpt":[],"tags":["wanikani48"],"japanese":[{"word":"水彩画","reading":"すいさいが"}],"senses":[["watercolor painting","watercolour painting"]]},{"jlpt":[],"tags":["wanikani48"],"japanese":[{"word":"油彩","reading":"ゆさい"}],"senses":[["oil painting"],["Oil painting"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani48"],"japanese":[{"word":"色彩","reading":"しきさい"}],"senses":[["colour","color","hue","tints"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"多彩","reading":"たさい"}],"senses":[["variegated","varicoloured","varicolored","multi-coloured","multi-colored","diverse"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"精彩","reading":"せいさい"},{"word":"生彩","reading":"せいさい"}],"senses":[["brilliance","luster","lustre","colorfulness","colourfulness"],["vividness","life"]]},{"jlpt":[],"tags":["wanikani48"],"japanese":[{"word":"水彩画","reading":"すいさいが"}],"senses":[["watercolor painting","watercolour painting"]]},{"jlpt":[],"tags":["wanikani48"],"japanese":[{"word":"油彩","reading":"ゆさい"}],"senses":[["oil painting"],["Oil painting"]]}]}
+{
+  "basic": ["彩", "Coloring", "1850"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani48"],
+      "japanese": [{ "word": "色彩", "reading": "しきさい" }],
+      "senses": [["colour", "color", "hue", "tints"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "多彩", "reading": "たさい" }],
+      "senses": [
+        [
+          "variegated",
+          "varicoloured",
+          "varicolored",
+          "multi-coloured",
+          "multi-colored",
+          "diverse"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "精彩", "reading": "せいさい" },
+        { "word": "生彩", "reading": "せいさい" }
+      ],
+      "senses": [
+        ["brilliance", "luster", "lustre", "colorfulness", "colourfulness"],
+        ["vividness", "life"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani48"],
+      "japanese": [{ "word": "水彩画", "reading": "すいさいが" }],
+      "senses": [["watercolor painting", "watercolour painting"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani48"],
+      "japanese": [{ "word": "油彩", "reading": "ゆさい" }],
+      "senses": [["oil painting"], ["Oil painting"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani48"],
+      "japanese": [{ "word": "色彩", "reading": "しきさい" }],
+      "senses": [["colour", "color", "hue", "tints"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "多彩", "reading": "たさい" }],
+      "senses": [
+        [
+          "variegated",
+          "varicoloured",
+          "varicolored",
+          "multi-coloured",
+          "multi-colored",
+          "diverse"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "精彩", "reading": "せいさい" },
+        { "word": "生彩", "reading": "せいさい" }
+      ],
+      "senses": [
+        ["brilliance", "luster", "lustre", "colorfulness", "colourfulness"],
+        ["vividness", "life"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani48"],
+      "japanese": [{ "word": "水彩画", "reading": "すいさいが" }],
+      "senses": [["watercolor painting", "watercolour painting"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani48"],
+      "japanese": [{ "word": "油彩", "reading": "ゆさい" }],
+      "senses": [["oil painting"], ["Oil painting"]]
+    }
+  ]
+}

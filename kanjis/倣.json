@@ -1,1 +1,41 @@
-{"basic":["倣","Emulate","1053"],"extended":[{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"模倣","reading":"もほう"},{"word":"摸倣","reading":"もほう"}],"senses":[["imitation","copying"],["Imitation"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"見習う","reading":"みならう"},{"word":"見倣う","reading":"みならう"}],"senses":[["to follow another's example"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"模倣","reading":"もほう"},{"word":"摸倣","reading":"もほう"}],"senses":[["imitation","copying"],["Imitation"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"見習う","reading":"みならう"},{"word":"見倣う","reading":"みならう"}],"senses":[["to follow another's example"]]}]}
+{
+  "basic": ["倣", "Emulate", "1053"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "模倣", "reading": "もほう" },
+        { "word": "摸倣", "reading": "もほう" }
+      ],
+      "senses": [["imitation", "copying"], ["Imitation"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "見習う", "reading": "みならう" },
+        { "word": "見倣う", "reading": "みならう" }
+      ],
+      "senses": [["to follow another's example"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "模倣", "reading": "もほう" },
+        { "word": "摸倣", "reading": "もほう" }
+      ],
+      "senses": [["imitation", "copying"], ["Imitation"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "見習う", "reading": "みならう" },
+        { "word": "見倣う", "reading": "みならう" }
+      ],
+      "senses": [["to follow another's example"]]
+    }
+  ]
+}

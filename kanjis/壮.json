@@ -1,1 +1,17 @@
-{"basic":["壮","Robust","343"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"悲壮","reading":"ひそう"}],"senses":[["tragic but brave","heroic","grim","pathetic"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"悲壮","reading":"ひそう"}],"senses":[["tragic but brave","heroic","grim","pathetic"]]}]}
+{
+  "basic": ["壮", "Robust", "343"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "悲壮", "reading": "ひそう" }],
+      "senses": [["tragic but brave", "heroic", "grim", "pathetic"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "悲壮", "reading": "ひそう" }],
+      "senses": [["tragic but brave", "heroic", "grim", "pathetic"]]
+    }
+  ]
+}

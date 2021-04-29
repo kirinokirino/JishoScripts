@@ -1,1 +1,17 @@
-{"basic":["鎮","Tranquilize","294"],"extended":[{"jlpt":[],"tags":["wanikani55"],"japanese":[{"word":"重鎮","reading":"じゅうちん"}],"senses":[["leader","authority","mainstay"]]},{"jlpt":[],"tags":["wanikani55"],"japanese":[{"word":"重鎮","reading":"じゅうちん"}],"senses":[["leader","authority","mainstay"]]}]}
+{
+  "basic": ["鎮", "Tranquilize", "294"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": ["wanikani55"],
+      "japanese": [{ "word": "重鎮", "reading": "じゅうちん" }],
+      "senses": [["leader", "authority", "mainstay"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani55"],
+      "japanese": [{ "word": "重鎮", "reading": "じゅうちん" }],
+      "senses": [["leader", "authority", "mainstay"]]
+    }
+  ]
+}

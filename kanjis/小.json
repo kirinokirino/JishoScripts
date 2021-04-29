@@ -1,1 +1,197 @@
-{"basic":["小","Little","110"],"extended":[{"jlpt":["jlpt-n3"],"tags":[],"japanese":[{"word":"少々","reading":"しょうしょう"},{"word":"少少","reading":"しょうしょう"},{"word":"小々","reading":"しょうしょう"},{"word":"小小","reading":"しょうしょう"}],"senses":[["just a minute","small quantity"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"大小","reading":"だいしょう"}],"senses":[["size"],["large and small (sizes)","various sizes"],["daishō (matched pair of long and short swords)"],["large and small drums"],["long months and short months"],["sic bo (Macao dice game)","tai sai","dai siu","big and small"],["Daishou"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani34"],"japanese":[{"word":"縮小","reading":"しゅくしょう"}],"senses":[["reduction","curtailment"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"推理小説","reading":"すいりしょうせつ"}],"senses":[["mystery novel","detective novel","whodunit"],["Detective fiction"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"山小屋","reading":"やまごや"}],"senses":[["hut (esp. on a mountain)","shack","refuge","shanty"],["Mountain hut"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"中小企業","reading":"ちゅうしょうきぎょう"}],"senses":[["small and medium-sized enterprises","small and medium-sized businesses"],["Small and medium enterprises"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"最小限","reading":"さいしょうげん"},{"word":"最少限","reading":"さいしょうげん"}],"senses":[["minimum","lowest","minimal","least"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"最小","reading":"さいしょう"}],"senses":[["smallest (in size, degree, etc.)","least","minimum","minimal"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"過小評価","reading":"かしょうひょうか"}],"senses":[["underestimation","undervaluation"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"微小","reading":"びしょう"}],"senses":[["microscopic"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"中小","reading":"ちゅうしょう"}],"senses":[["small and medium"]]},{"jlpt":["jlpt-n3"],"tags":[],"japanese":[{"word":"少々","reading":"しょうしょう"},{"word":"少少","reading":"しょうしょう"},{"word":"小々","reading":"しょうしょう"},{"word":"小小","reading":"しょうしょう"}],"senses":[["just a minute","small quantity"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"大小","reading":"だいしょう"}],"senses":[["size"],["large and small (sizes)","various sizes"],["daishō (matched pair of long and short swords)"],["large and small drums"],["long months and short months"],["sic bo (Macao dice game)","tai sai","dai siu","big and small"],["Daishou"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani34"],"japanese":[{"word":"縮小","reading":"しゅくしょう"}],"senses":[["reduction","curtailment"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"推理小説","reading":"すいりしょうせつ"}],"senses":[["mystery novel","detective novel","whodunit"],["Detective fiction"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"山小屋","reading":"やまごや"}],"senses":[["hut (esp. on a mountain)","shack","refuge","shanty"],["Mountain hut"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"中小企業","reading":"ちゅうしょうきぎょう"}],"senses":[["small and medium-sized enterprises","small and medium-sized businesses"],["Small and medium enterprises"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"最小限","reading":"さいしょうげん"},{"word":"最少限","reading":"さいしょうげん"}],"senses":[["minimum","lowest","minimal","least"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"最小","reading":"さいしょう"}],"senses":[["smallest (in size, degree, etc.)","least","minimum","minimal"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"過小評価","reading":"かしょうひょうか"}],"senses":[["underestimation","undervaluation"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"微小","reading":"びしょう"}],"senses":[["microscopic"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"中小","reading":"ちゅうしょう"}],"senses":[["small and medium"]]}]}
+{
+  "basic": ["小", "Little", "110"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": [],
+      "japanese": [
+        { "word": "少々", "reading": "しょうしょう" },
+        { "word": "少少", "reading": "しょうしょう" },
+        { "word": "小々", "reading": "しょうしょう" },
+        { "word": "小小", "reading": "しょうしょう" }
+      ],
+      "senses": [["just a minute", "small quantity"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "大小", "reading": "だいしょう" }],
+      "senses": [
+        ["size"],
+        ["large and small (sizes)", "various sizes"],
+        ["daishō (matched pair of long and short swords)"],
+        ["large and small drums"],
+        ["long months and short months"],
+        ["sic bo (Macao dice game)", "tai sai", "dai siu", "big and small"],
+        ["Daishou"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani34"],
+      "japanese": [{ "word": "縮小", "reading": "しゅくしょう" }],
+      "senses": [["reduction", "curtailment"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "推理小説", "reading": "すいりしょうせつ" }],
+      "senses": [
+        ["mystery novel", "detective novel", "whodunit"],
+        ["Detective fiction"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "山小屋", "reading": "やまごや" }],
+      "senses": [
+        ["hut (esp. on a mountain)", "shack", "refuge", "shanty"],
+        ["Mountain hut"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "中小企業", "reading": "ちゅうしょうきぎょう" }],
+      "senses": [
+        [
+          "small and medium-sized enterprises",
+          "small and medium-sized businesses"
+        ],
+        ["Small and medium enterprises"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "最小限", "reading": "さいしょうげん" },
+        { "word": "最少限", "reading": "さいしょうげん" }
+      ],
+      "senses": [["minimum", "lowest", "minimal", "least"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "最小", "reading": "さいしょう" }],
+      "senses": [
+        ["smallest (in size, degree, etc.)", "least", "minimum", "minimal"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "過小評価", "reading": "かしょうひょうか" }],
+      "senses": [["underestimation", "undervaluation"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "微小", "reading": "びしょう" }],
+      "senses": [["microscopic"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "中小", "reading": "ちゅうしょう" }],
+      "senses": [["small and medium"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": [],
+      "japanese": [
+        { "word": "少々", "reading": "しょうしょう" },
+        { "word": "少少", "reading": "しょうしょう" },
+        { "word": "小々", "reading": "しょうしょう" },
+        { "word": "小小", "reading": "しょうしょう" }
+      ],
+      "senses": [["just a minute", "small quantity"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "大小", "reading": "だいしょう" }],
+      "senses": [
+        ["size"],
+        ["large and small (sizes)", "various sizes"],
+        ["daishō (matched pair of long and short swords)"],
+        ["large and small drums"],
+        ["long months and short months"],
+        ["sic bo (Macao dice game)", "tai sai", "dai siu", "big and small"],
+        ["Daishou"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani34"],
+      "japanese": [{ "word": "縮小", "reading": "しゅくしょう" }],
+      "senses": [["reduction", "curtailment"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "推理小説", "reading": "すいりしょうせつ" }],
+      "senses": [
+        ["mystery novel", "detective novel", "whodunit"],
+        ["Detective fiction"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "山小屋", "reading": "やまごや" }],
+      "senses": [
+        ["hut (esp. on a mountain)", "shack", "refuge", "shanty"],
+        ["Mountain hut"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "中小企業", "reading": "ちゅうしょうきぎょう" }],
+      "senses": [
+        [
+          "small and medium-sized enterprises",
+          "small and medium-sized businesses"
+        ],
+        ["Small and medium enterprises"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "最小限", "reading": "さいしょうげん" },
+        { "word": "最少限", "reading": "さいしょうげん" }
+      ],
+      "senses": [["minimum", "lowest", "minimal", "least"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "最小", "reading": "さいしょう" }],
+      "senses": [
+        ["smallest (in size, degree, etc.)", "least", "minimum", "minimal"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "過小評価", "reading": "かしょうひょうか" }],
+      "senses": [["underestimation", "undervaluation"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "微小", "reading": "びしょう" }],
+      "senses": [["microscopic"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "中小", "reading": "ちゅうしょう" }],
+      "senses": [["small and medium"]]
+    }
+  ]
+}

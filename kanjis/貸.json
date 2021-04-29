@@ -1,1 +1,17 @@
-{"basic":["貸","Lend","1082"],"extended":[{"jlpt":[],"tags":["wanikani33"],"japanese":[{"word":"賃貸","reading":"ちんたい"}],"senses":[["lease","rent","hire"]]},{"jlpt":[],"tags":["wanikani33"],"japanese":[{"word":"賃貸","reading":"ちんたい"}],"senses":[["lease","rent","hire"]]}]}
+{
+  "basic": ["貸", "Lend", "1082"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": ["wanikani33"],
+      "japanese": [{ "word": "賃貸", "reading": "ちんたい" }],
+      "senses": [["lease", "rent", "hire"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani33"],
+      "japanese": [{ "word": "賃貸", "reading": "ちんたい" }],
+      "senses": [["lease", "rent", "hire"]]
+    }
+  ]
+}

@@ -1,1 +1,61 @@
-{"basic":["芽","Bud","2054"],"extended":[{"jlpt":["jlpt-n3","jlpt-n1"],"tags":[],"japanese":[{"word":"お目出度う","reading":"おめでとう"},{"word":"御目出度う","reading":"おめでとう"},{"word":"お芽出度う","reading":"おめでとう"},{"word":"御芽出度う","reading":"おめでとう"}],"senses":[["congratulations!","well done!","best wishes!","all the best!"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"発芽","reading":"はつが"}],"senses":[["germination","sprouting","budding"],["Germination"]]},{"jlpt":[],"tags":["wanikani57"],"japanese":[{"word":"萌芽","reading":"ほうが"},{"word":"萠芽","reading":"ほうが"}],"senses":[["germination","germ","sprout","bud","sign"]]},{"jlpt":["jlpt-n3","jlpt-n1"],"tags":[],"japanese":[{"word":"お目出度う","reading":"おめでとう"},{"word":"御目出度う","reading":"おめでとう"},{"word":"お芽出度う","reading":"おめでとう"},{"word":"御芽出度う","reading":"おめでとう"}],"senses":[["congratulations!","well done!","best wishes!","all the best!"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"発芽","reading":"はつが"}],"senses":[["germination","sprouting","budding"],["Germination"]]},{"jlpt":[],"tags":["wanikani57"],"japanese":[{"word":"萌芽","reading":"ほうが"},{"word":"萠芽","reading":"ほうが"}],"senses":[["germination","germ","sprout","bud","sign"]]}]}
+{
+  "basic": ["芽", "Bud", "2054"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n3", "jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "お目出度う", "reading": "おめでとう" },
+        { "word": "御目出度う", "reading": "おめでとう" },
+        { "word": "お芽出度う", "reading": "おめでとう" },
+        { "word": "御芽出度う", "reading": "おめでとう" }
+      ],
+      "senses": [
+        ["congratulations!", "well done!", "best wishes!", "all the best!"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "発芽", "reading": "はつが" }],
+      "senses": [["germination", "sprouting", "budding"], ["Germination"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani57"],
+      "japanese": [
+        { "word": "萌芽", "reading": "ほうが" },
+        { "word": "萠芽", "reading": "ほうが" }
+      ],
+      "senses": [["germination", "germ", "sprout", "bud", "sign"]]
+    },
+    {
+      "jlpt": ["jlpt-n3", "jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "お目出度う", "reading": "おめでとう" },
+        { "word": "御目出度う", "reading": "おめでとう" },
+        { "word": "お芽出度う", "reading": "おめでとう" },
+        { "word": "御芽出度う", "reading": "おめでとう" }
+      ],
+      "senses": [
+        ["congratulations!", "well done!", "best wishes!", "all the best!"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "発芽", "reading": "はつが" }],
+      "senses": [["germination", "sprouting", "budding"], ["Germination"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani57"],
+      "japanese": [
+        { "word": "萌芽", "reading": "ほうが" },
+        { "word": "萠芽", "reading": "ほうが" }
+      ],
+      "senses": [["germination", "germ", "sprout", "bud", "sign"]]
+    }
+  ]
+}

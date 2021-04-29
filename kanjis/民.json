@@ -1,1 +1,430 @@
-{"basic":["民","People","1976"],"extended":[{"jlpt":["jlpt-n4"],"tags":[],"japanese":[{"word":"市民","reading":"しみん"}],"senses":[["citizen","citizenry","public"],["city inhabitant","townspeople"],["bourgeoisie","middle class"],["Citizenship"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani7"],"japanese":[{"word":"国民","reading":"こくみん"}],"senses":[["people (of a country)","nation","citizen","national"],["Nation"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"人民","reading":"じんみん"}],"senses":[["the people","citizens","the populace"],["People"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani28"],"japanese":[{"word":"移民","reading":"いみん"}],"senses":[["emigration","immigration"],["emigrant","immigrant"],["Immigration"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"植民地","reading":"しょくみんち"},{"word":"殖民地","reading":"しょくみんち"}],"senses":[["colony"],["(immigrant) community"],["Colony"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani9"],"japanese":[{"word":"住民","reading":"じゅうみん"}],"senses":[["inhabitant","resident","citizen","population"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani10"],"japanese":[{"word":"農民","reading":"のうみん"}],"senses":[["farmer","peasant"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani54"],"japanese":[{"word":"庶民","reading":"しょみん"}],"senses":[["common people","ordinary people","masses"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"難民","reading":"なんみん"}],"senses":[["refugee","displaced person"],["person inconvenienced by (lack of something)","person unable to satisfactorily (marry, shop, etc.)"],["Refugee"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"国民総生産","reading":"こくみんそうせいさん"}],"senses":[["gross national product","GNP"],["Gross national product"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"公民権","reading":"こうみんけん"}],"senses":[["civil rights","franchise","citizenship"],["Civil and political rights"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"国民性","reading":"こくみんせい"}],"senses":[["national traits or character","nationality"],["National character studies"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"市民権","reading":"しみんけん"}],"senses":[["citizenship","civic rights","civil rights"],["widespread acceptance","social recognition","common use"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"避難民","reading":"ひなんみん"}],"senses":[["evacuees","displaced persons","refugees"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"国民的","reading":"こくみんてき"}],"senses":[["national","nationwide","relevant to all citizens"]]},{"jlpt":[],"tags":["wanikani32"],"japanese":[{"word":"自民党","reading":"じみんとう"}],"senses":[["Liberal Democratic Party","LDP"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"村民","reading":"そんみん"}],"senses":[["villager"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"国民投票","reading":"こくみんとうひょう"}],"senses":[["national referendum"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"区民","reading":"くみん"}],"senses":[["ward residents"]]},{"jlpt":[],"tags":["wanikani7"],"japanese":[{"word":"町民","reading":"ちょうみん"}],"senses":[["townspeople"]]},{"jlpt":["jlpt-n4"],"tags":[],"japanese":[{"word":"市民","reading":"しみん"}],"senses":[["citizen","citizenry","public"],["city inhabitant","townspeople"],["bourgeoisie","middle class"],["Citizenship"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani7"],"japanese":[{"word":"国民","reading":"こくみん"}],"senses":[["people (of a country)","nation","citizen","national"],["Nation"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"人民","reading":"じんみん"}],"senses":[["the people","citizens","the populace"],["People"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani28"],"japanese":[{"word":"移民","reading":"いみん"}],"senses":[["emigration","immigration"],["emigrant","immigrant"],["Immigration"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"植民地","reading":"しょくみんち"},{"word":"殖民地","reading":"しょくみんち"}],"senses":[["colony"],["(immigrant) community"],["Colony"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani9"],"japanese":[{"word":"住民","reading":"じゅうみん"}],"senses":[["inhabitant","resident","citizen","population"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani10"],"japanese":[{"word":"農民","reading":"のうみん"}],"senses":[["farmer","peasant"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani54"],"japanese":[{"word":"庶民","reading":"しょみん"}],"senses":[["common people","ordinary people","masses"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"難民","reading":"なんみん"}],"senses":[["refugee","displaced person"],["person inconvenienced by (lack of something)","person unable to satisfactorily (marry, shop, etc.)"],["Refugee"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"国民総生産","reading":"こくみんそうせいさん"}],"senses":[["gross national product","GNP"],["Gross national product"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"公民権","reading":"こうみんけん"}],"senses":[["civil rights","franchise","citizenship"],["Civil and political rights"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"国民性","reading":"こくみんせい"}],"senses":[["national traits or character","nationality"],["National character studies"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"市民権","reading":"しみんけん"}],"senses":[["citizenship","civic rights","civil rights"],["widespread acceptance","social recognition","common use"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"避難民","reading":"ひなんみん"}],"senses":[["evacuees","displaced persons","refugees"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"国民的","reading":"こくみんてき"}],"senses":[["national","nationwide","relevant to all citizens"]]},{"jlpt":[],"tags":["wanikani32"],"japanese":[{"word":"自民党","reading":"じみんとう"}],"senses":[["Liberal Democratic Party","LDP"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"村民","reading":"そんみん"}],"senses":[["villager"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"国民投票","reading":"こくみんとうひょう"}],"senses":[["national referendum"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"区民","reading":"くみん"}],"senses":[["ward residents"]]},{"jlpt":[],"tags":["wanikani7"],"japanese":[{"word":"町民","reading":"ちょうみん"}],"senses":[["townspeople"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"都民","reading":"とみん"}],"senses":[["city populace","resident of Tokyo"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"朝鮮民主主義人民共和国","reading":"ちょうせんみんしゅしゅぎじんみんきょうわこく"}],"senses":[["Democratic People's Republic of Korea (North Korea)","DPRK"],["Democratic People's Republic of Korea (North Korea)","DPRK"],["North Korea"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"市民社会","reading":"しみんしゃかい"}],"senses":[["civil society"],["Civil society"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"住民票","reading":"じゅうみんひょう"}],"senses":[["certificate of residence"],["Jūminhyō"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"国民健康保険","reading":"こくみんけんこうほけん"}],"senses":[["national health insurance"],["National Health Insurance (Japan)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"国民年金","reading":"こくみんねんきん"}],"senses":[["national pension","government pension system"],["National Pension (Japan)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"人民戦線","reading":"じんみんせんせん"}],"senses":[["popular front"],["Popular front"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"公民館","reading":"こうみんかん"}],"senses":[["public hall","community center","community centre"],["Kouminkan"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"文民","reading":"ぶんみん"}],"senses":[["civilian"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"住民税","reading":"じゅうみんぜい"}],"senses":[["municipal tax"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"漁民","reading":"ぎょみん"}],"senses":[["fishermen"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"県民","reading":"けんみん"}],"senses":[["citizen of a prefecture","prefectural citizen"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"自民","reading":"じみん"}],"senses":[["Liberal Democratic Party","LDP"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"皇民党","reading":"こうみんとう"}],"senses":[["Imperialist Party"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"公民","reading":"こうみん"}],"senses":[["citizen","freemen"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"社民党","reading":"しゃみんとう"}],"senses":[["Social Democratic Party"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"官民","reading":"かんみん"}],"senses":[["government and people","government and private sector","public and private sector"]]}]}
+{
+  "basic": ["民", "People", "1976"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n4"],
+      "tags": [],
+      "japanese": [{ "word": "市民", "reading": "しみん" }],
+      "senses": [
+        ["citizen", "citizenry", "public"],
+        ["city inhabitant", "townspeople"],
+        ["bourgeoisie", "middle class"],
+        ["Citizenship"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani7"],
+      "japanese": [{ "word": "国民", "reading": "こくみん" }],
+      "senses": [
+        ["people (of a country)", "nation", "citizen", "national"],
+        ["Nation"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "人民", "reading": "じんみん" }],
+      "senses": [["the people", "citizens", "the populace"], ["People"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani28"],
+      "japanese": [{ "word": "移民", "reading": "いみん" }],
+      "senses": [
+        ["emigration", "immigration"],
+        ["emigrant", "immigrant"],
+        ["Immigration"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "植民地", "reading": "しょくみんち" },
+        { "word": "殖民地", "reading": "しょくみんち" }
+      ],
+      "senses": [["colony"], ["(immigrant) community"], ["Colony"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani9"],
+      "japanese": [{ "word": "住民", "reading": "じゅうみん" }],
+      "senses": [["inhabitant", "resident", "citizen", "population"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani10"],
+      "japanese": [{ "word": "農民", "reading": "のうみん" }],
+      "senses": [["farmer", "peasant"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani54"],
+      "japanese": [{ "word": "庶民", "reading": "しょみん" }],
+      "senses": [["common people", "ordinary people", "masses"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "難民", "reading": "なんみん" }],
+      "senses": [
+        ["refugee", "displaced person"],
+        [
+          "person inconvenienced by (lack of something)",
+          "person unable to satisfactorily (marry, shop, etc.)"
+        ],
+        ["Refugee"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "国民総生産", "reading": "こくみんそうせいさん" }],
+      "senses": [["gross national product", "GNP"], ["Gross national product"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "公民権", "reading": "こうみんけん" }],
+      "senses": [
+        ["civil rights", "franchise", "citizenship"],
+        ["Civil and political rights"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "国民性", "reading": "こくみんせい" }],
+      "senses": [
+        ["national traits or character", "nationality"],
+        ["National character studies"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "市民権", "reading": "しみんけん" }],
+      "senses": [
+        ["citizenship", "civic rights", "civil rights"],
+        ["widespread acceptance", "social recognition", "common use"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "避難民", "reading": "ひなんみん" }],
+      "senses": [["evacuees", "displaced persons", "refugees"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "国民的", "reading": "こくみんてき" }],
+      "senses": [["national", "nationwide", "relevant to all citizens"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani32"],
+      "japanese": [{ "word": "自民党", "reading": "じみんとう" }],
+      "senses": [["Liberal Democratic Party", "LDP"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "村民", "reading": "そんみん" }],
+      "senses": [["villager"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "国民投票", "reading": "こくみんとうひょう" }],
+      "senses": [["national referendum"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "区民", "reading": "くみん" }],
+      "senses": [["ward residents"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani7"],
+      "japanese": [{ "word": "町民", "reading": "ちょうみん" }],
+      "senses": [["townspeople"]]
+    },
+    {
+      "jlpt": ["jlpt-n4"],
+      "tags": [],
+      "japanese": [{ "word": "市民", "reading": "しみん" }],
+      "senses": [
+        ["citizen", "citizenry", "public"],
+        ["city inhabitant", "townspeople"],
+        ["bourgeoisie", "middle class"],
+        ["Citizenship"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani7"],
+      "japanese": [{ "word": "国民", "reading": "こくみん" }],
+      "senses": [
+        ["people (of a country)", "nation", "citizen", "national"],
+        ["Nation"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "人民", "reading": "じんみん" }],
+      "senses": [["the people", "citizens", "the populace"], ["People"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani28"],
+      "japanese": [{ "word": "移民", "reading": "いみん" }],
+      "senses": [
+        ["emigration", "immigration"],
+        ["emigrant", "immigrant"],
+        ["Immigration"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "植民地", "reading": "しょくみんち" },
+        { "word": "殖民地", "reading": "しょくみんち" }
+      ],
+      "senses": [["colony"], ["(immigrant) community"], ["Colony"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani9"],
+      "japanese": [{ "word": "住民", "reading": "じゅうみん" }],
+      "senses": [["inhabitant", "resident", "citizen", "population"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani10"],
+      "japanese": [{ "word": "農民", "reading": "のうみん" }],
+      "senses": [["farmer", "peasant"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani54"],
+      "japanese": [{ "word": "庶民", "reading": "しょみん" }],
+      "senses": [["common people", "ordinary people", "masses"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "難民", "reading": "なんみん" }],
+      "senses": [
+        ["refugee", "displaced person"],
+        [
+          "person inconvenienced by (lack of something)",
+          "person unable to satisfactorily (marry, shop, etc.)"
+        ],
+        ["Refugee"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "国民総生産", "reading": "こくみんそうせいさん" }],
+      "senses": [["gross national product", "GNP"], ["Gross national product"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "公民権", "reading": "こうみんけん" }],
+      "senses": [
+        ["civil rights", "franchise", "citizenship"],
+        ["Civil and political rights"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "国民性", "reading": "こくみんせい" }],
+      "senses": [
+        ["national traits or character", "nationality"],
+        ["National character studies"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "市民権", "reading": "しみんけん" }],
+      "senses": [
+        ["citizenship", "civic rights", "civil rights"],
+        ["widespread acceptance", "social recognition", "common use"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "避難民", "reading": "ひなんみん" }],
+      "senses": [["evacuees", "displaced persons", "refugees"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "国民的", "reading": "こくみんてき" }],
+      "senses": [["national", "nationwide", "relevant to all citizens"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani32"],
+      "japanese": [{ "word": "自民党", "reading": "じみんとう" }],
+      "senses": [["Liberal Democratic Party", "LDP"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "村民", "reading": "そんみん" }],
+      "senses": [["villager"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "国民投票", "reading": "こくみんとうひょう" }],
+      "senses": [["national referendum"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "区民", "reading": "くみん" }],
+      "senses": [["ward residents"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani7"],
+      "japanese": [{ "word": "町民", "reading": "ちょうみん" }],
+      "senses": [["townspeople"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "都民", "reading": "とみん" }],
+      "senses": [["city populace", "resident of Tokyo"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "朝鮮民主主義人民共和国", "reading": "ちょうせんみんしゅしゅぎじんみんきょうわこく" }
+      ],
+      "senses": [
+        ["Democratic People's Republic of Korea (North Korea)", "DPRK"],
+        ["Democratic People's Republic of Korea (North Korea)", "DPRK"],
+        ["North Korea"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "市民社会", "reading": "しみんしゃかい" }],
+      "senses": [["civil society"], ["Civil society"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "住民票", "reading": "じゅうみんひょう" }],
+      "senses": [["certificate of residence"], ["Jūminhyō"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "国民健康保険", "reading": "こくみんけんこうほけん" }],
+      "senses": [
+        ["national health insurance"],
+        ["National Health Insurance (Japan)"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "国民年金", "reading": "こくみんねんきん" }],
+      "senses": [
+        ["national pension", "government pension system"],
+        ["National Pension (Japan)"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "人民戦線", "reading": "じんみんせんせん" }],
+      "senses": [["popular front"], ["Popular front"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "公民館", "reading": "こうみんかん" }],
+      "senses": [
+        ["public hall", "community center", "community centre"],
+        ["Kouminkan"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "文民", "reading": "ぶんみん" }],
+      "senses": [["civilian"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "住民税", "reading": "じゅうみんぜい" }],
+      "senses": [["municipal tax"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "漁民", "reading": "ぎょみん" }],
+      "senses": [["fishermen"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "県民", "reading": "けんみん" }],
+      "senses": [["citizen of a prefecture", "prefectural citizen"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "自民", "reading": "じみん" }],
+      "senses": [["Liberal Democratic Party", "LDP"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "皇民党", "reading": "こうみんとう" }],
+      "senses": [["Imperialist Party"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "公民", "reading": "こうみん" }],
+      "senses": [["citizen", "freemen"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "社民党", "reading": "しゃみんとう" }],
+      "senses": [["Social Democratic Party"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "官民", "reading": "かんみん" }],
+      "senses": [
+        [
+          "government and people",
+          "government and private sector",
+          "public and private sector"
+        ]
+      ]
+    }
+  ]
+}

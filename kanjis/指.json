@@ -1,1 +1,249 @@
-{"basic":["指","Finger","711"],"extended":[{"jlpt":["jlpt-n2"],"tags":["wanikani13"],"japanese":[{"word":"親指","reading":"おやゆび"},{"word":"おや指","reading":"おやゆび"}],"senses":[["thumb"],["Thumb"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani26"],"japanese":[{"word":"人差し指","reading":"ひとさしゆび"},{"word":"人差指","reading":"ひとさしゆび"},{"word":"人指し指","reading":"ひとさしゆび"},{"word":"人さし指","reading":"ひとさしゆび"}],"senses":[["index finger","forefinger"],["Index finger"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"薬指","reading":"くすりゆび"},{"word":"くすり指","reading":"くすりゆび"}],"senses":[["ring finger","fourth finger"],["Ring finger"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"物差し","reading":"ものさし"},{"word":"物差","reading":"ものさし"},{"word":"物指し","reading":"ものさし"},{"word":"物指","reading":"ものさし"}],"senses":[["ruler","measure"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani13"],"japanese":[{"word":"小指","reading":"こゆび"},{"word":"子指","reading":"こゆび"}],"senses":[["little finger","pinky"],["little toe"],["Little finger"]]},{"jlpt":["jlpt-n2","jlpt-n1"],"tags":["wanikani13"],"japanese":[{"word":"中指","reading":"なかゆび"},{"word":"中指","reading":"ちゅうし"}],"senses":[["middle finger","long finger","second finger","tall finger"],["middle toe","third toe"],["Middle finger"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"名指し","reading":"なざし"}],"senses":[["calling by name","designation","nomination"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"屈指","reading":"くっし"}],"senses":[["leading","foremost","preeminent","outstanding","one of the best"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"眼差し","reading":"まなざし"},{"word":"目差し","reading":"まなざし"},{"word":"目差","reading":"まなざし"},{"word":"眼指","reading":"まなざし"}],"senses":[["(a) look","gaze"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"目指す","reading":"めざす"},{"word":"目差す","reading":"めざす"},{"word":"目ざす","reading":"めざす"}],"senses":[["to aim at (for, to do, to become)","to try for","to have an eye on"],["to go toward","to head for"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"学習指導要領","reading":"がくしゅうしどうようりょう"}],"senses":[["government course (curriculum) guidelines"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"作況指数","reading":"さっきょうしすう"}],"senses":[["rice-crop index"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"物価指数","reading":"ぶっかしすう"}],"senses":[["a price index"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani13"],"japanese":[{"word":"親指","reading":"おやゆび"},{"word":"おや指","reading":"おやゆび"}],"senses":[["thumb"],["Thumb"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani26"],"japanese":[{"word":"人差し指","reading":"ひとさしゆび"},{"word":"人差指","reading":"ひとさしゆび"},{"word":"人指し指","reading":"ひとさしゆび"},{"word":"人さし指","reading":"ひとさしゆび"}],"senses":[["index finger","forefinger"],["Index finger"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"薬指","reading":"くすりゆび"},{"word":"くすり指","reading":"くすりゆび"}],"senses":[["ring finger","fourth finger"],["Ring finger"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"物差し","reading":"ものさし"},{"word":"物差","reading":"ものさし"},{"word":"物指し","reading":"ものさし"},{"word":"物指","reading":"ものさし"}],"senses":[["ruler","measure"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani13"],"japanese":[{"word":"小指","reading":"こゆび"},{"word":"子指","reading":"こゆび"}],"senses":[["little finger","pinky"],["little toe"],["Little finger"]]},{"jlpt":["jlpt-n2","jlpt-n1"],"tags":["wanikani13"],"japanese":[{"word":"中指","reading":"なかゆび"},{"word":"中指","reading":"ちゅうし"}],"senses":[["middle finger","long finger","second finger","tall finger"],["middle toe","third toe"],["Middle finger"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"名指し","reading":"なざし"}],"senses":[["calling by name","designation","nomination"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"屈指","reading":"くっし"}],"senses":[["leading","foremost","preeminent","outstanding","one of the best"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"眼差し","reading":"まなざし"},{"word":"目差し","reading":"まなざし"},{"word":"目差","reading":"まなざし"},{"word":"眼指","reading":"まなざし"}],"senses":[["(a) look","gaze"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"目指す","reading":"めざす"},{"word":"目差す","reading":"めざす"},{"word":"目ざす","reading":"めざす"}],"senses":[["to aim at (for, to do, to become)","to try for","to have an eye on"],["to go toward","to head for"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"学習指導要領","reading":"がくしゅうしどうようりょう"}],"senses":[["government course (curriculum) guidelines"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"作況指数","reading":"さっきょうしすう"}],"senses":[["rice-crop index"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"物価指数","reading":"ぶっかしすう"}],"senses":[["a price index"]]}]}
+{
+  "basic": ["指", "Finger", "711"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani13"],
+      "japanese": [
+        { "word": "親指", "reading": "おやゆび" },
+        { "word": "おや指", "reading": "おやゆび" }
+      ],
+      "senses": [["thumb"], ["Thumb"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani26"],
+      "japanese": [
+        { "word": "人差し指", "reading": "ひとさしゆび" },
+        { "word": "人差指", "reading": "ひとさしゆび" },
+        { "word": "人指し指", "reading": "ひとさしゆび" },
+        { "word": "人さし指", "reading": "ひとさしゆび" }
+      ],
+      "senses": [["index finger", "forefinger"], ["Index finger"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [
+        { "word": "薬指", "reading": "くすりゆび" },
+        { "word": "くすり指", "reading": "くすりゆび" }
+      ],
+      "senses": [["ring finger", "fourth finger"], ["Ring finger"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [
+        { "word": "物差し", "reading": "ものさし" },
+        { "word": "物差", "reading": "ものさし" },
+        { "word": "物指し", "reading": "ものさし" },
+        { "word": "物指", "reading": "ものさし" }
+      ],
+      "senses": [["ruler", "measure"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani13"],
+      "japanese": [
+        { "word": "小指", "reading": "こゆび" },
+        { "word": "子指", "reading": "こゆび" }
+      ],
+      "senses": [["little finger", "pinky"], ["little toe"], ["Little finger"]]
+    },
+    {
+      "jlpt": ["jlpt-n2", "jlpt-n1"],
+      "tags": ["wanikani13"],
+      "japanese": [
+        { "word": "中指", "reading": "なかゆび" },
+        { "word": "中指", "reading": "ちゅうし" }
+      ],
+      "senses": [
+        ["middle finger", "long finger", "second finger", "tall finger"],
+        ["middle toe", "third toe"],
+        ["Middle finger"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "名指し", "reading": "なざし" }],
+      "senses": [["calling by name", "designation", "nomination"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "屈指", "reading": "くっし" }],
+      "senses": [
+        ["leading", "foremost", "preeminent", "outstanding", "one of the best"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "眼差し", "reading": "まなざし" },
+        { "word": "目差し", "reading": "まなざし" },
+        { "word": "目差", "reading": "まなざし" },
+        { "word": "眼指", "reading": "まなざし" }
+      ],
+      "senses": [["(a) look", "gaze"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [
+        { "word": "目指す", "reading": "めざす" },
+        { "word": "目差す", "reading": "めざす" },
+        { "word": "目ざす", "reading": "めざす" }
+      ],
+      "senses": [
+        [
+          "to aim at (for, to do, to become)",
+          "to try for",
+          "to have an eye on"
+        ],
+        ["to go toward", "to head for"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "学習指導要領", "reading": "がくしゅうしどうようりょう" }],
+      "senses": [["government course (curriculum) guidelines"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "作況指数", "reading": "さっきょうしすう" }],
+      "senses": [["rice-crop index"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "物価指数", "reading": "ぶっかしすう" }],
+      "senses": [["a price index"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani13"],
+      "japanese": [
+        { "word": "親指", "reading": "おやゆび" },
+        { "word": "おや指", "reading": "おやゆび" }
+      ],
+      "senses": [["thumb"], ["Thumb"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani26"],
+      "japanese": [
+        { "word": "人差し指", "reading": "ひとさしゆび" },
+        { "word": "人差指", "reading": "ひとさしゆび" },
+        { "word": "人指し指", "reading": "ひとさしゆび" },
+        { "word": "人さし指", "reading": "ひとさしゆび" }
+      ],
+      "senses": [["index finger", "forefinger"], ["Index finger"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [
+        { "word": "薬指", "reading": "くすりゆび" },
+        { "word": "くすり指", "reading": "くすりゆび" }
+      ],
+      "senses": [["ring finger", "fourth finger"], ["Ring finger"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [
+        { "word": "物差し", "reading": "ものさし" },
+        { "word": "物差", "reading": "ものさし" },
+        { "word": "物指し", "reading": "ものさし" },
+        { "word": "物指", "reading": "ものさし" }
+      ],
+      "senses": [["ruler", "measure"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani13"],
+      "japanese": [
+        { "word": "小指", "reading": "こゆび" },
+        { "word": "子指", "reading": "こゆび" }
+      ],
+      "senses": [["little finger", "pinky"], ["little toe"], ["Little finger"]]
+    },
+    {
+      "jlpt": ["jlpt-n2", "jlpt-n1"],
+      "tags": ["wanikani13"],
+      "japanese": [
+        { "word": "中指", "reading": "なかゆび" },
+        { "word": "中指", "reading": "ちゅうし" }
+      ],
+      "senses": [
+        ["middle finger", "long finger", "second finger", "tall finger"],
+        ["middle toe", "third toe"],
+        ["Middle finger"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "名指し", "reading": "なざし" }],
+      "senses": [["calling by name", "designation", "nomination"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "屈指", "reading": "くっし" }],
+      "senses": [
+        ["leading", "foremost", "preeminent", "outstanding", "one of the best"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "眼差し", "reading": "まなざし" },
+        { "word": "目差し", "reading": "まなざし" },
+        { "word": "目差", "reading": "まなざし" },
+        { "word": "眼指", "reading": "まなざし" }
+      ],
+      "senses": [["(a) look", "gaze"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [
+        { "word": "目指す", "reading": "めざす" },
+        { "word": "目差す", "reading": "めざす" },
+        { "word": "目ざす", "reading": "めざす" }
+      ],
+      "senses": [
+        [
+          "to aim at (for, to do, to become)",
+          "to try for",
+          "to have an eye on"
+        ],
+        ["to go toward", "to head for"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "学習指導要領", "reading": "がくしゅうしどうようりょう" }],
+      "senses": [["government course (curriculum) guidelines"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "作況指数", "reading": "さっきょうしすう" }],
+      "senses": [["rice-crop index"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "物価指数", "reading": "ぶっかしすう" }],
+      "senses": [["a price index"]]
+    }
+  ]
+}

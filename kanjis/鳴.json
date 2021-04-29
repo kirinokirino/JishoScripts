@@ -1,1 +1,73 @@
-{"basic":["鳴","Chirp","2092"],"extended":[{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"共鳴","reading":"きょうめい"}],"senses":[["resonance"],["sympathy (with a view, idea, etc.)"],["Resonance"]]},{"jlpt":["jlpt-n2","jlpt-n1"],"tags":["wanikani27"],"japanese":[{"word":"怒鳴る","reading":"どなる"},{"word":"呶鳴る","reading":"どなる"}],"senses":[["to shout (in anger)","to yell"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"悲鳴","reading":"ひめい"}],"senses":[["shriek","scream"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"怒鳴り込む","reading":"どなりこむ"},{"word":"呶鳴り込む","reading":"どなりこむ"}],"senses":[["to storm in with a yell"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"共鳴","reading":"きょうめい"}],"senses":[["resonance"],["sympathy (with a view, idea, etc.)"],["Resonance"]]},{"jlpt":["jlpt-n2","jlpt-n1"],"tags":["wanikani27"],"japanese":[{"word":"怒鳴る","reading":"どなる"},{"word":"呶鳴る","reading":"どなる"}],"senses":[["to shout (in anger)","to yell"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"悲鳴","reading":"ひめい"}],"senses":[["shriek","scream"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"怒鳴り込む","reading":"どなりこむ"},{"word":"呶鳴り込む","reading":"どなりこむ"}],"senses":[["to storm in with a yell"]]}]}
+{
+  "basic": ["鳴", "Chirp", "2092"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "共鳴", "reading": "きょうめい" }],
+      "senses": [
+        ["resonance"],
+        ["sympathy (with a view, idea, etc.)"],
+        ["Resonance"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2", "jlpt-n1"],
+      "tags": ["wanikani27"],
+      "japanese": [
+        { "word": "怒鳴る", "reading": "どなる" },
+        { "word": "呶鳴る", "reading": "どなる" }
+      ],
+      "senses": [["to shout (in anger)", "to yell"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "悲鳴", "reading": "ひめい" }],
+      "senses": [["shriek", "scream"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "怒鳴り込む", "reading": "どなりこむ" },
+        { "word": "呶鳴り込む", "reading": "どなりこむ" }
+      ],
+      "senses": [["to storm in with a yell"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "共鳴", "reading": "きょうめい" }],
+      "senses": [
+        ["resonance"],
+        ["sympathy (with a view, idea, etc.)"],
+        ["Resonance"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2", "jlpt-n1"],
+      "tags": ["wanikani27"],
+      "japanese": [
+        { "word": "怒鳴る", "reading": "どなる" },
+        { "word": "呶鳴る", "reading": "どなる" }
+      ],
+      "senses": [["to shout (in anger)", "to yell"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "悲鳴", "reading": "ひめい" }],
+      "senses": [["shriek", "scream"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "怒鳴り込む", "reading": "どなりこむ" },
+        { "word": "呶鳴り込む", "reading": "どなりこむ" }
+      ],
+      "senses": [["to storm in with a yell"]]
+    }
+  ]
+}

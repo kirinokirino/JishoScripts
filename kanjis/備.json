@@ -1,1 +1,243 @@
-{"basic":["備","Equip","1267"],"extended":[{"jlpt":["jlpt-n3"],"tags":["wanikani23","wanikani25"],"japanese":[{"word":"準備","reading":"じゅんび"}],"senses":[["preparation","arrangements","getting ready","provision","setup","reserving"]]},{"jlpt":["jlpt-n3"],"tags":[],"japanese":[{"word":"設備","reading":"せつび"}],"senses":[["equipment","facilities","installation","accommodations","conveniences","arrangements"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"予備","reading":"よび"},{"word":"預備","reading":"よび"}],"senses":[["reserve","spare"],["preparation","preliminaries"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"整備","reading":"せいび"}],"senses":[["maintenance","servicing"],["putting in place","establishment","development","preparation","provision","outfitting"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"警備","reading":"けいび"}],"senses":[["defense","defence","guard","policing","security"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"装備","reading":"そうび"}],"senses":[["equipment"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"守備","reading":"しゅび"}],"senses":[["defense","defence"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"軍備","reading":"ぐんび"}],"senses":[["armaments","military preparations"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"不備","reading":"ふび"}],"senses":[["defect","deficiency","imperfection","inadequacy","lack"],["Yours in haste"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"兼ね備える","reading":"かねそなえる"}],"senses":[["to have both","to possess both","to combine with"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"予備校","reading":"よびこう"}],"senses":[["preparatory school (for entrance examinations)","cram school","cramming school"],["Yobikō"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"配備","reading":"はいび"}],"senses":[["deployment","disposition","posting","stationing"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"予備費","reading":"よびひ"}],"senses":[["reserve funds","emergency funds"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani23","wanikani25"],"japanese":[{"word":"準備","reading":"じゅんび"}],"senses":[["preparation","arrangements","getting ready","provision","setup","reserving"]]},{"jlpt":["jlpt-n3"],"tags":[],"japanese":[{"word":"設備","reading":"せつび"}],"senses":[["equipment","facilities","installation","accommodations","conveniences","arrangements"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"予備","reading":"よび"},{"word":"預備","reading":"よび"}],"senses":[["reserve","spare"],["preparation","preliminaries"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"整備","reading":"せいび"}],"senses":[["maintenance","servicing"],["putting in place","establishment","development","preparation","provision","outfitting"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"警備","reading":"けいび"}],"senses":[["defense","defence","guard","policing","security"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"装備","reading":"そうび"}],"senses":[["equipment"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"守備","reading":"しゅび"}],"senses":[["defense","defence"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"軍備","reading":"ぐんび"}],"senses":[["armaments","military preparations"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"不備","reading":"ふび"}],"senses":[["defect","deficiency","imperfection","inadequacy","lack"],["Yours in haste"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"兼ね備える","reading":"かねそなえる"}],"senses":[["to have both","to possess both","to combine with"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"予備校","reading":"よびこう"}],"senses":[["preparatory school (for entrance examinations)","cram school","cramming school"],["Yobikō"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"配備","reading":"はいび"}],"senses":[["deployment","disposition","posting","stationing"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"予備費","reading":"よびひ"}],"senses":[["reserve funds","emergency funds"]]}]}
+{
+  "basic": ["備", "Equip", "1267"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani23", "wanikani25"],
+      "japanese": [{ "word": "準備", "reading": "じゅんび" }],
+      "senses": [
+        [
+          "preparation",
+          "arrangements",
+          "getting ready",
+          "provision",
+          "setup",
+          "reserving"
+        ]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": [],
+      "japanese": [{ "word": "設備", "reading": "せつび" }],
+      "senses": [
+        [
+          "equipment",
+          "facilities",
+          "installation",
+          "accommodations",
+          "conveniences",
+          "arrangements"
+        ]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [
+        { "word": "予備", "reading": "よび" },
+        { "word": "預備", "reading": "よび" }
+      ],
+      "senses": [["reserve", "spare"], ["preparation", "preliminaries"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "整備", "reading": "せいび" }],
+      "senses": [
+        ["maintenance", "servicing"],
+        [
+          "putting in place",
+          "establishment",
+          "development",
+          "preparation",
+          "provision",
+          "outfitting"
+        ]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "警備", "reading": "けいび" }],
+      "senses": [["defense", "defence", "guard", "policing", "security"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "装備", "reading": "そうび" }],
+      "senses": [["equipment"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "守備", "reading": "しゅび" }],
+      "senses": [["defense", "defence"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "軍備", "reading": "ぐんび" }],
+      "senses": [["armaments", "military preparations"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "不備", "reading": "ふび" }],
+      "senses": [
+        ["defect", "deficiency", "imperfection", "inadequacy", "lack"],
+        ["Yours in haste"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "兼ね備える", "reading": "かねそなえる" }],
+      "senses": [["to have both", "to possess both", "to combine with"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "予備校", "reading": "よびこう" }],
+      "senses": [
+        [
+          "preparatory school (for entrance examinations)",
+          "cram school",
+          "cramming school"
+        ],
+        ["Yobikō"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "配備", "reading": "はいび" }],
+      "senses": [["deployment", "disposition", "posting", "stationing"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "予備費", "reading": "よびひ" }],
+      "senses": [["reserve funds", "emergency funds"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani23", "wanikani25"],
+      "japanese": [{ "word": "準備", "reading": "じゅんび" }],
+      "senses": [
+        [
+          "preparation",
+          "arrangements",
+          "getting ready",
+          "provision",
+          "setup",
+          "reserving"
+        ]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": [],
+      "japanese": [{ "word": "設備", "reading": "せつび" }],
+      "senses": [
+        [
+          "equipment",
+          "facilities",
+          "installation",
+          "accommodations",
+          "conveniences",
+          "arrangements"
+        ]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [
+        { "word": "予備", "reading": "よび" },
+        { "word": "預備", "reading": "よび" }
+      ],
+      "senses": [["reserve", "spare"], ["preparation", "preliminaries"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "整備", "reading": "せいび" }],
+      "senses": [
+        ["maintenance", "servicing"],
+        [
+          "putting in place",
+          "establishment",
+          "development",
+          "preparation",
+          "provision",
+          "outfitting"
+        ]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "警備", "reading": "けいび" }],
+      "senses": [["defense", "defence", "guard", "policing", "security"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "装備", "reading": "そうび" }],
+      "senses": [["equipment"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "守備", "reading": "しゅび" }],
+      "senses": [["defense", "defence"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "軍備", "reading": "ぐんび" }],
+      "senses": [["armaments", "military preparations"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "不備", "reading": "ふび" }],
+      "senses": [
+        ["defect", "deficiency", "imperfection", "inadequacy", "lack"],
+        ["Yours in haste"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "兼ね備える", "reading": "かねそなえる" }],
+      "senses": [["to have both", "to possess both", "to combine with"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "予備校", "reading": "よびこう" }],
+      "senses": [
+        [
+          "preparatory school (for entrance examinations)",
+          "cram school",
+          "cramming school"
+        ],
+        ["Yobikō"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "配備", "reading": "はいび" }],
+      "senses": [["deployment", "disposition", "posting", "stationing"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "予備費", "reading": "よびひ" }],
+      "senses": [["reserve funds", "emergency funds"]]
+    }
+  ]
+}

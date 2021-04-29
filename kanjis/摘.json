@@ -1,1 +1,17 @@
-{"basic":["摘","Pinch","709"],"extended":[{"jlpt":["jlpt-n1"],"tags":["wanikani36","wanikani38"],"japanese":[{"word":"指摘","reading":"してき"}],"senses":[["pointing out","identification"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani36","wanikani38"],"japanese":[{"word":"指摘","reading":"してき"}],"senses":[["pointing out","identification"]]}]}
+{
+  "basic": ["摘", "Pinch", "709"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani36", "wanikani38"],
+      "japanese": [{ "word": "指摘", "reading": "してき" }],
+      "senses": [["pointing out", "identification"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani36", "wanikani38"],
+      "japanese": [{ "word": "指摘", "reading": "してき" }],
+      "senses": [["pointing out", "identification"]]
+    }
+  ]
+}

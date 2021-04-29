@@ -1,1 +1,17 @@
-{"basic":["爵","Baron","1573"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"伯爵","reading":"はくしゃく"}],"senses":[["count","earl"],["Count"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"伯爵","reading":"はくしゃく"}],"senses":[["count","earl"],["Count"]]}]}
+{
+  "basic": ["爵", "Baron", "1573"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "伯爵", "reading": "はくしゃく" }],
+      "senses": [["count", "earl"], ["Count"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "伯爵", "reading": "はくしゃく" }],
+      "senses": [["count", "earl"], ["Count"]]
+    }
+  ]
+}

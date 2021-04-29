@@ -1,1 +1,27 @@
-{"basic":["混","Mix","487"],"extended":[{"jlpt":["jlpt-n3"],"tags":["wanikani34"],"japanese":[{"word":"人ごみ","reading":"ひとごみ"},{"word":"人込み","reading":"ひとごみ"},{"word":"人混み","reading":"ひとごみ"},{"word":"人込","reading":"ひとごみ"}],"senses":[["crowd of people"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani34"],"japanese":[{"word":"人ごみ","reading":"ひとごみ"},{"word":"人込み","reading":"ひとごみ"},{"word":"人混み","reading":"ひとごみ"},{"word":"人込","reading":"ひとごみ"}],"senses":[["crowd of people"]]}]}
+{
+  "basic": ["混", "Mix", "487"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani34"],
+      "japanese": [
+        { "word": "人ごみ", "reading": "ひとごみ" },
+        { "word": "人込み", "reading": "ひとごみ" },
+        { "word": "人混み", "reading": "ひとごみ" },
+        { "word": "人込", "reading": "ひとごみ" }
+      ],
+      "senses": [["crowd of people"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani34"],
+      "japanese": [
+        { "word": "人ごみ", "reading": "ひとごみ" },
+        { "word": "人込み", "reading": "ひとごみ" },
+        { "word": "人混み", "reading": "ひとごみ" },
+        { "word": "人込", "reading": "ひとごみ" }
+      ],
+      "senses": [["crowd of people"]]
+    }
+  ]
+}

@@ -1,1 +1,59 @@
-{"basic":["泳","Swim","144"],"extended":[{"jlpt":["jlpt-n4"],"tags":[],"japanese":[{"word":"水泳","reading":"すいえい"}],"senses":[["swimming"],["Human swimming"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"背泳ぎ","reading":"せおよぎ"}],"senses":[["backstroke (swimming)"],["Backstroke"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"平泳ぎ","reading":"ひらおよぎ"}],"senses":[["breaststroke (swimming)"],["Breaststroke"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"競泳","reading":"きょうえい"}],"senses":[["competitive swimming","swimming race"],["Swimming (sport)"]]},{"jlpt":["jlpt-n4"],"tags":[],"japanese":[{"word":"水泳","reading":"すいえい"}],"senses":[["swimming"],["Human swimming"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"背泳ぎ","reading":"せおよぎ"}],"senses":[["backstroke (swimming)"],["Backstroke"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"平泳ぎ","reading":"ひらおよぎ"}],"senses":[["breaststroke (swimming)"],["Breaststroke"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"競泳","reading":"きょうえい"}],"senses":[["competitive swimming","swimming race"],["Swimming (sport)"]]}]}
+{
+  "basic": ["泳", "Swim", "144"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n4"],
+      "tags": [],
+      "japanese": [{ "word": "水泳", "reading": "すいえい" }],
+      "senses": [["swimming"], ["Human swimming"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "背泳ぎ", "reading": "せおよぎ" }],
+      "senses": [["backstroke (swimming)"], ["Backstroke"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "平泳ぎ", "reading": "ひらおよぎ" }],
+      "senses": [["breaststroke (swimming)"], ["Breaststroke"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "競泳", "reading": "きょうえい" }],
+      "senses": [
+        ["competitive swimming", "swimming race"],
+        ["Swimming (sport)"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n4"],
+      "tags": [],
+      "japanese": [{ "word": "水泳", "reading": "すいえい" }],
+      "senses": [["swimming"], ["Human swimming"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "背泳ぎ", "reading": "せおよぎ" }],
+      "senses": [["backstroke (swimming)"], ["Backstroke"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "平泳ぎ", "reading": "ひらおよぎ" }],
+      "senses": [["breaststroke (swimming)"], ["Breaststroke"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "競泳", "reading": "きょうえい" }],
+      "senses": [
+        ["competitive swimming", "swimming race"],
+        ["Swimming (sport)"]
+      ]
+    }
+  ]
+}

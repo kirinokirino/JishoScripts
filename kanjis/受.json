@@ -1,1 +1,183 @@
-{"basic":["受","Accept","794"],"extended":[{"jlpt":["jlpt-n2","jlpt-n1"],"tags":[],"japanese":[{"word":"引き受ける","reading":"ひきうける"},{"word":"引受ける","reading":"ひきうける"},{"word":"引きうける","reading":"ひきうける"},{"word":"引受る","reading":"ひきうける"}],"senses":[["to take on","to undertake","to accept","to take charge of","to assume responsibility for"],["to take over","to inherit"],["to guarantee","to vouch for"],["to contract (a disease)"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani58"],"japanese":[{"word":"享受","reading":"きょうじゅ"}],"senses":[["reception","acceptance","enjoyment","being given"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"待ち受ける","reading":"まちうける"}],"senses":[["to await","to expect"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"見受ける","reading":"みうける"},{"word":"見うける","reading":"みうける"}],"senses":[["to catch sight of","to see","to suppose","to assume from appearances"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"引き受け","reading":"ひきうけ"},{"word":"引受け","reading":"ひきうけ"},{"word":"引受","reading":"ひきうけ"}],"senses":[["undertaking","underwriting","acceptance"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"体外受精","reading":"たいがいじゅせい"},{"word":"体外授精","reading":"たいがいじゅせい"}],"senses":[["in vitro fertilization","in vitro fertilisation","IVF"],["In vitro fertilisation"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"授受","reading":"じゅじゅ"},{"word":"受授","reading":"じゅじゅ"}],"senses":[["giving and receiving","transferring","transfer","changing hands"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"感受性","reading":"かんじゅせい"}],"senses":[["sensitivity","susceptibility"]]},{"jlpt":["jlpt-n2","jlpt-n1"],"tags":[],"japanese":[{"word":"引き受ける","reading":"ひきうける"},{"word":"引受ける","reading":"ひきうける"},{"word":"引きうける","reading":"ひきうける"},{"word":"引受る","reading":"ひきうける"}],"senses":[["to take on","to undertake","to accept","to take charge of","to assume responsibility for"],["to take over","to inherit"],["to guarantee","to vouch for"],["to contract (a disease)"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani58"],"japanese":[{"word":"享受","reading":"きょうじゅ"}],"senses":[["reception","acceptance","enjoyment","being given"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"待ち受ける","reading":"まちうける"}],"senses":[["to await","to expect"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"見受ける","reading":"みうける"},{"word":"見うける","reading":"みうける"}],"senses":[["to catch sight of","to see","to suppose","to assume from appearances"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"引き受け","reading":"ひきうけ"},{"word":"引受け","reading":"ひきうけ"},{"word":"引受","reading":"ひきうけ"}],"senses":[["undertaking","underwriting","acceptance"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"体外受精","reading":"たいがいじゅせい"},{"word":"体外授精","reading":"たいがいじゅせい"}],"senses":[["in vitro fertilization","in vitro fertilisation","IVF"],["In vitro fertilisation"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"授受","reading":"じゅじゅ"},{"word":"受授","reading":"じゅじゅ"}],"senses":[["giving and receiving","transferring","transfer","changing hands"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"感受性","reading":"かんじゅせい"}],"senses":[["sensitivity","susceptibility"]]}]}
+{
+  "basic": ["受", "Accept", "794"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n2", "jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "引き受ける", "reading": "ひきうける" },
+        { "word": "引受ける", "reading": "ひきうける" },
+        { "word": "引きうける", "reading": "ひきうける" },
+        { "word": "引受る", "reading": "ひきうける" }
+      ],
+      "senses": [
+        [
+          "to take on",
+          "to undertake",
+          "to accept",
+          "to take charge of",
+          "to assume responsibility for"
+        ],
+        ["to take over", "to inherit"],
+        ["to guarantee", "to vouch for"],
+        ["to contract (a disease)"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani58"],
+      "japanese": [{ "word": "享受", "reading": "きょうじゅ" }],
+      "senses": [["reception", "acceptance", "enjoyment", "being given"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "待ち受ける", "reading": "まちうける" }],
+      "senses": [["to await", "to expect"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "見受ける", "reading": "みうける" },
+        { "word": "見うける", "reading": "みうける" }
+      ],
+      "senses": [
+        [
+          "to catch sight of",
+          "to see",
+          "to suppose",
+          "to assume from appearances"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "引き受け", "reading": "ひきうけ" },
+        { "word": "引受け", "reading": "ひきうけ" },
+        { "word": "引受", "reading": "ひきうけ" }
+      ],
+      "senses": [["undertaking", "underwriting", "acceptance"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "体外受精", "reading": "たいがいじゅせい" },
+        { "word": "体外授精", "reading": "たいがいじゅせい" }
+      ],
+      "senses": [
+        ["in vitro fertilization", "in vitro fertilisation", "IVF"],
+        ["In vitro fertilisation"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "授受", "reading": "じゅじゅ" },
+        { "word": "受授", "reading": "じゅじゅ" }
+      ],
+      "senses": [
+        ["giving and receiving", "transferring", "transfer", "changing hands"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "感受性", "reading": "かんじゅせい" }],
+      "senses": [["sensitivity", "susceptibility"]]
+    },
+    {
+      "jlpt": ["jlpt-n2", "jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "引き受ける", "reading": "ひきうける" },
+        { "word": "引受ける", "reading": "ひきうける" },
+        { "word": "引きうける", "reading": "ひきうける" },
+        { "word": "引受る", "reading": "ひきうける" }
+      ],
+      "senses": [
+        [
+          "to take on",
+          "to undertake",
+          "to accept",
+          "to take charge of",
+          "to assume responsibility for"
+        ],
+        ["to take over", "to inherit"],
+        ["to guarantee", "to vouch for"],
+        ["to contract (a disease)"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani58"],
+      "japanese": [{ "word": "享受", "reading": "きょうじゅ" }],
+      "senses": [["reception", "acceptance", "enjoyment", "being given"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "待ち受ける", "reading": "まちうける" }],
+      "senses": [["to await", "to expect"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "見受ける", "reading": "みうける" },
+        { "word": "見うける", "reading": "みうける" }
+      ],
+      "senses": [
+        [
+          "to catch sight of",
+          "to see",
+          "to suppose",
+          "to assume from appearances"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "引き受け", "reading": "ひきうけ" },
+        { "word": "引受け", "reading": "ひきうけ" },
+        { "word": "引受", "reading": "ひきうけ" }
+      ],
+      "senses": [["undertaking", "underwriting", "acceptance"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "体外受精", "reading": "たいがいじゅせい" },
+        { "word": "体外授精", "reading": "たいがいじゅせい" }
+      ],
+      "senses": [
+        ["in vitro fertilization", "in vitro fertilisation", "IVF"],
+        ["In vitro fertilisation"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "授受", "reading": "じゅじゅ" },
+        { "word": "受授", "reading": "じゅじゅ" }
+      ],
+      "senses": [
+        ["giving and receiving", "transferring", "transfer", "changing hands"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "感受性", "reading": "かんじゅせい" }],
+      "senses": [["sensitivity", "susceptibility"]]
+    }
+  ]
+}

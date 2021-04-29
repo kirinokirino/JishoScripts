@@ -1,1 +1,119 @@
-{"basic":["束","Bundle","1793"],"extended":[{"jlpt":["jlpt-n4"],"tags":["wanikani14","wanikani16"],"japanese":[{"word":"約束","reading":"やくそく"}],"senses":[["promise","agreement","arrangement","one's word","contract","pact","appointment","engagement","date"],["convention","rule"],["destiny","fate"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"拘束","reading":"こうそく"}],"senses":[["restriction","restraint","binding","constraint"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"花束","reading":"はなたば"}],"senses":[["bunch of flowers","bouquet"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"札束","reading":"さつたば"}],"senses":[["roll of banknotes"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"結束","reading":"けっそく"}],"senses":[["union","unity","solidarity"],["bundling","binding","tying"],["putting on (clothes, armour, etc.)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"約束通り","reading":"やくそくどおり"},{"word":"約束どおり","reading":"やくそくどおり"}],"senses":[["as one promised"]]},{"jlpt":["jlpt-n4"],"tags":["wanikani14","wanikani16"],"japanese":[{"word":"約束","reading":"やくそく"}],"senses":[["promise","agreement","arrangement","one's word","contract","pact","appointment","engagement","date"],["convention","rule"],["destiny","fate"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"拘束","reading":"こうそく"}],"senses":[["restriction","restraint","binding","constraint"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"花束","reading":"はなたば"}],"senses":[["bunch of flowers","bouquet"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"札束","reading":"さつたば"}],"senses":[["roll of banknotes"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"結束","reading":"けっそく"}],"senses":[["union","unity","solidarity"],["bundling","binding","tying"],["putting on (clothes, armour, etc.)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"約束通り","reading":"やくそくどおり"},{"word":"約束どおり","reading":"やくそくどおり"}],"senses":[["as one promised"]]}]}
+{
+  "basic": ["束", "Bundle", "1793"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n4"],
+      "tags": ["wanikani14", "wanikani16"],
+      "japanese": [{ "word": "約束", "reading": "やくそく" }],
+      "senses": [
+        [
+          "promise",
+          "agreement",
+          "arrangement",
+          "one's word",
+          "contract",
+          "pact",
+          "appointment",
+          "engagement",
+          "date"
+        ],
+        ["convention", "rule"],
+        ["destiny", "fate"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "拘束", "reading": "こうそく" }],
+      "senses": [["restriction", "restraint", "binding", "constraint"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "花束", "reading": "はなたば" }],
+      "senses": [["bunch of flowers", "bouquet"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "札束", "reading": "さつたば" }],
+      "senses": [["roll of banknotes"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "結束", "reading": "けっそく" }],
+      "senses": [
+        ["union", "unity", "solidarity"],
+        ["bundling", "binding", "tying"],
+        ["putting on (clothes, armour, etc.)"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "約束通り", "reading": "やくそくどおり" },
+        { "word": "約束どおり", "reading": "やくそくどおり" }
+      ],
+      "senses": [["as one promised"]]
+    },
+    {
+      "jlpt": ["jlpt-n4"],
+      "tags": ["wanikani14", "wanikani16"],
+      "japanese": [{ "word": "約束", "reading": "やくそく" }],
+      "senses": [
+        [
+          "promise",
+          "agreement",
+          "arrangement",
+          "one's word",
+          "contract",
+          "pact",
+          "appointment",
+          "engagement",
+          "date"
+        ],
+        ["convention", "rule"],
+        ["destiny", "fate"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "拘束", "reading": "こうそく" }],
+      "senses": [["restriction", "restraint", "binding", "constraint"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "花束", "reading": "はなたば" }],
+      "senses": [["bunch of flowers", "bouquet"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "札束", "reading": "さつたば" }],
+      "senses": [["roll of banknotes"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "結束", "reading": "けっそく" }],
+      "senses": [
+        ["union", "unity", "solidarity"],
+        ["bundling", "binding", "tying"],
+        ["putting on (clothes, armour, etc.)"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "約束通り", "reading": "やくそくどおり" },
+        { "word": "約束どおり", "reading": "やくそくどおり" }
+      ],
+      "senses": [["as one promised"]]
+    }
+  ]
+}

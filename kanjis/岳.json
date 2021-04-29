@@ -1,1 +1,23 @@
-{"basic":["岳","Point","1428"],"extended":[{"jlpt":["jlpt-n1"],"tags":["wanikani43"],"japanese":[{"word":"山岳","reading":"さんがく"},{"word":"山嶽","reading":"さんがく"}],"senses":[["mountains"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani43"],"japanese":[{"word":"山岳","reading":"さんがく"},{"word":"山嶽","reading":"さんがく"}],"senses":[["mountains"]]}]}
+{
+  "basic": ["岳", "Point", "1428"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani43"],
+      "japanese": [
+        { "word": "山岳", "reading": "さんがく" },
+        { "word": "山嶽", "reading": "さんがく" }
+      ],
+      "senses": [["mountains"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani43"],
+      "japanese": [
+        { "word": "山岳", "reading": "さんがく" },
+        { "word": "山嶽", "reading": "さんがく" }
+      ],
+      "senses": [["mountains"]]
+    }
+  ]
+}

@@ -1,1 +1,39 @@
-{"basic":["津","Haven","350"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"興味津々","reading":"きょうみしんしん"},{"word":"興味しんしん","reading":"きょうみしんしん"},{"word":"興味津津","reading":"きょうみしんしん"}],"senses":[["very interesting","of absorbing interest","having a keen interest (in)","being immensely curious (about)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"興味津々","reading":"きょうみしんしん"},{"word":"興味しんしん","reading":"きょうみしんしん"},{"word":"興味津津","reading":"きょうみしんしん"}],"senses":[["very interesting","of absorbing interest","having a keen interest (in)","being immensely curious (about)"]]}]}
+{
+  "basic": ["津", "Haven", "350"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "興味津々", "reading": "きょうみしんしん" },
+        { "word": "興味しんしん", "reading": "きょうみしんしん" },
+        { "word": "興味津津", "reading": "きょうみしんしん" }
+      ],
+      "senses": [
+        [
+          "very interesting",
+          "of absorbing interest",
+          "having a keen interest (in)",
+          "being immensely curious (about)"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "興味津々", "reading": "きょうみしんしん" },
+        { "word": "興味しんしん", "reading": "きょうみしんしん" },
+        { "word": "興味津津", "reading": "きょうみしんしん" }
+      ],
+      "senses": [
+        [
+          "very interesting",
+          "of absorbing interest",
+          "having a keen interest (in)",
+          "being immensely curious (about)"
+        ]
+      ]
+    }
+  ]
+}

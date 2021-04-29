@@ -1,1 +1,712 @@
-{"basic":["目","Eye","15"],"extended":[{"jlpt":["jlpt-n3"],"tags":["wanikani50"],"japanese":[{"word":"駄目","reading":"だめ"},{"reading":"ダメ"}],"senses":[["no good","not serving its purpose","useless","broken"],["hopeless","wasted","in vain","purposeless"],["cannot","must not","not allowed"],["neutral point (in go)","intersection owned by neither player at the end of a game"]]},{"jlpt":["jlpt-n3"],"tags":[],"japanese":[{"word":"注目","reading":"ちゅうもく"}],"senses":[["notice","attention","observation"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani8"],"japanese":[{"word":"科目","reading":"かもく"},{"word":"課目","reading":"かもく"}],"senses":[["(school) subject","curriculum","course"]]},{"jlpt":["jlpt-n3"],"tags":[],"japanese":[{"word":"真面目","reading":"まじめ"},{"word":"眞面目","reading":"まじめ"},{"reading":"マジメ"}],"senses":[["serious","honest","sober","grave","earnest","steady"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani39"],"japanese":[{"word":"項目","reading":"こうもく"}],"senses":[["item","heading","category","clause"],["headword (in a dictionary, encyclopedia, etc.)","entry"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani8"],"japanese":[{"word":"役目","reading":"やくめ"}],"senses":[["duty","role","function"]]},{"jlpt":["jlpt-n2","jlpt-n1"],"tags":["wanikani53"],"japanese":[{"word":"惨め","reading":"みじめ"},{"word":"不見目","reading":"みじめ"}],"senses":[["miserable","wretched","unhappy","sad","pitiable"]]},{"jlpt":["jlpt-n2","jlpt-n1"],"tags":[],"japanese":[{"word":"出鱈目","reading":"でたらめ"},{"reading":"デタラメ"}],"senses":[["nonsense","irresponsible remark","codswallop","hogwash","rubbish"],["random","haphazard","unsystematic"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"効き目","reading":"ききめ"},{"word":"利き目","reading":"ききめ"},{"word":"きき眼","reading":"ききめ"},{"word":"効目","reading":"ききめ"},{"word":"利目","reading":"ききめ"}],"senses":[["effect","virtue","efficacy","impression"],["one's dominant eye"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"面目","reading":"めんぼく"},{"word":"面目","reading":"めんもく"},{"word":"面目","reading":"めいぼく"}],"senses":[["face","honour","honor","reputation","prestige","dignity","credit"],["appearance","look"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"切れ目","reading":"きれめ"}],"senses":[["gap","break","rift"],["pause","interval","interruption"],["cut","incision","notch","score"],["end"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"人目","reading":"ひとめ"},{"word":"人眼","reading":"ひとめ"},{"word":"人目","reading":"じんもく"}],"senses":[["(public) notice","attention","public eye","public gaze"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"番目","reading":"ばんめ"},{"word":"番め","reading":"ばんめ"}],"senses":[["indicates position in a sequence"],["divisions of a kabuki performance"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"近眼","reading":"きんがん"},{"word":"近眼","reading":"ちかめ"},{"word":"近目","reading":"ちかめ"}],"senses":[["nearsightedness","shortsightedness","myopia"]]},{"jlpt":["jlpt-n3","jlpt-n1"],"tags":[],"japanese":[{"word":"お目出度う","reading":"おめでとう"},{"word":"御目出度う","reading":"おめでとう"},{"word":"お芽出度う","reading":"おめでとう"},{"word":"御芽出度う","reading":"おめでとう"}],"senses":[["congratulations!","well done!","best wishes!","all the best!"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"一目","reading":"ひとめ"},{"word":"ひと目","reading":"ひとめ"}],"senses":[["glance","look","glimpse"],["complete view","bird's-eye view"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"羽目","reading":"はめ"},{"word":"破目","reading":"はめ"}],"senses":[["panel","wainscoting","wainscotting"],["plight","fix","bind","awkward situation","difficult situation","mess"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"横目","reading":"よこめ"}],"senses":[["sidelong glance"],["short grain (paper)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"二つ目","reading":"ふたつめ"}],"senses":[["one after next","second"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"二枚目","reading":"にまいめ"}],"senses":[["handsome man"],["actor in a love scene"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani50"],"japanese":[{"word":"駄目","reading":"だめ"},{"reading":"ダメ"}],"senses":[["no good","not serving its purpose","useless","broken"],["hopeless","wasted","in vain","purposeless"],["cannot","must not","not allowed"],["neutral point (in go)","intersection owned by neither player at the end of a game"]]},{"jlpt":["jlpt-n3"],"tags":[],"japanese":[{"word":"注目","reading":"ちゅうもく"}],"senses":[["notice","attention","observation"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani8"],"japanese":[{"word":"科目","reading":"かもく"},{"word":"課目","reading":"かもく"}],"senses":[["(school) subject","curriculum","course"]]},{"jlpt":["jlpt-n3"],"tags":[],"japanese":[{"word":"真面目","reading":"まじめ"},{"word":"眞面目","reading":"まじめ"},{"reading":"マジメ"}],"senses":[["serious","honest","sober","grave","earnest","steady"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani39"],"japanese":[{"word":"項目","reading":"こうもく"}],"senses":[["item","heading","category","clause"],["headword (in a dictionary, encyclopedia, etc.)","entry"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani8"],"japanese":[{"word":"役目","reading":"やくめ"}],"senses":[["duty","role","function"]]},{"jlpt":["jlpt-n2","jlpt-n1"],"tags":["wanikani53"],"japanese":[{"word":"惨め","reading":"みじめ"},{"word":"不見目","reading":"みじめ"}],"senses":[["miserable","wretched","unhappy","sad","pitiable"]]},{"jlpt":["jlpt-n2","jlpt-n1"],"tags":[],"japanese":[{"word":"出鱈目","reading":"でたらめ"},{"reading":"デタラメ"}],"senses":[["nonsense","irresponsible remark","codswallop","hogwash","rubbish"],["random","haphazard","unsystematic"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"効き目","reading":"ききめ"},{"word":"利き目","reading":"ききめ"},{"word":"きき眼","reading":"ききめ"},{"word":"効目","reading":"ききめ"},{"word":"利目","reading":"ききめ"}],"senses":[["effect","virtue","efficacy","impression"],["one's dominant eye"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"面目","reading":"めんぼく"},{"word":"面目","reading":"めんもく"},{"word":"面目","reading":"めいぼく"}],"senses":[["face","honour","honor","reputation","prestige","dignity","credit"],["appearance","look"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"切れ目","reading":"きれめ"}],"senses":[["gap","break","rift"],["pause","interval","interruption"],["cut","incision","notch","score"],["end"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"人目","reading":"ひとめ"},{"word":"人眼","reading":"ひとめ"},{"word":"人目","reading":"じんもく"}],"senses":[["(public) notice","attention","public eye","public gaze"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"番目","reading":"ばんめ"},{"word":"番め","reading":"ばんめ"}],"senses":[["indicates position in a sequence"],["divisions of a kabuki performance"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"近眼","reading":"きんがん"},{"word":"近眼","reading":"ちかめ"},{"word":"近目","reading":"ちかめ"}],"senses":[["nearsightedness","shortsightedness","myopia"]]},{"jlpt":["jlpt-n3","jlpt-n1"],"tags":[],"japanese":[{"word":"お目出度う","reading":"おめでとう"},{"word":"御目出度う","reading":"おめでとう"},{"word":"お芽出度う","reading":"おめでとう"},{"word":"御芽出度う","reading":"おめでとう"}],"senses":[["congratulations!","well done!","best wishes!","all the best!"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"一目","reading":"ひとめ"},{"word":"ひと目","reading":"ひとめ"}],"senses":[["glance","look","glimpse"],["complete view","bird's-eye view"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"羽目","reading":"はめ"},{"word":"破目","reading":"はめ"}],"senses":[["panel","wainscoting","wainscotting"],["plight","fix","bind","awkward situation","difficult situation","mess"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"横目","reading":"よこめ"}],"senses":[["sidelong glance"],["short grain (paper)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"二つ目","reading":"ふたつめ"}],"senses":[["one after next","second"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"二枚目","reading":"にまいめ"}],"senses":[["handsome man"],["actor in a love scene"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"品目","reading":"ひんもく"},{"word":"品目","reading":"しなめ"}],"senses":[["item","commodity","list of articles"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"裏目","reading":"うらめ"}],"senses":[["reverse side"],["opposite (of the expected)"],["purl stitch (knitting)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"名目","reading":"めいもく"},{"word":"名目","reading":"みょうもく"}],"senses":[["name","title","appellation","(something) nominal"],["(under the) pretext (of)","pretense"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"種目","reading":"しゅもく"}],"senses":[["item","event"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"曲目","reading":"きょくもく"}],"senses":[["name of a piece of music","(musical) number"],["(musical) program","programme","selection (of music)","list of songs"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"節目","reading":"ふしめ"},{"word":"フシ目","reading":"フシめ"}],"senses":[["turning point","critical juncture"],["knot (in a tree, etc.)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"日の目","reading":"ひのめ"}],"senses":[["sunlight"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"見た目","reading":"みため"}],"senses":[["appearance","(outward) looks","exterior appearance"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"目茶目茶","reading":"めちゃめちゃ"},{"word":"滅茶滅茶","reading":"めちゃめちゃ"},{"reading":"メチャメチャ"}],"senses":[["disorderly","messy","ruined"],["absurd","unreasonable","excessive","rash"],["very","extremely"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"割れ目","reading":"われめ"},{"word":"破れ目","reading":"われめ"},{"word":"割目","reading":"われめ"},{"word":"破目","reading":"われめ"},{"reading":"ワレメ"}],"senses":[["chasm","interstice","crevice","crack","cleft","split","rift","fissure"],["vulva","slit","cunt","vagina","twat"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"引け目","reading":"ひけめ"},{"word":"ひけ目","reading":"ひけめ"}],"senses":[["sense of inferiority","one's weak point"]]},{"jlpt":[],"tags":["wanikani58"],"japanese":[{"word":"縫い目","reading":"ぬいめ"},{"word":"縫目","reading":"ぬいめ"}],"senses":[["seam","stitch","suture"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani7"],"japanese":[{"word":"丁目","reading":"ちょうめ"}],"senses":[["district of a town","city block (of irregular size)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"控えめ","reading":"ひかえめ"},{"word":"控え目","reading":"ひかえめ"},{"word":"ひかえ目","reading":"ひかえめ"},{"word":"控目","reading":"ひかえめ"}],"senses":[["moderate","reserved","conservative","humble","mild-mannered","self-effacing","unassuming","well-behaved","low-key","temperate","in small quantities"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"回目","reading":"かいめ"}],"senses":[["-nth time"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"多め","reading":"おおめ"},{"word":"多目","reading":"おおめ"}],"senses":[["somewhat larger (amount)","quite a lot","a little more (than usual)","a little extra"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"短め","reading":"みじかめ"},{"word":"短目","reading":"みじかめ"},{"word":"短かめ","reading":"みじかめ"},{"word":"短か目","reading":"みじかめ"}],"senses":[["shortish","rather short","somewhat short"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"着目","reading":"ちゃくもく"}],"senses":[["attention","giving one's attention","focusing"]]},{"jlpt":[],"tags":["wanikani57"],"japanese":[{"word":"盲目","reading":"もうもく"}],"senses":[["blindness"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"演目","reading":"えんもく"}],"senses":[["program (musical, concert, theatrical, etc.)","programme"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"蛇の目","reading":"じゃのめ"}],"senses":[["bull's-eye (pattern)","double ring (pattern)"],["umbrella with bull's-eye pattern"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"分かれ目","reading":"わかれめ"},{"word":"分れ目","reading":"わかれめ"},{"word":"別れ目","reading":"わかれめ"}],"senses":[["fork","junction","parting of the ways"],["turning point"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"多目的","reading":"たもくてき"}],"senses":[["multipurpose"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"負い目","reading":"おいめ"},{"word":"負目","reading":"おいめ"}],"senses":[["(feeling of) indebtedness","feeling obliged"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"細目","reading":"さいもく"}],"senses":[["particulars","details","specified items"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"おめでとう御座います","reading":"おめでとうございます"},{"word":"お目出度うございます","reading":"おめでとうございます"},{"word":"御目出度う御座います","reading":"おめでとうございます"}],"senses":[["congratulations"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"代目","reading":"だいめ"}],"senses":[["counter for generations"]]}]}
+{
+  "basic": ["目", "Eye", "15"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani50"],
+      "japanese": [{ "word": "駄目", "reading": "だめ" }, { "reading": "ダメ" }],
+      "senses": [
+        ["no good", "not serving its purpose", "useless", "broken"],
+        ["hopeless", "wasted", "in vain", "purposeless"],
+        ["cannot", "must not", "not allowed"],
+        [
+          "neutral point (in go)",
+          "intersection owned by neither player at the end of a game"
+        ]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": [],
+      "japanese": [{ "word": "注目", "reading": "ちゅうもく" }],
+      "senses": [["notice", "attention", "observation"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani8"],
+      "japanese": [
+        { "word": "科目", "reading": "かもく" },
+        { "word": "課目", "reading": "かもく" }
+      ],
+      "senses": [["(school) subject", "curriculum", "course"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": [],
+      "japanese": [
+        { "word": "真面目", "reading": "まじめ" },
+        { "word": "眞面目", "reading": "まじめ" },
+        { "reading": "マジメ" }
+      ],
+      "senses": [["serious", "honest", "sober", "grave", "earnest", "steady"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani39"],
+      "japanese": [{ "word": "項目", "reading": "こうもく" }],
+      "senses": [
+        ["item", "heading", "category", "clause"],
+        ["headword (in a dictionary, encyclopedia, etc.)", "entry"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani8"],
+      "japanese": [{ "word": "役目", "reading": "やくめ" }],
+      "senses": [["duty", "role", "function"]]
+    },
+    {
+      "jlpt": ["jlpt-n2", "jlpt-n1"],
+      "tags": ["wanikani53"],
+      "japanese": [
+        { "word": "惨め", "reading": "みじめ" },
+        { "word": "不見目", "reading": "みじめ" }
+      ],
+      "senses": [["miserable", "wretched", "unhappy", "sad", "pitiable"]]
+    },
+    {
+      "jlpt": ["jlpt-n2", "jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "出鱈目", "reading": "でたらめ" }, { "reading": "デタラメ" }],
+      "senses": [
+        [
+          "nonsense",
+          "irresponsible remark",
+          "codswallop",
+          "hogwash",
+          "rubbish"
+        ],
+        ["random", "haphazard", "unsystematic"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "効き目", "reading": "ききめ" },
+        { "word": "利き目", "reading": "ききめ" },
+        { "word": "きき眼", "reading": "ききめ" },
+        { "word": "効目", "reading": "ききめ" },
+        { "word": "利目", "reading": "ききめ" }
+      ],
+      "senses": [
+        ["effect", "virtue", "efficacy", "impression"],
+        ["one's dominant eye"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "面目", "reading": "めんぼく" },
+        { "word": "面目", "reading": "めんもく" },
+        { "word": "面目", "reading": "めいぼく" }
+      ],
+      "senses": [
+        [
+          "face",
+          "honour",
+          "honor",
+          "reputation",
+          "prestige",
+          "dignity",
+          "credit"
+        ],
+        ["appearance", "look"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "切れ目", "reading": "きれめ" }],
+      "senses": [
+        ["gap", "break", "rift"],
+        ["pause", "interval", "interruption"],
+        ["cut", "incision", "notch", "score"],
+        ["end"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "人目", "reading": "ひとめ" },
+        { "word": "人眼", "reading": "ひとめ" },
+        { "word": "人目", "reading": "じんもく" }
+      ],
+      "senses": [["(public) notice", "attention", "public eye", "public gaze"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "番目", "reading": "ばんめ" },
+        { "word": "番め", "reading": "ばんめ" }
+      ],
+      "senses": [
+        ["indicates position in a sequence"],
+        ["divisions of a kabuki performance"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "近眼", "reading": "きんがん" },
+        { "word": "近眼", "reading": "ちかめ" },
+        { "word": "近目", "reading": "ちかめ" }
+      ],
+      "senses": [["nearsightedness", "shortsightedness", "myopia"]]
+    },
+    {
+      "jlpt": ["jlpt-n3", "jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "お目出度う", "reading": "おめでとう" },
+        { "word": "御目出度う", "reading": "おめでとう" },
+        { "word": "お芽出度う", "reading": "おめでとう" },
+        { "word": "御芽出度う", "reading": "おめでとう" }
+      ],
+      "senses": [
+        ["congratulations!", "well done!", "best wishes!", "all the best!"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "一目", "reading": "ひとめ" },
+        { "word": "ひと目", "reading": "ひとめ" }
+      ],
+      "senses": [
+        ["glance", "look", "glimpse"],
+        ["complete view", "bird's-eye view"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "羽目", "reading": "はめ" },
+        { "word": "破目", "reading": "はめ" }
+      ],
+      "senses": [
+        ["panel", "wainscoting", "wainscotting"],
+        [
+          "plight",
+          "fix",
+          "bind",
+          "awkward situation",
+          "difficult situation",
+          "mess"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "横目", "reading": "よこめ" }],
+      "senses": [["sidelong glance"], ["short grain (paper)"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "二つ目", "reading": "ふたつめ" }],
+      "senses": [["one after next", "second"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "二枚目", "reading": "にまいめ" }],
+      "senses": [["handsome man"], ["actor in a love scene"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani50"],
+      "japanese": [{ "word": "駄目", "reading": "だめ" }, { "reading": "ダメ" }],
+      "senses": [
+        ["no good", "not serving its purpose", "useless", "broken"],
+        ["hopeless", "wasted", "in vain", "purposeless"],
+        ["cannot", "must not", "not allowed"],
+        [
+          "neutral point (in go)",
+          "intersection owned by neither player at the end of a game"
+        ]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": [],
+      "japanese": [{ "word": "注目", "reading": "ちゅうもく" }],
+      "senses": [["notice", "attention", "observation"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani8"],
+      "japanese": [
+        { "word": "科目", "reading": "かもく" },
+        { "word": "課目", "reading": "かもく" }
+      ],
+      "senses": [["(school) subject", "curriculum", "course"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": [],
+      "japanese": [
+        { "word": "真面目", "reading": "まじめ" },
+        { "word": "眞面目", "reading": "まじめ" },
+        { "reading": "マジメ" }
+      ],
+      "senses": [["serious", "honest", "sober", "grave", "earnest", "steady"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani39"],
+      "japanese": [{ "word": "項目", "reading": "こうもく" }],
+      "senses": [
+        ["item", "heading", "category", "clause"],
+        ["headword (in a dictionary, encyclopedia, etc.)", "entry"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani8"],
+      "japanese": [{ "word": "役目", "reading": "やくめ" }],
+      "senses": [["duty", "role", "function"]]
+    },
+    {
+      "jlpt": ["jlpt-n2", "jlpt-n1"],
+      "tags": ["wanikani53"],
+      "japanese": [
+        { "word": "惨め", "reading": "みじめ" },
+        { "word": "不見目", "reading": "みじめ" }
+      ],
+      "senses": [["miserable", "wretched", "unhappy", "sad", "pitiable"]]
+    },
+    {
+      "jlpt": ["jlpt-n2", "jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "出鱈目", "reading": "でたらめ" }, { "reading": "デタラメ" }],
+      "senses": [
+        [
+          "nonsense",
+          "irresponsible remark",
+          "codswallop",
+          "hogwash",
+          "rubbish"
+        ],
+        ["random", "haphazard", "unsystematic"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "効き目", "reading": "ききめ" },
+        { "word": "利き目", "reading": "ききめ" },
+        { "word": "きき眼", "reading": "ききめ" },
+        { "word": "効目", "reading": "ききめ" },
+        { "word": "利目", "reading": "ききめ" }
+      ],
+      "senses": [
+        ["effect", "virtue", "efficacy", "impression"],
+        ["one's dominant eye"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "面目", "reading": "めんぼく" },
+        { "word": "面目", "reading": "めんもく" },
+        { "word": "面目", "reading": "めいぼく" }
+      ],
+      "senses": [
+        [
+          "face",
+          "honour",
+          "honor",
+          "reputation",
+          "prestige",
+          "dignity",
+          "credit"
+        ],
+        ["appearance", "look"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "切れ目", "reading": "きれめ" }],
+      "senses": [
+        ["gap", "break", "rift"],
+        ["pause", "interval", "interruption"],
+        ["cut", "incision", "notch", "score"],
+        ["end"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "人目", "reading": "ひとめ" },
+        { "word": "人眼", "reading": "ひとめ" },
+        { "word": "人目", "reading": "じんもく" }
+      ],
+      "senses": [["(public) notice", "attention", "public eye", "public gaze"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "番目", "reading": "ばんめ" },
+        { "word": "番め", "reading": "ばんめ" }
+      ],
+      "senses": [
+        ["indicates position in a sequence"],
+        ["divisions of a kabuki performance"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "近眼", "reading": "きんがん" },
+        { "word": "近眼", "reading": "ちかめ" },
+        { "word": "近目", "reading": "ちかめ" }
+      ],
+      "senses": [["nearsightedness", "shortsightedness", "myopia"]]
+    },
+    {
+      "jlpt": ["jlpt-n3", "jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "お目出度う", "reading": "おめでとう" },
+        { "word": "御目出度う", "reading": "おめでとう" },
+        { "word": "お芽出度う", "reading": "おめでとう" },
+        { "word": "御芽出度う", "reading": "おめでとう" }
+      ],
+      "senses": [
+        ["congratulations!", "well done!", "best wishes!", "all the best!"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "一目", "reading": "ひとめ" },
+        { "word": "ひと目", "reading": "ひとめ" }
+      ],
+      "senses": [
+        ["glance", "look", "glimpse"],
+        ["complete view", "bird's-eye view"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "羽目", "reading": "はめ" },
+        { "word": "破目", "reading": "はめ" }
+      ],
+      "senses": [
+        ["panel", "wainscoting", "wainscotting"],
+        [
+          "plight",
+          "fix",
+          "bind",
+          "awkward situation",
+          "difficult situation",
+          "mess"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "横目", "reading": "よこめ" }],
+      "senses": [["sidelong glance"], ["short grain (paper)"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "二つ目", "reading": "ふたつめ" }],
+      "senses": [["one after next", "second"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "二枚目", "reading": "にまいめ" }],
+      "senses": [["handsome man"], ["actor in a love scene"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "品目", "reading": "ひんもく" },
+        { "word": "品目", "reading": "しなめ" }
+      ],
+      "senses": [["item", "commodity", "list of articles"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "裏目", "reading": "うらめ" }],
+      "senses": [
+        ["reverse side"],
+        ["opposite (of the expected)"],
+        ["purl stitch (knitting)"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "名目", "reading": "めいもく" },
+        { "word": "名目", "reading": "みょうもく" }
+      ],
+      "senses": [
+        ["name", "title", "appellation", "(something) nominal"],
+        ["(under the) pretext (of)", "pretense"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "種目", "reading": "しゅもく" }],
+      "senses": [["item", "event"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "曲目", "reading": "きょくもく" }],
+      "senses": [
+        ["name of a piece of music", "(musical) number"],
+        [
+          "(musical) program",
+          "programme",
+          "selection (of music)",
+          "list of songs"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "節目", "reading": "ふしめ" },
+        { "word": "フシ目", "reading": "フシめ" }
+      ],
+      "senses": [
+        ["turning point", "critical juncture"],
+        ["knot (in a tree, etc.)"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "日の目", "reading": "ひのめ" }],
+      "senses": [["sunlight"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "見た目", "reading": "みため" }],
+      "senses": [["appearance", "(outward) looks", "exterior appearance"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "目茶目茶", "reading": "めちゃめちゃ" },
+        { "word": "滅茶滅茶", "reading": "めちゃめちゃ" },
+        { "reading": "メチャメチャ" }
+      ],
+      "senses": [
+        ["disorderly", "messy", "ruined"],
+        ["absurd", "unreasonable", "excessive", "rash"],
+        ["very", "extremely"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "割れ目", "reading": "われめ" },
+        { "word": "破れ目", "reading": "われめ" },
+        { "word": "割目", "reading": "われめ" },
+        { "word": "破目", "reading": "われめ" },
+        { "reading": "ワレメ" }
+      ],
+      "senses": [
+        [
+          "chasm",
+          "interstice",
+          "crevice",
+          "crack",
+          "cleft",
+          "split",
+          "rift",
+          "fissure"
+        ],
+        ["vulva", "slit", "cunt", "vagina", "twat"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "引け目", "reading": "ひけめ" },
+        { "word": "ひけ目", "reading": "ひけめ" }
+      ],
+      "senses": [["sense of inferiority", "one's weak point"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani58"],
+      "japanese": [
+        { "word": "縫い目", "reading": "ぬいめ" },
+        { "word": "縫目", "reading": "ぬいめ" }
+      ],
+      "senses": [["seam", "stitch", "suture"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani7"],
+      "japanese": [{ "word": "丁目", "reading": "ちょうめ" }],
+      "senses": [["district of a town", "city block (of irregular size)"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "控えめ", "reading": "ひかえめ" },
+        { "word": "控え目", "reading": "ひかえめ" },
+        { "word": "ひかえ目", "reading": "ひかえめ" },
+        { "word": "控目", "reading": "ひかえめ" }
+      ],
+      "senses": [
+        [
+          "moderate",
+          "reserved",
+          "conservative",
+          "humble",
+          "mild-mannered",
+          "self-effacing",
+          "unassuming",
+          "well-behaved",
+          "low-key",
+          "temperate",
+          "in small quantities"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "回目", "reading": "かいめ" }],
+      "senses": [["-nth time"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "多め", "reading": "おおめ" },
+        { "word": "多目", "reading": "おおめ" }
+      ],
+      "senses": [
+        [
+          "somewhat larger (amount)",
+          "quite a lot",
+          "a little more (than usual)",
+          "a little extra"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "短め", "reading": "みじかめ" },
+        { "word": "短目", "reading": "みじかめ" },
+        { "word": "短かめ", "reading": "みじかめ" },
+        { "word": "短か目", "reading": "みじかめ" }
+      ],
+      "senses": [["shortish", "rather short", "somewhat short"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "着目", "reading": "ちゃくもく" }],
+      "senses": [["attention", "giving one's attention", "focusing"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani57"],
+      "japanese": [{ "word": "盲目", "reading": "もうもく" }],
+      "senses": [["blindness"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "演目", "reading": "えんもく" }],
+      "senses": [["program (musical, concert, theatrical, etc.)", "programme"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "蛇の目", "reading": "じゃのめ" }],
+      "senses": [
+        ["bull's-eye (pattern)", "double ring (pattern)"],
+        ["umbrella with bull's-eye pattern"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "分かれ目", "reading": "わかれめ" },
+        { "word": "分れ目", "reading": "わかれめ" },
+        { "word": "別れ目", "reading": "わかれめ" }
+      ],
+      "senses": [["fork", "junction", "parting of the ways"], ["turning point"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "多目的", "reading": "たもくてき" }],
+      "senses": [["multipurpose"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "負い目", "reading": "おいめ" },
+        { "word": "負目", "reading": "おいめ" }
+      ],
+      "senses": [["(feeling of) indebtedness", "feeling obliged"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "細目", "reading": "さいもく" }],
+      "senses": [["particulars", "details", "specified items"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "おめでとう御座います", "reading": "おめでとうございます" },
+        { "word": "お目出度うございます", "reading": "おめでとうございます" },
+        { "word": "御目出度う御座います", "reading": "おめでとうございます" }
+      ],
+      "senses": [["congratulations"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "代目", "reading": "だいめ" }],
+      "senses": [["counter for generations"]]
+    }
+  ]
+}

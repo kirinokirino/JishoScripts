@@ -1,1 +1,213 @@
-{"basic":["天","Heavens","457"],"extended":[{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"晴天","reading":"せいてん"},{"word":"晴天","reading":"せいでん"}],"senses":[["fine weather (i.e. little or no clouds)","fair weather","clear weather","clear sky","fair skies"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"雨天","reading":"うてん"}],"senses":[["rainy weather"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"先天的","reading":"せんてんてき"}],"senses":[["inborn","innate","inherent","congenital","hereditary"],["a priori"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"悪天候","reading":"あくてんこう"}],"senses":[["bad weather"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"好天","reading":"こうてん"}],"senses":[["fine weather"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"有頂天","reading":"うちょうてん"},{"word":"有頂点","reading":"うちょうてん"}],"senses":[["ecstasy"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"楽天的","reading":"らくてんてき"}],"senses":[["optimistic"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"後天的","reading":"こうてんてき"}],"senses":[["a posteriori","acquired"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"歩行者天国","reading":"ほこうしゃてんごく"}],"senses":[["pedestrian mall","car-free mall","pedestrian paradise"],["Pedestrian zone"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"炎天","reading":"えんてん"}],"senses":[["blazing heat","scorching sun"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"雲雀","reading":"ひばり"},{"word":"告天子","reading":"ひばり"},{"word":"告天子","reading":"こくてんし"},{"word":"告天子","reading":"こうてんし"},{"reading":"ヒバリ"}],"senses":[["skylark (Alauda arvensis)"],["Mongolian lark (Melanocorypha mongolica)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"吉祥天","reading":"きっしょうてん"},{"word":"吉祥天","reading":"きちじょうてん"}],"senses":[["Sri-mahadevi (consort of Vaishravana)"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"晴天","reading":"せいてん"},{"word":"晴天","reading":"せいでん"}],"senses":[["fine weather (i.e. little or no clouds)","fair weather","clear weather","clear sky","fair skies"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"雨天","reading":"うてん"}],"senses":[["rainy weather"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"先天的","reading":"せんてんてき"}],"senses":[["inborn","innate","inherent","congenital","hereditary"],["a priori"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"悪天候","reading":"あくてんこう"}],"senses":[["bad weather"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"好天","reading":"こうてん"}],"senses":[["fine weather"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"有頂天","reading":"うちょうてん"},{"word":"有頂点","reading":"うちょうてん"}],"senses":[["ecstasy"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"楽天的","reading":"らくてんてき"}],"senses":[["optimistic"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"後天的","reading":"こうてんてき"}],"senses":[["a posteriori","acquired"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"歩行者天国","reading":"ほこうしゃてんごく"}],"senses":[["pedestrian mall","car-free mall","pedestrian paradise"],["Pedestrian zone"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"炎天","reading":"えんてん"}],"senses":[["blazing heat","scorching sun"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"雲雀","reading":"ひばり"},{"word":"告天子","reading":"ひばり"},{"word":"告天子","reading":"こくてんし"},{"word":"告天子","reading":"こうてんし"},{"reading":"ヒバリ"}],"senses":[["skylark (Alauda arvensis)"],["Mongolian lark (Melanocorypha mongolica)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"吉祥天","reading":"きっしょうてん"},{"word":"吉祥天","reading":"きちじょうてん"}],"senses":[["Sri-mahadevi (consort of Vaishravana)"]]}]}
+{
+  "basic": ["天", "Heavens", "457"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "晴天", "reading": "せいてん" },
+        { "word": "晴天", "reading": "せいでん" }
+      ],
+      "senses": [
+        [
+          "fine weather (i.e. little or no clouds)",
+          "fair weather",
+          "clear weather",
+          "clear sky",
+          "fair skies"
+        ]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "雨天", "reading": "うてん" }],
+      "senses": [["rainy weather"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "先天的", "reading": "せんてんてき" }],
+      "senses": [
+        ["inborn", "innate", "inherent", "congenital", "hereditary"],
+        ["a priori"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "悪天候", "reading": "あくてんこう" }],
+      "senses": [["bad weather"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "好天", "reading": "こうてん" }],
+      "senses": [["fine weather"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "有頂天", "reading": "うちょうてん" },
+        { "word": "有頂点", "reading": "うちょうてん" }
+      ],
+      "senses": [["ecstasy"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "楽天的", "reading": "らくてんてき" }],
+      "senses": [["optimistic"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "後天的", "reading": "こうてんてき" }],
+      "senses": [["a posteriori", "acquired"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "歩行者天国", "reading": "ほこうしゃてんごく" }],
+      "senses": [
+        ["pedestrian mall", "car-free mall", "pedestrian paradise"],
+        ["Pedestrian zone"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "炎天", "reading": "えんてん" }],
+      "senses": [["blazing heat", "scorching sun"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "雲雀", "reading": "ひばり" },
+        { "word": "告天子", "reading": "ひばり" },
+        { "word": "告天子", "reading": "こくてんし" },
+        { "word": "告天子", "reading": "こうてんし" },
+        { "reading": "ヒバリ" }
+      ],
+      "senses": [
+        ["skylark (Alauda arvensis)"],
+        ["Mongolian lark (Melanocorypha mongolica)"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "吉祥天", "reading": "きっしょうてん" },
+        { "word": "吉祥天", "reading": "きちじょうてん" }
+      ],
+      "senses": [["Sri-mahadevi (consort of Vaishravana)"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "晴天", "reading": "せいてん" },
+        { "word": "晴天", "reading": "せいでん" }
+      ],
+      "senses": [
+        [
+          "fine weather (i.e. little or no clouds)",
+          "fair weather",
+          "clear weather",
+          "clear sky",
+          "fair skies"
+        ]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "雨天", "reading": "うてん" }],
+      "senses": [["rainy weather"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "先天的", "reading": "せんてんてき" }],
+      "senses": [
+        ["inborn", "innate", "inherent", "congenital", "hereditary"],
+        ["a priori"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "悪天候", "reading": "あくてんこう" }],
+      "senses": [["bad weather"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "好天", "reading": "こうてん" }],
+      "senses": [["fine weather"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "有頂天", "reading": "うちょうてん" },
+        { "word": "有頂点", "reading": "うちょうてん" }
+      ],
+      "senses": [["ecstasy"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "楽天的", "reading": "らくてんてき" }],
+      "senses": [["optimistic"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "後天的", "reading": "こうてんてき" }],
+      "senses": [["a posteriori", "acquired"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "歩行者天国", "reading": "ほこうしゃてんごく" }],
+      "senses": [
+        ["pedestrian mall", "car-free mall", "pedestrian paradise"],
+        ["Pedestrian zone"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "炎天", "reading": "えんてん" }],
+      "senses": [["blazing heat", "scorching sun"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "雲雀", "reading": "ひばり" },
+        { "word": "告天子", "reading": "ひばり" },
+        { "word": "告天子", "reading": "こくてんし" },
+        { "word": "告天子", "reading": "こうてんし" },
+        { "reading": "ヒバリ" }
+      ],
+      "senses": [
+        ["skylark (Alauda arvensis)"],
+        ["Mongolian lark (Melanocorypha mongolica)"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "吉祥天", "reading": "きっしょうてん" },
+        { "word": "吉祥天", "reading": "きちじょうてん" }
+      ],
+      "senses": [["Sri-mahadevi (consort of Vaishravana)"]]
+    }
+  ]
+}

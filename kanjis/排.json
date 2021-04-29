@@ -1,1 +1,39 @@
-{"basic":["排","Repudiate","1762"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"塩梅","reading":"あんばい"},{"word":"按排","reading":"あんばい"},{"word":"按配","reading":"あんばい"},{"word":"案配","reading":"あんばい"},{"word":"安排","reading":"あんばい"}],"senses":[["seasoning","flavour","flavor","taste"],["condition","state","situation"],["(state of) health","physical condition"],["arrangement","assignment","adjustment","handling","dealing with"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"塩梅","reading":"あんばい"},{"word":"按排","reading":"あんばい"},{"word":"按配","reading":"あんばい"},{"word":"案配","reading":"あんばい"},{"word":"安排","reading":"あんばい"}],"senses":[["seasoning","flavour","flavor","taste"],["condition","state","situation"],["(state of) health","physical condition"],["arrangement","assignment","adjustment","handling","dealing with"]]}]}
+{
+  "basic": ["排", "Repudiate", "1762"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "塩梅", "reading": "あんばい" },
+        { "word": "按排", "reading": "あんばい" },
+        { "word": "按配", "reading": "あんばい" },
+        { "word": "案配", "reading": "あんばい" },
+        { "word": "安排", "reading": "あんばい" }
+      ],
+      "senses": [
+        ["seasoning", "flavour", "flavor", "taste"],
+        ["condition", "state", "situation"],
+        ["(state of) health", "physical condition"],
+        ["arrangement", "assignment", "adjustment", "handling", "dealing with"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "塩梅", "reading": "あんばい" },
+        { "word": "按排", "reading": "あんばい" },
+        { "word": "按配", "reading": "あんばい" },
+        { "word": "案配", "reading": "あんばい" },
+        { "word": "安排", "reading": "あんばい" }
+      ],
+      "senses": [
+        ["seasoning", "flavour", "flavor", "taste"],
+        ["condition", "state", "situation"],
+        ["(state of) health", "physical condition"],
+        ["arrangement", "assignment", "adjustment", "handling", "dealing with"]
+      ]
+    }
+  ]
+}

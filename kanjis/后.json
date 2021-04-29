@@ -1,1 +1,53 @@
-{"basic":["后","Empress","2005"],"extended":[{"jlpt":["jlpt-n5"],"tags":["wanikani6"],"japanese":[{"word":"午後","reading":"ごご"},{"word":"午后","reading":"ごご"}],"senses":[["afternoon","p.m."]]},{"jlpt":[],"tags":[],"japanese":[{"word":"皇太后","reading":"こうたいごう"},{"word":"皇太后","reading":"こうたいこう"}],"senses":[["Queen Mother","Empress Dowager"],["Empress dowager"]]},{"jlpt":[],"tags":["wanikani50"],"japanese":[{"word":"皇后","reading":"こうごう"}],"senses":[["(Japanese) empress","queen"]]},{"jlpt":["jlpt-n5"],"tags":["wanikani6"],"japanese":[{"word":"午後","reading":"ごご"},{"word":"午后","reading":"ごご"}],"senses":[["afternoon","p.m."]]},{"jlpt":[],"tags":[],"japanese":[{"word":"皇太后","reading":"こうたいごう"},{"word":"皇太后","reading":"こうたいこう"}],"senses":[["Queen Mother","Empress Dowager"],["Empress dowager"]]},{"jlpt":[],"tags":["wanikani50"],"japanese":[{"word":"皇后","reading":"こうごう"}],"senses":[["(Japanese) empress","queen"]]}]}
+{
+  "basic": ["后", "Empress", "2005"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n5"],
+      "tags": ["wanikani6"],
+      "japanese": [
+        { "word": "午後", "reading": "ごご" },
+        { "word": "午后", "reading": "ごご" }
+      ],
+      "senses": [["afternoon", "p.m."]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "皇太后", "reading": "こうたいごう" },
+        { "word": "皇太后", "reading": "こうたいこう" }
+      ],
+      "senses": [["Queen Mother", "Empress Dowager"], ["Empress dowager"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani50"],
+      "japanese": [{ "word": "皇后", "reading": "こうごう" }],
+      "senses": [["(Japanese) empress", "queen"]]
+    },
+    {
+      "jlpt": ["jlpt-n5"],
+      "tags": ["wanikani6"],
+      "japanese": [
+        { "word": "午後", "reading": "ごご" },
+        { "word": "午后", "reading": "ごご" }
+      ],
+      "senses": [["afternoon", "p.m."]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "皇太后", "reading": "こうたいごう" },
+        { "word": "皇太后", "reading": "こうたいこう" }
+      ],
+      "senses": [["Queen Mother", "Empress Dowager"], ["Empress dowager"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani50"],
+      "japanese": [{ "word": "皇后", "reading": "こうごう" }],
+      "senses": [["(Japanese) empress", "queen"]]
+    }
+  ]
+}

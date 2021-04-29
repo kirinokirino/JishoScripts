@@ -1,1 +1,43 @@
-{"basic":["単","Simple","2078"],"extended":[{"jlpt":["jlpt-n4"],"tags":["wanikani33"],"japanese":[{"word":"簡単","reading":"かんたん"},{"word":"簡短","reading":"かんたん"},{"word":"簡端","reading":"かんたん"}],"senses":[["simple","easy","uncomplicated"],["brief","quick","light"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"英単語","reading":"えいたんご"}],"senses":[["English word"]]},{"jlpt":["jlpt-n4"],"tags":["wanikani33"],"japanese":[{"word":"簡単","reading":"かんたん"},{"word":"簡短","reading":"かんたん"},{"word":"簡端","reading":"かんたん"}],"senses":[["simple","easy","uncomplicated"],["brief","quick","light"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"英単語","reading":"えいたんご"}],"senses":[["English word"]]}]}
+{
+  "basic": ["単", "Simple", "2078"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n4"],
+      "tags": ["wanikani33"],
+      "japanese": [
+        { "word": "簡単", "reading": "かんたん" },
+        { "word": "簡短", "reading": "かんたん" },
+        { "word": "簡端", "reading": "かんたん" }
+      ],
+      "senses": [
+        ["simple", "easy", "uncomplicated"],
+        ["brief", "quick", "light"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "英単語", "reading": "えいたんご" }],
+      "senses": [["English word"]]
+    },
+    {
+      "jlpt": ["jlpt-n4"],
+      "tags": ["wanikani33"],
+      "japanese": [
+        { "word": "簡単", "reading": "かんたん" },
+        { "word": "簡短", "reading": "かんたん" },
+        { "word": "簡端", "reading": "かんたん" }
+      ],
+      "senses": [
+        ["simple", "easy", "uncomplicated"],
+        ["brief", "quick", "light"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "英単語", "reading": "えいたんご" }],
+      "senses": [["English word"]]
+    }
+  ]
+}

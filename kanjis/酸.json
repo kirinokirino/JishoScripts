@@ -1,1 +1,97 @@
-{"basic":["酸","Acid","1545"],"extended":[{"jlpt":["jlpt-n1"],"tags":["wanikani53"],"japanese":[{"word":"悲惨","reading":"ひさん"},{"word":"悲酸","reading":"ひさん"}],"senses":[["disastrous","tragic","miserable","wretched","pitiful","woeful"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"核酸","reading":"かくさん"}],"senses":[["nucleic acid"],["Nucleic acid"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"一酸化炭素","reading":"いっさんかたんそ"}],"senses":[["carbon monoxide"],["Carbon monoxide"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"二酸化炭素","reading":"にさんかたんそ"}],"senses":[["carbon dioxide"],["Carbon dioxide"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"炭酸","reading":"たんさん"},{"reading":"タンサン"}],"senses":[["carbonic acid"],["carbonated water"],["baking soda","sodium carbonate"],["Carbonic acid"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"アミノ酸","reading":"アミノさん"}],"senses":[["amino acid"],["Amino acid"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani53"],"japanese":[{"word":"悲惨","reading":"ひさん"},{"word":"悲酸","reading":"ひさん"}],"senses":[["disastrous","tragic","miserable","wretched","pitiful","woeful"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"核酸","reading":"かくさん"}],"senses":[["nucleic acid"],["Nucleic acid"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"一酸化炭素","reading":"いっさんかたんそ"}],"senses":[["carbon monoxide"],["Carbon monoxide"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"二酸化炭素","reading":"にさんかたんそ"}],"senses":[["carbon dioxide"],["Carbon dioxide"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"炭酸","reading":"たんさん"},{"reading":"タンサン"}],"senses":[["carbonic acid"],["carbonated water"],["baking soda","sodium carbonate"],["Carbonic acid"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"アミノ酸","reading":"アミノさん"}],"senses":[["amino acid"],["Amino acid"]]}]}
+{
+  "basic": ["酸", "Acid", "1545"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani53"],
+      "japanese": [
+        { "word": "悲惨", "reading": "ひさん" },
+        { "word": "悲酸", "reading": "ひさん" }
+      ],
+      "senses": [
+        ["disastrous", "tragic", "miserable", "wretched", "pitiful", "woeful"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "核酸", "reading": "かくさん" }],
+      "senses": [["nucleic acid"], ["Nucleic acid"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "一酸化炭素", "reading": "いっさんかたんそ" }],
+      "senses": [["carbon monoxide"], ["Carbon monoxide"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "二酸化炭素", "reading": "にさんかたんそ" }],
+      "senses": [["carbon dioxide"], ["Carbon dioxide"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "炭酸", "reading": "たんさん" }, { "reading": "タンサン" }],
+      "senses": [
+        ["carbonic acid"],
+        ["carbonated water"],
+        ["baking soda", "sodium carbonate"],
+        ["Carbonic acid"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "アミノ酸", "reading": "アミノさん" }],
+      "senses": [["amino acid"], ["Amino acid"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani53"],
+      "japanese": [
+        { "word": "悲惨", "reading": "ひさん" },
+        { "word": "悲酸", "reading": "ひさん" }
+      ],
+      "senses": [
+        ["disastrous", "tragic", "miserable", "wretched", "pitiful", "woeful"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "核酸", "reading": "かくさん" }],
+      "senses": [["nucleic acid"], ["Nucleic acid"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "一酸化炭素", "reading": "いっさんかたんそ" }],
+      "senses": [["carbon monoxide"], ["Carbon monoxide"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "二酸化炭素", "reading": "にさんかたんそ" }],
+      "senses": [["carbon dioxide"], ["Carbon dioxide"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "炭酸", "reading": "たんさん" }, { "reading": "タンサン" }],
+      "senses": [
+        ["carbonic acid"],
+        ["carbonated water"],
+        ["baking soda", "sodium carbonate"],
+        ["Carbonic acid"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "アミノ酸", "reading": "アミノさん" }],
+      "senses": [["amino acid"], ["Amino acid"]]
+    }
+  ]
+}

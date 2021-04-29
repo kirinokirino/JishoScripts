@@ -1,1 +1,155 @@
-{"basic":["仕","Attend","1033"],"extended":[{"jlpt":["jlpt-n1"],"tags":["wanikani55"],"japanese":[{"word":"奉仕","reading":"ほうし"}],"senses":[["service","ministry","attendance","church work"],["offering goods at a reduced price","providing a service for free"],["Altruism"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"お仕舞い","reading":"おしまい"},{"word":"お終い","reading":"おしまい"},{"word":"御仕舞い","reading":"おしまい"},{"word":"御終い","reading":"おしまい"},{"word":"お仕舞","reading":"おしまい"},{"word":"御仕舞","reading":"おしまい"}],"senses":[["the end","closing","being done for"],["that's it","that's enough","that's all"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"不始末","reading":"ふしまつ"},{"word":"不仕末","reading":"ふしまつ"}],"senses":[["omission","failure","incompleteness"],["irregularity","mismanagement","misconduct","malpractice","carelessness","wastefulness","extravagance"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"不幸せ","reading":"ふしあわせ"},{"word":"不仕合わせ","reading":"ふしあわせ"}],"senses":[["unhappiness","misfortune","ill luck"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"どう仕様もない","reading":"どうしようもない"},{"word":"如何しようもない","reading":"どうしようもない"},{"word":"如何しようも無い","reading":"どうしようもない"},{"word":"どう仕様も無い","reading":"どうしようもない"},{"word":"如何仕様も無い","reading":"どうしようもない"}],"senses":[["it cannot be helped","there's nothing for it","it's no use fighting back","it's hopeless","there is no way out of it"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani55"],"japanese":[{"word":"奉仕","reading":"ほうし"}],"senses":[["service","ministry","attendance","church work"],["offering goods at a reduced price","providing a service for free"],["Altruism"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"お仕舞い","reading":"おしまい"},{"word":"お終い","reading":"おしまい"},{"word":"御仕舞い","reading":"おしまい"},{"word":"御終い","reading":"おしまい"},{"word":"お仕舞","reading":"おしまい"},{"word":"御仕舞","reading":"おしまい"}],"senses":[["the end","closing","being done for"],["that's it","that's enough","that's all"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"不始末","reading":"ふしまつ"},{"word":"不仕末","reading":"ふしまつ"}],"senses":[["omission","failure","incompleteness"],["irregularity","mismanagement","misconduct","malpractice","carelessness","wastefulness","extravagance"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"不幸せ","reading":"ふしあわせ"},{"word":"不仕合わせ","reading":"ふしあわせ"}],"senses":[["unhappiness","misfortune","ill luck"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"どう仕様もない","reading":"どうしようもない"},{"word":"如何しようもない","reading":"どうしようもない"},{"word":"如何しようも無い","reading":"どうしようもない"},{"word":"どう仕様も無い","reading":"どうしようもない"},{"word":"如何仕様も無い","reading":"どうしようもない"}],"senses":[["it cannot be helped","there's nothing for it","it's no use fighting back","it's hopeless","there is no way out of it"]]}]}
+{
+  "basic": ["仕", "Attend", "1033"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani55"],
+      "japanese": [{ "word": "奉仕", "reading": "ほうし" }],
+      "senses": [
+        ["service", "ministry", "attendance", "church work"],
+        ["offering goods at a reduced price", "providing a service for free"],
+        ["Altruism"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "お仕舞い", "reading": "おしまい" },
+        { "word": "お終い", "reading": "おしまい" },
+        { "word": "御仕舞い", "reading": "おしまい" },
+        { "word": "御終い", "reading": "おしまい" },
+        { "word": "お仕舞", "reading": "おしまい" },
+        { "word": "御仕舞", "reading": "おしまい" }
+      ],
+      "senses": [
+        ["the end", "closing", "being done for"],
+        ["that's it", "that's enough", "that's all"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "不始末", "reading": "ふしまつ" },
+        { "word": "不仕末", "reading": "ふしまつ" }
+      ],
+      "senses": [
+        ["omission", "failure", "incompleteness"],
+        [
+          "irregularity",
+          "mismanagement",
+          "misconduct",
+          "malpractice",
+          "carelessness",
+          "wastefulness",
+          "extravagance"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "不幸せ", "reading": "ふしあわせ" },
+        { "word": "不仕合わせ", "reading": "ふしあわせ" }
+      ],
+      "senses": [["unhappiness", "misfortune", "ill luck"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "どう仕様もない", "reading": "どうしようもない" },
+        { "word": "如何しようもない", "reading": "どうしようもない" },
+        { "word": "如何しようも無い", "reading": "どうしようもない" },
+        { "word": "どう仕様も無い", "reading": "どうしようもない" },
+        { "word": "如何仕様も無い", "reading": "どうしようもない" }
+      ],
+      "senses": [
+        [
+          "it cannot be helped",
+          "there's nothing for it",
+          "it's no use fighting back",
+          "it's hopeless",
+          "there is no way out of it"
+        ]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani55"],
+      "japanese": [{ "word": "奉仕", "reading": "ほうし" }],
+      "senses": [
+        ["service", "ministry", "attendance", "church work"],
+        ["offering goods at a reduced price", "providing a service for free"],
+        ["Altruism"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "お仕舞い", "reading": "おしまい" },
+        { "word": "お終い", "reading": "おしまい" },
+        { "word": "御仕舞い", "reading": "おしまい" },
+        { "word": "御終い", "reading": "おしまい" },
+        { "word": "お仕舞", "reading": "おしまい" },
+        { "word": "御仕舞", "reading": "おしまい" }
+      ],
+      "senses": [
+        ["the end", "closing", "being done for"],
+        ["that's it", "that's enough", "that's all"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "不始末", "reading": "ふしまつ" },
+        { "word": "不仕末", "reading": "ふしまつ" }
+      ],
+      "senses": [
+        ["omission", "failure", "incompleteness"],
+        [
+          "irregularity",
+          "mismanagement",
+          "misconduct",
+          "malpractice",
+          "carelessness",
+          "wastefulness",
+          "extravagance"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "不幸せ", "reading": "ふしあわせ" },
+        { "word": "不仕合わせ", "reading": "ふしあわせ" }
+      ],
+      "senses": [["unhappiness", "misfortune", "ill luck"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "どう仕様もない", "reading": "どうしようもない" },
+        { "word": "如何しようもない", "reading": "どうしようもない" },
+        { "word": "如何しようも無い", "reading": "どうしようもない" },
+        { "word": "どう仕様も無い", "reading": "どうしようもない" },
+        { "word": "如何仕様も無い", "reading": "どうしようもない" }
+      ],
+      "senses": [
+        [
+          "it cannot be helped",
+          "there's nothing for it",
+          "it's no use fighting back",
+          "it's hopeless",
+          "there is no way out of it"
+        ]
+      ]
+    }
+  ]
+}

@@ -1,1 +1,83 @@
-{"basic":["還","Send Back","900"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"帰還","reading":"きかん"},{"word":"饋還","reading":"きかん"}],"senses":[["repatriation","return"],["(electrical) feedback"]]},{"jlpt":[],"tags":["wanikani38"],"japanese":[{"word":"生還","reading":"せいかん"}],"senses":[["returning alive","surviving"],["reaching the home plate"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"償還","reading":"しょうかん"}],"senses":[["repayment","redemption","amortization","amortisation"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani38"],"japanese":[{"word":"返還","reading":"へんかん"}],"senses":[["return","restoration"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"奪還","reading":"だっかん"}],"senses":[["recovery","rescue","recapture"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"送還","reading":"そうかん"}],"senses":[["sending home","repatriation","deportation"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"帰還","reading":"きかん"},{"word":"饋還","reading":"きかん"}],"senses":[["repatriation","return"],["(electrical) feedback"]]},{"jlpt":[],"tags":["wanikani38"],"japanese":[{"word":"生還","reading":"せいかん"}],"senses":[["returning alive","surviving"],["reaching the home plate"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"償還","reading":"しょうかん"}],"senses":[["repayment","redemption","amortization","amortisation"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani38"],"japanese":[{"word":"返還","reading":"へんかん"}],"senses":[["return","restoration"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"奪還","reading":"だっかん"}],"senses":[["recovery","rescue","recapture"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"送還","reading":"そうかん"}],"senses":[["sending home","repatriation","deportation"]]}]}
+{
+  "basic": ["還", "Send Back", "900"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "帰還", "reading": "きかん" },
+        { "word": "饋還", "reading": "きかん" }
+      ],
+      "senses": [["repatriation", "return"], ["(electrical) feedback"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani38"],
+      "japanese": [{ "word": "生還", "reading": "せいかん" }],
+      "senses": [["returning alive", "surviving"], ["reaching the home plate"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "償還", "reading": "しょうかん" }],
+      "senses": [["repayment", "redemption", "amortization", "amortisation"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani38"],
+      "japanese": [{ "word": "返還", "reading": "へんかん" }],
+      "senses": [["return", "restoration"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "奪還", "reading": "だっかん" }],
+      "senses": [["recovery", "rescue", "recapture"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "送還", "reading": "そうかん" }],
+      "senses": [["sending home", "repatriation", "deportation"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "帰還", "reading": "きかん" },
+        { "word": "饋還", "reading": "きかん" }
+      ],
+      "senses": [["repatriation", "return"], ["(electrical) feedback"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani38"],
+      "japanese": [{ "word": "生還", "reading": "せいかん" }],
+      "senses": [["returning alive", "surviving"], ["reaching the home plate"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "償還", "reading": "しょうかん" }],
+      "senses": [["repayment", "redemption", "amortization", "amortisation"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani38"],
+      "japanese": [{ "word": "返還", "reading": "へんかん" }],
+      "senses": [["return", "restoration"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "奪還", "reading": "だっかん" }],
+      "senses": [["recovery", "rescue", "recapture"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "送還", "reading": "そうかん" }],
+      "senses": [["sending home", "repatriation", "deportation"]]
+    }
+  ]
+}

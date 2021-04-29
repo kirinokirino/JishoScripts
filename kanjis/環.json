@@ -1,1 +1,141 @@
-{"basic":["環","Ring","899"],"extended":[{"jlpt":["jlpt-n4"],"tags":["wanikani15"],"japanese":[{"word":"指輪","reading":"ゆびわ"},{"word":"指環","reading":"ゆびわ"}],"senses":[["(finger) ring"],["Ring (jewellery)"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani55"],"japanese":[{"word":"循環","reading":"じゅんかん"}],"senses":[["circulation","rotation","cycle","loop"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"自然環境","reading":"しぜんかんきょう"}],"senses":[["natural (physical) environment"],["Natural environment"]]},{"jlpt":[],"tags":["wanikani57"],"japanese":[{"word":"悪循環","reading":"あくじゅんかん"}],"senses":[["vicious circle","vicious cycle"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"一環","reading":"いっかん"}],"senses":[["link (e.g. in a chain of events)","part (of a plan, campaign, activities, etc.)"],["monocyclic"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"作業環境","reading":"さぎょうかんきょう"}],"senses":[["work environment"]]},{"jlpt":[],"tags":["wanikani57"],"japanese":[{"word":"循環器","reading":"じゅんかんき"}],"senses":[["circulatory organ"],["Circulatory system"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"花輪","reading":"はなわ"},{"word":"花環","reading":"はなわ"}],"senses":[["wreath","garland"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"推奨環境","reading":"すいしょうかんきょう"}],"senses":[["system requirements (i.e. recommended hardware and software to run a package)"]]},{"jlpt":["jlpt-n4"],"tags":["wanikani15"],"japanese":[{"word":"指輪","reading":"ゆびわ"},{"word":"指環","reading":"ゆびわ"}],"senses":[["(finger) ring"],["Ring (jewellery)"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani55"],"japanese":[{"word":"循環","reading":"じゅんかん"}],"senses":[["circulation","rotation","cycle","loop"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"自然環境","reading":"しぜんかんきょう"}],"senses":[["natural (physical) environment"],["Natural environment"]]},{"jlpt":[],"tags":["wanikani57"],"japanese":[{"word":"悪循環","reading":"あくじゅんかん"}],"senses":[["vicious circle","vicious cycle"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"一環","reading":"いっかん"}],"senses":[["link (e.g. in a chain of events)","part (of a plan, campaign, activities, etc.)"],["monocyclic"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"作業環境","reading":"さぎょうかんきょう"}],"senses":[["work environment"]]},{"jlpt":[],"tags":["wanikani57"],"japanese":[{"word":"循環器","reading":"じゅんかんき"}],"senses":[["circulatory organ"],["Circulatory system"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"花輪","reading":"はなわ"},{"word":"花環","reading":"はなわ"}],"senses":[["wreath","garland"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"推奨環境","reading":"すいしょうかんきょう"}],"senses":[["system requirements (i.e. recommended hardware and software to run a package)"]]}]}
+{
+  "basic": ["環", "Ring", "899"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n4"],
+      "tags": ["wanikani15"],
+      "japanese": [
+        { "word": "指輪", "reading": "ゆびわ" },
+        { "word": "指環", "reading": "ゆびわ" }
+      ],
+      "senses": [["(finger) ring"], ["Ring (jewellery)"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani55"],
+      "japanese": [{ "word": "循環", "reading": "じゅんかん" }],
+      "senses": [["circulation", "rotation", "cycle", "loop"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "自然環境", "reading": "しぜんかんきょう" }],
+      "senses": [["natural (physical) environment"], ["Natural environment"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani57"],
+      "japanese": [{ "word": "悪循環", "reading": "あくじゅんかん" }],
+      "senses": [["vicious circle", "vicious cycle"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "一環", "reading": "いっかん" }],
+      "senses": [
+        [
+          "link (e.g. in a chain of events)",
+          "part (of a plan, campaign, activities, etc.)"
+        ],
+        ["monocyclic"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "作業環境", "reading": "さぎょうかんきょう" }],
+      "senses": [["work environment"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani57"],
+      "japanese": [{ "word": "循環器", "reading": "じゅんかんき" }],
+      "senses": [["circulatory organ"], ["Circulatory system"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "花輪", "reading": "はなわ" },
+        { "word": "花環", "reading": "はなわ" }
+      ],
+      "senses": [["wreath", "garland"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "推奨環境", "reading": "すいしょうかんきょう" }],
+      "senses": [
+        ["system requirements (i.e. recommended hardware and software to run a package)"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n4"],
+      "tags": ["wanikani15"],
+      "japanese": [
+        { "word": "指輪", "reading": "ゆびわ" },
+        { "word": "指環", "reading": "ゆびわ" }
+      ],
+      "senses": [["(finger) ring"], ["Ring (jewellery)"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani55"],
+      "japanese": [{ "word": "循環", "reading": "じゅんかん" }],
+      "senses": [["circulation", "rotation", "cycle", "loop"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "自然環境", "reading": "しぜんかんきょう" }],
+      "senses": [["natural (physical) environment"], ["Natural environment"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani57"],
+      "japanese": [{ "word": "悪循環", "reading": "あくじゅんかん" }],
+      "senses": [["vicious circle", "vicious cycle"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "一環", "reading": "いっかん" }],
+      "senses": [
+        [
+          "link (e.g. in a chain of events)",
+          "part (of a plan, campaign, activities, etc.)"
+        ],
+        ["monocyclic"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "作業環境", "reading": "さぎょうかんきょう" }],
+      "senses": [["work environment"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani57"],
+      "japanese": [{ "word": "循環器", "reading": "じゅんかんき" }],
+      "senses": [["circulatory organ"], ["Circulatory system"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "花輪", "reading": "はなわ" },
+        { "word": "花環", "reading": "はなわ" }
+      ],
+      "senses": [["wreath", "garland"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "推奨環境", "reading": "すいしょうかんきょう" }],
+      "senses": [
+        ["system requirements (i.e. recommended hardware and software to run a package)"]
+      ]
+    }
+  ]
+}

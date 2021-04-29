@@ -1,1 +1,29 @@
-{"basic":["如","Likeness","104"],"extended":[{"jlpt":["jlpt-n1"],"tags":["wanikani47"],"japanese":[{"word":"突如","reading":"とつじょ"}],"senses":[["suddenly","all of a sudden"]]},{"jlpt":[],"tags":["wanikani47"],"japanese":[{"word":"欠如","reading":"けつじょ"}],"senses":[["lack","absence","shortage","deficiency","privation"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani47"],"japanese":[{"word":"突如","reading":"とつじょ"}],"senses":[["suddenly","all of a sudden"]]},{"jlpt":[],"tags":["wanikani47"],"japanese":[{"word":"欠如","reading":"けつじょ"}],"senses":[["lack","absence","shortage","deficiency","privation"]]}]}
+{
+  "basic": ["如", "Likeness", "104"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani47"],
+      "japanese": [{ "word": "突如", "reading": "とつじょ" }],
+      "senses": [["suddenly", "all of a sudden"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani47"],
+      "japanese": [{ "word": "欠如", "reading": "けつじょ" }],
+      "senses": [["lack", "absence", "shortage", "deficiency", "privation"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani47"],
+      "japanese": [{ "word": "突如", "reading": "とつじょ" }],
+      "senses": [["suddenly", "all of a sudden"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani47"],
+      "japanese": [{ "word": "欠如", "reading": "けつじょ" }],
+      "senses": [["lack", "absence", "shortage", "deficiency", "privation"]]
+    }
+  ]
+}

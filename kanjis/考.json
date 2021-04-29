@@ -1,1 +1,91 @@
-{"basic":["考","Consider","1341"],"extended":[{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"思考","reading":"しこう"}],"senses":[["thought","consideration","thinking"],["Thought"]]},{"jlpt":["jlpt-n3"],"tags":[],"japanese":[{"word":"参考","reading":"さんこう"},{"word":"參考","reading":"さんこう"}],"senses":[["reference","consultation"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"選考","reading":"せんこう"},{"word":"銓衡","reading":"せんこう"},{"word":"詮衡","reading":"せんこう"}],"senses":[["selection","screening"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"再考","reading":"さいこう"}],"senses":[["reconsideration"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"参考書","reading":"さんこうしょ"}],"senses":[["reference book"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"備考","reading":"びこう"}],"senses":[["note (for reference)","remarks","N.B."]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"思考","reading":"しこう"}],"senses":[["thought","consideration","thinking"],["Thought"]]},{"jlpt":["jlpt-n3"],"tags":[],"japanese":[{"word":"参考","reading":"さんこう"},{"word":"參考","reading":"さんこう"}],"senses":[["reference","consultation"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"選考","reading":"せんこう"},{"word":"銓衡","reading":"せんこう"},{"word":"詮衡","reading":"せんこう"}],"senses":[["selection","screening"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"再考","reading":"さいこう"}],"senses":[["reconsideration"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"参考書","reading":"さんこうしょ"}],"senses":[["reference book"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"備考","reading":"びこう"}],"senses":[["note (for reference)","remarks","N.B."]]}]}
+{
+  "basic": ["考", "Consider", "1341"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "思考", "reading": "しこう" }],
+      "senses": [["thought", "consideration", "thinking"], ["Thought"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": [],
+      "japanese": [
+        { "word": "参考", "reading": "さんこう" },
+        { "word": "參考", "reading": "さんこう" }
+      ],
+      "senses": [["reference", "consultation"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "選考", "reading": "せんこう" },
+        { "word": "銓衡", "reading": "せんこう" },
+        { "word": "詮衡", "reading": "せんこう" }
+      ],
+      "senses": [["selection", "screening"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "再考", "reading": "さいこう" }],
+      "senses": [["reconsideration"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "参考書", "reading": "さんこうしょ" }],
+      "senses": [["reference book"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "備考", "reading": "びこう" }],
+      "senses": [["note (for reference)", "remarks", "N.B."]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "思考", "reading": "しこう" }],
+      "senses": [["thought", "consideration", "thinking"], ["Thought"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": [],
+      "japanese": [
+        { "word": "参考", "reading": "さんこう" },
+        { "word": "參考", "reading": "さんこう" }
+      ],
+      "senses": [["reference", "consultation"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "選考", "reading": "せんこう" },
+        { "word": "銓衡", "reading": "せんこう" },
+        { "word": "詮衡", "reading": "せんこう" }
+      ],
+      "senses": [["selection", "screening"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "再考", "reading": "さいこう" }],
+      "senses": [["reconsideration"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "参考書", "reading": "さんこうしょ" }],
+      "senses": [["reference book"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "備考", "reading": "びこう" }],
+      "senses": [["note (for reference)", "remarks", "N.B."]]
+    }
+  ]
+}

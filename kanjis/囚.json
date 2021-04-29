@@ -1,1 +1,23 @@
-{"basic":["囚","Captured","1094"],"extended":[{"jlpt":[],"tags":["wanikani60"],"japanese":[{"word":"死刑囚","reading":"しけいしゅう"}],"senses":[["criminal condemned to death","convict on death row"],["Death row"]]},{"jlpt":[],"tags":["wanikani60"],"japanese":[{"word":"死刑囚","reading":"しけいしゅう"}],"senses":[["criminal condemned to death","convict on death row"],["Death row"]]}]}
+{
+  "basic": ["囚", "Captured", "1094"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": ["wanikani60"],
+      "japanese": [{ "word": "死刑囚", "reading": "しけいしゅう" }],
+      "senses": [
+        ["criminal condemned to death", "convict on death row"],
+        ["Death row"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani60"],
+      "japanese": [{ "word": "死刑囚", "reading": "しけいしゅう" }],
+      "senses": [
+        ["criminal condemned to death", "convict on death row"],
+        ["Death row"]
+      ]
+    }
+  ]
+}

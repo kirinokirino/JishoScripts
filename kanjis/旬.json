@@ -1,1 +1,65 @@
-{"basic":["旬","Decameron","71"],"extended":[{"jlpt":["jlpt-n2"],"tags":["wanikani37"],"japanese":[{"word":"下旬","reading":"げじゅん"}],"senses":[["last third of a month","21st to the last day of a month"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani37"],"japanese":[{"word":"中旬","reading":"ちゅうじゅん"}],"senses":[["middle of a month","second third of a month","11th to 20th day of a month"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani37"],"japanese":[{"word":"上旬","reading":"じょうじゅん"}],"senses":[["first 10 days of month"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"初旬","reading":"しょじゅん"}],"senses":[["first 10 days of the month"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani37"],"japanese":[{"word":"下旬","reading":"げじゅん"}],"senses":[["last third of a month","21st to the last day of a month"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani37"],"japanese":[{"word":"中旬","reading":"ちゅうじゅん"}],"senses":[["middle of a month","second third of a month","11th to 20th day of a month"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani37"],"japanese":[{"word":"上旬","reading":"じょうじゅん"}],"senses":[["first 10 days of month"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"初旬","reading":"しょじゅん"}],"senses":[["first 10 days of the month"]]}]}
+{
+  "basic": ["旬", "Decameron", "71"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani37"],
+      "japanese": [{ "word": "下旬", "reading": "げじゅん" }],
+      "senses": [["last third of a month", "21st to the last day of a month"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani37"],
+      "japanese": [{ "word": "中旬", "reading": "ちゅうじゅん" }],
+      "senses": [
+        [
+          "middle of a month",
+          "second third of a month",
+          "11th to 20th day of a month"
+        ]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani37"],
+      "japanese": [{ "word": "上旬", "reading": "じょうじゅん" }],
+      "senses": [["first 10 days of month"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "初旬", "reading": "しょじゅん" }],
+      "senses": [["first 10 days of the month"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani37"],
+      "japanese": [{ "word": "下旬", "reading": "げじゅん" }],
+      "senses": [["last third of a month", "21st to the last day of a month"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani37"],
+      "japanese": [{ "word": "中旬", "reading": "ちゅうじゅん" }],
+      "senses": [
+        [
+          "middle of a month",
+          "second third of a month",
+          "11th to 20th day of a month"
+        ]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani37"],
+      "japanese": [{ "word": "上旬", "reading": "じょうじゅん" }],
+      "senses": [["first 10 days of month"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "初旬", "reading": "しょじゅん" }],
+      "senses": [["first 10 days of the month"]]
+    }
+  ]
+}

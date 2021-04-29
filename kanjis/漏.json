@@ -1,1 +1,25 @@
-{"basic":["漏","Leak","1149"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"雨漏り","reading":"あまもり"},{"word":"雨もり","reading":"あまもり"},{"word":"雨漏","reading":"あまもり"}],"senses":[["roof leak"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"雨漏り","reading":"あまもり"},{"word":"雨もり","reading":"あまもり"},{"word":"雨漏","reading":"あまもり"}],"senses":[["roof leak"]]}]}
+{
+  "basic": ["漏", "Leak", "1149"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "雨漏り", "reading": "あまもり" },
+        { "word": "雨もり", "reading": "あまもり" },
+        { "word": "雨漏", "reading": "あまもり" }
+      ],
+      "senses": [["roof leak"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "雨漏り", "reading": "あまもり" },
+        { "word": "雨もり", "reading": "あまもり" },
+        { "word": "雨漏", "reading": "あまもり" }
+      ],
+      "senses": [["roof leak"]]
+    }
+  ]
+}

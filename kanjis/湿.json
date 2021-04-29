@@ -1,1 +1,17 @@
-{"basic":["湿","Damp","1927"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"多湿","reading":"たしつ"}],"senses":[["high humidity"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"多湿","reading":"たしつ"}],"senses":[["high humidity"]]}]}
+{
+  "basic": ["湿", "Damp", "1927"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "多湿", "reading": "たしつ" }],
+      "senses": [["high humidity"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "多湿", "reading": "たしつ" }],
+      "senses": [["high humidity"]]
+    }
+  ]
+}

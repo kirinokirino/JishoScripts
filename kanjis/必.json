@@ -1,1 +1,17 @@
-{"basic":["必","Invariably","685"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"不必要","reading":"ふひつよう"}],"senses":[["unnecessary","needless"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"不必要","reading":"ふひつよう"}],"senses":[["unnecessary","needless"]]}]}
+{
+  "basic": ["必", "Invariably", "685"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "不必要", "reading": "ふひつよう" }],
+      "senses": [["unnecessary", "needless"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "不必要", "reading": "ふひつよう" }],
+      "senses": [["unnecessary", "needless"]]
+    }
+  ]
+}

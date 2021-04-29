@@ -1,1 +1,29 @@
-{"basic":["咲","Blossom","2174"],"extended":[{"jlpt":[],"tags":["wanikani48"],"japanese":[{"word":"返り咲き","reading":"かえりざき"},{"word":"返咲き","reading":"かえりざき"}],"senses":[["comeback (e.g. in business)","reinstatement"],["second blooming (in a season)","reflowering","reflorescence"]]},{"jlpt":[],"tags":["wanikani48"],"japanese":[{"word":"返り咲き","reading":"かえりざき"},{"word":"返咲き","reading":"かえりざき"}],"senses":[["comeback (e.g. in business)","reinstatement"],["second blooming (in a season)","reflowering","reflorescence"]]}]}
+{
+  "basic": ["咲", "Blossom", "2174"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": ["wanikani48"],
+      "japanese": [
+        { "word": "返り咲き", "reading": "かえりざき" },
+        { "word": "返咲き", "reading": "かえりざき" }
+      ],
+      "senses": [
+        ["comeback (e.g. in business)", "reinstatement"],
+        ["second blooming (in a season)", "reflowering", "reflorescence"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani48"],
+      "japanese": [
+        { "word": "返り咲き", "reading": "かえりざき" },
+        { "word": "返咲き", "reading": "かえりざき" }
+      ],
+      "senses": [
+        ["comeback (e.g. in business)", "reinstatement"],
+        ["second blooming (in a season)", "reflowering", "reflorescence"]
+      ]
+    }
+  ]
+}

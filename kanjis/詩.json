@@ -1,1 +1,41 @@
-{"basic":["詩","Poem","370"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"近代詩","reading":"きんだいし"}],"senses":[["modern poetry","modern-style poetry"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"風物詩","reading":"ふうぶつし"},{"word":"風物誌","reading":"ふうぶつし"}],"senses":[["thing that reminds one of a particular season"],["poem about natural scenery","poem about a particular season"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"近代詩","reading":"きんだいし"}],"senses":[["modern poetry","modern-style poetry"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"風物詩","reading":"ふうぶつし"},{"word":"風物誌","reading":"ふうぶつし"}],"senses":[["thing that reminds one of a particular season"],["poem about natural scenery","poem about a particular season"]]}]}
+{
+  "basic": ["詩", "Poem", "370"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "近代詩", "reading": "きんだいし" }],
+      "senses": [["modern poetry", "modern-style poetry"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "風物詩", "reading": "ふうぶつし" },
+        { "word": "風物誌", "reading": "ふうぶつし" }
+      ],
+      "senses": [
+        ["thing that reminds one of a particular season"],
+        ["poem about natural scenery", "poem about a particular season"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "近代詩", "reading": "きんだいし" }],
+      "senses": [["modern poetry", "modern-style poetry"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "風物詩", "reading": "ふうぶつし" },
+        { "word": "風物誌", "reading": "ふうぶつし" }
+      ],
+      "senses": [
+        ["thing that reminds one of a particular season"],
+        ["poem about natural scenery", "poem about a particular season"]
+      ]
+    }
+  ]
+}

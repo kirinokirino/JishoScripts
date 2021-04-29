@@ -1,1 +1,41 @@
-{"basic":["悩","Trouble","2085"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"苦悩","reading":"くのう"}],"senses":[["(mental) agony","anguish","suffering","distress"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"伸び悩む","reading":"のびなやむ"}],"senses":[["to be sluggish (business)","to make little progress","to not grow as much as expected"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"苦悩","reading":"くのう"}],"senses":[["(mental) agony","anguish","suffering","distress"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"伸び悩む","reading":"のびなやむ"}],"senses":[["to be sluggish (business)","to make little progress","to not grow as much as expected"]]}]}
+{
+  "basic": ["悩", "Trouble", "2085"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "苦悩", "reading": "くのう" }],
+      "senses": [["(mental) agony", "anguish", "suffering", "distress"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "伸び悩む", "reading": "のびなやむ" }],
+      "senses": [
+        [
+          "to be sluggish (business)",
+          "to make little progress",
+          "to not grow as much as expected"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "苦悩", "reading": "くのう" }],
+      "senses": [["(mental) agony", "anguish", "suffering", "distress"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "伸び悩む", "reading": "のびなやむ" }],
+      "senses": [
+        [
+          "to be sluggish (business)",
+          "to make little progress",
+          "to not grow as much as expected"
+        ]
+      ]
+    }
+  ]
+}

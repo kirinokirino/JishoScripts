@@ -1,1 +1,17 @@
-{"basic":["耐","#Name?","1248"],"extended":[{"jlpt":[],"tags":["wanikani48"],"japanese":[{"word":"忍耐","reading":"にんたい"}],"senses":[["endurance","perseverance","patience"],["Patience"]]},{"jlpt":[],"tags":["wanikani48"],"japanese":[{"word":"忍耐","reading":"にんたい"}],"senses":[["endurance","perseverance","patience"],["Patience"]]}]}
+{
+  "basic": ["耐", "#Name?", "1248"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": ["wanikani48"],
+      "japanese": [{ "word": "忍耐", "reading": "にんたい" }],
+      "senses": [["endurance", "perseverance", "patience"], ["Patience"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani48"],
+      "japanese": [{ "word": "忍耐", "reading": "にんたい" }],
+      "senses": [["endurance", "perseverance", "patience"], ["Patience"]]
+    }
+  ]
+}

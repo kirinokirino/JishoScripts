@@ -1,1 +1,27 @@
-{"basic":["僧","Buddhist Priest","1057"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"小僧","reading":"こぞう"}],"senses":[["youngster","boy","kid","brat"],["young Buddhist monk","young bonze"],["young shop-boy","errand boy","apprentice"],["Kozou"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"小僧","reading":"こぞう"}],"senses":[["youngster","boy","kid","brat"],["young Buddhist monk","young bonze"],["young shop-boy","errand boy","apprentice"],["Kozou"]]}]}
+{
+  "basic": ["僧", "Buddhist Priest", "1057"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "小僧", "reading": "こぞう" }],
+      "senses": [
+        ["youngster", "boy", "kid", "brat"],
+        ["young Buddhist monk", "young bonze"],
+        ["young shop-boy", "errand boy", "apprentice"],
+        ["Kozou"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "小僧", "reading": "こぞう" }],
+      "senses": [
+        ["youngster", "boy", "kid", "brat"],
+        ["young Buddhist monk", "young bonze"],
+        ["young shop-boy", "errand boy", "apprentice"],
+        ["Kozou"]
+      ]
+    }
+  ]
+}

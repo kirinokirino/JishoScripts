@@ -1,1 +1,25 @@
-{"basic":["脹","Dilate","2073"],"extended":[{"jlpt":["jlpt-n1"],"tags":["wanikani52"],"japanese":[{"word":"膨張","reading":"ぼうちょう"},{"word":"膨脹","reading":"ぼうちょう"},{"word":"ぼう張","reading":"ぼうちょう"}],"senses":[["expansion","swelling","increase","growth"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani52"],"japanese":[{"word":"膨張","reading":"ぼうちょう"},{"word":"膨脹","reading":"ぼうちょう"},{"word":"ぼう張","reading":"ぼうちょう"}],"senses":[["expansion","swelling","increase","growth"]]}]}
+{
+  "basic": ["脹", "Dilate", "2073"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani52"],
+      "japanese": [
+        { "word": "膨張", "reading": "ぼうちょう" },
+        { "word": "膨脹", "reading": "ぼうちょう" },
+        { "word": "ぼう張", "reading": "ぼうちょう" }
+      ],
+      "senses": [["expansion", "swelling", "increase", "growth"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani52"],
+      "japanese": [
+        { "word": "膨張", "reading": "ぼうちょう" },
+        { "word": "膨脹", "reading": "ぼうちょう" },
+        { "word": "ぼう張", "reading": "ぼうちょう" }
+      ],
+      "senses": [["expansion", "swelling", "increase", "growth"]]
+    }
+  ]
+}

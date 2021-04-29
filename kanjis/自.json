@@ -1,1 +1,235 @@
-{"basic":["自","Oneself","36"],"extended":[{"jlpt":["jlpt-n3"],"tags":["wanikani9"],"japanese":[{"word":"不自由","reading":"ふじゆう"}],"senses":[["discomfort","inconvenience"],["poverty","want","destitution"],["disability","impairment (physical, mental, etc.)"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani22"],"japanese":[{"word":"各自","reading":"かくじ"}],"senses":[["each (person)","everyone","individual","respective"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"独自","reading":"どくじ"}],"senses":[["original","unique","distinctive","characteristic","peculiar"],["independent","one's own","personal"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"海上自衛隊","reading":"かいじょうじえいたい"}],"senses":[["Maritime Self Defense Forces (Defence)"],["Japan Maritime Self-Defense Force"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"自分自身","reading":"じぶんじしん"}],"senses":[["oneself","myself"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"不自然","reading":"ふしぜん"}],"senses":[["unnatural","artificial","affected","strained"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"地方自治体","reading":"ちほうじちたい"}],"senses":[["local authority","local government","locality","local self-governing body","municipality"]]},{"jlpt":[],"tags":["wanikani8"],"japanese":[{"word":"私自身","reading":"わたしじしん"},{"word":"私自身","reading":"わたくしじしん"}],"senses":[["myself"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"航空自衛隊","reading":"こうくうじえいたい"}],"senses":[["Japan Air Self-Defense Force","JASDF"],["Air Self-Defense Force","ASDF"],["Japan Air Self-Defense Force"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"大自然","reading":"だいしぜん"}],"senses":[["nature","Mother Nature"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"軽自動車","reading":"けいじどうしゃ"}],"senses":[["light motor vehicle (up to 660cc and 64bhp)","k-car","kei car"],["Kei car"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"民族自決","reading":"みんぞくじけつ"}],"senses":[["self-determination of peoples"],["Self-determination"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"地方自治","reading":"ちほうじち"}],"senses":[["local (governmental) autonomy"],["Local self-government"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"陸上自衛隊","reading":"りくじょうじえいたい"}],"senses":[["Japan Ground Self-Defense Force","JGSDF"],["Japan Ground Self-Defense Force"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani9"],"japanese":[{"word":"不自由","reading":"ふじゆう"}],"senses":[["discomfort","inconvenience"],["poverty","want","destitution"],["disability","impairment (physical, mental, etc.)"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani22"],"japanese":[{"word":"各自","reading":"かくじ"}],"senses":[["each (person)","everyone","individual","respective"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"独自","reading":"どくじ"}],"senses":[["original","unique","distinctive","characteristic","peculiar"],["independent","one's own","personal"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"海上自衛隊","reading":"かいじょうじえいたい"}],"senses":[["Maritime Self Defense Forces (Defence)"],["Japan Maritime Self-Defense Force"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"自分自身","reading":"じぶんじしん"}],"senses":[["oneself","myself"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"不自然","reading":"ふしぜん"}],"senses":[["unnatural","artificial","affected","strained"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"地方自治体","reading":"ちほうじちたい"}],"senses":[["local authority","local government","locality","local self-governing body","municipality"]]},{"jlpt":[],"tags":["wanikani8"],"japanese":[{"word":"私自身","reading":"わたしじしん"},{"word":"私自身","reading":"わたくしじしん"}],"senses":[["myself"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"航空自衛隊","reading":"こうくうじえいたい"}],"senses":[["Japan Air Self-Defense Force","JASDF"],["Air Self-Defense Force","ASDF"],["Japan Air Self-Defense Force"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"大自然","reading":"だいしぜん"}],"senses":[["nature","Mother Nature"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"軽自動車","reading":"けいじどうしゃ"}],"senses":[["light motor vehicle (up to 660cc and 64bhp)","k-car","kei car"],["Kei car"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"民族自決","reading":"みんぞくじけつ"}],"senses":[["self-determination of peoples"],["Self-determination"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"地方自治","reading":"ちほうじち"}],"senses":[["local (governmental) autonomy"],["Local self-government"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"陸上自衛隊","reading":"りくじょうじえいたい"}],"senses":[["Japan Ground Self-Defense Force","JGSDF"],["Japan Ground Self-Defense Force"]]}]}
+{
+  "basic": ["自", "Oneself", "36"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani9"],
+      "japanese": [{ "word": "不自由", "reading": "ふじゆう" }],
+      "senses": [
+        ["discomfort", "inconvenience"],
+        ["poverty", "want", "destitution"],
+        ["disability", "impairment (physical, mental, etc.)"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani22"],
+      "japanese": [{ "word": "各自", "reading": "かくじ" }],
+      "senses": [["each (person)", "everyone", "individual", "respective"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "独自", "reading": "どくじ" }],
+      "senses": [
+        ["original", "unique", "distinctive", "characteristic", "peculiar"],
+        ["independent", "one's own", "personal"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "海上自衛隊", "reading": "かいじょうじえいたい" }],
+      "senses": [
+        ["Maritime Self Defense Forces (Defence)"],
+        ["Japan Maritime Self-Defense Force"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "自分自身", "reading": "じぶんじしん" }],
+      "senses": [["oneself", "myself"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "不自然", "reading": "ふしぜん" }],
+      "senses": [["unnatural", "artificial", "affected", "strained"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "地方自治体", "reading": "ちほうじちたい" }],
+      "senses": [
+        [
+          "local authority",
+          "local government",
+          "locality",
+          "local self-governing body",
+          "municipality"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani8"],
+      "japanese": [
+        { "word": "私自身", "reading": "わたしじしん" },
+        { "word": "私自身", "reading": "わたくしじしん" }
+      ],
+      "senses": [["myself"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "航空自衛隊", "reading": "こうくうじえいたい" }],
+      "senses": [
+        ["Japan Air Self-Defense Force", "JASDF"],
+        ["Air Self-Defense Force", "ASDF"],
+        ["Japan Air Self-Defense Force"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "大自然", "reading": "だいしぜん" }],
+      "senses": [["nature", "Mother Nature"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "軽自動車", "reading": "けいじどうしゃ" }],
+      "senses": [
+        ["light motor vehicle (up to 660cc and 64bhp)", "k-car", "kei car"],
+        ["Kei car"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "民族自決", "reading": "みんぞくじけつ" }],
+      "senses": [["self-determination of peoples"], ["Self-determination"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "地方自治", "reading": "ちほうじち" }],
+      "senses": [["local (governmental) autonomy"], ["Local self-government"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "陸上自衛隊", "reading": "りくじょうじえいたい" }],
+      "senses": [
+        ["Japan Ground Self-Defense Force", "JGSDF"],
+        ["Japan Ground Self-Defense Force"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani9"],
+      "japanese": [{ "word": "不自由", "reading": "ふじゆう" }],
+      "senses": [
+        ["discomfort", "inconvenience"],
+        ["poverty", "want", "destitution"],
+        ["disability", "impairment (physical, mental, etc.)"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani22"],
+      "japanese": [{ "word": "各自", "reading": "かくじ" }],
+      "senses": [["each (person)", "everyone", "individual", "respective"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "独自", "reading": "どくじ" }],
+      "senses": [
+        ["original", "unique", "distinctive", "characteristic", "peculiar"],
+        ["independent", "one's own", "personal"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "海上自衛隊", "reading": "かいじょうじえいたい" }],
+      "senses": [
+        ["Maritime Self Defense Forces (Defence)"],
+        ["Japan Maritime Self-Defense Force"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "自分自身", "reading": "じぶんじしん" }],
+      "senses": [["oneself", "myself"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "不自然", "reading": "ふしぜん" }],
+      "senses": [["unnatural", "artificial", "affected", "strained"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "地方自治体", "reading": "ちほうじちたい" }],
+      "senses": [
+        [
+          "local authority",
+          "local government",
+          "locality",
+          "local self-governing body",
+          "municipality"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani8"],
+      "japanese": [
+        { "word": "私自身", "reading": "わたしじしん" },
+        { "word": "私自身", "reading": "わたくしじしん" }
+      ],
+      "senses": [["myself"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "航空自衛隊", "reading": "こうくうじえいたい" }],
+      "senses": [
+        ["Japan Air Self-Defense Force", "JASDF"],
+        ["Air Self-Defense Force", "ASDF"],
+        ["Japan Air Self-Defense Force"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "大自然", "reading": "だいしぜん" }],
+      "senses": [["nature", "Mother Nature"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "軽自動車", "reading": "けいじどうしゃ" }],
+      "senses": [
+        ["light motor vehicle (up to 660cc and 64bhp)", "k-car", "kei car"],
+        ["Kei car"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "民族自決", "reading": "みんぞくじけつ" }],
+      "senses": [["self-determination of peoples"], ["Self-determination"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "地方自治", "reading": "ちほうじち" }],
+      "senses": [["local (governmental) autonomy"], ["Local self-government"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "陸上自衛隊", "reading": "りくじょうじえいたい" }],
+      "senses": [
+        ["Japan Ground Self-Defense Force", "JGSDF"],
+        ["Japan Ground Self-Defense Force"]
+      ]
+    }
+  ]
+}

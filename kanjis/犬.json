@@ -1,1 +1,55 @@
-{"basic":["犬","Dog","253"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"盲導犬","reading":"もうどうけん"}],"senses":[["guide dog for the blind","seeing eye dog"],["Guide dog"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"愛犬","reading":"あいけん"}],"senses":[["pet dog","beloved dog"],["love of dogs","fondness for dogs"]]},{"jlpt":[],"tags":["wanikani2"],"japanese":[{"word":"子犬","reading":"こいぬ"},{"word":"仔犬","reading":"こいぬ"},{"word":"小犬","reading":"こいぬ"}],"senses":[["puppy"],["small dog"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"盲導犬","reading":"もうどうけん"}],"senses":[["guide dog for the blind","seeing eye dog"],["Guide dog"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"愛犬","reading":"あいけん"}],"senses":[["pet dog","beloved dog"],["love of dogs","fondness for dogs"]]},{"jlpt":[],"tags":["wanikani2"],"japanese":[{"word":"子犬","reading":"こいぬ"},{"word":"仔犬","reading":"こいぬ"},{"word":"小犬","reading":"こいぬ"}],"senses":[["puppy"],["small dog"]]}]}
+{
+  "basic": ["犬", "Dog", "253"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "盲導犬", "reading": "もうどうけん" }],
+      "senses": [["guide dog for the blind", "seeing eye dog"], ["Guide dog"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "愛犬", "reading": "あいけん" }],
+      "senses": [
+        ["pet dog", "beloved dog"],
+        ["love of dogs", "fondness for dogs"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani2"],
+      "japanese": [
+        { "word": "子犬", "reading": "こいぬ" },
+        { "word": "仔犬", "reading": "こいぬ" },
+        { "word": "小犬", "reading": "こいぬ" }
+      ],
+      "senses": [["puppy"], ["small dog"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "盲導犬", "reading": "もうどうけん" }],
+      "senses": [["guide dog for the blind", "seeing eye dog"], ["Guide dog"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "愛犬", "reading": "あいけん" }],
+      "senses": [
+        ["pet dog", "beloved dog"],
+        ["love of dogs", "fondness for dogs"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani2"],
+      "japanese": [
+        { "word": "子犬", "reading": "こいぬ" },
+        { "word": "仔犬", "reading": "こいぬ" },
+        { "word": "小犬", "reading": "こいぬ" }
+      ],
+      "senses": [["puppy"], ["small dog"]]
+    }
+  ]
+}

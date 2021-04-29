@@ -1,1 +1,63 @@
-{"basic":["揺","Swing","2118"],"extended":[{"jlpt":["jlpt-n1"],"tags":["wanikani42"],"japanese":[{"word":"動揺","reading":"どうよう"}],"senses":[["shaking","trembling","pitching","rolling","oscillation"],["disturbance","unrest","agitation","excitement","commotion","turmoil","discomposure","feeling shaken"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"揺ら揺ら","reading":"ゆらゆら"},{"reading":"ユラユラ"}],"senses":[["swaying","swinging","rocking","shaking","wavering","flickering"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani42"],"japanese":[{"word":"動揺","reading":"どうよう"}],"senses":[["shaking","trembling","pitching","rolling","oscillation"],["disturbance","unrest","agitation","excitement","commotion","turmoil","discomposure","feeling shaken"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"揺ら揺ら","reading":"ゆらゆら"},{"reading":"ユラユラ"}],"senses":[["swaying","swinging","rocking","shaking","wavering","flickering"]]}]}
+{
+  "basic": ["揺", "Swing", "2118"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani42"],
+      "japanese": [{ "word": "動揺", "reading": "どうよう" }],
+      "senses": [
+        ["shaking", "trembling", "pitching", "rolling", "oscillation"],
+        [
+          "disturbance",
+          "unrest",
+          "agitation",
+          "excitement",
+          "commotion",
+          "turmoil",
+          "discomposure",
+          "feeling shaken"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "揺ら揺ら", "reading": "ゆらゆら" },
+        { "reading": "ユラユラ" }
+      ],
+      "senses": [
+        ["swaying", "swinging", "rocking", "shaking", "wavering", "flickering"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani42"],
+      "japanese": [{ "word": "動揺", "reading": "どうよう" }],
+      "senses": [
+        ["shaking", "trembling", "pitching", "rolling", "oscillation"],
+        [
+          "disturbance",
+          "unrest",
+          "agitation",
+          "excitement",
+          "commotion",
+          "turmoil",
+          "discomposure",
+          "feeling shaken"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "揺ら揺ら", "reading": "ゆらゆら" },
+        { "reading": "ユラユラ" }
+      ],
+      "senses": [
+        ["swaying", "swinging", "rocking", "shaking", "wavering", "flickering"]
+      ]
+    }
+  ]
+}

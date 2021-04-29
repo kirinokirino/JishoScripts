@@ -1,1 +1,101 @@
-{"basic":["欲","Longing","855"],"extended":[{"jlpt":["jlpt-n3"],"tags":["wanikani32"],"japanese":[{"word":"食欲","reading":"しょくよく"},{"word":"食慾","reading":"しょくよく"}],"senses":[["appetite (for food)"],["Appetite"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani32"],"japanese":[{"word":"意欲","reading":"いよく"},{"word":"意慾","reading":"いよく"}],"senses":[["will","desire","ambition","urge (e.g. creative urge)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"貪欲","reading":"どんよく"},{"word":"貪欲","reading":"とんよく"},{"word":"貪欲","reading":"たんよく"},{"word":"貪慾","reading":"どんよく"},{"word":"貪慾","reading":"とんよく"},{"word":"貪慾","reading":"たんよく"}],"senses":[["avarice","greed","covetousness"],["raga (desire)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"無欲","reading":"むよく"},{"word":"無慾","reading":"むよく"}],"senses":[["unselfish","disinterested","unavaricious","free of avarice"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"禁欲的","reading":"きんよくてき"}],"senses":[["abstemious","austere"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani32"],"japanese":[{"word":"食欲","reading":"しょくよく"},{"word":"食慾","reading":"しょくよく"}],"senses":[["appetite (for food)"],["Appetite"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani32"],"japanese":[{"word":"意欲","reading":"いよく"},{"word":"意慾","reading":"いよく"}],"senses":[["will","desire","ambition","urge (e.g. creative urge)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"貪欲","reading":"どんよく"},{"word":"貪欲","reading":"とんよく"},{"word":"貪欲","reading":"たんよく"},{"word":"貪慾","reading":"どんよく"},{"word":"貪慾","reading":"とんよく"},{"word":"貪慾","reading":"たんよく"}],"senses":[["avarice","greed","covetousness"],["raga (desire)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"無欲","reading":"むよく"},{"word":"無慾","reading":"むよく"}],"senses":[["unselfish","disinterested","unavaricious","free of avarice"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"禁欲的","reading":"きんよくてき"}],"senses":[["abstemious","austere"]]}]}
+{
+  "basic": ["欲", "Longing", "855"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani32"],
+      "japanese": [
+        { "word": "食欲", "reading": "しょくよく" },
+        { "word": "食慾", "reading": "しょくよく" }
+      ],
+      "senses": [["appetite (for food)"], ["Appetite"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani32"],
+      "japanese": [
+        { "word": "意欲", "reading": "いよく" },
+        { "word": "意慾", "reading": "いよく" }
+      ],
+      "senses": [["will", "desire", "ambition", "urge (e.g. creative urge)"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "貪欲", "reading": "どんよく" },
+        { "word": "貪欲", "reading": "とんよく" },
+        { "word": "貪欲", "reading": "たんよく" },
+        { "word": "貪慾", "reading": "どんよく" },
+        { "word": "貪慾", "reading": "とんよく" },
+        { "word": "貪慾", "reading": "たんよく" }
+      ],
+      "senses": [["avarice", "greed", "covetousness"], ["raga (desire)"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "無欲", "reading": "むよく" },
+        { "word": "無慾", "reading": "むよく" }
+      ],
+      "senses": [
+        ["unselfish", "disinterested", "unavaricious", "free of avarice"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "禁欲的", "reading": "きんよくてき" }],
+      "senses": [["abstemious", "austere"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani32"],
+      "japanese": [
+        { "word": "食欲", "reading": "しょくよく" },
+        { "word": "食慾", "reading": "しょくよく" }
+      ],
+      "senses": [["appetite (for food)"], ["Appetite"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani32"],
+      "japanese": [
+        { "word": "意欲", "reading": "いよく" },
+        { "word": "意慾", "reading": "いよく" }
+      ],
+      "senses": [["will", "desire", "ambition", "urge (e.g. creative urge)"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "貪欲", "reading": "どんよく" },
+        { "word": "貪欲", "reading": "とんよく" },
+        { "word": "貪欲", "reading": "たんよく" },
+        { "word": "貪慾", "reading": "どんよく" },
+        { "word": "貪慾", "reading": "とんよく" },
+        { "word": "貪慾", "reading": "たんよく" }
+      ],
+      "senses": [["avarice", "greed", "covetousness"], ["raga (desire)"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "無欲", "reading": "むよく" },
+        { "word": "無慾", "reading": "むよく" }
+      ],
+      "senses": [
+        ["unselfish", "disinterested", "unavaricious", "free of avarice"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "禁欲的", "reading": "きんよくてき" }],
+      "senses": [["abstemious", "austere"]]
+    }
+  ]
+}

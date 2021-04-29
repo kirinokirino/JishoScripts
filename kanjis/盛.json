@@ -1,1 +1,225 @@
-{"basic":["盛","Boom","1567"],"extended":[{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"全盛","reading":"ぜんせい"}],"senses":[["height of prosperity"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani55"],"japanese":[{"word":"繁盛","reading":"はんじょう"},{"word":"繁昌","reading":"はんじょう"},{"word":"蕃昌","reading":"はんじょう"},{"word":"繁盛","reading":"はんせい"}],"senses":[["prosperity","flourishing","thriving"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"目盛り","reading":"めもり"},{"word":"目盛","reading":"めもり"}],"senses":[["gradations (on a ruler, thermometer, etc.)","division","scale"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"最盛期","reading":"さいせいき"}],"senses":[["golden age","prime","heyday","height of prosperity"],["season (for fruit, vegetables, etc.)","best time"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"花盛り","reading":"はなざかり"},{"word":"花ざかり","reading":"はなざかり"}],"senses":[["flowers in full bloom","time of year in which flowers are in full bloom"],["the age at which someone (esp. a woman) is at the peak of their beauty"],["booming or peaking (in popularity)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"働き盛り","reading":"はたらきざかり"},{"word":"働きざかり","reading":"はたらきざかり"}],"senses":[["prime of one's working life"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"意気盛ん","reading":"いきさかん"}],"senses":[["in high spirits"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"旺盛","reading":"おうせい"}],"senses":[["lively","vigorous","energetic","healthy","avid (e.g. desire)","rich (e.g. imagination)"],["full of (energy, appetite, curiosity, etc.)","brimming with"]]},{"jlpt":[],"tags":["wanikani39"],"japanese":[{"word":"隆盛","reading":"りゅうせい"}],"senses":[["prosperity","flourishing","thriving"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"大盛り","reading":"おおもり"},{"word":"大盛","reading":"おおもり"}],"senses":[["large serving","large portion"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"華盛頓","reading":"ワシントン"}],"senses":[["Washington, DC (United States)"],["Washington (US state)"],["Washington"],["Washington"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"全盛","reading":"ぜんせい"}],"senses":[["height of prosperity"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani55"],"japanese":[{"word":"繁盛","reading":"はんじょう"},{"word":"繁昌","reading":"はんじょう"},{"word":"蕃昌","reading":"はんじょう"},{"word":"繁盛","reading":"はんせい"}],"senses":[["prosperity","flourishing","thriving"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"目盛り","reading":"めもり"},{"word":"目盛","reading":"めもり"}],"senses":[["gradations (on a ruler, thermometer, etc.)","division","scale"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"最盛期","reading":"さいせいき"}],"senses":[["golden age","prime","heyday","height of prosperity"],["season (for fruit, vegetables, etc.)","best time"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"花盛り","reading":"はなざかり"},{"word":"花ざかり","reading":"はなざかり"}],"senses":[["flowers in full bloom","time of year in which flowers are in full bloom"],["the age at which someone (esp. a woman) is at the peak of their beauty"],["booming or peaking (in popularity)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"働き盛り","reading":"はたらきざかり"},{"word":"働きざかり","reading":"はたらきざかり"}],"senses":[["prime of one's working life"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"意気盛ん","reading":"いきさかん"}],"senses":[["in high spirits"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"旺盛","reading":"おうせい"}],"senses":[["lively","vigorous","energetic","healthy","avid (e.g. desire)","rich (e.g. imagination)"],["full of (energy, appetite, curiosity, etc.)","brimming with"]]},{"jlpt":[],"tags":["wanikani39"],"japanese":[{"word":"隆盛","reading":"りゅうせい"}],"senses":[["prosperity","flourishing","thriving"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"大盛り","reading":"おおもり"},{"word":"大盛","reading":"おおもり"}],"senses":[["large serving","large portion"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"華盛頓","reading":"ワシントン"}],"senses":[["Washington, DC (United States)"],["Washington (US state)"],["Washington"],["Washington"]]}]}
+{
+  "basic": ["盛", "Boom", "1567"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "全盛", "reading": "ぜんせい" }],
+      "senses": [["height of prosperity"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani55"],
+      "japanese": [
+        { "word": "繁盛", "reading": "はんじょう" },
+        { "word": "繁昌", "reading": "はんじょう" },
+        { "word": "蕃昌", "reading": "はんじょう" },
+        { "word": "繁盛", "reading": "はんせい" }
+      ],
+      "senses": [["prosperity", "flourishing", "thriving"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "目盛り", "reading": "めもり" },
+        { "word": "目盛", "reading": "めもり" }
+      ],
+      "senses": [
+        ["gradations (on a ruler, thermometer, etc.)", "division", "scale"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "最盛期", "reading": "さいせいき" }],
+      "senses": [
+        ["golden age", "prime", "heyday", "height of prosperity"],
+        ["season (for fruit, vegetables, etc.)", "best time"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "花盛り", "reading": "はなざかり" },
+        { "word": "花ざかり", "reading": "はなざかり" }
+      ],
+      "senses": [
+        [
+          "flowers in full bloom",
+          "time of year in which flowers are in full bloom"
+        ],
+        ["the age at which someone (esp. a woman) is at the peak of their beauty"],
+        ["booming or peaking (in popularity)"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "働き盛り", "reading": "はたらきざかり" },
+        { "word": "働きざかり", "reading": "はたらきざかり" }
+      ],
+      "senses": [["prime of one's working life"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "意気盛ん", "reading": "いきさかん" }],
+      "senses": [["in high spirits"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "旺盛", "reading": "おうせい" }],
+      "senses": [
+        [
+          "lively",
+          "vigorous",
+          "energetic",
+          "healthy",
+          "avid (e.g. desire)",
+          "rich (e.g. imagination)"
+        ],
+        ["full of (energy, appetite, curiosity, etc.)", "brimming with"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani39"],
+      "japanese": [{ "word": "隆盛", "reading": "りゅうせい" }],
+      "senses": [["prosperity", "flourishing", "thriving"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "大盛り", "reading": "おおもり" },
+        { "word": "大盛", "reading": "おおもり" }
+      ],
+      "senses": [["large serving", "large portion"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "華盛頓", "reading": "ワシントン" }],
+      "senses": [
+        ["Washington, DC (United States)"],
+        ["Washington (US state)"],
+        ["Washington"],
+        ["Washington"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "全盛", "reading": "ぜんせい" }],
+      "senses": [["height of prosperity"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani55"],
+      "japanese": [
+        { "word": "繁盛", "reading": "はんじょう" },
+        { "word": "繁昌", "reading": "はんじょう" },
+        { "word": "蕃昌", "reading": "はんじょう" },
+        { "word": "繁盛", "reading": "はんせい" }
+      ],
+      "senses": [["prosperity", "flourishing", "thriving"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "目盛り", "reading": "めもり" },
+        { "word": "目盛", "reading": "めもり" }
+      ],
+      "senses": [
+        ["gradations (on a ruler, thermometer, etc.)", "division", "scale"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "最盛期", "reading": "さいせいき" }],
+      "senses": [
+        ["golden age", "prime", "heyday", "height of prosperity"],
+        ["season (for fruit, vegetables, etc.)", "best time"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "花盛り", "reading": "はなざかり" },
+        { "word": "花ざかり", "reading": "はなざかり" }
+      ],
+      "senses": [
+        [
+          "flowers in full bloom",
+          "time of year in which flowers are in full bloom"
+        ],
+        ["the age at which someone (esp. a woman) is at the peak of their beauty"],
+        ["booming or peaking (in popularity)"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "働き盛り", "reading": "はたらきざかり" },
+        { "word": "働きざかり", "reading": "はたらきざかり" }
+      ],
+      "senses": [["prime of one's working life"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "意気盛ん", "reading": "いきさかん" }],
+      "senses": [["in high spirits"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "旺盛", "reading": "おうせい" }],
+      "senses": [
+        [
+          "lively",
+          "vigorous",
+          "energetic",
+          "healthy",
+          "avid (e.g. desire)",
+          "rich (e.g. imagination)"
+        ],
+        ["full of (energy, appetite, curiosity, etc.)", "brimming with"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani39"],
+      "japanese": [{ "word": "隆盛", "reading": "りゅうせい" }],
+      "senses": [["prosperity", "flourishing", "thriving"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "大盛り", "reading": "おおもり" },
+        { "word": "大盛", "reading": "おおもり" }
+      ],
+      "senses": [["large serving", "large portion"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "華盛頓", "reading": "ワシントン" }],
+      "senses": [
+        ["Washington, DC (United States)"],
+        ["Washington (US state)"],
+        ["Washington"],
+        ["Washington"]
+      ]
+    }
+  ]
+}

@@ -1,1 +1,35 @@
-{"basic":["閥","Clique","1746"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"派閥","reading":"はばつ"}],"senses":[["clique","faction"],["Political faction"]]},{"jlpt":[],"tags":["wanikani19"],"japanese":[{"word":"財閥","reading":"ざいばつ"}],"senses":[["zaibatsu","financial conglomerate","industrial group"],["Zaibatsu"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"派閥","reading":"はばつ"}],"senses":[["clique","faction"],["Political faction"]]},{"jlpt":[],"tags":["wanikani19"],"japanese":[{"word":"財閥","reading":"ざいばつ"}],"senses":[["zaibatsu","financial conglomerate","industrial group"],["Zaibatsu"]]}]}
+{
+  "basic": ["閥", "Clique", "1746"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "派閥", "reading": "はばつ" }],
+      "senses": [["clique", "faction"], ["Political faction"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani19"],
+      "japanese": [{ "word": "財閥", "reading": "ざいばつ" }],
+      "senses": [
+        ["zaibatsu", "financial conglomerate", "industrial group"],
+        ["Zaibatsu"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "派閥", "reading": "はばつ" }],
+      "senses": [["clique", "faction"], ["Political faction"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani19"],
+      "japanese": [{ "word": "財閥", "reading": "ざいばつ" }],
+      "senses": [
+        ["zaibatsu", "financial conglomerate", "industrial group"],
+        ["Zaibatsu"]
+      ]
+    }
+  ]
+}

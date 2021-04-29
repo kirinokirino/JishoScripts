@@ -1,1 +1,215 @@
-{"basic":["触","Contact","1954"],"extended":[{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"接触","reading":"せっしょく"}],"senses":[["touch","contact"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani24"],"japanese":[{"word":"感触","reading":"かんしょく"}],"senses":[["feel (i.e. tactile sensation)","touch","feeling","sensation","texture (e.g. food, cloth)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"抵触","reading":"ていしょく"},{"word":"觝触","reading":"ていしょく"},{"word":"牴触","reading":"ていしょく"}],"senses":[["infringement (of a law, treaty, etc.)","contravention","running afoul"],["conflict (with a theory, claim, etc.)","inconsistency","incompatibility","contradiction"],["collision","contact","touching"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"有り触れた","reading":"ありふれた"},{"word":"有りふれた","reading":"ありふれた"},{"word":"あり触れた","reading":"ありふれた"}],"senses":[["unsurprising","trite","commonplace","mundane","hackneyed","garden variety (of)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"前触れ","reading":"まえぶれ"},{"word":"前ぶれ","reading":"まえぶれ"}],"senses":[["advance warning","previous notice","announcement"],["herald","harbinger","forerunner","portent","omen"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"顔ぶれ","reading":"かおぶれ"},{"word":"顔触れ","reading":"かおぶれ"}],"senses":[["personnel","members","lineup (of a team)","roster","cast (of a play)"],["announcement of next day's match-ups"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"気触れ","reading":"かぶれ"}],"senses":[["rash","eruption (in response to a skin irritant)"],["influence"],["crazy about","having an affectation concerning all things surrounding something (esp. a language, a culture, etc.)"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"接触","reading":"せっしょく"}],"senses":[["touch","contact"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani24"],"japanese":[{"word":"感触","reading":"かんしょく"}],"senses":[["feel (i.e. tactile sensation)","touch","feeling","sensation","texture (e.g. food, cloth)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"抵触","reading":"ていしょく"},{"word":"觝触","reading":"ていしょく"},{"word":"牴触","reading":"ていしょく"}],"senses":[["infringement (of a law, treaty, etc.)","contravention","running afoul"],["conflict (with a theory, claim, etc.)","inconsistency","incompatibility","contradiction"],["collision","contact","touching"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"有り触れた","reading":"ありふれた"},{"word":"有りふれた","reading":"ありふれた"},{"word":"あり触れた","reading":"ありふれた"}],"senses":[["unsurprising","trite","commonplace","mundane","hackneyed","garden variety (of)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"前触れ","reading":"まえぶれ"},{"word":"前ぶれ","reading":"まえぶれ"}],"senses":[["advance warning","previous notice","announcement"],["herald","harbinger","forerunner","portent","omen"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"顔ぶれ","reading":"かおぶれ"},{"word":"顔触れ","reading":"かおぶれ"}],"senses":[["personnel","members","lineup (of a team)","roster","cast (of a play)"],["announcement of next day's match-ups"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"気触れ","reading":"かぶれ"}],"senses":[["rash","eruption (in response to a skin irritant)"],["influence"],["crazy about","having an affectation concerning all things surrounding something (esp. a language, a culture, etc.)"]]}]}
+{
+  "basic": ["触", "Contact", "1954"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "接触", "reading": "せっしょく" }],
+      "senses": [["touch", "contact"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani24"],
+      "japanese": [{ "word": "感触", "reading": "かんしょく" }],
+      "senses": [
+        [
+          "feel (i.e. tactile sensation)",
+          "touch",
+          "feeling",
+          "sensation",
+          "texture (e.g. food, cloth)"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "抵触", "reading": "ていしょく" },
+        { "word": "觝触", "reading": "ていしょく" },
+        { "word": "牴触", "reading": "ていしょく" }
+      ],
+      "senses": [
+        [
+          "infringement (of a law, treaty, etc.)",
+          "contravention",
+          "running afoul"
+        ],
+        [
+          "conflict (with a theory, claim, etc.)",
+          "inconsistency",
+          "incompatibility",
+          "contradiction"
+        ],
+        ["collision", "contact", "touching"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "有り触れた", "reading": "ありふれた" },
+        { "word": "有りふれた", "reading": "ありふれた" },
+        { "word": "あり触れた", "reading": "ありふれた" }
+      ],
+      "senses": [
+        [
+          "unsurprising",
+          "trite",
+          "commonplace",
+          "mundane",
+          "hackneyed",
+          "garden variety (of)"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "前触れ", "reading": "まえぶれ" },
+        { "word": "前ぶれ", "reading": "まえぶれ" }
+      ],
+      "senses": [
+        ["advance warning", "previous notice", "announcement"],
+        ["herald", "harbinger", "forerunner", "portent", "omen"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "顔ぶれ", "reading": "かおぶれ" },
+        { "word": "顔触れ", "reading": "かおぶれ" }
+      ],
+      "senses": [
+        [
+          "personnel",
+          "members",
+          "lineup (of a team)",
+          "roster",
+          "cast (of a play)"
+        ],
+        ["announcement of next day's match-ups"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "気触れ", "reading": "かぶれ" }],
+      "senses": [
+        ["rash", "eruption (in response to a skin irritant)"],
+        ["influence"],
+        [
+          "crazy about",
+          "having an affectation concerning all things surrounding something (esp. a language, a culture, etc.)"
+        ]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "接触", "reading": "せっしょく" }],
+      "senses": [["touch", "contact"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani24"],
+      "japanese": [{ "word": "感触", "reading": "かんしょく" }],
+      "senses": [
+        [
+          "feel (i.e. tactile sensation)",
+          "touch",
+          "feeling",
+          "sensation",
+          "texture (e.g. food, cloth)"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "抵触", "reading": "ていしょく" },
+        { "word": "觝触", "reading": "ていしょく" },
+        { "word": "牴触", "reading": "ていしょく" }
+      ],
+      "senses": [
+        [
+          "infringement (of a law, treaty, etc.)",
+          "contravention",
+          "running afoul"
+        ],
+        [
+          "conflict (with a theory, claim, etc.)",
+          "inconsistency",
+          "incompatibility",
+          "contradiction"
+        ],
+        ["collision", "contact", "touching"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "有り触れた", "reading": "ありふれた" },
+        { "word": "有りふれた", "reading": "ありふれた" },
+        { "word": "あり触れた", "reading": "ありふれた" }
+      ],
+      "senses": [
+        [
+          "unsurprising",
+          "trite",
+          "commonplace",
+          "mundane",
+          "hackneyed",
+          "garden variety (of)"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "前触れ", "reading": "まえぶれ" },
+        { "word": "前ぶれ", "reading": "まえぶれ" }
+      ],
+      "senses": [
+        ["advance warning", "previous notice", "announcement"],
+        ["herald", "harbinger", "forerunner", "portent", "omen"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "顔ぶれ", "reading": "かおぶれ" },
+        { "word": "顔触れ", "reading": "かおぶれ" }
+      ],
+      "senses": [
+        [
+          "personnel",
+          "members",
+          "lineup (of a team)",
+          "roster",
+          "cast (of a play)"
+        ],
+        ["announcement of next day's match-ups"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "気触れ", "reading": "かぶれ" }],
+      "senses": [
+        ["rash", "eruption (in response to a skin irritant)"],
+        ["influence"],
+        [
+          "crazy about",
+          "having an affectation concerning all things surrounding something (esp. a language, a culture, etc.)"
+        ]
+      ]
+    }
+  ]
+}

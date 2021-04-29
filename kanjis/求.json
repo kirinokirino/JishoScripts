@@ -1,1 +1,127 @@
-{"basic":["求","Request","1004"],"extended":[{"jlpt":["jlpt-n3"],"tags":["wanikani10","wanikani12"],"japanese":[{"word":"要求","reading":"ようきゅう"}],"senses":[["demand","firm request","requisition","requirement","desire"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani29"],"japanese":[{"word":"請求","reading":"せいきゅう"}],"senses":[["claim","demand","charge","application","request","billing (for a service)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"追求","reading":"ついきゅう"}],"senses":[["pursuit (of a goal, ideal, etc.)","search","chase","seeking after"]]},{"jlpt":[],"tags":["wanikani32"],"japanese":[{"word":"欲求","reading":"よっきゅう"}],"senses":[["desire","want","will","wish","urge","craving"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"探求","reading":"たんきゅう"}],"senses":[["search","quest","pursuit"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"請求書","reading":"せいきゅうしょ"}],"senses":[["bill","job invoice"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"身代金要求","reading":"みのしろきんようきゅう"}],"senses":[["ransom demand"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"請求権","reading":"せいきゅうけん"}],"senses":[["claim rights"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani10","wanikani12"],"japanese":[{"word":"要求","reading":"ようきゅう"}],"senses":[["demand","firm request","requisition","requirement","desire"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani29"],"japanese":[{"word":"請求","reading":"せいきゅう"}],"senses":[["claim","demand","charge","application","request","billing (for a service)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"追求","reading":"ついきゅう"}],"senses":[["pursuit (of a goal, ideal, etc.)","search","chase","seeking after"]]},{"jlpt":[],"tags":["wanikani32"],"japanese":[{"word":"欲求","reading":"よっきゅう"}],"senses":[["desire","want","will","wish","urge","craving"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"探求","reading":"たんきゅう"}],"senses":[["search","quest","pursuit"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"請求書","reading":"せいきゅうしょ"}],"senses":[["bill","job invoice"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"身代金要求","reading":"みのしろきんようきゅう"}],"senses":[["ransom demand"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"請求権","reading":"せいきゅうけん"}],"senses":[["claim rights"]]}]}
+{
+  "basic": ["求", "Request", "1004"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani10", "wanikani12"],
+      "japanese": [{ "word": "要求", "reading": "ようきゅう" }],
+      "senses": [
+        ["demand", "firm request", "requisition", "requirement", "desire"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani29"],
+      "japanese": [{ "word": "請求", "reading": "せいきゅう" }],
+      "senses": [
+        [
+          "claim",
+          "demand",
+          "charge",
+          "application",
+          "request",
+          "billing (for a service)"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "追求", "reading": "ついきゅう" }],
+      "senses": [
+        ["pursuit (of a goal, ideal, etc.)", "search", "chase", "seeking after"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani32"],
+      "japanese": [{ "word": "欲求", "reading": "よっきゅう" }],
+      "senses": [["desire", "want", "will", "wish", "urge", "craving"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "探求", "reading": "たんきゅう" }],
+      "senses": [["search", "quest", "pursuit"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "請求書", "reading": "せいきゅうしょ" }],
+      "senses": [["bill", "job invoice"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "身代金要求", "reading": "みのしろきんようきゅう" }],
+      "senses": [["ransom demand"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "請求権", "reading": "せいきゅうけん" }],
+      "senses": [["claim rights"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani10", "wanikani12"],
+      "japanese": [{ "word": "要求", "reading": "ようきゅう" }],
+      "senses": [
+        ["demand", "firm request", "requisition", "requirement", "desire"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani29"],
+      "japanese": [{ "word": "請求", "reading": "せいきゅう" }],
+      "senses": [
+        [
+          "claim",
+          "demand",
+          "charge",
+          "application",
+          "request",
+          "billing (for a service)"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "追求", "reading": "ついきゅう" }],
+      "senses": [
+        ["pursuit (of a goal, ideal, etc.)", "search", "chase", "seeking after"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani32"],
+      "japanese": [{ "word": "欲求", "reading": "よっきゅう" }],
+      "senses": [["desire", "want", "will", "wish", "urge", "craving"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "探求", "reading": "たんきゅう" }],
+      "senses": [["search", "quest", "pursuit"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "請求書", "reading": "せいきゅうしょ" }],
+      "senses": [["bill", "job invoice"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "身代金要求", "reading": "みのしろきんようきゅう" }],
+      "senses": [["ransom demand"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "請求権", "reading": "せいきゅうけん" }],
+      "senses": [["claim rights"]]
+    }
+  ]
+}

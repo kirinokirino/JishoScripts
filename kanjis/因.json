@@ -1,1 +1,169 @@
-{"basic":["因","Cause","626"],"extended":[{"jlpt":["jlpt-n4"],"tags":["wanikani17"],"japanese":[{"word":"原因","reading":"げんいん"},{"word":"原因","reading":"げいいん"}],"senses":[["cause","origin","source"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"要因","reading":"よういん"}],"senses":[["main cause","primary factor"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"起因","reading":"きいん"},{"word":"基因","reading":"きいん"}],"senses":[["cause","origin"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"死因","reading":"しいん"}],"senses":[["cause of death"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"一因","reading":"いちいん"}],"senses":[["one cause","one reason","one factor"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"敗因","reading":"はいいん"}],"senses":[["cause of defeat"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"本因坊","reading":"ほんいんぼう"}],"senses":[["Hon'inbō","Honinbo","grand master of the game of go"],["Honinbō"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"に因って","reading":"によって"},{"word":"に依って","reading":"によって"}],"senses":[["according to","by (means of)","due to","because of"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"に依る","reading":"による"},{"word":"に因る","reading":"による"},{"word":"に拠る","reading":"による"}],"senses":[["by means of","due to","because of","according to"]]},{"jlpt":[],"tags":["wanikani17"],"japanese":[{"word":"主因","reading":"しゅいん"}],"senses":[["primary cause","main factor"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"勝因","reading":"しょういん"}],"senses":[["cause of victory"]]},{"jlpt":["jlpt-n4"],"tags":["wanikani17"],"japanese":[{"word":"原因","reading":"げんいん"},{"word":"原因","reading":"げいいん"}],"senses":[["cause","origin","source"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"要因","reading":"よういん"}],"senses":[["main cause","primary factor"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"起因","reading":"きいん"},{"word":"基因","reading":"きいん"}],"senses":[["cause","origin"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"死因","reading":"しいん"}],"senses":[["cause of death"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"一因","reading":"いちいん"}],"senses":[["one cause","one reason","one factor"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"敗因","reading":"はいいん"}],"senses":[["cause of defeat"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"本因坊","reading":"ほんいんぼう"}],"senses":[["Hon'inbō","Honinbo","grand master of the game of go"],["Honinbō"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"に因って","reading":"によって"},{"word":"に依って","reading":"によって"}],"senses":[["according to","by (means of)","due to","because of"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"に依る","reading":"による"},{"word":"に因る","reading":"による"},{"word":"に拠る","reading":"による"}],"senses":[["by means of","due to","because of","according to"]]},{"jlpt":[],"tags":["wanikani17"],"japanese":[{"word":"主因","reading":"しゅいん"}],"senses":[["primary cause","main factor"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"勝因","reading":"しょういん"}],"senses":[["cause of victory"]]}]}
+{
+  "basic": ["因", "Cause", "626"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n4"],
+      "tags": ["wanikani17"],
+      "japanese": [
+        { "word": "原因", "reading": "げんいん" },
+        { "word": "原因", "reading": "げいいん" }
+      ],
+      "senses": [["cause", "origin", "source"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "要因", "reading": "よういん" }],
+      "senses": [["main cause", "primary factor"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "起因", "reading": "きいん" },
+        { "word": "基因", "reading": "きいん" }
+      ],
+      "senses": [["cause", "origin"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "死因", "reading": "しいん" }],
+      "senses": [["cause of death"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "一因", "reading": "いちいん" }],
+      "senses": [["one cause", "one reason", "one factor"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "敗因", "reading": "はいいん" }],
+      "senses": [["cause of defeat"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "本因坊", "reading": "ほんいんぼう" }],
+      "senses": [
+        ["Hon'inbō", "Honinbo", "grand master of the game of go"],
+        ["Honinbō"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "に因って", "reading": "によって" },
+        { "word": "に依って", "reading": "によって" }
+      ],
+      "senses": [["according to", "by (means of)", "due to", "because of"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "に依る", "reading": "による" },
+        { "word": "に因る", "reading": "による" },
+        { "word": "に拠る", "reading": "による" }
+      ],
+      "senses": [["by means of", "due to", "because of", "according to"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani17"],
+      "japanese": [{ "word": "主因", "reading": "しゅいん" }],
+      "senses": [["primary cause", "main factor"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "勝因", "reading": "しょういん" }],
+      "senses": [["cause of victory"]]
+    },
+    {
+      "jlpt": ["jlpt-n4"],
+      "tags": ["wanikani17"],
+      "japanese": [
+        { "word": "原因", "reading": "げんいん" },
+        { "word": "原因", "reading": "げいいん" }
+      ],
+      "senses": [["cause", "origin", "source"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "要因", "reading": "よういん" }],
+      "senses": [["main cause", "primary factor"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "起因", "reading": "きいん" },
+        { "word": "基因", "reading": "きいん" }
+      ],
+      "senses": [["cause", "origin"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "死因", "reading": "しいん" }],
+      "senses": [["cause of death"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "一因", "reading": "いちいん" }],
+      "senses": [["one cause", "one reason", "one factor"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "敗因", "reading": "はいいん" }],
+      "senses": [["cause of defeat"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "本因坊", "reading": "ほんいんぼう" }],
+      "senses": [
+        ["Hon'inbō", "Honinbo", "grand master of the game of go"],
+        ["Honinbō"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "に因って", "reading": "によって" },
+        { "word": "に依って", "reading": "によって" }
+      ],
+      "senses": [["according to", "by (means of)", "due to", "because of"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "に依る", "reading": "による" },
+        { "word": "に因る", "reading": "による" },
+        { "word": "に拠る", "reading": "による" }
+      ],
+      "senses": [["by means of", "due to", "because of", "according to"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani17"],
+      "japanese": [{ "word": "主因", "reading": "しゅいん" }],
+      "senses": [["primary cause", "main factor"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "勝因", "reading": "しょういん" }],
+      "senses": [["cause of victory"]]
+    }
+  ]
+}

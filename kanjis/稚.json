@@ -1,1 +1,35 @@
-{"basic":["稚","Immature","962"],"extended":[{"jlpt":["jlpt-n2"],"tags":["wanikani30"],"japanese":[{"word":"幼稚園","reading":"ようちえん"}],"senses":[["kindergarten"],["Kindergarten"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani28"],"japanese":[{"word":"幼稚","reading":"ようち"}],"senses":[["infancy"],["childish","infantile","immature","primitive"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani30"],"japanese":[{"word":"幼稚園","reading":"ようちえん"}],"senses":[["kindergarten"],["Kindergarten"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani28"],"japanese":[{"word":"幼稚","reading":"ようち"}],"senses":[["infancy"],["childish","infantile","immature","primitive"]]}]}
+{
+  "basic": ["稚", "Immature", "962"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani30"],
+      "japanese": [{ "word": "幼稚園", "reading": "ようちえん" }],
+      "senses": [["kindergarten"], ["Kindergarten"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani28"],
+      "japanese": [{ "word": "幼稚", "reading": "ようち" }],
+      "senses": [
+        ["infancy"],
+        ["childish", "infantile", "immature", "primitive"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani30"],
+      "japanese": [{ "word": "幼稚園", "reading": "ようちえん" }],
+      "senses": [["kindergarten"], ["Kindergarten"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani28"],
+      "japanese": [{ "word": "幼稚", "reading": "ようち" }],
+      "senses": [
+        ["infancy"],
+        ["childish", "infantile", "immature", "primitive"]
+      ]
+    }
+  ]
+}

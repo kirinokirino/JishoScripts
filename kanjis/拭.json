@@ -1,1 +1,45 @@
-{"basic":["拭","Wipe","695"],"extended":[{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"手ぬぐい","reading":"てぬぐい"},{"word":"手拭い","reading":"てぬぐい"},{"word":"手拭","reading":"てぬぐい"}],"senses":[["(hand) towel"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"払拭","reading":"ふっしょく"},{"word":"払しょく","reading":"ふっしょく"},{"word":"払拭","reading":"ふっしき"}],"senses":[["wiping out","sweeping away","eradicating","dispelling"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"手ぬぐい","reading":"てぬぐい"},{"word":"手拭い","reading":"てぬぐい"},{"word":"手拭","reading":"てぬぐい"}],"senses":[["(hand) towel"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"払拭","reading":"ふっしょく"},{"word":"払しょく","reading":"ふっしょく"},{"word":"払拭","reading":"ふっしき"}],"senses":[["wiping out","sweeping away","eradicating","dispelling"]]}]}
+{
+  "basic": ["拭", "Wipe", "695"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [
+        { "word": "手ぬぐい", "reading": "てぬぐい" },
+        { "word": "手拭い", "reading": "てぬぐい" },
+        { "word": "手拭", "reading": "てぬぐい" }
+      ],
+      "senses": [["(hand) towel"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "払拭", "reading": "ふっしょく" },
+        { "word": "払しょく", "reading": "ふっしょく" },
+        { "word": "払拭", "reading": "ふっしき" }
+      ],
+      "senses": [["wiping out", "sweeping away", "eradicating", "dispelling"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [
+        { "word": "手ぬぐい", "reading": "てぬぐい" },
+        { "word": "手拭い", "reading": "てぬぐい" },
+        { "word": "手拭", "reading": "てぬぐい" }
+      ],
+      "senses": [["(hand) towel"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "払拭", "reading": "ふっしょく" },
+        { "word": "払しょく", "reading": "ふっしょく" },
+        { "word": "払拭", "reading": "ふっしき" }
+      ],
+      "senses": [["wiping out", "sweeping away", "eradicating", "dispelling"]]
+    }
+  ]
+}

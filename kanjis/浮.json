@@ -1,1 +1,23 @@
-{"basic":["浮","Floating","787"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"浮き浮き","reading":"うきうき"},{"reading":"ウキウキ"}],"senses":[["cheerfully","buoyantly","happily","in high spirits"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"浮き浮き","reading":"うきうき"},{"reading":"ウキウキ"}],"senses":[["cheerfully","buoyantly","happily","in high spirits"]]}]}
+{
+  "basic": ["浮", "Floating", "787"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "浮き浮き", "reading": "うきうき" },
+        { "reading": "ウキウキ" }
+      ],
+      "senses": [["cheerfully", "buoyantly", "happily", "in high spirits"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "浮き浮き", "reading": "うきうき" },
+        { "reading": "ウキウキ" }
+      ],
+      "senses": [["cheerfully", "buoyantly", "happily", "in high spirits"]]
+    }
+  ]
+}

@@ -1,1 +1,49 @@
-{"basic":["未","Not Yet","229"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"前代未聞","reading":"ぜんだいみもん"}],"senses":[["unheard-of","unprecedented","unparalleled in history (unparallelled)","record-breaking"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"未だ未だ","reading":"まだまだ"}],"senses":[["still","much more","(not) yet"],["still a long way to go","still a long way off","not there yet"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"前代未聞","reading":"ぜんだいみもん"}],"senses":[["unheard-of","unprecedented","unparalleled in history (unparallelled)","record-breaking"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"未だ未だ","reading":"まだまだ"}],"senses":[["still","much more","(not) yet"],["still a long way to go","still a long way off","not there yet"]]}]}
+{
+  "basic": ["未", "Not Yet", "229"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "前代未聞", "reading": "ぜんだいみもん" }],
+      "senses": [
+        [
+          "unheard-of",
+          "unprecedented",
+          "unparalleled in history (unparallelled)",
+          "record-breaking"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "未だ未だ", "reading": "まだまだ" }],
+      "senses": [
+        ["still", "much more", "(not) yet"],
+        ["still a long way to go", "still a long way off", "not there yet"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "前代未聞", "reading": "ぜんだいみもん" }],
+      "senses": [
+        [
+          "unheard-of",
+          "unprecedented",
+          "unparalleled in history (unparallelled)",
+          "record-breaking"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "未だ未だ", "reading": "まだまだ" }],
+      "senses": [
+        ["still", "much more", "(not) yet"],
+        ["still a long way to go", "still a long way off", "not there yet"]
+      ]
+    }
+  ]
+}

@@ -1,1 +1,35 @@
-{"basic":["擬","Mimic","1514"],"extended":[{"jlpt":[],"tags":["wanikani59"],"japanese":[{"word":"模擬","reading":"もぎ"},{"word":"摸擬","reading":"もぎ"}],"senses":[["imitation"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"模擬試験","reading":"もぎしけん"}],"senses":[["mock exam","practice exam","practice test"]]},{"jlpt":[],"tags":["wanikani59"],"japanese":[{"word":"模擬","reading":"もぎ"},{"word":"摸擬","reading":"もぎ"}],"senses":[["imitation"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"模擬試験","reading":"もぎしけん"}],"senses":[["mock exam","practice exam","practice test"]]}]}
+{
+  "basic": ["擬", "Mimic", "1514"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": ["wanikani59"],
+      "japanese": [
+        { "word": "模擬", "reading": "もぎ" },
+        { "word": "摸擬", "reading": "もぎ" }
+      ],
+      "senses": [["imitation"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "模擬試験", "reading": "もぎしけん" }],
+      "senses": [["mock exam", "practice exam", "practice test"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani59"],
+      "japanese": [
+        { "word": "模擬", "reading": "もぎ" },
+        { "word": "摸擬", "reading": "もぎ" }
+      ],
+      "senses": [["imitation"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "模擬試験", "reading": "もぎしけん" }],
+      "senses": [["mock exam", "practice exam", "practice test"]]
+    }
+  ]
+}

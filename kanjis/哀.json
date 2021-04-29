@@ -1,1 +1,39 @@
-{"basic":["哀","Pathetic","428"],"extended":[{"jlpt":["jlpt-n3","jlpt-n1"],"tags":["wanikani47"],"japanese":[{"word":"可哀想","reading":"かわいそう"},{"word":"可哀相","reading":"かわいそう"},{"word":"可哀そう","reading":"かわいそう"},{"word":"可愛そう","reading":"かわいそう"}],"senses":[["poor","pitiable","pathetic","pitiful"]]},{"jlpt":[],"tags":["wanikani47"],"japanese":[{"word":"悲哀","reading":"ひあい"}],"senses":[["sorrow","grief","sadness"]]},{"jlpt":["jlpt-n3","jlpt-n1"],"tags":["wanikani47"],"japanese":[{"word":"可哀想","reading":"かわいそう"},{"word":"可哀相","reading":"かわいそう"},{"word":"可哀そう","reading":"かわいそう"},{"word":"可愛そう","reading":"かわいそう"}],"senses":[["poor","pitiable","pathetic","pitiful"]]},{"jlpt":[],"tags":["wanikani47"],"japanese":[{"word":"悲哀","reading":"ひあい"}],"senses":[["sorrow","grief","sadness"]]}]}
+{
+  "basic": ["哀", "Pathetic", "428"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n3", "jlpt-n1"],
+      "tags": ["wanikani47"],
+      "japanese": [
+        { "word": "可哀想", "reading": "かわいそう" },
+        { "word": "可哀相", "reading": "かわいそう" },
+        { "word": "可哀そう", "reading": "かわいそう" },
+        { "word": "可愛そう", "reading": "かわいそう" }
+      ],
+      "senses": [["poor", "pitiable", "pathetic", "pitiful"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani47"],
+      "japanese": [{ "word": "悲哀", "reading": "ひあい" }],
+      "senses": [["sorrow", "grief", "sadness"]]
+    },
+    {
+      "jlpt": ["jlpt-n3", "jlpt-n1"],
+      "tags": ["wanikani47"],
+      "japanese": [
+        { "word": "可哀想", "reading": "かわいそう" },
+        { "word": "可哀相", "reading": "かわいそう" },
+        { "word": "可哀そう", "reading": "かわいそう" },
+        { "word": "可愛そう", "reading": "かわいそう" }
+      ],
+      "senses": [["poor", "pitiable", "pathetic", "pitiful"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani47"],
+      "japanese": [{ "word": "悲哀", "reading": "ひあい" }],
+      "senses": [["sorrow", "grief", "sadness"]]
+    }
+  ]
+}

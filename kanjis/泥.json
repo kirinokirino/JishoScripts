@@ -1,1 +1,41 @@
-{"basic":["泥","Mud","1135"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"泥々","reading":"どろどろ"},{"word":"泥泥","reading":"どろどろ"},{"reading":"ドロドロ"}],"senses":[["thick","viscous","mushy","pulpy","slushy","syrupy","sticky"],["muddy","dirty (with oil, grease, etc.)"],["to be in an ugly state (of emotions, relations, etc.)","to be murky","to be sordid"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"泥々","reading":"どろどろ"},{"word":"泥泥","reading":"どろどろ"},{"reading":"ドロドロ"}],"senses":[["thick","viscous","mushy","pulpy","slushy","syrupy","sticky"],["muddy","dirty (with oil, grease, etc.)"],["to be in an ugly state (of emotions, relations, etc.)","to be murky","to be sordid"]]}]}
+{
+  "basic": ["泥", "Mud", "1135"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "泥々", "reading": "どろどろ" },
+        { "word": "泥泥", "reading": "どろどろ" },
+        { "reading": "ドロドロ" }
+      ],
+      "senses": [
+        ["thick", "viscous", "mushy", "pulpy", "slushy", "syrupy", "sticky"],
+        ["muddy", "dirty (with oil, grease, etc.)"],
+        [
+          "to be in an ugly state (of emotions, relations, etc.)",
+          "to be murky",
+          "to be sordid"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "泥々", "reading": "どろどろ" },
+        { "word": "泥泥", "reading": "どろどろ" },
+        { "reading": "ドロドロ" }
+      ],
+      "senses": [
+        ["thick", "viscous", "mushy", "pulpy", "slushy", "syrupy", "sticky"],
+        ["muddy", "dirty (with oil, grease, etc.)"],
+        [
+          "to be in an ugly state (of emotions, relations, etc.)",
+          "to be murky",
+          "to be sordid"
+        ]
+      ]
+    }
+  ]
+}

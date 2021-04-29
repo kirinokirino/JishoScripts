@@ -1,1 +1,71 @@
-{"basic":["頼","Trust","1794"],"extended":[{"jlpt":["jlpt-n3"],"tags":["wanikani36"],"japanese":[{"word":"信頼","reading":"しんらい"}],"senses":[["reliance","trust","faith","confidence"],["Trust (social sciences)"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani36"],"japanese":[{"word":"依頼","reading":"いらい"}],"senses":[["request","commission","entrusting (with a matter)"],["dependence","reliance"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"信頼性","reading":"しんらいせい"}],"senses":[["credibility","authenticity","confidence","reliability"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"達頼喇嘛","reading":"ダライラマ"},{"word":"達頼喇嘛","reading":"ダライ・ラマ"}],"senses":[["Dalai Lama"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani36"],"japanese":[{"word":"信頼","reading":"しんらい"}],"senses":[["reliance","trust","faith","confidence"],["Trust (social sciences)"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani36"],"japanese":[{"word":"依頼","reading":"いらい"}],"senses":[["request","commission","entrusting (with a matter)"],["dependence","reliance"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"信頼性","reading":"しんらいせい"}],"senses":[["credibility","authenticity","confidence","reliability"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"達頼喇嘛","reading":"ダライラマ"},{"word":"達頼喇嘛","reading":"ダライ・ラマ"}],"senses":[["Dalai Lama"]]}]}
+{
+  "basic": ["頼", "Trust", "1794"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani36"],
+      "japanese": [{ "word": "信頼", "reading": "しんらい" }],
+      "senses": [
+        ["reliance", "trust", "faith", "confidence"],
+        ["Trust (social sciences)"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani36"],
+      "japanese": [{ "word": "依頼", "reading": "いらい" }],
+      "senses": [
+        ["request", "commission", "entrusting (with a matter)"],
+        ["dependence", "reliance"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "信頼性", "reading": "しんらいせい" }],
+      "senses": [["credibility", "authenticity", "confidence", "reliability"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "達頼喇嘛", "reading": "ダライラマ" },
+        { "word": "達頼喇嘛", "reading": "ダライ・ラマ" }
+      ],
+      "senses": [["Dalai Lama"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani36"],
+      "japanese": [{ "word": "信頼", "reading": "しんらい" }],
+      "senses": [
+        ["reliance", "trust", "faith", "confidence"],
+        ["Trust (social sciences)"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani36"],
+      "japanese": [{ "word": "依頼", "reading": "いらい" }],
+      "senses": [
+        ["request", "commission", "entrusting (with a matter)"],
+        ["dependence", "reliance"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "信頼性", "reading": "しんらいせい" }],
+      "senses": [["credibility", "authenticity", "confidence", "reliability"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "達頼喇嘛", "reading": "ダライラマ" },
+        { "word": "達頼喇嘛", "reading": "ダライ・ラマ" }
+      ],
+      "senses": [["Dalai Lama"]]
+    }
+  ]
+}

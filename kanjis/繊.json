@@ -1,1 +1,49 @@
-{"basic":["繊","Slender","1929"],"extended":[{"jlpt":["jlpt-n1"],"tags":["wanikani53"],"japanese":[{"word":"化繊","reading":"かせん"},{"word":"化纎","reading":"かせん"}],"senses":[["synthetic fiber","synthetic fibre","chemical fiber","chemical fibre"]]},{"jlpt":[],"tags":["wanikani53"],"japanese":[{"word":"合繊","reading":"ごうせん"}],"senses":[["synthetic fiber","synthetic fibre"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani53"],"japanese":[{"word":"化繊","reading":"かせん"},{"word":"化纎","reading":"かせん"}],"senses":[["synthetic fiber","synthetic fibre","chemical fiber","chemical fibre"]]},{"jlpt":[],"tags":["wanikani53"],"japanese":[{"word":"合繊","reading":"ごうせん"}],"senses":[["synthetic fiber","synthetic fibre"]]}]}
+{
+  "basic": ["繊", "Slender", "1929"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani53"],
+      "japanese": [
+        { "word": "化繊", "reading": "かせん" },
+        { "word": "化纎", "reading": "かせん" }
+      ],
+      "senses": [
+        [
+          "synthetic fiber",
+          "synthetic fibre",
+          "chemical fiber",
+          "chemical fibre"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani53"],
+      "japanese": [{ "word": "合繊", "reading": "ごうせん" }],
+      "senses": [["synthetic fiber", "synthetic fibre"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani53"],
+      "japanese": [
+        { "word": "化繊", "reading": "かせん" },
+        { "word": "化纎", "reading": "かせん" }
+      ],
+      "senses": [
+        [
+          "synthetic fiber",
+          "synthetic fibre",
+          "chemical fiber",
+          "chemical fibre"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani53"],
+      "japanese": [{ "word": "合繊", "reading": "ごうせん" }],
+      "senses": [["synthetic fiber", "synthetic fibre"]]
+    }
+  ]
+}

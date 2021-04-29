@@ -1,1 +1,41 @@
-{"basic":["槽","Vat","1260"],"extended":[{"jlpt":[],"tags":["wanikani57"],"japanese":[{"word":"浴槽","reading":"よくそう"}],"senses":[["bathtub"]]},{"jlpt":[],"tags":["wanikani57"],"japanese":[{"word":"水槽","reading":"すいそう"}],"senses":[["water tank","cistern"],["fish tank","aquarium"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"浄化槽","reading":"じょうかそう"}],"senses":[["water-purification tank"],["septic tank"],["Septic tank"]]},{"jlpt":[],"tags":["wanikani57"],"japanese":[{"word":"浴槽","reading":"よくそう"}],"senses":[["bathtub"]]},{"jlpt":[],"tags":["wanikani57"],"japanese":[{"word":"水槽","reading":"すいそう"}],"senses":[["water tank","cistern"],["fish tank","aquarium"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"浄化槽","reading":"じょうかそう"}],"senses":[["water-purification tank"],["septic tank"],["Septic tank"]]}]}
+{
+  "basic": ["槽", "Vat", "1260"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": ["wanikani57"],
+      "japanese": [{ "word": "浴槽", "reading": "よくそう" }],
+      "senses": [["bathtub"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani57"],
+      "japanese": [{ "word": "水槽", "reading": "すいそう" }],
+      "senses": [["water tank", "cistern"], ["fish tank", "aquarium"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "浄化槽", "reading": "じょうかそう" }],
+      "senses": [["water-purification tank"], ["septic tank"], ["Septic tank"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani57"],
+      "japanese": [{ "word": "浴槽", "reading": "よくそう" }],
+      "senses": [["bathtub"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani57"],
+      "japanese": [{ "word": "水槽", "reading": "すいそう" }],
+      "senses": [["water tank", "cistern"], ["fish tank", "aquarium"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "浄化槽", "reading": "じょうかそう" }],
+      "senses": [["water-purification tank"], ["septic tank"], ["Septic tank"]]
+    }
+  ]
+}

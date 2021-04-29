@@ -1,1 +1,17 @@
-{"basic":["恨","Resentment","1570"],"extended":[{"jlpt":[],"tags":["wanikani47"],"japanese":[{"word":"痛恨","reading":"つうこん"}],"senses":[["regretful","sorrowful","bitter"],["contrition"]]},{"jlpt":[],"tags":["wanikani47"],"japanese":[{"word":"痛恨","reading":"つうこん"}],"senses":[["regretful","sorrowful","bitter"],["contrition"]]}]}
+{
+  "basic": ["恨", "Resentment", "1570"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": ["wanikani47"],
+      "japanese": [{ "word": "痛恨", "reading": "つうこん" }],
+      "senses": [["regretful", "sorrowful", "bitter"], ["contrition"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani47"],
+      "japanese": [{ "word": "痛恨", "reading": "つうこん" }],
+      "senses": [["regretful", "sorrowful", "bitter"], ["contrition"]]
+    }
+  ]
+}

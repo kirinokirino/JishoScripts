@@ -1,1 +1,17 @@
-{"basic":["仰","Faceup","1836"],"extended":[{"jlpt":["jlpt-n3"],"tags":["wanikani50"],"japanese":[{"word":"信仰","reading":"しんこう"}],"senses":[["(religious) faith","belief","creed"],["Faith"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani50"],"japanese":[{"word":"信仰","reading":"しんこう"}],"senses":[["(religious) faith","belief","creed"],["Faith"]]}]}
+{
+  "basic": ["仰", "Faceup", "1836"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani50"],
+      "japanese": [{ "word": "信仰", "reading": "しんこう" }],
+      "senses": [["(religious) faith", "belief", "creed"], ["Faith"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani50"],
+      "japanese": [{ "word": "信仰", "reading": "しんこう" }],
+      "senses": [["(religious) faith", "belief", "creed"], ["Faith"]]
+    }
+  ]
+}

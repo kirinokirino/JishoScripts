@@ -1,1 +1,119 @@
-{"basic":["芸","Technique","450"],"extended":[{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"園芸","reading":"えんげい"}],"senses":[["horticulture","gardening"],["Gardening"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"学芸","reading":"がくげい"}],"senses":[["arts and sciences","liberal arts"]]},{"jlpt":[],"tags":["wanikani49"],"japanese":[{"word":"陶芸","reading":"とうげい"}],"senses":[["ceramic art","ceramics"],["Pottery"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"工芸","reading":"こうげい"}],"senses":[["industrial arts","craft"],["Handicraft"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"文芸","reading":"ぶんげい"},{"word":"文藝","reading":"ぶんげい"}],"senses":[["literature"],["the arts","art and literature","liberal arts"],["Bungei"]]},{"jlpt":[],"tags":["wanikani23"],"japanese":[{"word":"演芸","reading":"えんげい"}],"senses":[["entertainment","performance"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"安芸","reading":"あき"}],"senses":[["Aki (former province located in the west of present-day Hiroshima Prefecture)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"民芸","reading":"みんげい"}],"senses":[["folk craft","folk art"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"園芸","reading":"えんげい"}],"senses":[["horticulture","gardening"],["Gardening"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"学芸","reading":"がくげい"}],"senses":[["arts and sciences","liberal arts"]]},{"jlpt":[],"tags":["wanikani49"],"japanese":[{"word":"陶芸","reading":"とうげい"}],"senses":[["ceramic art","ceramics"],["Pottery"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"工芸","reading":"こうげい"}],"senses":[["industrial arts","craft"],["Handicraft"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"文芸","reading":"ぶんげい"},{"word":"文藝","reading":"ぶんげい"}],"senses":[["literature"],["the arts","art and literature","liberal arts"],["Bungei"]]},{"jlpt":[],"tags":["wanikani23"],"japanese":[{"word":"演芸","reading":"えんげい"}],"senses":[["entertainment","performance"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"安芸","reading":"あき"}],"senses":[["Aki (former province located in the west of present-day Hiroshima Prefecture)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"民芸","reading":"みんげい"}],"senses":[["folk craft","folk art"]]}]}
+{
+  "basic": ["芸", "Technique", "450"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "園芸", "reading": "えんげい" }],
+      "senses": [["horticulture", "gardening"], ["Gardening"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "学芸", "reading": "がくげい" }],
+      "senses": [["arts and sciences", "liberal arts"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani49"],
+      "japanese": [{ "word": "陶芸", "reading": "とうげい" }],
+      "senses": [["ceramic art", "ceramics"], ["Pottery"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "工芸", "reading": "こうげい" }],
+      "senses": [["industrial arts", "craft"], ["Handicraft"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [
+        { "word": "文芸", "reading": "ぶんげい" },
+        { "word": "文藝", "reading": "ぶんげい" }
+      ],
+      "senses": [
+        ["literature"],
+        ["the arts", "art and literature", "liberal arts"],
+        ["Bungei"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani23"],
+      "japanese": [{ "word": "演芸", "reading": "えんげい" }],
+      "senses": [["entertainment", "performance"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "安芸", "reading": "あき" }],
+      "senses": [
+        ["Aki (former province located in the west of present-day Hiroshima Prefecture)"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "民芸", "reading": "みんげい" }],
+      "senses": [["folk craft", "folk art"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "園芸", "reading": "えんげい" }],
+      "senses": [["horticulture", "gardening"], ["Gardening"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "学芸", "reading": "がくげい" }],
+      "senses": [["arts and sciences", "liberal arts"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani49"],
+      "japanese": [{ "word": "陶芸", "reading": "とうげい" }],
+      "senses": [["ceramic art", "ceramics"], ["Pottery"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "工芸", "reading": "こうげい" }],
+      "senses": [["industrial arts", "craft"], ["Handicraft"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [
+        { "word": "文芸", "reading": "ぶんげい" },
+        { "word": "文藝", "reading": "ぶんげい" }
+      ],
+      "senses": [
+        ["literature"],
+        ["the arts", "art and literature", "liberal arts"],
+        ["Bungei"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani23"],
+      "japanese": [{ "word": "演芸", "reading": "えんげい" }],
+      "senses": [["entertainment", "performance"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "安芸", "reading": "あき" }],
+      "senses": [
+        ["Aki (former province located in the west of present-day Hiroshima Prefecture)"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "民芸", "reading": "みんげい" }],
+      "senses": [["folk craft", "folk art"]]
+    }
+  ]
+}

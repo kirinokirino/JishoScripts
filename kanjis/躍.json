@@ -1,1 +1,87 @@
-{"basic":["躍","Leap","1379"],"extended":[{"jlpt":["jlpt-n2"],"tags":["wanikani39"],"japanese":[{"word":"活躍","reading":"かつやく"}],"senses":[["activity (esp. energetic)","great efforts","conspicuous service"],["to flourish","to participate actively","to play an active role"]]},{"jlpt":[],"tags":["wanikani39"],"japanese":[{"word":"飛躍","reading":"ひやく"}],"senses":[["leaping","activity"],["leapfrog (over a problem)","making a leap (e.g. in logic)"],["making great strides","making rapid progress"],["emerging"],["becoming active","playing an active part"]]},{"jlpt":[],"tags":["wanikani39"],"japanese":[{"word":"跳躍","reading":"ちょうやく"}],"senses":[["jump","leap","skip","bound"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"一躍","reading":"いちやく"}],"senses":[["suddenly (rising to fame, etc.)","instantly","immediately","overnight"],["one bound","one leap"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani39"],"japanese":[{"word":"活躍","reading":"かつやく"}],"senses":[["activity (esp. energetic)","great efforts","conspicuous service"],["to flourish","to participate actively","to play an active role"]]},{"jlpt":[],"tags":["wanikani39"],"japanese":[{"word":"飛躍","reading":"ひやく"}],"senses":[["leaping","activity"],["leapfrog (over a problem)","making a leap (e.g. in logic)"],["making great strides","making rapid progress"],["emerging"],["becoming active","playing an active part"]]},{"jlpt":[],"tags":["wanikani39"],"japanese":[{"word":"跳躍","reading":"ちょうやく"}],"senses":[["jump","leap","skip","bound"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"一躍","reading":"いちやく"}],"senses":[["suddenly (rising to fame, etc.)","instantly","immediately","overnight"],["one bound","one leap"]]}]}
+{
+  "basic": ["躍", "Leap", "1379"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani39"],
+      "japanese": [{ "word": "活躍", "reading": "かつやく" }],
+      "senses": [
+        ["activity (esp. energetic)", "great efforts", "conspicuous service"],
+        ["to flourish", "to participate actively", "to play an active role"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani39"],
+      "japanese": [{ "word": "飛躍", "reading": "ひやく" }],
+      "senses": [
+        ["leaping", "activity"],
+        ["leapfrog (over a problem)", "making a leap (e.g. in logic)"],
+        ["making great strides", "making rapid progress"],
+        ["emerging"],
+        ["becoming active", "playing an active part"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani39"],
+      "japanese": [{ "word": "跳躍", "reading": "ちょうやく" }],
+      "senses": [["jump", "leap", "skip", "bound"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "一躍", "reading": "いちやく" }],
+      "senses": [
+        [
+          "suddenly (rising to fame, etc.)",
+          "instantly",
+          "immediately",
+          "overnight"
+        ],
+        ["one bound", "one leap"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani39"],
+      "japanese": [{ "word": "活躍", "reading": "かつやく" }],
+      "senses": [
+        ["activity (esp. energetic)", "great efforts", "conspicuous service"],
+        ["to flourish", "to participate actively", "to play an active role"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani39"],
+      "japanese": [{ "word": "飛躍", "reading": "ひやく" }],
+      "senses": [
+        ["leaping", "activity"],
+        ["leapfrog (over a problem)", "making a leap (e.g. in logic)"],
+        ["making great strides", "making rapid progress"],
+        ["emerging"],
+        ["becoming active", "playing an active part"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani39"],
+      "japanese": [{ "word": "跳躍", "reading": "ちょうやく" }],
+      "senses": [["jump", "leap", "skip", "bound"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "一躍", "reading": "いちやく" }],
+      "senses": [
+        [
+          "suddenly (rising to fame, etc.)",
+          "instantly",
+          "immediately",
+          "overnight"
+        ],
+        ["one bound", "one leap"]
+      ]
+    }
+  ]
+}

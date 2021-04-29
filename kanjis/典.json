@@ -1,1 +1,247 @@
-{"basic":["典","Code","1969"],"extended":[{"jlpt":["jlpt-n4"],"tags":["wanikani16"],"japanese":[{"word":"辞典","reading":"じてん"},{"word":"辭典","reading":"じてん"},{"word":"辞典","reading":"ことばてん"},{"word":"辭典","reading":"ことばてん"},{"word":"ことば典","reading":"ことばてん"},{"word":"言葉典","reading":"ことばてん"}],"senses":[["dictionary","lexicon"],["Dictionary"]]},{"jlpt":["jlpt-n2","jlpt-n1"],"tags":[],"japanese":[{"word":"百科事典","reading":"ひゃっかじてん"},{"word":"百科辞典","reading":"ひゃっかじてん"}],"senses":[["encyclopedia","encyclopaedia"],["Encyclopedia"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"古典","reading":"こてん"}],"senses":[["classic (work, esp. book)","the classics"],["Classical"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"式典","reading":"しきてん"}],"senses":[["ceremony","rites"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"特典","reading":"とくてん"}],"senses":[["privilege","special favor","special favour","benefit","prerogative","perk","amenity"]]},{"jlpt":[],"tags":["wanikani16"],"japanese":[{"word":"古典的","reading":"こてんてき"}],"senses":[["classical","classic"]]},{"jlpt":[],"tags":["wanikani16"],"japanese":[{"word":"事典","reading":"じてん"},{"word":"事典","reading":"ことてん"}],"senses":[["encyclopedia","cyclopedia"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"祭典","reading":"さいてん"}],"senses":[["festival"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"瑞典","reading":"スウェーデン"},{"word":"瑞典","reading":"スエーデン"},{"word":"瑞典","reading":"スヰーデン"}],"senses":[["Sweden"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"ラテン語","reading":"ラテンご"},{"word":"拉丁語","reading":"らてんご"},{"word":"羅甸語","reading":"らてんご"},{"word":"羅典語","reading":"らてんご"}],"senses":[["Latin (language)"],["Latin"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"国語辞典","reading":"こくごじてん"}],"senses":[["Japanese-language dictionary"],["dictionary of a national language"],["Japanese dictionary"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"拉丁","reading":"らてん"},{"word":"羅甸","reading":"らてん"},{"word":"羅典","reading":"らてん"},{"reading":"ラテン"}],"senses":[["Latin (language)"],["Latin-American","Latin","Latino"],["Latin","Roman","relating to the literature, culture, etc. of ancient Rome"]]},{"jlpt":["jlpt-n4"],"tags":["wanikani16"],"japanese":[{"word":"辞典","reading":"じてん"},{"word":"辭典","reading":"じてん"},{"word":"辞典","reading":"ことばてん"},{"word":"辭典","reading":"ことばてん"},{"word":"ことば典","reading":"ことばてん"},{"word":"言葉典","reading":"ことばてん"}],"senses":[["dictionary","lexicon"],["Dictionary"]]},{"jlpt":["jlpt-n2","jlpt-n1"],"tags":[],"japanese":[{"word":"百科事典","reading":"ひゃっかじてん"},{"word":"百科辞典","reading":"ひゃっかじてん"}],"senses":[["encyclopedia","encyclopaedia"],["Encyclopedia"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"古典","reading":"こてん"}],"senses":[["classic (work, esp. book)","the classics"],["Classical"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"式典","reading":"しきてん"}],"senses":[["ceremony","rites"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"特典","reading":"とくてん"}],"senses":[["privilege","special favor","special favour","benefit","prerogative","perk","amenity"]]},{"jlpt":[],"tags":["wanikani16"],"japanese":[{"word":"古典的","reading":"こてんてき"}],"senses":[["classical","classic"]]},{"jlpt":[],"tags":["wanikani16"],"japanese":[{"word":"事典","reading":"じてん"},{"word":"事典","reading":"ことてん"}],"senses":[["encyclopedia","cyclopedia"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"祭典","reading":"さいてん"}],"senses":[["festival"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"瑞典","reading":"スウェーデン"},{"word":"瑞典","reading":"スエーデン"},{"word":"瑞典","reading":"スヰーデン"}],"senses":[["Sweden"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"ラテン語","reading":"ラテンご"},{"word":"拉丁語","reading":"らてんご"},{"word":"羅甸語","reading":"らてんご"},{"word":"羅典語","reading":"らてんご"}],"senses":[["Latin (language)"],["Latin"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"国語辞典","reading":"こくごじてん"}],"senses":[["Japanese-language dictionary"],["dictionary of a national language"],["Japanese dictionary"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"拉丁","reading":"らてん"},{"word":"羅甸","reading":"らてん"},{"word":"羅典","reading":"らてん"},{"reading":"ラテン"}],"senses":[["Latin (language)"],["Latin-American","Latin","Latino"],["Latin","Roman","relating to the literature, culture, etc. of ancient Rome"]]}]}
+{
+  "basic": ["典", "Code", "1969"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n4"],
+      "tags": ["wanikani16"],
+      "japanese": [
+        { "word": "辞典", "reading": "じてん" },
+        { "word": "辭典", "reading": "じてん" },
+        { "word": "辞典", "reading": "ことばてん" },
+        { "word": "辭典", "reading": "ことばてん" },
+        { "word": "ことば典", "reading": "ことばてん" },
+        { "word": "言葉典", "reading": "ことばてん" }
+      ],
+      "senses": [["dictionary", "lexicon"], ["Dictionary"]]
+    },
+    {
+      "jlpt": ["jlpt-n2", "jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "百科事典", "reading": "ひゃっかじてん" },
+        { "word": "百科辞典", "reading": "ひゃっかじてん" }
+      ],
+      "senses": [["encyclopedia", "encyclopaedia"], ["Encyclopedia"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "古典", "reading": "こてん" }],
+      "senses": [["classic (work, esp. book)", "the classics"], ["Classical"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "式典", "reading": "しきてん" }],
+      "senses": [["ceremony", "rites"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "特典", "reading": "とくてん" }],
+      "senses": [
+        [
+          "privilege",
+          "special favor",
+          "special favour",
+          "benefit",
+          "prerogative",
+          "perk",
+          "amenity"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani16"],
+      "japanese": [{ "word": "古典的", "reading": "こてんてき" }],
+      "senses": [["classical", "classic"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani16"],
+      "japanese": [
+        { "word": "事典", "reading": "じてん" },
+        { "word": "事典", "reading": "ことてん" }
+      ],
+      "senses": [["encyclopedia", "cyclopedia"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "祭典", "reading": "さいてん" }],
+      "senses": [["festival"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "瑞典", "reading": "スウェーデン" },
+        { "word": "瑞典", "reading": "スエーデン" },
+        { "word": "瑞典", "reading": "スヰーデン" }
+      ],
+      "senses": [["Sweden"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "ラテン語", "reading": "ラテンご" },
+        { "word": "拉丁語", "reading": "らてんご" },
+        { "word": "羅甸語", "reading": "らてんご" },
+        { "word": "羅典語", "reading": "らてんご" }
+      ],
+      "senses": [["Latin (language)"], ["Latin"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "国語辞典", "reading": "こくごじてん" }],
+      "senses": [
+        ["Japanese-language dictionary"],
+        ["dictionary of a national language"],
+        ["Japanese dictionary"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "拉丁", "reading": "らてん" },
+        { "word": "羅甸", "reading": "らてん" },
+        { "word": "羅典", "reading": "らてん" },
+        { "reading": "ラテン" }
+      ],
+      "senses": [
+        ["Latin (language)"],
+        ["Latin-American", "Latin", "Latino"],
+        [
+          "Latin",
+          "Roman",
+          "relating to the literature, culture, etc. of ancient Rome"
+        ]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n4"],
+      "tags": ["wanikani16"],
+      "japanese": [
+        { "word": "辞典", "reading": "じてん" },
+        { "word": "辭典", "reading": "じてん" },
+        { "word": "辞典", "reading": "ことばてん" },
+        { "word": "辭典", "reading": "ことばてん" },
+        { "word": "ことば典", "reading": "ことばてん" },
+        { "word": "言葉典", "reading": "ことばてん" }
+      ],
+      "senses": [["dictionary", "lexicon"], ["Dictionary"]]
+    },
+    {
+      "jlpt": ["jlpt-n2", "jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "百科事典", "reading": "ひゃっかじてん" },
+        { "word": "百科辞典", "reading": "ひゃっかじてん" }
+      ],
+      "senses": [["encyclopedia", "encyclopaedia"], ["Encyclopedia"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "古典", "reading": "こてん" }],
+      "senses": [["classic (work, esp. book)", "the classics"], ["Classical"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "式典", "reading": "しきてん" }],
+      "senses": [["ceremony", "rites"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "特典", "reading": "とくてん" }],
+      "senses": [
+        [
+          "privilege",
+          "special favor",
+          "special favour",
+          "benefit",
+          "prerogative",
+          "perk",
+          "amenity"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani16"],
+      "japanese": [{ "word": "古典的", "reading": "こてんてき" }],
+      "senses": [["classical", "classic"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani16"],
+      "japanese": [
+        { "word": "事典", "reading": "じてん" },
+        { "word": "事典", "reading": "ことてん" }
+      ],
+      "senses": [["encyclopedia", "cyclopedia"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "祭典", "reading": "さいてん" }],
+      "senses": [["festival"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "瑞典", "reading": "スウェーデン" },
+        { "word": "瑞典", "reading": "スエーデン" },
+        { "word": "瑞典", "reading": "スヰーデン" }
+      ],
+      "senses": [["Sweden"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "ラテン語", "reading": "ラテンご" },
+        { "word": "拉丁語", "reading": "らてんご" },
+        { "word": "羅甸語", "reading": "らてんご" },
+        { "word": "羅典語", "reading": "らてんご" }
+      ],
+      "senses": [["Latin (language)"], ["Latin"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "国語辞典", "reading": "こくごじてん" }],
+      "senses": [
+        ["Japanese-language dictionary"],
+        ["dictionary of a national language"],
+        ["Japanese dictionary"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "拉丁", "reading": "らてん" },
+        { "word": "羅甸", "reading": "らてん" },
+        { "word": "羅典", "reading": "らてん" },
+        { "reading": "ラテン" }
+      ],
+      "senses": [
+        ["Latin (language)"],
+        ["Latin-American", "Latin", "Latino"],
+        [
+          "Latin",
+          "Roman",
+          "relating to the literature, culture, etc. of ancient Rome"
+        ]
+      ]
+    }
+  ]
+}

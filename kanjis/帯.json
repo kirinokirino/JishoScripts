@@ -1,1 +1,229 @@
-{"basic":["帯","Sash","444"],"extended":[{"jlpt":["jlpt-n3"],"tags":[],"japanese":[{"word":"熱帯","reading":"ねったい"}],"senses":[["tropics"],["Tropics"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"包帯","reading":"ほうたい"},{"word":"繃帯","reading":"ほうたい"}],"senses":[["bandage","dressing"],["Bandage"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"温帯","reading":"おんたい"}],"senses":[["temperate zone"],["Temperateness"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"世帯","reading":"せたい"},{"word":"世帯","reading":"しょたい"},{"word":"所帯","reading":"しょたい"}],"senses":[["household","home","family","housekeeping"],["Household"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani31"],"japanese":[{"word":"地帯","reading":"ちたい"}],"senses":[["area","zone","belt (of land)"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani40"],"japanese":[{"word":"携帯","reading":"けいたい"},{"reading":"ケータイ"},{"reading":"ケイタイ"}],"senses":[["carrying (on one's person or in the hand)"],["mobile phone","cell phone"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"一帯","reading":"いったい"}],"senses":[["whole area","whole region"],["stretch (of land)","tract","belt","zone"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"連帯","reading":"れんたい"}],"senses":[["solidarity"],["joint","collective"]]},{"jlpt":[],"tags":["wanikani42"],"japanese":[{"word":"携帯電話","reading":"けいたいでんわ"}],"senses":[["mobile telephone","cellular telephone"],["Mobile phone"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"熱帯魚","reading":"ねったいぎょ"}],"senses":[["tropical fish"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"時間帯","reading":"じかんたい"}],"senses":[["period of time","time slot","time zone"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"性感帯","reading":"せいかんたい"}],"senses":[["erogenous zone"],["Erogenous zone"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"亜熱帯","reading":"あねったい"}],"senses":[["subtropics"],["Subtropics"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"付帯","reading":"ふたい"},{"word":"附帯","reading":"ふたい"}],"senses":[["incidental","ancillary","accessory","secondary","collateral"]]},{"jlpt":[],"tags":["wanikani44"],"japanese":[{"word":"携帯ストラップ","reading":"けいたいストラップ"}],"senses":[["straps for mobile phone"]]},{"jlpt":["jlpt-n3"],"tags":[],"japanese":[{"word":"熱帯","reading":"ねったい"}],"senses":[["tropics"],["Tropics"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"包帯","reading":"ほうたい"},{"word":"繃帯","reading":"ほうたい"}],"senses":[["bandage","dressing"],["Bandage"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"温帯","reading":"おんたい"}],"senses":[["temperate zone"],["Temperateness"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"世帯","reading":"せたい"},{"word":"世帯","reading":"しょたい"},{"word":"所帯","reading":"しょたい"}],"senses":[["household","home","family","housekeeping"],["Household"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani31"],"japanese":[{"word":"地帯","reading":"ちたい"}],"senses":[["area","zone","belt (of land)"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani40"],"japanese":[{"word":"携帯","reading":"けいたい"},{"reading":"ケータイ"},{"reading":"ケイタイ"}],"senses":[["carrying (on one's person or in the hand)"],["mobile phone","cell phone"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"一帯","reading":"いったい"}],"senses":[["whole area","whole region"],["stretch (of land)","tract","belt","zone"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"連帯","reading":"れんたい"}],"senses":[["solidarity"],["joint","collective"]]},{"jlpt":[],"tags":["wanikani42"],"japanese":[{"word":"携帯電話","reading":"けいたいでんわ"}],"senses":[["mobile telephone","cellular telephone"],["Mobile phone"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"熱帯魚","reading":"ねったいぎょ"}],"senses":[["tropical fish"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"時間帯","reading":"じかんたい"}],"senses":[["period of time","time slot","time zone"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"性感帯","reading":"せいかんたい"}],"senses":[["erogenous zone"],["Erogenous zone"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"亜熱帯","reading":"あねったい"}],"senses":[["subtropics"],["Subtropics"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"付帯","reading":"ふたい"},{"word":"附帯","reading":"ふたい"}],"senses":[["incidental","ancillary","accessory","secondary","collateral"]]},{"jlpt":[],"tags":["wanikani44"],"japanese":[{"word":"携帯ストラップ","reading":"けいたいストラップ"}],"senses":[["straps for mobile phone"]]}]}
+{
+  "basic": ["帯", "Sash", "444"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": [],
+      "japanese": [{ "word": "熱帯", "reading": "ねったい" }],
+      "senses": [["tropics"], ["Tropics"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [
+        { "word": "包帯", "reading": "ほうたい" },
+        { "word": "繃帯", "reading": "ほうたい" }
+      ],
+      "senses": [["bandage", "dressing"], ["Bandage"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "温帯", "reading": "おんたい" }],
+      "senses": [["temperate zone"], ["Temperateness"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "世帯", "reading": "せたい" },
+        { "word": "世帯", "reading": "しょたい" },
+        { "word": "所帯", "reading": "しょたい" }
+      ],
+      "senses": [["household", "home", "family", "housekeeping"], ["Household"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani31"],
+      "japanese": [{ "word": "地帯", "reading": "ちたい" }],
+      "senses": [["area", "zone", "belt (of land)"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani40"],
+      "japanese": [
+        { "word": "携帯", "reading": "けいたい" },
+        { "reading": "ケータイ" },
+        { "reading": "ケイタイ" }
+      ],
+      "senses": [
+        ["carrying (on one's person or in the hand)"],
+        ["mobile phone", "cell phone"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "一帯", "reading": "いったい" }],
+      "senses": [
+        ["whole area", "whole region"],
+        ["stretch (of land)", "tract", "belt", "zone"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "連帯", "reading": "れんたい" }],
+      "senses": [["solidarity"], ["joint", "collective"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani42"],
+      "japanese": [{ "word": "携帯電話", "reading": "けいたいでんわ" }],
+      "senses": [["mobile telephone", "cellular telephone"], ["Mobile phone"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "熱帯魚", "reading": "ねったいぎょ" }],
+      "senses": [["tropical fish"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "時間帯", "reading": "じかんたい" }],
+      "senses": [["period of time", "time slot", "time zone"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "性感帯", "reading": "せいかんたい" }],
+      "senses": [["erogenous zone"], ["Erogenous zone"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "亜熱帯", "reading": "あねったい" }],
+      "senses": [["subtropics"], ["Subtropics"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "付帯", "reading": "ふたい" },
+        { "word": "附帯", "reading": "ふたい" }
+      ],
+      "senses": [
+        ["incidental", "ancillary", "accessory", "secondary", "collateral"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani44"],
+      "japanese": [{ "word": "携帯ストラップ", "reading": "けいたいストラップ" }],
+      "senses": [["straps for mobile phone"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": [],
+      "japanese": [{ "word": "熱帯", "reading": "ねったい" }],
+      "senses": [["tropics"], ["Tropics"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [
+        { "word": "包帯", "reading": "ほうたい" },
+        { "word": "繃帯", "reading": "ほうたい" }
+      ],
+      "senses": [["bandage", "dressing"], ["Bandage"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "温帯", "reading": "おんたい" }],
+      "senses": [["temperate zone"], ["Temperateness"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "世帯", "reading": "せたい" },
+        { "word": "世帯", "reading": "しょたい" },
+        { "word": "所帯", "reading": "しょたい" }
+      ],
+      "senses": [["household", "home", "family", "housekeeping"], ["Household"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani31"],
+      "japanese": [{ "word": "地帯", "reading": "ちたい" }],
+      "senses": [["area", "zone", "belt (of land)"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani40"],
+      "japanese": [
+        { "word": "携帯", "reading": "けいたい" },
+        { "reading": "ケータイ" },
+        { "reading": "ケイタイ" }
+      ],
+      "senses": [
+        ["carrying (on one's person or in the hand)"],
+        ["mobile phone", "cell phone"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "一帯", "reading": "いったい" }],
+      "senses": [
+        ["whole area", "whole region"],
+        ["stretch (of land)", "tract", "belt", "zone"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "連帯", "reading": "れんたい" }],
+      "senses": [["solidarity"], ["joint", "collective"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani42"],
+      "japanese": [{ "word": "携帯電話", "reading": "けいたいでんわ" }],
+      "senses": [["mobile telephone", "cellular telephone"], ["Mobile phone"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "熱帯魚", "reading": "ねったいぎょ" }],
+      "senses": [["tropical fish"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "時間帯", "reading": "じかんたい" }],
+      "senses": [["period of time", "time slot", "time zone"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "性感帯", "reading": "せいかんたい" }],
+      "senses": [["erogenous zone"], ["Erogenous zone"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "亜熱帯", "reading": "あねったい" }],
+      "senses": [["subtropics"], ["Subtropics"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "付帯", "reading": "ふたい" },
+        { "word": "附帯", "reading": "ふたい" }
+      ],
+      "senses": [
+        ["incidental", "ancillary", "accessory", "secondary", "collateral"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani44"],
+      "japanese": [{ "word": "携帯ストラップ", "reading": "けいたいストラップ" }],
+      "senses": [["straps for mobile phone"]]
+    }
+  ]
+}

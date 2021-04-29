@@ -1,1 +1,177 @@
-{"basic":["説","Explanation","538"],"extended":[{"jlpt":["jlpt-n4"],"tags":["wanikani17"],"japanese":[{"word":"小説","reading":"しょうせつ"}],"senses":[["novel","(short) story"],["Novel"]]},{"jlpt":["jlpt-n3"],"tags":[],"japanese":[{"word":"演説","reading":"えんぜつ"}],"senses":[["speech","address"],["Public speaking"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"社説","reading":"しゃせつ"}],"senses":[["editorial","leading article","leader"],["Editorial"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani17"],"japanese":[{"word":"伝説","reading":"でんせつ"}],"senses":[["tradition","legend","folklore"],["Legend"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani21"],"japanese":[{"word":"解説","reading":"かいせつ"}],"senses":[["explanation","commentary","exposition","elucidation"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"学説","reading":"がくせつ"}],"senses":[["theory"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"推理小説","reading":"すいりしょうせつ"}],"senses":[["mystery novel","detective novel","whodunit"],["Detective fiction"]]},{"jlpt":[],"tags":["wanikani17"],"japanese":[{"word":"仮説","reading":"かせつ"}],"senses":[["hypothesis","supposition","assumption","tentative theory"],["Hypothesis"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"小説家","reading":"しょうせつか"}],"senses":[["novelist","fiction writer"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"力説","reading":"りきせつ"}],"senses":[["insistence","(major) emphasis","stress"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"論説","reading":"ろんせつ"}],"senses":[["editorial","dissertation"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"定説","reading":"ていせつ"}],"senses":[["established theory","accepted opinion","accepted explanation"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"遊説","reading":"ゆうぜい"}],"senses":[["election tour","election campaign","stumping"]]},{"jlpt":["jlpt-n4"],"tags":["wanikani17"],"japanese":[{"word":"小説","reading":"しょうせつ"}],"senses":[["novel","(short) story"],["Novel"]]},{"jlpt":["jlpt-n3"],"tags":[],"japanese":[{"word":"演説","reading":"えんぜつ"}],"senses":[["speech","address"],["Public speaking"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"社説","reading":"しゃせつ"}],"senses":[["editorial","leading article","leader"],["Editorial"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani17"],"japanese":[{"word":"伝説","reading":"でんせつ"}],"senses":[["tradition","legend","folklore"],["Legend"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani21"],"japanese":[{"word":"解説","reading":"かいせつ"}],"senses":[["explanation","commentary","exposition","elucidation"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"学説","reading":"がくせつ"}],"senses":[["theory"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"推理小説","reading":"すいりしょうせつ"}],"senses":[["mystery novel","detective novel","whodunit"],["Detective fiction"]]},{"jlpt":[],"tags":["wanikani17"],"japanese":[{"word":"仮説","reading":"かせつ"}],"senses":[["hypothesis","supposition","assumption","tentative theory"],["Hypothesis"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"小説家","reading":"しょうせつか"}],"senses":[["novelist","fiction writer"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"力説","reading":"りきせつ"}],"senses":[["insistence","(major) emphasis","stress"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"論説","reading":"ろんせつ"}],"senses":[["editorial","dissertation"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"定説","reading":"ていせつ"}],"senses":[["established theory","accepted opinion","accepted explanation"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"遊説","reading":"ゆうぜい"}],"senses":[["election tour","election campaign","stumping"]]}]}
+{
+  "basic": ["説", "Explanation", "538"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n4"],
+      "tags": ["wanikani17"],
+      "japanese": [{ "word": "小説", "reading": "しょうせつ" }],
+      "senses": [["novel", "(short) story"], ["Novel"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": [],
+      "japanese": [{ "word": "演説", "reading": "えんぜつ" }],
+      "senses": [["speech", "address"], ["Public speaking"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "社説", "reading": "しゃせつ" }],
+      "senses": [["editorial", "leading article", "leader"], ["Editorial"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani17"],
+      "japanese": [{ "word": "伝説", "reading": "でんせつ" }],
+      "senses": [["tradition", "legend", "folklore"], ["Legend"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani21"],
+      "japanese": [{ "word": "解説", "reading": "かいせつ" }],
+      "senses": [["explanation", "commentary", "exposition", "elucidation"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "学説", "reading": "がくせつ" }],
+      "senses": [["theory"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "推理小説", "reading": "すいりしょうせつ" }],
+      "senses": [
+        ["mystery novel", "detective novel", "whodunit"],
+        ["Detective fiction"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani17"],
+      "japanese": [{ "word": "仮説", "reading": "かせつ" }],
+      "senses": [
+        ["hypothesis", "supposition", "assumption", "tentative theory"],
+        ["Hypothesis"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "小説家", "reading": "しょうせつか" }],
+      "senses": [["novelist", "fiction writer"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "力説", "reading": "りきせつ" }],
+      "senses": [["insistence", "(major) emphasis", "stress"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "論説", "reading": "ろんせつ" }],
+      "senses": [["editorial", "dissertation"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "定説", "reading": "ていせつ" }],
+      "senses": [
+        ["established theory", "accepted opinion", "accepted explanation"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "遊説", "reading": "ゆうぜい" }],
+      "senses": [["election tour", "election campaign", "stumping"]]
+    },
+    {
+      "jlpt": ["jlpt-n4"],
+      "tags": ["wanikani17"],
+      "japanese": [{ "word": "小説", "reading": "しょうせつ" }],
+      "senses": [["novel", "(short) story"], ["Novel"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": [],
+      "japanese": [{ "word": "演説", "reading": "えんぜつ" }],
+      "senses": [["speech", "address"], ["Public speaking"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "社説", "reading": "しゃせつ" }],
+      "senses": [["editorial", "leading article", "leader"], ["Editorial"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani17"],
+      "japanese": [{ "word": "伝説", "reading": "でんせつ" }],
+      "senses": [["tradition", "legend", "folklore"], ["Legend"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani21"],
+      "japanese": [{ "word": "解説", "reading": "かいせつ" }],
+      "senses": [["explanation", "commentary", "exposition", "elucidation"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "学説", "reading": "がくせつ" }],
+      "senses": [["theory"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "推理小説", "reading": "すいりしょうせつ" }],
+      "senses": [
+        ["mystery novel", "detective novel", "whodunit"],
+        ["Detective fiction"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani17"],
+      "japanese": [{ "word": "仮説", "reading": "かせつ" }],
+      "senses": [
+        ["hypothesis", "supposition", "assumption", "tentative theory"],
+        ["Hypothesis"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "小説家", "reading": "しょうせつか" }],
+      "senses": [["novelist", "fiction writer"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "力説", "reading": "りきせつ" }],
+      "senses": [["insistence", "(major) emphasis", "stress"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "論説", "reading": "ろんせつ" }],
+      "senses": [["editorial", "dissertation"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "定説", "reading": "ていせつ" }],
+      "senses": [
+        ["established theory", "accepted opinion", "accepted explanation"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "遊説", "reading": "ゆうぜい" }],
+      "senses": [["election tour", "election campaign", "stumping"]]
+    }
+  ]
+}

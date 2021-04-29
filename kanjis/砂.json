@@ -1,1 +1,41 @@
-{"basic":["砂","SAND","122"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"サハラ砂漠","reading":"サハラさばく"},{"word":"サハラ沙漠","reading":"サハラさばく"}],"senses":[["Sahara Desert"],["Sahara"],["Sahara"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"土砂","reading":"どしゃ"},{"word":"土砂","reading":"どさ"}],"senses":[["sediment","earth and sand"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"サハラ砂漠","reading":"サハラさばく"},{"word":"サハラ沙漠","reading":"サハラさばく"}],"senses":[["Sahara Desert"],["Sahara"],["Sahara"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"土砂","reading":"どしゃ"},{"word":"土砂","reading":"どさ"}],"senses":[["sediment","earth and sand"]]}]}
+{
+  "basic": ["砂", "SAND", "122"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "サハラ砂漠", "reading": "サハラさばく" },
+        { "word": "サハラ沙漠", "reading": "サハラさばく" }
+      ],
+      "senses": [["Sahara Desert"], ["Sahara"], ["Sahara"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "土砂", "reading": "どしゃ" },
+        { "word": "土砂", "reading": "どさ" }
+      ],
+      "senses": [["sediment", "earth and sand"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "サハラ砂漠", "reading": "サハラさばく" },
+        { "word": "サハラ沙漠", "reading": "サハラさばく" }
+      ],
+      "senses": [["Sahara Desert"], ["Sahara"], ["Sahara"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "土砂", "reading": "どしゃ" },
+        { "word": "土砂", "reading": "どさ" }
+      ],
+      "senses": [["sediment", "earth and sand"]]
+    }
+  ]
+}

@@ -1,1 +1,23 @@
-{"basic":["抱","Embrace","697"],"extended":[{"jlpt":["jlpt-n1"],"tags":["wanikani44"],"japanese":[{"word":"辛抱","reading":"しんぼう"},{"word":"辛棒","reading":"しんぼう"}],"senses":[["patience","endurance"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani44"],"japanese":[{"word":"辛抱","reading":"しんぼう"},{"word":"辛棒","reading":"しんぼう"}],"senses":[["patience","endurance"]]}]}
+{
+  "basic": ["抱", "Embrace", "697"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani44"],
+      "japanese": [
+        { "word": "辛抱", "reading": "しんぼう" },
+        { "word": "辛棒", "reading": "しんぼう" }
+      ],
+      "senses": [["patience", "endurance"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani44"],
+      "japanese": [
+        { "word": "辛抱", "reading": "しんぼう" },
+        { "word": "辛棒", "reading": "しんぼう" }
+      ],
+      "senses": [["patience", "endurance"]]
+    }
+  ]
+}

@@ -1,1 +1,29 @@
-{"basic":["訓","Instruction","365"],"extended":[{"jlpt":["jlpt-n1"],"tags":["wanikani18"],"japanese":[{"word":"教訓","reading":"きょうくん"}],"senses":[["lesson","precept","teachings","moral"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"特訓","reading":"とっくん"}],"senses":[["special training","intensive training","crash course"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani18"],"japanese":[{"word":"教訓","reading":"きょうくん"}],"senses":[["lesson","precept","teachings","moral"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"特訓","reading":"とっくん"}],"senses":[["special training","intensive training","crash course"]]}]}
+{
+  "basic": ["訓", "Instruction", "365"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani18"],
+      "japanese": [{ "word": "教訓", "reading": "きょうくん" }],
+      "senses": [["lesson", "precept", "teachings", "moral"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "特訓", "reading": "とっくん" }],
+      "senses": [["special training", "intensive training", "crash course"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani18"],
+      "japanese": [{ "word": "教訓", "reading": "きょうくん" }],
+      "senses": [["lesson", "precept", "teachings", "moral"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "特訓", "reading": "とっくん" }],
+      "senses": [["special training", "intensive training", "crash course"]]
+    }
+  ]
+}

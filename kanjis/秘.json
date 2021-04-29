@@ -1,1 +1,53 @@
-{"basic":["秘","Secret","970"],"extended":[{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"神秘","reading":"しんぴ"}],"senses":[["mystery","mysteriousness","secret"],["Sacred mysteries"]]},{"jlpt":[],"tags":["wanikani32"],"japanese":[{"word":"便秘","reading":"べんぴ"}],"senses":[["constipation"],["Constipation"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"極秘","reading":"ごくひ"}],"senses":[["absolute secrecy"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"神秘的","reading":"しんぴてき"}],"senses":[["mysterious","mystical"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"神秘","reading":"しんぴ"}],"senses":[["mystery","mysteriousness","secret"],["Sacred mysteries"]]},{"jlpt":[],"tags":["wanikani32"],"japanese":[{"word":"便秘","reading":"べんぴ"}],"senses":[["constipation"],["Constipation"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"極秘","reading":"ごくひ"}],"senses":[["absolute secrecy"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"神秘的","reading":"しんぴてき"}],"senses":[["mysterious","mystical"]]}]}
+{
+  "basic": ["秘", "Secret", "970"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "神秘", "reading": "しんぴ" }],
+      "senses": [["mystery", "mysteriousness", "secret"], ["Sacred mysteries"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani32"],
+      "japanese": [{ "word": "便秘", "reading": "べんぴ" }],
+      "senses": [["constipation"], ["Constipation"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "極秘", "reading": "ごくひ" }],
+      "senses": [["absolute secrecy"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "神秘的", "reading": "しんぴてき" }],
+      "senses": [["mysterious", "mystical"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "神秘", "reading": "しんぴ" }],
+      "senses": [["mystery", "mysteriousness", "secret"], ["Sacred mysteries"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani32"],
+      "japanese": [{ "word": "便秘", "reading": "べんぴ" }],
+      "senses": [["constipation"], ["Constipation"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "極秘", "reading": "ごくひ" }],
+      "senses": [["absolute secrecy"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "神秘的", "reading": "しんぴてき" }],
+      "senses": [["mysterious", "mystical"]]
+    }
+  ]
+}

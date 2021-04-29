@@ -1,1 +1,33 @@
-{"basic":["昼","Daytime","1156"],"extended":[{"jlpt":["jlpt-n3"],"tags":[],"japanese":[{"word":"お昼","reading":"おひる"},{"word":"御昼","reading":"おひる"}],"senses":[["lunch"],["noon","midday"],["daytime"],["waking up","getting up","rising"]]},{"jlpt":["jlpt-n3"],"tags":[],"japanese":[{"word":"お昼","reading":"おひる"},{"word":"御昼","reading":"おひる"}],"senses":[["lunch"],["noon","midday"],["daytime"],["waking up","getting up","rising"]]}]}
+{
+  "basic": ["昼", "Daytime", "1156"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": [],
+      "japanese": [
+        { "word": "お昼", "reading": "おひる" },
+        { "word": "御昼", "reading": "おひる" }
+      ],
+      "senses": [
+        ["lunch"],
+        ["noon", "midday"],
+        ["daytime"],
+        ["waking up", "getting up", "rising"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": [],
+      "japanese": [
+        { "word": "お昼", "reading": "おひる" },
+        { "word": "御昼", "reading": "おひる" }
+      ],
+      "senses": [
+        ["lunch"],
+        ["noon", "midday"],
+        ["daytime"],
+        ["waking up", "getting up", "rising"]
+      ]
+    }
+  ]
+}

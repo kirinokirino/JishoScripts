@@ -1,1 +1,17 @@
-{"basic":["薦","Recommend","2156"],"extended":[{"jlpt":["jlpt-n3"],"tags":["wanikani34"],"japanese":[{"word":"推薦","reading":"すいせん"}],"senses":[["recommendation","referral","endorsement"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani34"],"japanese":[{"word":"推薦","reading":"すいせん"}],"senses":[["recommendation","referral","endorsement"]]}]}
+{
+  "basic": ["薦", "Recommend", "2156"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani34"],
+      "japanese": [{ "word": "推薦", "reading": "すいせん" }],
+      "senses": [["recommendation", "referral", "endorsement"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani34"],
+      "japanese": [{ "word": "推薦", "reading": "すいせん" }],
+      "senses": [["recommendation", "referral", "endorsement"]]
+    }
+  ]
+}

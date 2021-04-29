@@ -1,1 +1,189 @@
-{"basic":["思","Think","651"],"extended":[{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"片思い","reading":"かたおもい"},{"word":"片想い","reading":"かたおもい"}],"senses":[["unrequited love"],["Unrequited love"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani20"],"japanese":[{"word":"不思議","reading":"ふしぎ"}],"senses":[["wonderful","marvelous","strange","incredible","amazing","curious","miraculous","mysterious"],["strangely enough","oddly enough","for some reason","curiously"]]},{"jlpt":["jlpt-n3"],"tags":[],"japanese":[{"word":"意思","reading":"いし"}],"senses":[["intention","wish","purpose","mind (to do)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"意思決定","reading":"いしけってい"},{"word":"意志決定","reading":"いしけってい"}],"senses":[["decision-making"],["Decision making"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"意思疎通","reading":"いしそつう"},{"word":"意志疎通","reading":"いしそつう"}],"senses":[["(coming to a) mutual understanding","understanding each other"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"意思表示","reading":"いしひょうじ"},{"word":"意志表示","reading":"いしひょうじ"}],"senses":[["expressing one's feelings","communicating one's intention"],["declaration of intent"],["Intention"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"思い思い","reading":"おもいおもい"}],"senses":[["just as (each) one likes","as (each) one pleases","as (each) one prefers","(each) in one's own way"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"成吉思汗","reading":"ジンギスかん"},{"word":"ジンギス汗","reading":"ジンギスかん"},{"reading":"ジンギスカン"}],"senses":[["jingisukan","grilled mutton and vegetable dish"],["slotted dome cast iron grill (used for jingisukan)"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"片思い","reading":"かたおもい"},{"word":"片想い","reading":"かたおもい"}],"senses":[["unrequited love"],["Unrequited love"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani20"],"japanese":[{"word":"不思議","reading":"ふしぎ"}],"senses":[["wonderful","marvelous","strange","incredible","amazing","curious","miraculous","mysterious"],["strangely enough","oddly enough","for some reason","curiously"]]},{"jlpt":["jlpt-n3"],"tags":[],"japanese":[{"word":"意思","reading":"いし"}],"senses":[["intention","wish","purpose","mind (to do)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"意思決定","reading":"いしけってい"},{"word":"意志決定","reading":"いしけってい"}],"senses":[["decision-making"],["Decision making"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"意思疎通","reading":"いしそつう"},{"word":"意志疎通","reading":"いしそつう"}],"senses":[["(coming to a) mutual understanding","understanding each other"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"意思表示","reading":"いしひょうじ"},{"word":"意志表示","reading":"いしひょうじ"}],"senses":[["expressing one's feelings","communicating one's intention"],["declaration of intent"],["Intention"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"思い思い","reading":"おもいおもい"}],"senses":[["just as (each) one likes","as (each) one pleases","as (each) one prefers","(each) in one's own way"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"成吉思汗","reading":"ジンギスかん"},{"word":"ジンギス汗","reading":"ジンギスかん"},{"reading":"ジンギスカン"}],"senses":[["jingisukan","grilled mutton and vegetable dish"],["slotted dome cast iron grill (used for jingisukan)"]]}]}
+{
+  "basic": ["思", "Think", "651"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "片思い", "reading": "かたおもい" },
+        { "word": "片想い", "reading": "かたおもい" }
+      ],
+      "senses": [["unrequited love"], ["Unrequited love"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani20"],
+      "japanese": [{ "word": "不思議", "reading": "ふしぎ" }],
+      "senses": [
+        [
+          "wonderful",
+          "marvelous",
+          "strange",
+          "incredible",
+          "amazing",
+          "curious",
+          "miraculous",
+          "mysterious"
+        ],
+        ["strangely enough", "oddly enough", "for some reason", "curiously"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": [],
+      "japanese": [{ "word": "意思", "reading": "いし" }],
+      "senses": [["intention", "wish", "purpose", "mind (to do)"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "意思決定", "reading": "いしけってい" },
+        { "word": "意志決定", "reading": "いしけってい" }
+      ],
+      "senses": [["decision-making"], ["Decision making"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "意思疎通", "reading": "いしそつう" },
+        { "word": "意志疎通", "reading": "いしそつう" }
+      ],
+      "senses": [
+        ["(coming to a) mutual understanding", "understanding each other"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "意思表示", "reading": "いしひょうじ" },
+        { "word": "意志表示", "reading": "いしひょうじ" }
+      ],
+      "senses": [
+        ["expressing one's feelings", "communicating one's intention"],
+        ["declaration of intent"],
+        ["Intention"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "思い思い", "reading": "おもいおもい" }],
+      "senses": [
+        [
+          "just as (each) one likes",
+          "as (each) one pleases",
+          "as (each) one prefers",
+          "(each) in one's own way"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "成吉思汗", "reading": "ジンギスかん" },
+        { "word": "ジンギス汗", "reading": "ジンギスかん" },
+        { "reading": "ジンギスカン" }
+      ],
+      "senses": [
+        ["jingisukan", "grilled mutton and vegetable dish"],
+        ["slotted dome cast iron grill (used for jingisukan)"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "片思い", "reading": "かたおもい" },
+        { "word": "片想い", "reading": "かたおもい" }
+      ],
+      "senses": [["unrequited love"], ["Unrequited love"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani20"],
+      "japanese": [{ "word": "不思議", "reading": "ふしぎ" }],
+      "senses": [
+        [
+          "wonderful",
+          "marvelous",
+          "strange",
+          "incredible",
+          "amazing",
+          "curious",
+          "miraculous",
+          "mysterious"
+        ],
+        ["strangely enough", "oddly enough", "for some reason", "curiously"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": [],
+      "japanese": [{ "word": "意思", "reading": "いし" }],
+      "senses": [["intention", "wish", "purpose", "mind (to do)"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "意思決定", "reading": "いしけってい" },
+        { "word": "意志決定", "reading": "いしけってい" }
+      ],
+      "senses": [["decision-making"], ["Decision making"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "意思疎通", "reading": "いしそつう" },
+        { "word": "意志疎通", "reading": "いしそつう" }
+      ],
+      "senses": [
+        ["(coming to a) mutual understanding", "understanding each other"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "意思表示", "reading": "いしひょうじ" },
+        { "word": "意志表示", "reading": "いしひょうじ" }
+      ],
+      "senses": [
+        ["expressing one's feelings", "communicating one's intention"],
+        ["declaration of intent"],
+        ["Intention"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "思い思い", "reading": "おもいおもい" }],
+      "senses": [
+        [
+          "just as (each) one likes",
+          "as (each) one pleases",
+          "as (each) one prefers",
+          "(each) in one's own way"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "成吉思汗", "reading": "ジンギスかん" },
+        { "word": "ジンギス汗", "reading": "ジンギスかん" },
+        { "reading": "ジンギスカン" }
+      ],
+      "senses": [
+        ["jingisukan", "grilled mutton and vegetable dish"],
+        ["slotted dome cast iron grill (used for jingisukan)"]
+      ]
+    }
+  ]
+}

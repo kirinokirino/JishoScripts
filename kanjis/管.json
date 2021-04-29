@@ -1,1 +1,181 @@
-{"basic":["管","Pipe","1365"],"extended":[{"jlpt":["jlpt-n1"],"tags":["wanikani24"],"japanese":[{"word":"血管","reading":"けっかん"}],"senses":[["blood vessel","vein"],["Blood vessel"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"保管","reading":"ほかん"}],"senses":[["charge","custody","safekeeping","deposit","storage"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"只管","reading":"ひたすら"},{"word":"一向","reading":"ひたすら"},{"word":"頓","reading":"ひたすら"}],"senses":[["intently","single-mindedly","devotedly","solely","earnestly","with all one's heart"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"所管","reading":"しょかん"}],"senses":[["jurisdiction"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"ブラウン管","reading":"ブラウンかん"}],"senses":[["cathode-ray tube","CRT","Braun tube"],["Cathode ray tube"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"配管","reading":"はいかん"}],"senses":[["plumbing","piping"],["Plumbing"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"主管","reading":"しゅかん"}],"senses":[["supervision","management","supervisor","manager"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"気管支","reading":"きかんし"}],"senses":[["bronchial tube"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"移管","reading":"いかん"}],"senses":[["transfer of control"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"食管法","reading":"しょっかんほう"}],"senses":[["law governing food quality"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"入国管理局","reading":"にゅうこくかんりきょく"}],"senses":[["Immigration Bureau","Immigration Office"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"自己管理","reading":"じこかんり"}],"senses":[["taking care of something by oneself","self-management"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani24"],"japanese":[{"word":"血管","reading":"けっかん"}],"senses":[["blood vessel","vein"],["Blood vessel"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"保管","reading":"ほかん"}],"senses":[["charge","custody","safekeeping","deposit","storage"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"只管","reading":"ひたすら"},{"word":"一向","reading":"ひたすら"},{"word":"頓","reading":"ひたすら"}],"senses":[["intently","single-mindedly","devotedly","solely","earnestly","with all one's heart"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"所管","reading":"しょかん"}],"senses":[["jurisdiction"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"ブラウン管","reading":"ブラウンかん"}],"senses":[["cathode-ray tube","CRT","Braun tube"],["Cathode ray tube"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"配管","reading":"はいかん"}],"senses":[["plumbing","piping"],["Plumbing"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"主管","reading":"しゅかん"}],"senses":[["supervision","management","supervisor","manager"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"気管支","reading":"きかんし"}],"senses":[["bronchial tube"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"移管","reading":"いかん"}],"senses":[["transfer of control"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"食管法","reading":"しょっかんほう"}],"senses":[["law governing food quality"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"入国管理局","reading":"にゅうこくかんりきょく"}],"senses":[["Immigration Bureau","Immigration Office"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"自己管理","reading":"じこかんり"}],"senses":[["taking care of something by oneself","self-management"]]}]}
+{
+  "basic": ["管", "Pipe", "1365"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani24"],
+      "japanese": [{ "word": "血管", "reading": "けっかん" }],
+      "senses": [["blood vessel", "vein"], ["Blood vessel"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "保管", "reading": "ほかん" }],
+      "senses": [["charge", "custody", "safekeeping", "deposit", "storage"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "只管", "reading": "ひたすら" },
+        { "word": "一向", "reading": "ひたすら" },
+        { "word": "頓", "reading": "ひたすら" }
+      ],
+      "senses": [
+        [
+          "intently",
+          "single-mindedly",
+          "devotedly",
+          "solely",
+          "earnestly",
+          "with all one's heart"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "所管", "reading": "しょかん" }],
+      "senses": [["jurisdiction"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "ブラウン管", "reading": "ブラウンかん" }],
+      "senses": [
+        ["cathode-ray tube", "CRT", "Braun tube"],
+        ["Cathode ray tube"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "配管", "reading": "はいかん" }],
+      "senses": [["plumbing", "piping"], ["Plumbing"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "主管", "reading": "しゅかん" }],
+      "senses": [["supervision", "management", "supervisor", "manager"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "気管支", "reading": "きかんし" }],
+      "senses": [["bronchial tube"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "移管", "reading": "いかん" }],
+      "senses": [["transfer of control"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "食管法", "reading": "しょっかんほう" }],
+      "senses": [["law governing food quality"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "入国管理局", "reading": "にゅうこくかんりきょく" }],
+      "senses": [["Immigration Bureau", "Immigration Office"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "自己管理", "reading": "じこかんり" }],
+      "senses": [["taking care of something by oneself", "self-management"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani24"],
+      "japanese": [{ "word": "血管", "reading": "けっかん" }],
+      "senses": [["blood vessel", "vein"], ["Blood vessel"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "保管", "reading": "ほかん" }],
+      "senses": [["charge", "custody", "safekeeping", "deposit", "storage"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "只管", "reading": "ひたすら" },
+        { "word": "一向", "reading": "ひたすら" },
+        { "word": "頓", "reading": "ひたすら" }
+      ],
+      "senses": [
+        [
+          "intently",
+          "single-mindedly",
+          "devotedly",
+          "solely",
+          "earnestly",
+          "with all one's heart"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "所管", "reading": "しょかん" }],
+      "senses": [["jurisdiction"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "ブラウン管", "reading": "ブラウンかん" }],
+      "senses": [
+        ["cathode-ray tube", "CRT", "Braun tube"],
+        ["Cathode ray tube"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "配管", "reading": "はいかん" }],
+      "senses": [["plumbing", "piping"], ["Plumbing"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "主管", "reading": "しゅかん" }],
+      "senses": [["supervision", "management", "supervisor", "manager"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "気管支", "reading": "きかんし" }],
+      "senses": [["bronchial tube"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "移管", "reading": "いかん" }],
+      "senses": [["transfer of control"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "食管法", "reading": "しょっかんほう" }],
+      "senses": [["law governing food quality"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "入国管理局", "reading": "にゅうこくかんりきょく" }],
+      "senses": [["Immigration Bureau", "Immigration Office"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "自己管理", "reading": "じこかんり" }],
+      "senses": [["taking care of something by oneself", "self-management"]]
+    }
+  ]
+}

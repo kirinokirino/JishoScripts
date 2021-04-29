@@ -1,1 +1,43 @@
-{"basic":["堀","Ditch","1142"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"根掘り葉掘り","reading":"ねほりはほり"},{"word":"根ほり葉ほり","reading":"ねほりはほり"},{"word":"根堀り葉堀り","reading":"ねほりはほり"}],"senses":[["inquisitively","pryingly","nosily","thoroughly","persistently","through-and-through"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"根掘り葉掘り","reading":"ねほりはほり"},{"word":"根ほり葉ほり","reading":"ねほりはほり"},{"word":"根堀り葉堀り","reading":"ねほりはほり"}],"senses":[["inquisitively","pryingly","nosily","thoroughly","persistently","through-and-through"]]}]}
+{
+  "basic": ["堀", "Ditch", "1142"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "根掘り葉掘り", "reading": "ねほりはほり" },
+        { "word": "根ほり葉ほり", "reading": "ねほりはほり" },
+        { "word": "根堀り葉堀り", "reading": "ねほりはほり" }
+      ],
+      "senses": [
+        [
+          "inquisitively",
+          "pryingly",
+          "nosily",
+          "thoroughly",
+          "persistently",
+          "through-and-through"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "根掘り葉掘り", "reading": "ねほりはほり" },
+        { "word": "根ほり葉ほり", "reading": "ねほりはほり" },
+        { "word": "根堀り葉堀り", "reading": "ねほりはほり" }
+      ],
+      "senses": [
+        [
+          "inquisitively",
+          "pryingly",
+          "nosily",
+          "thoroughly",
+          "persistently",
+          "through-and-through"
+        ]
+      ]
+    }
+  ]
+}

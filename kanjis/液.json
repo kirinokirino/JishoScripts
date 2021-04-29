@@ -1,1 +1,53 @@
-{"basic":["液","Fluid","1116"],"extended":[{"jlpt":["jlpt-n2"],"tags":["wanikani32"],"japanese":[{"word":"血液","reading":"けつえき"}],"senses":[["blood"],["Blood"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"溶液","reading":"ようえき"}],"senses":[["solution (liquid)"],["Solution"]]},{"jlpt":[],"tags":["wanikani34"],"japanese":[{"word":"血液型","reading":"けつえきがた"}],"senses":[["blood type","blood group"],["Blood type"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"血液検査","reading":"けつえきけんさ"}],"senses":[["blood test","hemanalysis"],["Blood test"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani32"],"japanese":[{"word":"血液","reading":"けつえき"}],"senses":[["blood"],["Blood"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"溶液","reading":"ようえき"}],"senses":[["solution (liquid)"],["Solution"]]},{"jlpt":[],"tags":["wanikani34"],"japanese":[{"word":"血液型","reading":"けつえきがた"}],"senses":[["blood type","blood group"],["Blood type"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"血液検査","reading":"けつえきけんさ"}],"senses":[["blood test","hemanalysis"],["Blood test"]]}]}
+{
+  "basic": ["液", "Fluid", "1116"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani32"],
+      "japanese": [{ "word": "血液", "reading": "けつえき" }],
+      "senses": [["blood"], ["Blood"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "溶液", "reading": "ようえき" }],
+      "senses": [["solution (liquid)"], ["Solution"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani34"],
+      "japanese": [{ "word": "血液型", "reading": "けつえきがた" }],
+      "senses": [["blood type", "blood group"], ["Blood type"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "血液検査", "reading": "けつえきけんさ" }],
+      "senses": [["blood test", "hemanalysis"], ["Blood test"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani32"],
+      "japanese": [{ "word": "血液", "reading": "けつえき" }],
+      "senses": [["blood"], ["Blood"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "溶液", "reading": "ようえき" }],
+      "senses": [["solution (liquid)"], ["Solution"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani34"],
+      "japanese": [{ "word": "血液型", "reading": "けつえきがた" }],
+      "senses": [["blood type", "blood group"], ["Blood type"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "血液検査", "reading": "けつえきけんさ" }],
+      "senses": [["blood test", "hemanalysis"], ["Blood test"]]
+    }
+  ]
+}

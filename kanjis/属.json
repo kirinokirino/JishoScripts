@@ -1,1 +1,241 @@
-{"basic":["属","Belong","2103"],"extended":[{"jlpt":["jlpt-n3"],"tags":["wanikani25"],"japanese":[{"word":"金属","reading":"きんぞく"},{"word":"金ぞく","reading":"きんぞく"}],"senses":[["metal"],["Kinzoku"],["Metal"]]},{"jlpt":["jlpt-n2","jlpt-n1"],"tags":[],"japanese":[{"word":"付属","reading":"ふぞく"},{"word":"附属","reading":"ふぞく"}],"senses":[["attached","belonging (to)","included","enclosed","affiliated","annexed","associated","subordinate","incidental","dependent","auxiliary"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani25"],"japanese":[{"word":"所属","reading":"しょぞく"}],"senses":[["belonging to (a group, organization, etc.)","affiliation (with)","being attached to","being under the control of"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"帰属","reading":"きぞく"}],"senses":[["belonging","ascription","attribution","imputation","possession","jurisdiction"],["reversion","return","restoration"],["Attribution (psychology)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"無所属","reading":"むしょぞく"}],"senses":[["independent (esp. in politics)","non-partisan"],["Independent (politician)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"直属","reading":"ちょくぞく"}],"senses":[["direct control","direct supervision"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"専属","reading":"せんぞく"}],"senses":[["exclusive","attached to","specialist"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"従属","reading":"じゅうぞく"}],"senses":[["subordination","dependency"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"配属","reading":"はいぞく"}],"senses":[["assignment (of a person to somewhere)","attachment (of a person to another unit, organization, etc.)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"非鉄金属","reading":"ひてつきんぞく"}],"senses":[["nonferrous metals"],["Non-ferrous metal"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"貴金属","reading":"ききんぞく"}],"senses":[["precious metal"],["Precious metal"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"軍属","reading":"ぐんぞく"}],"senses":[["civilian in military employ"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani25"],"japanese":[{"word":"金属","reading":"きんぞく"},{"word":"金ぞく","reading":"きんぞく"}],"senses":[["metal"],["Kinzoku"],["Metal"]]},{"jlpt":["jlpt-n2","jlpt-n1"],"tags":[],"japanese":[{"word":"付属","reading":"ふぞく"},{"word":"附属","reading":"ふぞく"}],"senses":[["attached","belonging (to)","included","enclosed","affiliated","annexed","associated","subordinate","incidental","dependent","auxiliary"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani25"],"japanese":[{"word":"所属","reading":"しょぞく"}],"senses":[["belonging to (a group, organization, etc.)","affiliation (with)","being attached to","being under the control of"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"帰属","reading":"きぞく"}],"senses":[["belonging","ascription","attribution","imputation","possession","jurisdiction"],["reversion","return","restoration"],["Attribution (psychology)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"無所属","reading":"むしょぞく"}],"senses":[["independent (esp. in politics)","non-partisan"],["Independent (politician)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"直属","reading":"ちょくぞく"}],"senses":[["direct control","direct supervision"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"専属","reading":"せんぞく"}],"senses":[["exclusive","attached to","specialist"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"従属","reading":"じゅうぞく"}],"senses":[["subordination","dependency"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"配属","reading":"はいぞく"}],"senses":[["assignment (of a person to somewhere)","attachment (of a person to another unit, organization, etc.)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"非鉄金属","reading":"ひてつきんぞく"}],"senses":[["nonferrous metals"],["Non-ferrous metal"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"貴金属","reading":"ききんぞく"}],"senses":[["precious metal"],["Precious metal"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"軍属","reading":"ぐんぞく"}],"senses":[["civilian in military employ"]]}]}
+{
+  "basic": ["属", "Belong", "2103"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani25"],
+      "japanese": [
+        { "word": "金属", "reading": "きんぞく" },
+        { "word": "金ぞく", "reading": "きんぞく" }
+      ],
+      "senses": [["metal"], ["Kinzoku"], ["Metal"]]
+    },
+    {
+      "jlpt": ["jlpt-n2", "jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "付属", "reading": "ふぞく" },
+        { "word": "附属", "reading": "ふぞく" }
+      ],
+      "senses": [
+        [
+          "attached",
+          "belonging (to)",
+          "included",
+          "enclosed",
+          "affiliated",
+          "annexed",
+          "associated",
+          "subordinate",
+          "incidental",
+          "dependent",
+          "auxiliary"
+        ]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani25"],
+      "japanese": [{ "word": "所属", "reading": "しょぞく" }],
+      "senses": [
+        [
+          "belonging to (a group, organization, etc.)",
+          "affiliation (with)",
+          "being attached to",
+          "being under the control of"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "帰属", "reading": "きぞく" }],
+      "senses": [
+        [
+          "belonging",
+          "ascription",
+          "attribution",
+          "imputation",
+          "possession",
+          "jurisdiction"
+        ],
+        ["reversion", "return", "restoration"],
+        ["Attribution (psychology)"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "無所属", "reading": "むしょぞく" }],
+      "senses": [
+        ["independent (esp. in politics)", "non-partisan"],
+        ["Independent (politician)"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "直属", "reading": "ちょくぞく" }],
+      "senses": [["direct control", "direct supervision"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "専属", "reading": "せんぞく" }],
+      "senses": [["exclusive", "attached to", "specialist"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "従属", "reading": "じゅうぞく" }],
+      "senses": [["subordination", "dependency"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "配属", "reading": "はいぞく" }],
+      "senses": [
+        [
+          "assignment (of a person to somewhere)",
+          "attachment (of a person to another unit, organization, etc.)"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "非鉄金属", "reading": "ひてつきんぞく" }],
+      "senses": [["nonferrous metals"], ["Non-ferrous metal"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "貴金属", "reading": "ききんぞく" }],
+      "senses": [["precious metal"], ["Precious metal"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "軍属", "reading": "ぐんぞく" }],
+      "senses": [["civilian in military employ"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani25"],
+      "japanese": [
+        { "word": "金属", "reading": "きんぞく" },
+        { "word": "金ぞく", "reading": "きんぞく" }
+      ],
+      "senses": [["metal"], ["Kinzoku"], ["Metal"]]
+    },
+    {
+      "jlpt": ["jlpt-n2", "jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "付属", "reading": "ふぞく" },
+        { "word": "附属", "reading": "ふぞく" }
+      ],
+      "senses": [
+        [
+          "attached",
+          "belonging (to)",
+          "included",
+          "enclosed",
+          "affiliated",
+          "annexed",
+          "associated",
+          "subordinate",
+          "incidental",
+          "dependent",
+          "auxiliary"
+        ]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani25"],
+      "japanese": [{ "word": "所属", "reading": "しょぞく" }],
+      "senses": [
+        [
+          "belonging to (a group, organization, etc.)",
+          "affiliation (with)",
+          "being attached to",
+          "being under the control of"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "帰属", "reading": "きぞく" }],
+      "senses": [
+        [
+          "belonging",
+          "ascription",
+          "attribution",
+          "imputation",
+          "possession",
+          "jurisdiction"
+        ],
+        ["reversion", "return", "restoration"],
+        ["Attribution (psychology)"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "無所属", "reading": "むしょぞく" }],
+      "senses": [
+        ["independent (esp. in politics)", "non-partisan"],
+        ["Independent (politician)"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "直属", "reading": "ちょくぞく" }],
+      "senses": [["direct control", "direct supervision"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "専属", "reading": "せんぞく" }],
+      "senses": [["exclusive", "attached to", "specialist"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "従属", "reading": "じゅうぞく" }],
+      "senses": [["subordination", "dependency"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "配属", "reading": "はいぞく" }],
+      "senses": [
+        [
+          "assignment (of a person to somewhere)",
+          "attachment (of a person to another unit, organization, etc.)"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "非鉄金属", "reading": "ひてつきんぞく" }],
+      "senses": [["nonferrous metals"], ["Non-ferrous metal"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "貴金属", "reading": "ききんぞく" }],
+      "senses": [["precious metal"], ["Precious metal"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "軍属", "reading": "ぐんぞく" }],
+      "senses": [["civilian in military employ"]]
+    }
+  ]
+}

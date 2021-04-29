@@ -1,1 +1,191 @@
-{"basic":["平","Even","1596"],"extended":[{"jlpt":["jlpt-n3"],"tags":[],"japanese":[{"word":"公平","reading":"こうへい"}],"senses":[["fairness","impartiality","justice","objectivity"],["Impartiality"]]},{"jlpt":["jlpt-n3"],"tags":[],"japanese":[{"word":"地平線","reading":"ちへいせん"}],"senses":[["horizon (related to land)"],["Horizon"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"水平","reading":"すいへい"}],"senses":[["horizontal","level","even"],["Horizontal plane"]]},{"jlpt":["jlpt-n3"],"tags":[],"japanese":[{"word":"不平","reading":"ふへい"}],"senses":[["discontent","dissatisfaction","complaint","grievance"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"水平線","reading":"すいへいせん"}],"senses":[["horizon (related to bodies of water)"]]},{"jlpt":[],"tags":["wanikani11"],"japanese":[{"word":"太平洋","reading":"たいへいよう"},{"word":"大平洋","reading":"たいへいよう"}],"senses":[["Pacific Ocean"],["Taiheiyou"],["Pacific Ocean"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"不公平","reading":"ふこうへい"}],"senses":[["unfairness","injustice","partiality"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani47"],"japanese":[{"word":"手のひら","reading":"てのひら"},{"word":"掌","reading":"てのひら"},{"word":"手の平","reading":"てのひら"},{"word":"掌","reading":"たなごころ"},{"word":"掌","reading":"しょう"}],"senses":[["palm (of one's hand)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"太平洋戦争","reading":"たいへいようせんそう"}],"senses":[["Pacific War (1941-1945)"],["Pacific War"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"不平等","reading":"ふびょうどう"}],"senses":[["inequality","unfairness"],["Economic inequality"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"移動平均","reading":"いどうへいきん"}],"senses":[["moving average"],["Moving average"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"和平","reading":"わへい"}],"senses":[["peace"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"ダウ平均株価","reading":"ダウへいきんかぶか"}],"senses":[["Dow-Jones average (New York Stock Exchange)"],["Dow Jones Industrial Average"]]},{"jlpt":["jlpt-n3"],"tags":[],"japanese":[{"word":"公平","reading":"こうへい"}],"senses":[["fairness","impartiality","justice","objectivity"],["Impartiality"]]},{"jlpt":["jlpt-n3"],"tags":[],"japanese":[{"word":"地平線","reading":"ちへいせん"}],"senses":[["horizon (related to land)"],["Horizon"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"水平","reading":"すいへい"}],"senses":[["horizontal","level","even"],["Horizontal plane"]]},{"jlpt":["jlpt-n3"],"tags":[],"japanese":[{"word":"不平","reading":"ふへい"}],"senses":[["discontent","dissatisfaction","complaint","grievance"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"水平線","reading":"すいへいせん"}],"senses":[["horizon (related to bodies of water)"]]},{"jlpt":[],"tags":["wanikani11"],"japanese":[{"word":"太平洋","reading":"たいへいよう"},{"word":"大平洋","reading":"たいへいよう"}],"senses":[["Pacific Ocean"],["Taiheiyou"],["Pacific Ocean"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"不公平","reading":"ふこうへい"}],"senses":[["unfairness","injustice","partiality"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani47"],"japanese":[{"word":"手のひら","reading":"てのひら"},{"word":"掌","reading":"てのひら"},{"word":"手の平","reading":"てのひら"},{"word":"掌","reading":"たなごころ"},{"word":"掌","reading":"しょう"}],"senses":[["palm (of one's hand)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"太平洋戦争","reading":"たいへいようせんそう"}],"senses":[["Pacific War (1941-1945)"],["Pacific War"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"不平等","reading":"ふびょうどう"}],"senses":[["inequality","unfairness"],["Economic inequality"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"移動平均","reading":"いどうへいきん"}],"senses":[["moving average"],["Moving average"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"和平","reading":"わへい"}],"senses":[["peace"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"ダウ平均株価","reading":"ダウへいきんかぶか"}],"senses":[["Dow-Jones average (New York Stock Exchange)"],["Dow Jones Industrial Average"]]}]}
+{
+  "basic": ["平", "Even", "1596"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": [],
+      "japanese": [{ "word": "公平", "reading": "こうへい" }],
+      "senses": [
+        ["fairness", "impartiality", "justice", "objectivity"],
+        ["Impartiality"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": [],
+      "japanese": [{ "word": "地平線", "reading": "ちへいせん" }],
+      "senses": [["horizon (related to land)"], ["Horizon"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "水平", "reading": "すいへい" }],
+      "senses": [["horizontal", "level", "even"], ["Horizontal plane"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": [],
+      "japanese": [{ "word": "不平", "reading": "ふへい" }],
+      "senses": [["discontent", "dissatisfaction", "complaint", "grievance"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "水平線", "reading": "すいへいせん" }],
+      "senses": [["horizon (related to bodies of water)"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani11"],
+      "japanese": [
+        { "word": "太平洋", "reading": "たいへいよう" },
+        { "word": "大平洋", "reading": "たいへいよう" }
+      ],
+      "senses": [["Pacific Ocean"], ["Taiheiyou"], ["Pacific Ocean"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "不公平", "reading": "ふこうへい" }],
+      "senses": [["unfairness", "injustice", "partiality"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani47"],
+      "japanese": [
+        { "word": "手のひら", "reading": "てのひら" },
+        { "word": "掌", "reading": "てのひら" },
+        { "word": "手の平", "reading": "てのひら" },
+        { "word": "掌", "reading": "たなごころ" },
+        { "word": "掌", "reading": "しょう" }
+      ],
+      "senses": [["palm (of one's hand)"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "太平洋戦争", "reading": "たいへいようせんそう" }],
+      "senses": [["Pacific War (1941-1945)"], ["Pacific War"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "不平等", "reading": "ふびょうどう" }],
+      "senses": [["inequality", "unfairness"], ["Economic inequality"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "移動平均", "reading": "いどうへいきん" }],
+      "senses": [["moving average"], ["Moving average"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "和平", "reading": "わへい" }],
+      "senses": [["peace"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "ダウ平均株価", "reading": "ダウへいきんかぶか" }],
+      "senses": [
+        ["Dow-Jones average (New York Stock Exchange)"],
+        ["Dow Jones Industrial Average"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": [],
+      "japanese": [{ "word": "公平", "reading": "こうへい" }],
+      "senses": [
+        ["fairness", "impartiality", "justice", "objectivity"],
+        ["Impartiality"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": [],
+      "japanese": [{ "word": "地平線", "reading": "ちへいせん" }],
+      "senses": [["horizon (related to land)"], ["Horizon"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "水平", "reading": "すいへい" }],
+      "senses": [["horizontal", "level", "even"], ["Horizontal plane"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": [],
+      "japanese": [{ "word": "不平", "reading": "ふへい" }],
+      "senses": [["discontent", "dissatisfaction", "complaint", "grievance"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "水平線", "reading": "すいへいせん" }],
+      "senses": [["horizon (related to bodies of water)"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani11"],
+      "japanese": [
+        { "word": "太平洋", "reading": "たいへいよう" },
+        { "word": "大平洋", "reading": "たいへいよう" }
+      ],
+      "senses": [["Pacific Ocean"], ["Taiheiyou"], ["Pacific Ocean"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "不公平", "reading": "ふこうへい" }],
+      "senses": [["unfairness", "injustice", "partiality"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani47"],
+      "japanese": [
+        { "word": "手のひら", "reading": "てのひら" },
+        { "word": "掌", "reading": "てのひら" },
+        { "word": "手の平", "reading": "てのひら" },
+        { "word": "掌", "reading": "たなごころ" },
+        { "word": "掌", "reading": "しょう" }
+      ],
+      "senses": [["palm (of one's hand)"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "太平洋戦争", "reading": "たいへいようせんそう" }],
+      "senses": [["Pacific War (1941-1945)"], ["Pacific War"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "不平等", "reading": "ふびょうどう" }],
+      "senses": [["inequality", "unfairness"], ["Economic inequality"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "移動平均", "reading": "いどうへいきん" }],
+      "senses": [["moving average"], ["Moving average"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "和平", "reading": "わへい" }],
+      "senses": [["peace"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "ダウ平均株価", "reading": "ダウへいきんかぶか" }],
+      "senses": [
+        ["Dow-Jones average (New York Stock Exchange)"],
+        ["Dow Jones Industrial Average"]
+      ]
+    }
+  ]
+}

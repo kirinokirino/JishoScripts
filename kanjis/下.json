@@ -1,1 +1,695 @@
-{"basic":["下","Below","51"],"extended":[{"jlpt":["jlpt-n5"],"tags":["wanikani10"],"japanese":[{"word":"地下鉄","reading":"ちかてつ"}],"senses":[["underground train","subway"],["Rapid transit"]]},{"jlpt":["jlpt-n5"],"tags":["wanikani27"],"japanese":[{"word":"靴下","reading":"くつした"},{"word":"くつ下","reading":"くつした"},{"word":"沓下","reading":"くつした"}],"senses":[["socks","sock","stockings","stocking"],["Sock"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani6"],"japanese":[{"word":"地下","reading":"ちか"}],"senses":[["underground","below the ground"],["world of the dead","the grave"],["underground (activities, movement, etc.)","secret","illegal","in hiding"],["Subterranea (geography)"]]},{"jlpt":["jlpt-n5"],"tags":["wanikani31"],"japanese":[{"word":"廊下","reading":"ろうか"}],"senses":[["corridor","hallway","passageway"]]},{"jlpt":["jlpt-n4"],"tags":["wanikani7"],"japanese":[{"word":"以下","reading":"いか"},{"word":"以下","reading":"いげ"},{"word":"已下","reading":"いか"},{"word":"已下","reading":"いげ"}],"senses":[["not exceeding","and downward","... and below"],["below (e.g. standard)","under (e.g. a level)"],["the below-mentioned","the following","the rest"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"低下","reading":"ていか"}],"senses":[["fall","decline","lowering","deterioration","degradation"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"上下","reading":"じょうげ"}],"senses":[["top and bottom","high and low","above and below","upper and lower ends","up and down"],["going up and down","rising and falling","fluctuating"],["going and coming back"],["upper and lower classes","ruler and ruled","the government and the people"],["first and second volumes"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"見下ろす","reading":"みおろす"},{"word":"見おろす","reading":"みおろす"}],"senses":[["to overlook","to command a view of","to look down on"],["to despise","to look down on"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"部下","reading":"ぶか"}],"senses":[["subordinate person"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"引き下げる","reading":"ひきさげる"},{"word":"引下げる","reading":"ひきさげる"}],"senses":[["to pull down","to lower","to reduce","to withdraw"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"落下","reading":"らっか"}],"senses":[["fall","drop","descent","coming down"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"地下室","reading":"ちかしつ"}],"senses":[["cellar","basement"],["Basement"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"天下","reading":"てんか"},{"word":"天下","reading":"てんが"},{"word":"天下","reading":"てんげ"}],"senses":[["the whole world"],["the whole country"],["society","the public"],["supremacy over a nation","government of a country","the ruling power"],["having one's own way","doing as one pleases"],["peerless","incomparable","superlative","world-famous"],["shogun (Edo period)"],["Tianxia"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"地下道","reading":"ちかどう"}],"senses":[["subterranean tunnel"],["Subway (underpass)"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"目下","reading":"めした"}],"senses":[["subordinate","subordinates","inferior","inferiors","junior"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"地下水","reading":"ちかすい"}],"senses":[["underground water"],["Groundwater"]]},{"jlpt":[],"tags":["wanikani6"],"japanese":[{"word":"年下","reading":"としした"}],"senses":[["younger","junior"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"足元","reading":"あしもと"},{"word":"足もと","reading":"あしもと"},{"word":"足下","reading":"あしもと"},{"word":"足許","reading":"あしもと"}],"senses":[["at one's feet","underfoot","one's step (as in \"watch your step\")"],["gait","pace","step"],["most recent","current"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"値下げ","reading":"ねさげ"}],"senses":[["cut in price"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"値下がり","reading":"ねさがり"}],"senses":[["price decline","fall in price"]]},{"jlpt":["jlpt-n5"],"tags":["wanikani10"],"japanese":[{"word":"地下鉄","reading":"ちかてつ"}],"senses":[["underground train","subway"],["Rapid transit"]]},{"jlpt":["jlpt-n5"],"tags":["wanikani27"],"japanese":[{"word":"靴下","reading":"くつした"},{"word":"くつ下","reading":"くつした"},{"word":"沓下","reading":"くつした"}],"senses":[["socks","sock","stockings","stocking"],["Sock"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani6"],"japanese":[{"word":"地下","reading":"ちか"}],"senses":[["underground","below the ground"],["world of the dead","the grave"],["underground (activities, movement, etc.)","secret","illegal","in hiding"],["Subterranea (geography)"]]},{"jlpt":["jlpt-n5"],"tags":["wanikani31"],"japanese":[{"word":"廊下","reading":"ろうか"}],"senses":[["corridor","hallway","passageway"]]},{"jlpt":["jlpt-n4"],"tags":["wanikani7"],"japanese":[{"word":"以下","reading":"いか"},{"word":"以下","reading":"いげ"},{"word":"已下","reading":"いか"},{"word":"已下","reading":"いげ"}],"senses":[["not exceeding","and downward","... and below"],["below (e.g. standard)","under (e.g. a level)"],["the below-mentioned","the following","the rest"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"低下","reading":"ていか"}],"senses":[["fall","decline","lowering","deterioration","degradation"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"上下","reading":"じょうげ"}],"senses":[["top and bottom","high and low","above and below","upper and lower ends","up and down"],["going up and down","rising and falling","fluctuating"],["going and coming back"],["upper and lower classes","ruler and ruled","the government and the people"],["first and second volumes"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"見下ろす","reading":"みおろす"},{"word":"見おろす","reading":"みおろす"}],"senses":[["to overlook","to command a view of","to look down on"],["to despise","to look down on"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"部下","reading":"ぶか"}],"senses":[["subordinate person"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"引き下げる","reading":"ひきさげる"},{"word":"引下げる","reading":"ひきさげる"}],"senses":[["to pull down","to lower","to reduce","to withdraw"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"落下","reading":"らっか"}],"senses":[["fall","drop","descent","coming down"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"地下室","reading":"ちかしつ"}],"senses":[["cellar","basement"],["Basement"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"天下","reading":"てんか"},{"word":"天下","reading":"てんが"},{"word":"天下","reading":"てんげ"}],"senses":[["the whole world"],["the whole country"],["society","the public"],["supremacy over a nation","government of a country","the ruling power"],["having one's own way","doing as one pleases"],["peerless","incomparable","superlative","world-famous"],["shogun (Edo period)"],["Tianxia"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"地下道","reading":"ちかどう"}],"senses":[["subterranean tunnel"],["Subway (underpass)"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"目下","reading":"めした"}],"senses":[["subordinate","subordinates","inferior","inferiors","junior"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"地下水","reading":"ちかすい"}],"senses":[["underground water"],["Groundwater"]]},{"jlpt":[],"tags":["wanikani6"],"japanese":[{"word":"年下","reading":"としした"}],"senses":[["younger","junior"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"足元","reading":"あしもと"},{"word":"足もと","reading":"あしもと"},{"word":"足下","reading":"あしもと"},{"word":"足許","reading":"あしもと"}],"senses":[["at one's feet","underfoot","one's step (as in \"watch your step\")"],["gait","pace","step"],["most recent","current"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"値下げ","reading":"ねさげ"}],"senses":[["cut in price"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"値下がり","reading":"ねさがり"}],"senses":[["price decline","fall in price"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"投下","reading":"とうか"}],"senses":[["throwing down","dropping","airdrop"],["investment"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"直下","reading":"ちょっか"}],"senses":[["directly under"],["falling perpendicularly"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"引き下げ","reading":"ひきさげ"},{"word":"引下げ","reading":"ひきさげ"}],"senses":[["reduction","cut"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"床下","reading":"ゆかした"}],"senses":[["under the floor"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"目下","reading":"もっか"}],"senses":[["at present","now"]]},{"jlpt":[],"tags":["wanikani46"],"japanese":[{"word":"零下","reading":"れいか"}],"senses":[["below zero","sub-zero"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"飛び下りる","reading":"とびおりる"},{"word":"飛び降りる","reading":"とびおりる"},{"word":"跳び降りる","reading":"とびおりる"},{"word":"飛降りる","reading":"とびおりる"}],"senses":[["to jump down","to jump off","to jump from","to jump out of"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"ぶら下がる","reading":"ぶらさがる"}],"senses":[["to hang down (from)","to dangle","to swing","to be suspended"],["to be within one's reach","to dangle (before one's eyes)"],["to be completely reliant on","to be entirely dependent on"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"昼下がり","reading":"ひるさがり"}],"senses":[["early afternoon"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"見下す","reading":"みくだす"}],"senses":[["to look down (on)","to condescend (to)"]]},{"jlpt":["jlpt-n2","jlpt-n1"],"tags":[],"japanese":[{"word":"ぶら下げる","reading":"ぶらさげる"}],"senses":[["to hang","to suspend","to dangle","to swing","to carry"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"殿下","reading":"でんか"},{"word":"殿下","reading":"てんが"}],"senses":[["your Highness","his Highness","her Highness"],["Tenga"],["Imperial Highness"]]},{"jlpt":[],"tags":["wanikani49"],"japanese":[{"word":"陛下","reading":"へいか"}],"senses":[["Your Majesty","His Majesty","Her Majesty"],["Majesty"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"天下り","reading":"あまくだり"},{"word":"天降り","reading":"あまくだり"}],"senses":[["retiring high-ranking government officials taking a lucrative job in a private or semi-private corporation"],["command (from superior to inferior, government to private sector, etc.)","order","imposition"],["descent from heaven"],["Amakudari"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"上下","reading":"うえした"}],"senses":[["top and bottom","up and down","high and low","above and below","upper and lower ends"],["upside-down"],["Vertical direction"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"ご遠慮ください","reading":"ごえんりょください"},{"word":"ご遠慮下さい","reading":"ごえんりょください"},{"word":"御遠慮下さい","reading":"ごえんりょください"},{"word":"御遠慮ください","reading":"ごえんりょください"}],"senses":[["please refrain (from)"]]},{"jlpt":["jlpt-n2","jlpt-n1"],"tags":[],"japanese":[{"word":"ご免ください","reading":"ごめんください"},{"word":"御免下さい","reading":"ごめんください"},{"word":"ご免下さい","reading":"ごめんください"},{"word":"御免ください","reading":"ごめんください"}],"senses":[["may I come in?"],["please forgive me","I'm sorry"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"取り下げ","reading":"とりさげ"},{"word":"取下げ","reading":"とりさげ"}],"senses":[["withdrawal"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"切り下げ","reading":"きりさげ"}],"senses":[["devaluation (e.g. of currency)","markdown","write-down","undercutting"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"利下げ","reading":"りさげ"}],"senses":[["decrease in interest rates"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"利下げ","reading":"りさげ"}],"senses":[["decrease in interest rates"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"沈下","reading":"ちんか"}],"senses":[["sinking","subsidence"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"傘下","reading":"さんか"}],"senses":[["affiliated with","under jurisdiction of","under the umbrella"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"幕下","reading":"まくした"}],"senses":[["third highest division","wrestlers of the third highest division"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"最下","reading":"さいか"}],"senses":[["the lowest","the worst"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"松下電工","reading":"まつしたでんこう"}],"senses":[["Matsushita Electric Works"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"天皇陛下","reading":"てんのうへいか"}],"senses":[["His Majesty the Emperor"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"門下","reading":"もんか"}],"senses":[["one's pupil","one's student","one's follower"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"食い下がる","reading":"くいさがる"},{"word":"食い下る","reading":"くいさがる"},{"word":"食下がる","reading":"くいさがる"},{"word":"食下る","reading":"くいさがる"}],"senses":[["to hang on to","to hang from","to cling to"],["to hound","to keep after (someone)","to refuse to back down","to persist","to tenaciously face (someone)","to doggedly oppose"],["to grab the front of the opponent's mawashi, place one's head against their chest, and lower one's hips"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"風下","reading":"かざしも"}],"senses":[["leeward","lee","downwind"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"市営地下鉄","reading":"しえいちかてつ"}],"senses":[["municipal subway"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"右下","reading":"みぎした"}],"senses":[["lower right"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"デパ地下","reading":"デパちか"},{"reading":"デパチカ"}],"senses":[["basement of a department store (where foodstuffs are usually sold)"]]}]}
+{
+  "basic": ["下", "Below", "51"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n5"],
+      "tags": ["wanikani10"],
+      "japanese": [{ "word": "地下鉄", "reading": "ちかてつ" }],
+      "senses": [["underground train", "subway"], ["Rapid transit"]]
+    },
+    {
+      "jlpt": ["jlpt-n5"],
+      "tags": ["wanikani27"],
+      "japanese": [
+        { "word": "靴下", "reading": "くつした" },
+        { "word": "くつ下", "reading": "くつした" },
+        { "word": "沓下", "reading": "くつした" }
+      ],
+      "senses": [["socks", "sock", "stockings", "stocking"], ["Sock"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani6"],
+      "japanese": [{ "word": "地下", "reading": "ちか" }],
+      "senses": [
+        ["underground", "below the ground"],
+        ["world of the dead", "the grave"],
+        [
+          "underground (activities, movement, etc.)",
+          "secret",
+          "illegal",
+          "in hiding"
+        ],
+        ["Subterranea (geography)"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n5"],
+      "tags": ["wanikani31"],
+      "japanese": [{ "word": "廊下", "reading": "ろうか" }],
+      "senses": [["corridor", "hallway", "passageway"]]
+    },
+    {
+      "jlpt": ["jlpt-n4"],
+      "tags": ["wanikani7"],
+      "japanese": [
+        { "word": "以下", "reading": "いか" },
+        { "word": "以下", "reading": "いげ" },
+        { "word": "已下", "reading": "いか" },
+        { "word": "已下", "reading": "いげ" }
+      ],
+      "senses": [
+        ["not exceeding", "and downward", "... and below"],
+        ["below (e.g. standard)", "under (e.g. a level)"],
+        ["the below-mentioned", "the following", "the rest"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "低下", "reading": "ていか" }],
+      "senses": [
+        ["fall", "decline", "lowering", "deterioration", "degradation"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "上下", "reading": "じょうげ" }],
+      "senses": [
+        [
+          "top and bottom",
+          "high and low",
+          "above and below",
+          "upper and lower ends",
+          "up and down"
+        ],
+        ["going up and down", "rising and falling", "fluctuating"],
+        ["going and coming back"],
+        [
+          "upper and lower classes",
+          "ruler and ruled",
+          "the government and the people"
+        ],
+        ["first and second volumes"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [
+        { "word": "見下ろす", "reading": "みおろす" },
+        { "word": "見おろす", "reading": "みおろす" }
+      ],
+      "senses": [
+        ["to overlook", "to command a view of", "to look down on"],
+        ["to despise", "to look down on"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "部下", "reading": "ぶか" }],
+      "senses": [["subordinate person"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "引き下げる", "reading": "ひきさげる" },
+        { "word": "引下げる", "reading": "ひきさげる" }
+      ],
+      "senses": [["to pull down", "to lower", "to reduce", "to withdraw"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "落下", "reading": "らっか" }],
+      "senses": [["fall", "drop", "descent", "coming down"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "地下室", "reading": "ちかしつ" }],
+      "senses": [["cellar", "basement"], ["Basement"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "天下", "reading": "てんか" },
+        { "word": "天下", "reading": "てんが" },
+        { "word": "天下", "reading": "てんげ" }
+      ],
+      "senses": [
+        ["the whole world"],
+        ["the whole country"],
+        ["society", "the public"],
+        [
+          "supremacy over a nation",
+          "government of a country",
+          "the ruling power"
+        ],
+        ["having one's own way", "doing as one pleases"],
+        ["peerless", "incomparable", "superlative", "world-famous"],
+        ["shogun (Edo period)"],
+        ["Tianxia"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "地下道", "reading": "ちかどう" }],
+      "senses": [["subterranean tunnel"], ["Subway (underpass)"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "目下", "reading": "めした" }],
+      "senses": [
+        ["subordinate", "subordinates", "inferior", "inferiors", "junior"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "地下水", "reading": "ちかすい" }],
+      "senses": [["underground water"], ["Groundwater"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani6"],
+      "japanese": [{ "word": "年下", "reading": "としした" }],
+      "senses": [["younger", "junior"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "足元", "reading": "あしもと" },
+        { "word": "足もと", "reading": "あしもと" },
+        { "word": "足下", "reading": "あしもと" },
+        { "word": "足許", "reading": "あしもと" }
+      ],
+      "senses": [
+        [
+          "at one's feet",
+          "underfoot",
+          "one's step (as in \"watch your step\")"
+        ],
+        ["gait", "pace", "step"],
+        ["most recent", "current"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "値下げ", "reading": "ねさげ" }],
+      "senses": [["cut in price"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "値下がり", "reading": "ねさがり" }],
+      "senses": [["price decline", "fall in price"]]
+    },
+    {
+      "jlpt": ["jlpt-n5"],
+      "tags": ["wanikani10"],
+      "japanese": [{ "word": "地下鉄", "reading": "ちかてつ" }],
+      "senses": [["underground train", "subway"], ["Rapid transit"]]
+    },
+    {
+      "jlpt": ["jlpt-n5"],
+      "tags": ["wanikani27"],
+      "japanese": [
+        { "word": "靴下", "reading": "くつした" },
+        { "word": "くつ下", "reading": "くつした" },
+        { "word": "沓下", "reading": "くつした" }
+      ],
+      "senses": [["socks", "sock", "stockings", "stocking"], ["Sock"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani6"],
+      "japanese": [{ "word": "地下", "reading": "ちか" }],
+      "senses": [
+        ["underground", "below the ground"],
+        ["world of the dead", "the grave"],
+        [
+          "underground (activities, movement, etc.)",
+          "secret",
+          "illegal",
+          "in hiding"
+        ],
+        ["Subterranea (geography)"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n5"],
+      "tags": ["wanikani31"],
+      "japanese": [{ "word": "廊下", "reading": "ろうか" }],
+      "senses": [["corridor", "hallway", "passageway"]]
+    },
+    {
+      "jlpt": ["jlpt-n4"],
+      "tags": ["wanikani7"],
+      "japanese": [
+        { "word": "以下", "reading": "いか" },
+        { "word": "以下", "reading": "いげ" },
+        { "word": "已下", "reading": "いか" },
+        { "word": "已下", "reading": "いげ" }
+      ],
+      "senses": [
+        ["not exceeding", "and downward", "... and below"],
+        ["below (e.g. standard)", "under (e.g. a level)"],
+        ["the below-mentioned", "the following", "the rest"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "低下", "reading": "ていか" }],
+      "senses": [
+        ["fall", "decline", "lowering", "deterioration", "degradation"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "上下", "reading": "じょうげ" }],
+      "senses": [
+        [
+          "top and bottom",
+          "high and low",
+          "above and below",
+          "upper and lower ends",
+          "up and down"
+        ],
+        ["going up and down", "rising and falling", "fluctuating"],
+        ["going and coming back"],
+        [
+          "upper and lower classes",
+          "ruler and ruled",
+          "the government and the people"
+        ],
+        ["first and second volumes"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [
+        { "word": "見下ろす", "reading": "みおろす" },
+        { "word": "見おろす", "reading": "みおろす" }
+      ],
+      "senses": [
+        ["to overlook", "to command a view of", "to look down on"],
+        ["to despise", "to look down on"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "部下", "reading": "ぶか" }],
+      "senses": [["subordinate person"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "引き下げる", "reading": "ひきさげる" },
+        { "word": "引下げる", "reading": "ひきさげる" }
+      ],
+      "senses": [["to pull down", "to lower", "to reduce", "to withdraw"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "落下", "reading": "らっか" }],
+      "senses": [["fall", "drop", "descent", "coming down"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "地下室", "reading": "ちかしつ" }],
+      "senses": [["cellar", "basement"], ["Basement"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "天下", "reading": "てんか" },
+        { "word": "天下", "reading": "てんが" },
+        { "word": "天下", "reading": "てんげ" }
+      ],
+      "senses": [
+        ["the whole world"],
+        ["the whole country"],
+        ["society", "the public"],
+        [
+          "supremacy over a nation",
+          "government of a country",
+          "the ruling power"
+        ],
+        ["having one's own way", "doing as one pleases"],
+        ["peerless", "incomparable", "superlative", "world-famous"],
+        ["shogun (Edo period)"],
+        ["Tianxia"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "地下道", "reading": "ちかどう" }],
+      "senses": [["subterranean tunnel"], ["Subway (underpass)"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "目下", "reading": "めした" }],
+      "senses": [
+        ["subordinate", "subordinates", "inferior", "inferiors", "junior"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "地下水", "reading": "ちかすい" }],
+      "senses": [["underground water"], ["Groundwater"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani6"],
+      "japanese": [{ "word": "年下", "reading": "としした" }],
+      "senses": [["younger", "junior"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "足元", "reading": "あしもと" },
+        { "word": "足もと", "reading": "あしもと" },
+        { "word": "足下", "reading": "あしもと" },
+        { "word": "足許", "reading": "あしもと" }
+      ],
+      "senses": [
+        [
+          "at one's feet",
+          "underfoot",
+          "one's step (as in \"watch your step\")"
+        ],
+        ["gait", "pace", "step"],
+        ["most recent", "current"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "値下げ", "reading": "ねさげ" }],
+      "senses": [["cut in price"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "値下がり", "reading": "ねさがり" }],
+      "senses": [["price decline", "fall in price"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "投下", "reading": "とうか" }],
+      "senses": [["throwing down", "dropping", "airdrop"], ["investment"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "直下", "reading": "ちょっか" }],
+      "senses": [["directly under"], ["falling perpendicularly"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "引き下げ", "reading": "ひきさげ" },
+        { "word": "引下げ", "reading": "ひきさげ" }
+      ],
+      "senses": [["reduction", "cut"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "床下", "reading": "ゆかした" }],
+      "senses": [["under the floor"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "目下", "reading": "もっか" }],
+      "senses": [["at present", "now"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani46"],
+      "japanese": [{ "word": "零下", "reading": "れいか" }],
+      "senses": [["below zero", "sub-zero"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "飛び下りる", "reading": "とびおりる" },
+        { "word": "飛び降りる", "reading": "とびおりる" },
+        { "word": "跳び降りる", "reading": "とびおりる" },
+        { "word": "飛降りる", "reading": "とびおりる" }
+      ],
+      "senses": [
+        ["to jump down", "to jump off", "to jump from", "to jump out of"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "ぶら下がる", "reading": "ぶらさがる" }],
+      "senses": [
+        ["to hang down (from)", "to dangle", "to swing", "to be suspended"],
+        ["to be within one's reach", "to dangle (before one's eyes)"],
+        ["to be completely reliant on", "to be entirely dependent on"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "昼下がり", "reading": "ひるさがり" }],
+      "senses": [["early afternoon"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "見下す", "reading": "みくだす" }],
+      "senses": [["to look down (on)", "to condescend (to)"]]
+    },
+    {
+      "jlpt": ["jlpt-n2", "jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "ぶら下げる", "reading": "ぶらさげる" }],
+      "senses": [["to hang", "to suspend", "to dangle", "to swing", "to carry"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "殿下", "reading": "でんか" },
+        { "word": "殿下", "reading": "てんが" }
+      ],
+      "senses": [
+        ["your Highness", "his Highness", "her Highness"],
+        ["Tenga"],
+        ["Imperial Highness"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani49"],
+      "japanese": [{ "word": "陛下", "reading": "へいか" }],
+      "senses": [["Your Majesty", "His Majesty", "Her Majesty"], ["Majesty"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "天下り", "reading": "あまくだり" },
+        { "word": "天降り", "reading": "あまくだり" }
+      ],
+      "senses": [
+        ["retiring high-ranking government officials taking a lucrative job in a private or semi-private corporation"],
+        [
+          "command (from superior to inferior, government to private sector, etc.)",
+          "order",
+          "imposition"
+        ],
+        ["descent from heaven"],
+        ["Amakudari"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "上下", "reading": "うえした" }],
+      "senses": [
+        [
+          "top and bottom",
+          "up and down",
+          "high and low",
+          "above and below",
+          "upper and lower ends"
+        ],
+        ["upside-down"],
+        ["Vertical direction"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "ご遠慮ください", "reading": "ごえんりょください" },
+        { "word": "ご遠慮下さい", "reading": "ごえんりょください" },
+        { "word": "御遠慮下さい", "reading": "ごえんりょください" },
+        { "word": "御遠慮ください", "reading": "ごえんりょください" }
+      ],
+      "senses": [["please refrain (from)"]]
+    },
+    {
+      "jlpt": ["jlpt-n2", "jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "ご免ください", "reading": "ごめんください" },
+        { "word": "御免下さい", "reading": "ごめんください" },
+        { "word": "ご免下さい", "reading": "ごめんください" },
+        { "word": "御免ください", "reading": "ごめんください" }
+      ],
+      "senses": [["may I come in?"], ["please forgive me", "I'm sorry"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "取り下げ", "reading": "とりさげ" },
+        { "word": "取下げ", "reading": "とりさげ" }
+      ],
+      "senses": [["withdrawal"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "切り下げ", "reading": "きりさげ" }],
+      "senses": [
+        [
+          "devaluation (e.g. of currency)",
+          "markdown",
+          "write-down",
+          "undercutting"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "利下げ", "reading": "りさげ" }],
+      "senses": [["decrease in interest rates"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "利下げ", "reading": "りさげ" }],
+      "senses": [["decrease in interest rates"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "沈下", "reading": "ちんか" }],
+      "senses": [["sinking", "subsidence"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "傘下", "reading": "さんか" }],
+      "senses": [
+        ["affiliated with", "under jurisdiction of", "under the umbrella"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "幕下", "reading": "まくした" }],
+      "senses": [
+        ["third highest division", "wrestlers of the third highest division"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "最下", "reading": "さいか" }],
+      "senses": [["the lowest", "the worst"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "松下電工", "reading": "まつしたでんこう" }],
+      "senses": [["Matsushita Electric Works"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "天皇陛下", "reading": "てんのうへいか" }],
+      "senses": [["His Majesty the Emperor"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "門下", "reading": "もんか" }],
+      "senses": [["one's pupil", "one's student", "one's follower"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "食い下がる", "reading": "くいさがる" },
+        { "word": "食い下る", "reading": "くいさがる" },
+        { "word": "食下がる", "reading": "くいさがる" },
+        { "word": "食下る", "reading": "くいさがる" }
+      ],
+      "senses": [
+        ["to hang on to", "to hang from", "to cling to"],
+        [
+          "to hound",
+          "to keep after (someone)",
+          "to refuse to back down",
+          "to persist",
+          "to tenaciously face (someone)",
+          "to doggedly oppose"
+        ],
+        ["to grab the front of the opponent's mawashi, place one's head against their chest, and lower one's hips"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "風下", "reading": "かざしも" }],
+      "senses": [["leeward", "lee", "downwind"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "市営地下鉄", "reading": "しえいちかてつ" }],
+      "senses": [["municipal subway"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "右下", "reading": "みぎした" }],
+      "senses": [["lower right"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "デパ地下", "reading": "デパちか" },
+        { "reading": "デパチカ" }
+      ],
+      "senses": [
+        ["basement of a department store (where foodstuffs are usually sold)"]
+      ]
+    }
+  ]
+}

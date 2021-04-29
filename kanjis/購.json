@@ -1,1 +1,17 @@
-{"basic":["購","Subscription","1958"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"定期購読","reading":"ていきこうどく"}],"senses":[["subscription (e.g. to a magazine)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"定期購読","reading":"ていきこうどく"}],"senses":[["subscription (e.g. to a magazine)"]]}]}
+{
+  "basic": ["購", "Subscription", "1958"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "定期購読", "reading": "ていきこうどく" }],
+      "senses": [["subscription (e.g. to a magazine)"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "定期購読", "reading": "ていきこうどく" }],
+      "senses": [["subscription (e.g. to a magazine)"]]
+    }
+  ]
+}

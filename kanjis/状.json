@@ -1,1 +1,253 @@
-{"basic":["状","Status Quo","254"],"extended":[{"jlpt":["jlpt-n3"],"tags":[],"japanese":[{"word":"現状","reading":"げんじょう"}],"senses":[["present condition","existing state","status quo","current state"],["Status quo"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani27"],"japanese":[{"word":"症状","reading":"しょうじょう"}],"senses":[["symptoms","condition (of a patient)"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"実情","reading":"じつじょう"},{"word":"実状","reading":"じつじょう"}],"senses":[["real condition","actual circumstances","actual state of affairs"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"白状","reading":"はくじょう"}],"senses":[["confession"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"病状","reading":"びょうじょう"}],"senses":[["patient's condition","pathology"]]},{"jlpt":[],"tags":["wanikani22"],"japanese":[{"word":"年賀状","reading":"ねんがじょう"}],"senses":[["New Year's card"]]},{"jlpt":[],"tags":["wanikani33"],"japanese":[{"word":"異状","reading":"いじょう"}],"senses":[["something wrong","accident","change","abnormality","aberration"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"礼状","reading":"れいじょう"}],"senses":[["acknowledgment","acknowledgement","letter of thanks"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"甲状腺","reading":"こうじょうせん"},{"word":"甲状せん","reading":"こうじょうせん"}],"senses":[["thyroid gland"],["Thyroid"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"令状","reading":"れいじょう"}],"senses":[["warrant","summons","written order"],["Warrant (law)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"環状","reading":"かんじょう"}],"senses":[["annulation","ring shape","loop shape"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"形状","reading":"けいじょう"}],"senses":[["shape","form"]]},{"jlpt":[],"tags":["wanikani53"],"japanese":[{"word":"惨状","reading":"さんじょう"}],"senses":[["disastrous scene","terrible spectacle"]]},{"jlpt":[],"tags":["wanikani56"],"japanese":[{"word":"窮状","reading":"きゅうじょう"}],"senses":[["distress","wretched condition"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"賞状","reading":"しょうじょう"}],"senses":[["honorable certificate","honourable certificate"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"訴状","reading":"そじょう"}],"senses":[["petition","complaint","(legal) brief"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"内情","reading":"ないじょう"},{"word":"内状","reading":"ないじょう"}],"senses":[["internal conditions","true state of affairs"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"表彰状","reading":"ひょうしょうじょう"}],"senses":[["testimonial","certificate of commendation"]]},{"jlpt":["jlpt-n3"],"tags":[],"japanese":[{"word":"現状","reading":"げんじょう"}],"senses":[["present condition","existing state","status quo","current state"],["Status quo"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani27"],"japanese":[{"word":"症状","reading":"しょうじょう"}],"senses":[["symptoms","condition (of a patient)"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"実情","reading":"じつじょう"},{"word":"実状","reading":"じつじょう"}],"senses":[["real condition","actual circumstances","actual state of affairs"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"白状","reading":"はくじょう"}],"senses":[["confession"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"病状","reading":"びょうじょう"}],"senses":[["patient's condition","pathology"]]},{"jlpt":[],"tags":["wanikani22"],"japanese":[{"word":"年賀状","reading":"ねんがじょう"}],"senses":[["New Year's card"]]},{"jlpt":[],"tags":["wanikani33"],"japanese":[{"word":"異状","reading":"いじょう"}],"senses":[["something wrong","accident","change","abnormality","aberration"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"礼状","reading":"れいじょう"}],"senses":[["acknowledgment","acknowledgement","letter of thanks"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"令状","reading":"れいじょう"}],"senses":[["warrant","summons","written order"],["Warrant (law)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"甲状腺","reading":"こうじょうせん"},{"word":"甲状せん","reading":"こうじょうせん"}],"senses":[["thyroid gland"],["Thyroid"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"環状","reading":"かんじょう"}],"senses":[["annulation","ring shape","loop shape"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"形状","reading":"けいじょう"}],"senses":[["shape","form"]]},{"jlpt":[],"tags":["wanikani53"],"japanese":[{"word":"惨状","reading":"さんじょう"}],"senses":[["disastrous scene","terrible spectacle"]]},{"jlpt":[],"tags":["wanikani56"],"japanese":[{"word":"窮状","reading":"きゅうじょう"}],"senses":[["distress","wretched condition"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"賞状","reading":"しょうじょう"}],"senses":[["honorable certificate","honourable certificate"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"訴状","reading":"そじょう"}],"senses":[["petition","complaint","(legal) brief"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"内情","reading":"ないじょう"},{"word":"内状","reading":"ないじょう"}],"senses":[["internal conditions","true state of affairs"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"表彰状","reading":"ひょうしょうじょう"}],"senses":[["testimonial","certificate of commendation"]]}]}
+{
+  "basic": ["状", "Status Quo", "254"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": [],
+      "japanese": [{ "word": "現状", "reading": "げんじょう" }],
+      "senses": [
+        ["present condition", "existing state", "status quo", "current state"],
+        ["Status quo"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani27"],
+      "japanese": [{ "word": "症状", "reading": "しょうじょう" }],
+      "senses": [["symptoms", "condition (of a patient)"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "実情", "reading": "じつじょう" },
+        { "word": "実状", "reading": "じつじょう" }
+      ],
+      "senses": [
+        ["real condition", "actual circumstances", "actual state of affairs"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "白状", "reading": "はくじょう" }],
+      "senses": [["confession"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "病状", "reading": "びょうじょう" }],
+      "senses": [["patient's condition", "pathology"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani22"],
+      "japanese": [{ "word": "年賀状", "reading": "ねんがじょう" }],
+      "senses": [["New Year's card"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani33"],
+      "japanese": [{ "word": "異状", "reading": "いじょう" }],
+      "senses": [
+        ["something wrong", "accident", "change", "abnormality", "aberration"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "礼状", "reading": "れいじょう" }],
+      "senses": [["acknowledgment", "acknowledgement", "letter of thanks"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "甲状腺", "reading": "こうじょうせん" },
+        { "word": "甲状せん", "reading": "こうじょうせん" }
+      ],
+      "senses": [["thyroid gland"], ["Thyroid"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "令状", "reading": "れいじょう" }],
+      "senses": [["warrant", "summons", "written order"], ["Warrant (law)"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "環状", "reading": "かんじょう" }],
+      "senses": [["annulation", "ring shape", "loop shape"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "形状", "reading": "けいじょう" }],
+      "senses": [["shape", "form"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani53"],
+      "japanese": [{ "word": "惨状", "reading": "さんじょう" }],
+      "senses": [["disastrous scene", "terrible spectacle"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani56"],
+      "japanese": [{ "word": "窮状", "reading": "きゅうじょう" }],
+      "senses": [["distress", "wretched condition"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "賞状", "reading": "しょうじょう" }],
+      "senses": [["honorable certificate", "honourable certificate"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "訴状", "reading": "そじょう" }],
+      "senses": [["petition", "complaint", "(legal) brief"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "内情", "reading": "ないじょう" },
+        { "word": "内状", "reading": "ないじょう" }
+      ],
+      "senses": [["internal conditions", "true state of affairs"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "表彰状", "reading": "ひょうしょうじょう" }],
+      "senses": [["testimonial", "certificate of commendation"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": [],
+      "japanese": [{ "word": "現状", "reading": "げんじょう" }],
+      "senses": [
+        ["present condition", "existing state", "status quo", "current state"],
+        ["Status quo"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani27"],
+      "japanese": [{ "word": "症状", "reading": "しょうじょう" }],
+      "senses": [["symptoms", "condition (of a patient)"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "実情", "reading": "じつじょう" },
+        { "word": "実状", "reading": "じつじょう" }
+      ],
+      "senses": [
+        ["real condition", "actual circumstances", "actual state of affairs"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "白状", "reading": "はくじょう" }],
+      "senses": [["confession"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "病状", "reading": "びょうじょう" }],
+      "senses": [["patient's condition", "pathology"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani22"],
+      "japanese": [{ "word": "年賀状", "reading": "ねんがじょう" }],
+      "senses": [["New Year's card"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani33"],
+      "japanese": [{ "word": "異状", "reading": "いじょう" }],
+      "senses": [
+        ["something wrong", "accident", "change", "abnormality", "aberration"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "礼状", "reading": "れいじょう" }],
+      "senses": [["acknowledgment", "acknowledgement", "letter of thanks"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "令状", "reading": "れいじょう" }],
+      "senses": [["warrant", "summons", "written order"], ["Warrant (law)"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "甲状腺", "reading": "こうじょうせん" },
+        { "word": "甲状せん", "reading": "こうじょうせん" }
+      ],
+      "senses": [["thyroid gland"], ["Thyroid"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "環状", "reading": "かんじょう" }],
+      "senses": [["annulation", "ring shape", "loop shape"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "形状", "reading": "けいじょう" }],
+      "senses": [["shape", "form"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani53"],
+      "japanese": [{ "word": "惨状", "reading": "さんじょう" }],
+      "senses": [["disastrous scene", "terrible spectacle"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani56"],
+      "japanese": [{ "word": "窮状", "reading": "きゅうじょう" }],
+      "senses": [["distress", "wretched condition"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "賞状", "reading": "しょうじょう" }],
+      "senses": [["honorable certificate", "honourable certificate"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "訴状", "reading": "そじょう" }],
+      "senses": [["petition", "complaint", "(legal) brief"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "内情", "reading": "ないじょう" },
+        { "word": "内状", "reading": "ないじょう" }
+      ],
+      "senses": [["internal conditions", "true state of affairs"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "表彰状", "reading": "ひょうしょうじょう" }],
+      "senses": [["testimonial", "certificate of commendation"]]
+    }
+  ]
+}

@@ -1,1 +1,61 @@
-{"basic":["抑","Repress","1835"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"抑","reading":"そもそも"},{"word":"抑々","reading":"そもそも"},{"word":"抑抑","reading":"そもそも"},{"word":"抑も","reading":"そもそも"}],"senses":[["in the first place","to begin with","from the start","originally","ab initio"],["after all","anyway","actually","well, ...","... on earth (e.g. \"what on earth?\")","... in the world (e.g. \"why in the world?\")"],["beginning","start"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"抑","reading":"そもそも"},{"word":"抑々","reading":"そもそも"},{"word":"抑抑","reading":"そもそも"},{"word":"抑も","reading":"そもそも"}],"senses":[["in the first place","to begin with","from the start","originally","ab initio"],["after all","anyway","actually","well, ...","... on earth (e.g. \"what on earth?\")","... in the world (e.g. \"why in the world?\")"],["beginning","start"]]}]}
+{
+  "basic": ["抑", "Repress", "1835"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "抑", "reading": "そもそも" },
+        { "word": "抑々", "reading": "そもそも" },
+        { "word": "抑抑", "reading": "そもそも" },
+        { "word": "抑も", "reading": "そもそも" }
+      ],
+      "senses": [
+        [
+          "in the first place",
+          "to begin with",
+          "from the start",
+          "originally",
+          "ab initio"
+        ],
+        [
+          "after all",
+          "anyway",
+          "actually",
+          "well, ...",
+          "... on earth (e.g. \"what on earth?\")",
+          "... in the world (e.g. \"why in the world?\")"
+        ],
+        ["beginning", "start"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "抑", "reading": "そもそも" },
+        { "word": "抑々", "reading": "そもそも" },
+        { "word": "抑抑", "reading": "そもそも" },
+        { "word": "抑も", "reading": "そもそも" }
+      ],
+      "senses": [
+        [
+          "in the first place",
+          "to begin with",
+          "from the start",
+          "originally",
+          "ab initio"
+        ],
+        [
+          "after all",
+          "anyway",
+          "actually",
+          "well, ...",
+          "... on earth (e.g. \"what on earth?\")",
+          "... in the world (e.g. \"why in the world?\")"
+        ],
+        ["beginning", "start"]
+      ]
+    }
+  ]
+}

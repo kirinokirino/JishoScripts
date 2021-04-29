@@ -1,1 +1,43 @@
-{"basic":["鈴","Small Bell","1508"],"extended":[{"jlpt":[],"tags":["wanikani34"],"japanese":[{"word":"じゃが芋","reading":"じゃがいも"},{"word":"ジャガ芋","reading":"ジャガいも"},{"reading":"ジャガイモ"}],"senses":[["potato (Solanum tuberosum)"],["Potato"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"風鈴","reading":"ふうりん"},{"word":"風りん","reading":"ふうりん"}],"senses":[["wind chime","wind bell"],["Wind chime"]]},{"jlpt":[],"tags":["wanikani34"],"japanese":[{"word":"じゃが芋","reading":"じゃがいも"},{"word":"ジャガ芋","reading":"ジャガいも"},{"reading":"ジャガイモ"}],"senses":[["potato (Solanum tuberosum)"],["Potato"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"風鈴","reading":"ふうりん"},{"word":"風りん","reading":"ふうりん"}],"senses":[["wind chime","wind bell"],["Wind chime"]]}]}
+{
+  "basic": ["鈴", "Small Bell", "1508"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": ["wanikani34"],
+      "japanese": [
+        { "word": "じゃが芋", "reading": "じゃがいも" },
+        { "word": "ジャガ芋", "reading": "ジャガいも" },
+        { "reading": "ジャガイモ" }
+      ],
+      "senses": [["potato (Solanum tuberosum)"], ["Potato"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "風鈴", "reading": "ふうりん" },
+        { "word": "風りん", "reading": "ふうりん" }
+      ],
+      "senses": [["wind chime", "wind bell"], ["Wind chime"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani34"],
+      "japanese": [
+        { "word": "じゃが芋", "reading": "じゃがいも" },
+        { "word": "ジャガ芋", "reading": "ジャガいも" },
+        { "reading": "ジャガイモ" }
+      ],
+      "senses": [["potato (Solanum tuberosum)"], ["Potato"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "風鈴", "reading": "ふうりん" },
+        { "word": "風りん", "reading": "ふうりん" }
+      ],
+      "senses": [["wind chime", "wind bell"], ["Wind chime"]]
+    }
+  ]
+}

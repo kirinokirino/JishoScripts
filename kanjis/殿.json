@@ -1,1 +1,33 @@
-{"basic":["殿","Mr.","1945"],"extended":[{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"宮殿","reading":"きゅうでん"}],"senses":[["palace"],["Palace"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"神殿","reading":"しんでん"}],"senses":[["temple","sacred place","shrine","sanctuary","tabernacle"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"宮殿","reading":"きゅうでん"}],"senses":[["palace"],["Palace"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"神殿","reading":"しんでん"}],"senses":[["temple","sacred place","shrine","sanctuary","tabernacle"]]}]}
+{
+  "basic": ["殿", "Mr.", "1945"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "宮殿", "reading": "きゅうでん" }],
+      "senses": [["palace"], ["Palace"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "神殿", "reading": "しんでん" }],
+      "senses": [
+        ["temple", "sacred place", "shrine", "sanctuary", "tabernacle"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "宮殿", "reading": "きゅうでん" }],
+      "senses": [["palace"], ["Palace"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "神殿", "reading": "しんでん" }],
+      "senses": [
+        ["temple", "sacred place", "shrine", "sanctuary", "tabernacle"]
+      ]
+    }
+  ]
+}

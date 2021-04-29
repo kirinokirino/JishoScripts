@@ -1,1 +1,33 @@
-{"basic":["愚","Foolish","2107"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"愚図愚図","reading":"ぐずぐず"},{"reading":"グズグズ"}],"senses":[["slowly","tardily","dawdling","lingering","hesitantly"],["complaining","grumbling"],["unsettled (e.g. weather)"],["loose","slackened"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"愚図愚図","reading":"ぐずぐず"},{"reading":"グズグズ"}],"senses":[["slowly","tardily","dawdling","lingering","hesitantly"],["complaining","grumbling"],["unsettled (e.g. weather)"],["loose","slackened"]]}]}
+{
+  "basic": ["愚", "Foolish", "2107"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "愚図愚図", "reading": "ぐずぐず" },
+        { "reading": "グズグズ" }
+      ],
+      "senses": [
+        ["slowly", "tardily", "dawdling", "lingering", "hesitantly"],
+        ["complaining", "grumbling"],
+        ["unsettled (e.g. weather)"],
+        ["loose", "slackened"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "愚図愚図", "reading": "ぐずぐず" },
+        { "reading": "グズグズ" }
+      ],
+      "senses": [
+        ["slowly", "tardily", "dawdling", "lingering", "hesitantly"],
+        ["complaining", "grumbling"],
+        ["unsettled (e.g. weather)"],
+        ["loose", "slackened"]
+      ]
+    }
+  ]
+}

@@ -1,1 +1,45 @@
-{"basic":["竜","Dragon","575"],"extended":[{"jlpt":[],"tags":["wanikani44"],"japanese":[{"word":"恐竜","reading":"きょうりゅう"},{"word":"恐龍","reading":"きょうりゅう"}],"senses":[["dinosaur"],["Dinosaur"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"登竜門","reading":"とうりゅうもん"},{"word":"登龍門","reading":"とうりゅうもん"}],"senses":[["gateway to success","opening to honours","opening to honors"]]},{"jlpt":[],"tags":["wanikani44"],"japanese":[{"word":"恐竜","reading":"きょうりゅう"},{"word":"恐龍","reading":"きょうりゅう"}],"senses":[["dinosaur"],["Dinosaur"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"登竜門","reading":"とうりゅうもん"},{"word":"登龍門","reading":"とうりゅうもん"}],"senses":[["gateway to success","opening to honours","opening to honors"]]}]}
+{
+  "basic": ["竜", "Dragon", "575"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": ["wanikani44"],
+      "japanese": [
+        { "word": "恐竜", "reading": "きょうりゅう" },
+        { "word": "恐龍", "reading": "きょうりゅう" }
+      ],
+      "senses": [["dinosaur"], ["Dinosaur"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "登竜門", "reading": "とうりゅうもん" },
+        { "word": "登龍門", "reading": "とうりゅうもん" }
+      ],
+      "senses": [
+        ["gateway to success", "opening to honours", "opening to honors"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani44"],
+      "japanese": [
+        { "word": "恐竜", "reading": "きょうりゅう" },
+        { "word": "恐龍", "reading": "きょうりゅう" }
+      ],
+      "senses": [["dinosaur"], ["Dinosaur"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "登竜門", "reading": "とうりゅうもん" },
+        { "word": "登龍門", "reading": "とうりゅうもん" }
+      ],
+      "senses": [
+        ["gateway to success", "opening to honours", "opening to honors"]
+      ]
+    }
+  ]
+}

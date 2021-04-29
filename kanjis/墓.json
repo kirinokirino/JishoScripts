@@ -1,1 +1,41 @@
-{"basic":["墓","Grave","246"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"浅はか","reading":"あさはか"},{"word":"浅墓","reading":"あさはか"}],"senses":[["shallow","superficial","thoughtless","short-sighted","foolish","silly"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"浅はか","reading":"あさはか"},{"word":"浅墓","reading":"あさはか"}],"senses":[["shallow","superficial","thoughtless","short-sighted","foolish","silly"]]}]}
+{
+  "basic": ["墓", "Grave", "246"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "浅はか", "reading": "あさはか" },
+        { "word": "浅墓", "reading": "あさはか" }
+      ],
+      "senses": [
+        [
+          "shallow",
+          "superficial",
+          "thoughtless",
+          "short-sighted",
+          "foolish",
+          "silly"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "浅はか", "reading": "あさはか" },
+        { "word": "浅墓", "reading": "あさはか" }
+      ],
+      "senses": [
+        [
+          "shallow",
+          "superficial",
+          "thoughtless",
+          "short-sighted",
+          "foolish",
+          "silly"
+        ]
+      ]
+    }
+  ]
+}

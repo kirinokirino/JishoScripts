@@ -1,1 +1,141 @@
-{"basic":["統","Overall","1447"],"extended":[{"jlpt":["jlpt-n3"],"tags":["wanikani22"],"japanese":[{"word":"大統領","reading":"だいとうりょう"}],"senses":[["president (of a nation)"],["big man","boss","buddy","mate"],["President"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani22"],"japanese":[{"word":"伝統","reading":"でんとう"}],"senses":[["tradition","convention"],["Tradition"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"系統","reading":"けいとう"}],"senses":[["system"],["lineage","ancestry","family line"],["group (e.g. of colors) (colours)","family (e.g. of languages)","party","school (of thought)"],["close (evolutionary) relationship"],["a population sharing a common ancestor (in genetics)","strain (e.g. bacterial)"]]},{"jlpt":[],"tags":["wanikani24"],"japanese":[{"word":"伝統的","reading":"でんとうてき"}],"senses":[["traditional","conventional"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"正統","reading":"せいとう"},{"word":"正統","reading":"しょうとう"}],"senses":[["legitimate","orthodox","traditional"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"総統","reading":"そうとう"}],"senses":[["supreme ruler","generalissimo"],["president (of Taiwan)"],["führer","fuehrer"],["Führer"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"伝統文化","reading":"でんとうぶんか"}],"senses":[["traditional culture"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani22"],"japanese":[{"word":"大統領","reading":"だいとうりょう"}],"senses":[["president (of a nation)"],["big man","boss","buddy","mate"],["President"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani22"],"japanese":[{"word":"伝統","reading":"でんとう"}],"senses":[["tradition","convention"],["Tradition"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"系統","reading":"けいとう"}],"senses":[["system"],["lineage","ancestry","family line"],["group (e.g. of colors) (colours)","family (e.g. of languages)","party","school (of thought)"],["close (evolutionary) relationship"],["a population sharing a common ancestor (in genetics)","strain (e.g. bacterial)"]]},{"jlpt":[],"tags":["wanikani24"],"japanese":[{"word":"伝統的","reading":"でんとうてき"}],"senses":[["traditional","conventional"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"正統","reading":"せいとう"},{"word":"正統","reading":"しょうとう"}],"senses":[["legitimate","orthodox","traditional"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"総統","reading":"そうとう"}],"senses":[["supreme ruler","generalissimo"],["president (of Taiwan)"],["führer","fuehrer"],["Führer"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"伝統文化","reading":"でんとうぶんか"}],"senses":[["traditional culture"]]}]}
+{
+  "basic": ["統", "Overall", "1447"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani22"],
+      "japanese": [{ "word": "大統領", "reading": "だいとうりょう" }],
+      "senses": [
+        ["president (of a nation)"],
+        ["big man", "boss", "buddy", "mate"],
+        ["President"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani22"],
+      "japanese": [{ "word": "伝統", "reading": "でんとう" }],
+      "senses": [["tradition", "convention"], ["Tradition"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "系統", "reading": "けいとう" }],
+      "senses": [
+        ["system"],
+        ["lineage", "ancestry", "family line"],
+        [
+          "group (e.g. of colors) (colours)",
+          "family (e.g. of languages)",
+          "party",
+          "school (of thought)"
+        ],
+        ["close (evolutionary) relationship"],
+        [
+          "a population sharing a common ancestor (in genetics)",
+          "strain (e.g. bacterial)"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani24"],
+      "japanese": [{ "word": "伝統的", "reading": "でんとうてき" }],
+      "senses": [["traditional", "conventional"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "正統", "reading": "せいとう" },
+        { "word": "正統", "reading": "しょうとう" }
+      ],
+      "senses": [["legitimate", "orthodox", "traditional"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "総統", "reading": "そうとう" }],
+      "senses": [
+        ["supreme ruler", "generalissimo"],
+        ["president (of Taiwan)"],
+        ["führer", "fuehrer"],
+        ["Führer"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "伝統文化", "reading": "でんとうぶんか" }],
+      "senses": [["traditional culture"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani22"],
+      "japanese": [{ "word": "大統領", "reading": "だいとうりょう" }],
+      "senses": [
+        ["president (of a nation)"],
+        ["big man", "boss", "buddy", "mate"],
+        ["President"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani22"],
+      "japanese": [{ "word": "伝統", "reading": "でんとう" }],
+      "senses": [["tradition", "convention"], ["Tradition"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "系統", "reading": "けいとう" }],
+      "senses": [
+        ["system"],
+        ["lineage", "ancestry", "family line"],
+        [
+          "group (e.g. of colors) (colours)",
+          "family (e.g. of languages)",
+          "party",
+          "school (of thought)"
+        ],
+        ["close (evolutionary) relationship"],
+        [
+          "a population sharing a common ancestor (in genetics)",
+          "strain (e.g. bacterial)"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani24"],
+      "japanese": [{ "word": "伝統的", "reading": "でんとうてき" }],
+      "senses": [["traditional", "conventional"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "正統", "reading": "せいとう" },
+        { "word": "正統", "reading": "しょうとう" }
+      ],
+      "senses": [["legitimate", "orthodox", "traditional"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "総統", "reading": "そうとう" }],
+      "senses": [
+        ["supreme ruler", "generalissimo"],
+        ["president (of Taiwan)"],
+        ["führer", "fuehrer"],
+        ["Führer"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "伝統文化", "reading": "でんとうぶんか" }],
+      "senses": [["traditional culture"]]
+    }
+  ]
+}

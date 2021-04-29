@@ -1,1 +1,51 @@
-{"basic":["慨","Rue","1595"],"extended":[{"jlpt":["jlpt-n1"],"tags":["wanikani58"],"japanese":[{"word":"憤慨","reading":"ふんがい"}],"senses":[["indignation","resentment"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani58"],"japanese":[{"word":"感慨","reading":"かんがい"}],"senses":[["deep emotion","strong feelings"]]},{"jlpt":[],"tags":["wanikani49"],"japanese":[{"word":"気概","reading":"きがい"},{"word":"気慨","reading":"きがい"}],"senses":[["strong spirit","mettle","backbone","guts","fighting spirit"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani58"],"japanese":[{"word":"憤慨","reading":"ふんがい"}],"senses":[["indignation","resentment"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani58"],"japanese":[{"word":"感慨","reading":"かんがい"}],"senses":[["deep emotion","strong feelings"]]},{"jlpt":[],"tags":["wanikani49"],"japanese":[{"word":"気概","reading":"きがい"},{"word":"気慨","reading":"きがい"}],"senses":[["strong spirit","mettle","backbone","guts","fighting spirit"]]}]}
+{
+  "basic": ["慨", "Rue", "1595"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani58"],
+      "japanese": [{ "word": "憤慨", "reading": "ふんがい" }],
+      "senses": [["indignation", "resentment"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani58"],
+      "japanese": [{ "word": "感慨", "reading": "かんがい" }],
+      "senses": [["deep emotion", "strong feelings"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani49"],
+      "japanese": [
+        { "word": "気概", "reading": "きがい" },
+        { "word": "気慨", "reading": "きがい" }
+      ],
+      "senses": [
+        ["strong spirit", "mettle", "backbone", "guts", "fighting spirit"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani58"],
+      "japanese": [{ "word": "憤慨", "reading": "ふんがい" }],
+      "senses": [["indignation", "resentment"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani58"],
+      "japanese": [{ "word": "感慨", "reading": "かんがい" }],
+      "senses": [["deep emotion", "strong feelings"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani49"],
+      "japanese": [
+        { "word": "気概", "reading": "きがい" },
+        { "word": "気慨", "reading": "きがい" }
+      ],
+      "senses": [
+        ["strong spirit", "mettle", "backbone", "guts", "fighting spirit"]
+      ]
+    }
+  ]
+}

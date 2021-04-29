@@ -1,1 +1,51 @@
-{"basic":["婆","Old Woman","867"],"extended":[{"jlpt":["jlpt-n1","jlpt-n5"],"tags":["wanikani47"],"japanese":[{"word":"お祖母さん","reading":"おばあさん"},{"word":"お婆さん","reading":"おばあさん"},{"word":"御祖母さん","reading":"おばあさん"},{"word":"御婆さん","reading":"おばあさん"},{"reading":"おばーさん"}],"senses":[["grandmother"],["old woman","female senior citizen"]]},{"jlpt":[],"tags":["wanikani49"],"japanese":[{"word":"お婆ちゃん","reading":"おばあちゃん"},{"word":"お祖母ちゃん","reading":"おばあちゃん"},{"word":"御祖母ちゃん","reading":"おばあちゃん"},{"word":"御婆ちゃん","reading":"おばあちゃん"}],"senses":[["granny","grandma","gran"],["old lady","old woman"]]},{"jlpt":["jlpt-n1","jlpt-n5"],"tags":["wanikani47"],"japanese":[{"word":"お祖母さん","reading":"おばあさん"},{"word":"お婆さん","reading":"おばあさん"},{"word":"御祖母さん","reading":"おばあさん"},{"word":"御婆さん","reading":"おばあさん"},{"reading":"おばーさん"}],"senses":[["grandmother"],["old woman","female senior citizen"]]},{"jlpt":[],"tags":["wanikani49"],"japanese":[{"word":"お婆ちゃん","reading":"おばあちゃん"},{"word":"お祖母ちゃん","reading":"おばあちゃん"},{"word":"御祖母ちゃん","reading":"おばあちゃん"},{"word":"御婆ちゃん","reading":"おばあちゃん"}],"senses":[["granny","grandma","gran"],["old lady","old woman"]]}]}
+{
+  "basic": ["婆", "Old Woman", "867"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n1", "jlpt-n5"],
+      "tags": ["wanikani47"],
+      "japanese": [
+        { "word": "お祖母さん", "reading": "おばあさん" },
+        { "word": "お婆さん", "reading": "おばあさん" },
+        { "word": "御祖母さん", "reading": "おばあさん" },
+        { "word": "御婆さん", "reading": "おばあさん" },
+        { "reading": "おばーさん" }
+      ],
+      "senses": [["grandmother"], ["old woman", "female senior citizen"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani49"],
+      "japanese": [
+        { "word": "お婆ちゃん", "reading": "おばあちゃん" },
+        { "word": "お祖母ちゃん", "reading": "おばあちゃん" },
+        { "word": "御祖母ちゃん", "reading": "おばあちゃん" },
+        { "word": "御婆ちゃん", "reading": "おばあちゃん" }
+      ],
+      "senses": [["granny", "grandma", "gran"], ["old lady", "old woman"]]
+    },
+    {
+      "jlpt": ["jlpt-n1", "jlpt-n5"],
+      "tags": ["wanikani47"],
+      "japanese": [
+        { "word": "お祖母さん", "reading": "おばあさん" },
+        { "word": "お婆さん", "reading": "おばあさん" },
+        { "word": "御祖母さん", "reading": "おばあさん" },
+        { "word": "御婆さん", "reading": "おばあさん" },
+        { "reading": "おばーさん" }
+      ],
+      "senses": [["grandmother"], ["old woman", "female senior citizen"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani49"],
+      "japanese": [
+        { "word": "お婆ちゃん", "reading": "おばあちゃん" },
+        { "word": "お祖母ちゃん", "reading": "おばあちゃん" },
+        { "word": "御祖母ちゃん", "reading": "おばあちゃん" },
+        { "word": "御婆ちゃん", "reading": "おばあちゃん" }
+      ],
+      "senses": [["granny", "grandma", "gran"], ["old lady", "old woman"]]
+    }
+  ]
+}

@@ -1,1 +1,61 @@
-{"basic":["善","Virtuous","1112"],"extended":[{"jlpt":["jlpt-n3"],"tags":["wanikani19"],"japanese":[{"word":"改善","reading":"かいぜん"}],"senses":[["betterment","improvement"],["kaizen (Japanese business philosophy of continuous improvement)"],["Kaizen"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"最善","reading":"さいぜん"}],"senses":[["the very best","utmost"]]},{"jlpt":[],"tags":["wanikani51"],"japanese":[{"word":"慈善","reading":"じぜん"}],"senses":[["charity","philanthropy"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"親善","reading":"しんぜん"}],"senses":[["friendship","goodwill","friendly relations","amity"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani19"],"japanese":[{"word":"改善","reading":"かいぜん"}],"senses":[["betterment","improvement"],["kaizen (Japanese business philosophy of continuous improvement)"],["Kaizen"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"最善","reading":"さいぜん"}],"senses":[["the very best","utmost"]]},{"jlpt":[],"tags":["wanikani51"],"japanese":[{"word":"慈善","reading":"じぜん"}],"senses":[["charity","philanthropy"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"親善","reading":"しんぜん"}],"senses":[["friendship","goodwill","friendly relations","amity"]]}]}
+{
+  "basic": ["善", "Virtuous", "1112"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani19"],
+      "japanese": [{ "word": "改善", "reading": "かいぜん" }],
+      "senses": [
+        ["betterment", "improvement"],
+        ["kaizen (Japanese business philosophy of continuous improvement)"],
+        ["Kaizen"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "最善", "reading": "さいぜん" }],
+      "senses": [["the very best", "utmost"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani51"],
+      "japanese": [{ "word": "慈善", "reading": "じぜん" }],
+      "senses": [["charity", "philanthropy"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "親善", "reading": "しんぜん" }],
+      "senses": [["friendship", "goodwill", "friendly relations", "amity"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani19"],
+      "japanese": [{ "word": "改善", "reading": "かいぜん" }],
+      "senses": [
+        ["betterment", "improvement"],
+        ["kaizen (Japanese business philosophy of continuous improvement)"],
+        ["Kaizen"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "最善", "reading": "さいぜん" }],
+      "senses": [["the very best", "utmost"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani51"],
+      "japanese": [{ "word": "慈善", "reading": "じぜん" }],
+      "senses": [["charity", "philanthropy"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "親善", "reading": "しんぜん" }],
+      "senses": [["friendship", "goodwill", "friendly relations", "amity"]]
+    }
+  ]
+}

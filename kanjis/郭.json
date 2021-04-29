@@ -1,1 +1,57 @@
-{"basic":["郭","Enclosure","1985"],"extended":[{"jlpt":[],"tags":["wanikani55"],"japanese":[{"word":"輪郭","reading":"りんかく"},{"word":"輪廓","reading":"りんかく"},{"word":"輪かく","reading":"りんかく"}],"senses":[["contour","outline","border","silhouette"],["summary","outline","sketch"],["looks","features","appearance"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"外郭団体","reading":"がいかくだんたい"}],"senses":[["auxiliary organization (organisation)","extra-departmental body","fringe organization"]]},{"jlpt":[],"tags":["wanikani55"],"japanese":[{"word":"輪郭","reading":"りんかく"},{"word":"輪廓","reading":"りんかく"},{"word":"輪かく","reading":"りんかく"}],"senses":[["contour","outline","border","silhouette"],["summary","outline","sketch"],["looks","features","appearance"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"外郭団体","reading":"がいかくだんたい"}],"senses":[["auxiliary organization (organisation)","extra-departmental body","fringe organization"]]}]}
+{
+  "basic": ["郭", "Enclosure", "1985"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": ["wanikani55"],
+      "japanese": [
+        { "word": "輪郭", "reading": "りんかく" },
+        { "word": "輪廓", "reading": "りんかく" },
+        { "word": "輪かく", "reading": "りんかく" }
+      ],
+      "senses": [
+        ["contour", "outline", "border", "silhouette"],
+        ["summary", "outline", "sketch"],
+        ["looks", "features", "appearance"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "外郭団体", "reading": "がいかくだんたい" }],
+      "senses": [
+        [
+          "auxiliary organization (organisation)",
+          "extra-departmental body",
+          "fringe organization"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani55"],
+      "japanese": [
+        { "word": "輪郭", "reading": "りんかく" },
+        { "word": "輪廓", "reading": "りんかく" },
+        { "word": "輪かく", "reading": "りんかく" }
+      ],
+      "senses": [
+        ["contour", "outline", "border", "silhouette"],
+        ["summary", "outline", "sketch"],
+        ["looks", "features", "appearance"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "外郭団体", "reading": "がいかくだんたい" }],
+      "senses": [
+        [
+          "auxiliary organization (organisation)",
+          "extra-departmental body",
+          "fringe organization"
+        ]
+      ]
+    }
+  ]
+}

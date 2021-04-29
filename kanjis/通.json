@@ -1,1 +1,624 @@
-{"basic":["通","Traffic","1511"],"extended":[{"jlpt":["jlpt-n4"],"tags":["wanikani31"],"japanese":[{"word":"普通","reading":"ふつう"}],"senses":[["normal","ordinary","regular","usual","common","average"],["normally","ordinarily","usually","generally","commonly"],["local train","train that stops at every station"],["Normality (behavior)"]]},{"jlpt":["jlpt-n4"],"tags":["wanikani7"],"japanese":[{"word":"交通","reading":"こうつう"}],"senses":[["traffic","transportation","communication","exchange (of ideas, etc.)","intercourse"],["Transport"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"大通り","reading":"おおどおり"}],"senses":[["main street"],["Oodoori"],["Main Street"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"流通","reading":"りゅうつう"}],"senses":[["circulation (money, goods, etc.)","distribution"],["circulation (air, water, etc.)","ventilation","flow"],["negotiable (e.g. shares)","distributional","circulating"],["Ryuutsuu"],["Distribution (business)"]]},{"jlpt":["jlpt-n3"],"tags":[],"japanese":[{"word":"共通","reading":"きょうつう"}],"senses":[["common","shared","mutual"],["to be common (to)","to be shared (by)"],["-wide"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"不通","reading":"ふつう"}],"senses":[["suspension","interruption","stoppage","tie-up","cessation"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"交通機関","reading":"こうつうきかん"}],"senses":[["(means of) transportation","transport","transportation facilities","transportation system","transit system"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"直通","reading":"ちょくつう"}],"senses":[["direct line","direct communication","connecting directly","through service","nonstop service"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"開通","reading":"かいつう"}],"senses":[["opening (of a new road, railway, etc.)","going into operation (e.g. telephone communication)","beginning services"],["reopening (e.g. a road to traffic)","resumption of services"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"人通り","reading":"ひとどおり"}],"senses":[["pedestrian traffic"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"見通し","reading":"みとおし"},{"word":"見透し","reading":"みとおし"},{"word":"見通","reading":"みとおし"}],"senses":[["unobstructed view","perspective","visibility","vista"],["forecast","outlook","prospect","prediction"],["insight","foresight"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"似通う","reading":"にかよう"}],"senses":[["to resemble closely"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"融通","reading":"ゆうずう"},{"word":"融通","reading":"ゆうづう"},{"word":"融通","reading":"ゆずう"}],"senses":[["lending (money)","finance","loan"],["adaptability","versatility","flexibility","accommodation"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"交通事故","reading":"こうつうじこ"}],"senses":[["traffic accident"],["Traffic collision"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"精通","reading":"せいつう"}],"senses":[["having deep knowledge of","being expert in","being well versed in","being conversant with"],["(a boy's) first ejaculation","semenarche"],["Spermarche (ability to produce sperm)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"文通","reading":"ぶんつう"}],"senses":[["correspondence","exchange of letters"],["Pen pal"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"一通り","reading":"ひととおり"}],"senses":[["generally","in the main","briefly (look over, explain, etc.)","roughly","more or less"],["(more or less) everything","all parts","bit of everything","whole process"],["ordinary","usual","average","common"],["one method"]]},{"jlpt":[],"tags":["wanikani11"],"japanese":[{"word":"文字通り","reading":"もじどおり"},{"word":"文字どおり","reading":"もじどおり"}],"senses":[["literal"],["literally"]]},{"jlpt":[],"tags":["wanikani54"],"japanese":[{"word":"疎通","reading":"そつう"},{"word":"疏通","reading":"そつう"}],"senses":[["(mutual) understanding","communication"],["passing without obstruction"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"風通し","reading":"かぜとおし"},{"word":"風通し","reading":"かざとおし"},{"word":"風とおし","reading":"かぜとおし"},{"word":"風とおし","reading":"かざとおし"}],"senses":[["ventilation"],["communication (within an organisation)","openness"]]},{"jlpt":["jlpt-n4"],"tags":["wanikani31"],"japanese":[{"word":"普通","reading":"ふつう"}],"senses":[["normal","ordinary","regular","usual","common","average"],["normally","ordinarily","usually","generally","commonly"],["local train","train that stops at every station"],["Normality (behavior)"]]},{"jlpt":["jlpt-n4"],"tags":["wanikani7"],"japanese":[{"word":"交通","reading":"こうつう"}],"senses":[["traffic","transportation","communication","exchange (of ideas, etc.)","intercourse"],["Transport"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"大通り","reading":"おおどおり"}],"senses":[["main street"],["Oodoori"],["Main Street"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"流通","reading":"りゅうつう"}],"senses":[["circulation (money, goods, etc.)","distribution"],["circulation (air, water, etc.)","ventilation","flow"],["negotiable (e.g. shares)","distributional","circulating"],["Ryuutsuu"],["Distribution (business)"]]},{"jlpt":["jlpt-n3"],"tags":[],"japanese":[{"word":"共通","reading":"きょうつう"}],"senses":[["common","shared","mutual"],["to be common (to)","to be shared (by)"],["-wide"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"不通","reading":"ふつう"}],"senses":[["suspension","interruption","stoppage","tie-up","cessation"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"交通機関","reading":"こうつうきかん"}],"senses":[["(means of) transportation","transport","transportation facilities","transportation system","transit system"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"直通","reading":"ちょくつう"}],"senses":[["direct line","direct communication","connecting directly","through service","nonstop service"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"開通","reading":"かいつう"}],"senses":[["opening (of a new road, railway, etc.)","going into operation (e.g. telephone communication)","beginning services"],["reopening (e.g. a road to traffic)","resumption of services"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"人通り","reading":"ひとどおり"}],"senses":[["pedestrian traffic"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"見通し","reading":"みとおし"},{"word":"見透し","reading":"みとおし"},{"word":"見通","reading":"みとおし"}],"senses":[["unobstructed view","perspective","visibility","vista"],["forecast","outlook","prospect","prediction"],["insight","foresight"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"似通う","reading":"にかよう"}],"senses":[["to resemble closely"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"融通","reading":"ゆうずう"},{"word":"融通","reading":"ゆうづう"},{"word":"融通","reading":"ゆずう"}],"senses":[["lending (money)","finance","loan"],["adaptability","versatility","flexibility","accommodation"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"交通事故","reading":"こうつうじこ"}],"senses":[["traffic accident"],["Traffic collision"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"精通","reading":"せいつう"}],"senses":[["having deep knowledge of","being expert in","being well versed in","being conversant with"],["(a boy's) first ejaculation","semenarche"],["Spermarche (ability to produce sperm)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"文通","reading":"ぶんつう"}],"senses":[["correspondence","exchange of letters"],["Pen pal"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"一通り","reading":"ひととおり"}],"senses":[["generally","in the main","briefly (look over, explain, etc.)","roughly","more or less"],["(more or less) everything","all parts","bit of everything","whole process"],["ordinary","usual","average","common"],["one method"]]},{"jlpt":[],"tags":["wanikani11"],"japanese":[{"word":"文字通り","reading":"もじどおり"},{"word":"文字どおり","reading":"もじどおり"}],"senses":[["literal"],["literally"]]},{"jlpt":[],"tags":["wanikani54"],"japanese":[{"word":"疎通","reading":"そつう"},{"word":"疏通","reading":"そつう"}],"senses":[["(mutual) understanding","communication"],["passing without obstruction"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"風通し","reading":"かぜとおし"},{"word":"風通し","reading":"かざとおし"},{"word":"風とおし","reading":"かぜとおし"},{"word":"風とおし","reading":"かざとおし"}],"senses":[["ventilation"],["communication (within an organisation)","openness"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"風通し","reading":"かぜとおし"},{"word":"風通し","reading":"かざとおし"},{"word":"風とおし","reading":"かぜとおし"},{"word":"風とおし","reading":"かざとおし"}],"senses":[["ventilation"],["communication (within an organisation)","openness"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"交通費","reading":"こうつうひ"}],"senses":[["traveling expenses","travelling expenses","carfare"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"共通語","reading":"きょうつうご"}],"senses":[["common language","lingua franca"],["standard language (language variety understood throughout a country)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"表通り","reading":"おもてどおり"},{"word":"表通","reading":"おもてどおり"}],"senses":[["main street"]]},{"jlpt":[],"tags":["wanikani33"],"japanese":[{"word":"裏通り","reading":"うらどおり"},{"word":"裏通り","reading":"うらとおり"},{"word":"裏通","reading":"うらどおり"},{"word":"裏通","reading":"うらとおり"}],"senses":[["side street (often parallel to a main street)","back street","alley","alleyway"]]},{"jlpt":[],"tags":["wanikani11"],"japanese":[{"word":"共通点","reading":"きょうつうてん"}],"senses":[["point in common","common feature"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"意思疎通","reading":"いしそつう"},{"word":"意志疎通","reading":"いしそつう"}],"senses":[["(coming to a) mutual understanding","understanding each other"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"いつも通り","reading":"いつもどおり"},{"word":"いつも通り","reading":"いつもとおり"},{"word":"何時も通り","reading":"いつもどおり"},{"word":"何時も通り","reading":"いつもとおり"}],"senses":[["as always","as usual"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani42"],"japanese":[{"word":"透き通る","reading":"すきとおる"},{"word":"透きとおる","reading":"すきとおる"},{"word":"透き徹る","reading":"すきとおる"}],"senses":[["to be transparent","to be see-through","to be clear"],["to be clear (voice, sound)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"一通","reading":"いっつう"}],"senses":[["one copy (of a document)","one letter"],["one-way traffic"],["pure straight","winning hand containing nine consecutive tiles of the same suit (i.e. 1-9)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"一方通行","reading":"いっぽうつうこう"}],"senses":[["one-way traffic"],["One-way traffic"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"富士通","reading":"ふじつう"}],"senses":[["Fujitsu"],["Fujitsu"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"目を通す","reading":"めをとおす"},{"word":"目をとおす","reading":"めをとおす"}],"senses":[["to scan","to look over"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"電通大","reading":"でんつうだい"}],"senses":[["University of Electro-Communications"],["Dentsuudai"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"普通預金","reading":"ふつうよきん"}],"senses":[["ordinary bank account"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"約束通り","reading":"やくそくどおり"},{"word":"約束どおり","reading":"やくそくどおり"}],"senses":[["as one promised"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"データ通信","reading":"データつうしん"}],"senses":[["data communication"],["Data link"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"知っての通り","reading":"しってのとおり"},{"word":"知ってのとおり","reading":"しってのとおり"}],"senses":[["as we know"]]}]}
+{
+  "basic": ["通", "Traffic", "1511"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n4"],
+      "tags": ["wanikani31"],
+      "japanese": [{ "word": "普通", "reading": "ふつう" }],
+      "senses": [
+        ["normal", "ordinary", "regular", "usual", "common", "average"],
+        ["normally", "ordinarily", "usually", "generally", "commonly"],
+        ["local train", "train that stops at every station"],
+        ["Normality (behavior)"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n4"],
+      "tags": ["wanikani7"],
+      "japanese": [{ "word": "交通", "reading": "こうつう" }],
+      "senses": [
+        [
+          "traffic",
+          "transportation",
+          "communication",
+          "exchange (of ideas, etc.)",
+          "intercourse"
+        ],
+        ["Transport"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "大通り", "reading": "おおどおり" }],
+      "senses": [["main street"], ["Oodoori"], ["Main Street"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "流通", "reading": "りゅうつう" }],
+      "senses": [
+        ["circulation (money, goods, etc.)", "distribution"],
+        ["circulation (air, water, etc.)", "ventilation", "flow"],
+        ["negotiable (e.g. shares)", "distributional", "circulating"],
+        ["Ryuutsuu"],
+        ["Distribution (business)"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": [],
+      "japanese": [{ "word": "共通", "reading": "きょうつう" }],
+      "senses": [
+        ["common", "shared", "mutual"],
+        ["to be common (to)", "to be shared (by)"],
+        ["-wide"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "不通", "reading": "ふつう" }],
+      "senses": [
+        ["suspension", "interruption", "stoppage", "tie-up", "cessation"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "交通機関", "reading": "こうつうきかん" }],
+      "senses": [
+        [
+          "(means of) transportation",
+          "transport",
+          "transportation facilities",
+          "transportation system",
+          "transit system"
+        ]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "直通", "reading": "ちょくつう" }],
+      "senses": [
+        [
+          "direct line",
+          "direct communication",
+          "connecting directly",
+          "through service",
+          "nonstop service"
+        ]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "開通", "reading": "かいつう" }],
+      "senses": [
+        [
+          "opening (of a new road, railway, etc.)",
+          "going into operation (e.g. telephone communication)",
+          "beginning services"
+        ],
+        ["reopening (e.g. a road to traffic)", "resumption of services"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "人通り", "reading": "ひとどおり" }],
+      "senses": [["pedestrian traffic"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "見通し", "reading": "みとおし" },
+        { "word": "見透し", "reading": "みとおし" },
+        { "word": "見通", "reading": "みとおし" }
+      ],
+      "senses": [
+        ["unobstructed view", "perspective", "visibility", "vista"],
+        ["forecast", "outlook", "prospect", "prediction"],
+        ["insight", "foresight"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "似通う", "reading": "にかよう" }],
+      "senses": [["to resemble closely"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "融通", "reading": "ゆうずう" },
+        { "word": "融通", "reading": "ゆうづう" },
+        { "word": "融通", "reading": "ゆずう" }
+      ],
+      "senses": [
+        ["lending (money)", "finance", "loan"],
+        ["adaptability", "versatility", "flexibility", "accommodation"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "交通事故", "reading": "こうつうじこ" }],
+      "senses": [["traffic accident"], ["Traffic collision"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "精通", "reading": "せいつう" }],
+      "senses": [
+        [
+          "having deep knowledge of",
+          "being expert in",
+          "being well versed in",
+          "being conversant with"
+        ],
+        ["(a boy's) first ejaculation", "semenarche"],
+        ["Spermarche (ability to produce sperm)"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "文通", "reading": "ぶんつう" }],
+      "senses": [["correspondence", "exchange of letters"], ["Pen pal"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "一通り", "reading": "ひととおり" }],
+      "senses": [
+        [
+          "generally",
+          "in the main",
+          "briefly (look over, explain, etc.)",
+          "roughly",
+          "more or less"
+        ],
+        [
+          "(more or less) everything",
+          "all parts",
+          "bit of everything",
+          "whole process"
+        ],
+        ["ordinary", "usual", "average", "common"],
+        ["one method"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani11"],
+      "japanese": [
+        { "word": "文字通り", "reading": "もじどおり" },
+        { "word": "文字どおり", "reading": "もじどおり" }
+      ],
+      "senses": [["literal"], ["literally"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani54"],
+      "japanese": [
+        { "word": "疎通", "reading": "そつう" },
+        { "word": "疏通", "reading": "そつう" }
+      ],
+      "senses": [
+        ["(mutual) understanding", "communication"],
+        ["passing without obstruction"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "風通し", "reading": "かぜとおし" },
+        { "word": "風通し", "reading": "かざとおし" },
+        { "word": "風とおし", "reading": "かぜとおし" },
+        { "word": "風とおし", "reading": "かざとおし" }
+      ],
+      "senses": [
+        ["ventilation"],
+        ["communication (within an organisation)", "openness"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n4"],
+      "tags": ["wanikani31"],
+      "japanese": [{ "word": "普通", "reading": "ふつう" }],
+      "senses": [
+        ["normal", "ordinary", "regular", "usual", "common", "average"],
+        ["normally", "ordinarily", "usually", "generally", "commonly"],
+        ["local train", "train that stops at every station"],
+        ["Normality (behavior)"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n4"],
+      "tags": ["wanikani7"],
+      "japanese": [{ "word": "交通", "reading": "こうつう" }],
+      "senses": [
+        [
+          "traffic",
+          "transportation",
+          "communication",
+          "exchange (of ideas, etc.)",
+          "intercourse"
+        ],
+        ["Transport"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "大通り", "reading": "おおどおり" }],
+      "senses": [["main street"], ["Oodoori"], ["Main Street"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "流通", "reading": "りゅうつう" }],
+      "senses": [
+        ["circulation (money, goods, etc.)", "distribution"],
+        ["circulation (air, water, etc.)", "ventilation", "flow"],
+        ["negotiable (e.g. shares)", "distributional", "circulating"],
+        ["Ryuutsuu"],
+        ["Distribution (business)"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": [],
+      "japanese": [{ "word": "共通", "reading": "きょうつう" }],
+      "senses": [
+        ["common", "shared", "mutual"],
+        ["to be common (to)", "to be shared (by)"],
+        ["-wide"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "不通", "reading": "ふつう" }],
+      "senses": [
+        ["suspension", "interruption", "stoppage", "tie-up", "cessation"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "交通機関", "reading": "こうつうきかん" }],
+      "senses": [
+        [
+          "(means of) transportation",
+          "transport",
+          "transportation facilities",
+          "transportation system",
+          "transit system"
+        ]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "直通", "reading": "ちょくつう" }],
+      "senses": [
+        [
+          "direct line",
+          "direct communication",
+          "connecting directly",
+          "through service",
+          "nonstop service"
+        ]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "開通", "reading": "かいつう" }],
+      "senses": [
+        [
+          "opening (of a new road, railway, etc.)",
+          "going into operation (e.g. telephone communication)",
+          "beginning services"
+        ],
+        ["reopening (e.g. a road to traffic)", "resumption of services"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "人通り", "reading": "ひとどおり" }],
+      "senses": [["pedestrian traffic"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "見通し", "reading": "みとおし" },
+        { "word": "見透し", "reading": "みとおし" },
+        { "word": "見通", "reading": "みとおし" }
+      ],
+      "senses": [
+        ["unobstructed view", "perspective", "visibility", "vista"],
+        ["forecast", "outlook", "prospect", "prediction"],
+        ["insight", "foresight"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "似通う", "reading": "にかよう" }],
+      "senses": [["to resemble closely"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "融通", "reading": "ゆうずう" },
+        { "word": "融通", "reading": "ゆうづう" },
+        { "word": "融通", "reading": "ゆずう" }
+      ],
+      "senses": [
+        ["lending (money)", "finance", "loan"],
+        ["adaptability", "versatility", "flexibility", "accommodation"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "交通事故", "reading": "こうつうじこ" }],
+      "senses": [["traffic accident"], ["Traffic collision"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "精通", "reading": "せいつう" }],
+      "senses": [
+        [
+          "having deep knowledge of",
+          "being expert in",
+          "being well versed in",
+          "being conversant with"
+        ],
+        ["(a boy's) first ejaculation", "semenarche"],
+        ["Spermarche (ability to produce sperm)"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "文通", "reading": "ぶんつう" }],
+      "senses": [["correspondence", "exchange of letters"], ["Pen pal"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "一通り", "reading": "ひととおり" }],
+      "senses": [
+        [
+          "generally",
+          "in the main",
+          "briefly (look over, explain, etc.)",
+          "roughly",
+          "more or less"
+        ],
+        [
+          "(more or less) everything",
+          "all parts",
+          "bit of everything",
+          "whole process"
+        ],
+        ["ordinary", "usual", "average", "common"],
+        ["one method"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani11"],
+      "japanese": [
+        { "word": "文字通り", "reading": "もじどおり" },
+        { "word": "文字どおり", "reading": "もじどおり" }
+      ],
+      "senses": [["literal"], ["literally"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani54"],
+      "japanese": [
+        { "word": "疎通", "reading": "そつう" },
+        { "word": "疏通", "reading": "そつう" }
+      ],
+      "senses": [
+        ["(mutual) understanding", "communication"],
+        ["passing without obstruction"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "風通し", "reading": "かぜとおし" },
+        { "word": "風通し", "reading": "かざとおし" },
+        { "word": "風とおし", "reading": "かぜとおし" },
+        { "word": "風とおし", "reading": "かざとおし" }
+      ],
+      "senses": [
+        ["ventilation"],
+        ["communication (within an organisation)", "openness"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "風通し", "reading": "かぜとおし" },
+        { "word": "風通し", "reading": "かざとおし" },
+        { "word": "風とおし", "reading": "かぜとおし" },
+        { "word": "風とおし", "reading": "かざとおし" }
+      ],
+      "senses": [
+        ["ventilation"],
+        ["communication (within an organisation)", "openness"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "交通費", "reading": "こうつうひ" }],
+      "senses": [["traveling expenses", "travelling expenses", "carfare"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "共通語", "reading": "きょうつうご" }],
+      "senses": [
+        ["common language", "lingua franca"],
+        ["standard language (language variety understood throughout a country)"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "表通り", "reading": "おもてどおり" },
+        { "word": "表通", "reading": "おもてどおり" }
+      ],
+      "senses": [["main street"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani33"],
+      "japanese": [
+        { "word": "裏通り", "reading": "うらどおり" },
+        { "word": "裏通り", "reading": "うらとおり" },
+        { "word": "裏通", "reading": "うらどおり" },
+        { "word": "裏通", "reading": "うらとおり" }
+      ],
+      "senses": [
+        [
+          "side street (often parallel to a main street)",
+          "back street",
+          "alley",
+          "alleyway"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani11"],
+      "japanese": [{ "word": "共通点", "reading": "きょうつうてん" }],
+      "senses": [["point in common", "common feature"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "意思疎通", "reading": "いしそつう" },
+        { "word": "意志疎通", "reading": "いしそつう" }
+      ],
+      "senses": [
+        ["(coming to a) mutual understanding", "understanding each other"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "いつも通り", "reading": "いつもどおり" },
+        { "word": "いつも通り", "reading": "いつもとおり" },
+        { "word": "何時も通り", "reading": "いつもどおり" },
+        { "word": "何時も通り", "reading": "いつもとおり" }
+      ],
+      "senses": [["as always", "as usual"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani42"],
+      "japanese": [
+        { "word": "透き通る", "reading": "すきとおる" },
+        { "word": "透きとおる", "reading": "すきとおる" },
+        { "word": "透き徹る", "reading": "すきとおる" }
+      ],
+      "senses": [
+        ["to be transparent", "to be see-through", "to be clear"],
+        ["to be clear (voice, sound)"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "一通", "reading": "いっつう" }],
+      "senses": [
+        ["one copy (of a document)", "one letter"],
+        ["one-way traffic"],
+        [
+          "pure straight",
+          "winning hand containing nine consecutive tiles of the same suit (i.e. 1-9)"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "一方通行", "reading": "いっぽうつうこう" }],
+      "senses": [["one-way traffic"], ["One-way traffic"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "富士通", "reading": "ふじつう" }],
+      "senses": [["Fujitsu"], ["Fujitsu"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "目を通す", "reading": "めをとおす" },
+        { "word": "目をとおす", "reading": "めをとおす" }
+      ],
+      "senses": [["to scan", "to look over"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "電通大", "reading": "でんつうだい" }],
+      "senses": [["University of Electro-Communications"], ["Dentsuudai"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "普通預金", "reading": "ふつうよきん" }],
+      "senses": [["ordinary bank account"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "約束通り", "reading": "やくそくどおり" },
+        { "word": "約束どおり", "reading": "やくそくどおり" }
+      ],
+      "senses": [["as one promised"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "データ通信", "reading": "データつうしん" }],
+      "senses": [["data communication"], ["Data link"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "知っての通り", "reading": "しってのとおり" },
+        { "word": "知ってのとおり", "reading": "しってのとおり" }
+      ],
+      "senses": [["as we know"]]
+    }
+  ]
+}

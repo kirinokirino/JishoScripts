@@ -1,1 +1,23 @@
-{"basic":["硫","Sulfur","825"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"脱硫","reading":"だつりゅう"}],"senses":[["desulfurization","desulphurisation","desulphurization"],["Hydrodesulfurization"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"脱硫","reading":"だつりゅう"}],"senses":[["desulfurization","desulphurisation","desulphurization"],["Hydrodesulfurization"]]}]}
+{
+  "basic": ["硫", "Sulfur", "825"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "脱硫", "reading": "だつりゅう" }],
+      "senses": [
+        ["desulfurization", "desulphurisation", "desulphurization"],
+        ["Hydrodesulfurization"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "脱硫", "reading": "だつりゅう" }],
+      "senses": [
+        ["desulfurization", "desulphurisation", "desulphurization"],
+        ["Hydrodesulfurization"]
+      ]
+    }
+  ]
+}

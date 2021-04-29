@@ -1,1 +1,17 @@
-{"basic":["侶","Partner","1025"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"僧侶","reading":"そうりょ"}],"senses":[["priest","monk","bonze"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"僧侶","reading":"そうりょ"}],"senses":[["priest","monk","bonze"]]}]}
+{
+  "basic": ["侶", "Partner", "1025"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "僧侶", "reading": "そうりょ" }],
+      "senses": [["priest", "monk", "bonze"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "僧侶", "reading": "そうりょ" }],
+      "senses": [["priest", "monk", "bonze"]]
+    }
+  ]
+}

@@ -1,1 +1,171 @@
-{"basic":["犯","Crime","1517"],"extended":[{"jlpt":["jlpt-n3"],"tags":["wanikani26"],"japanese":[{"word":"違反","reading":"いはん"}],"senses":[["violation","offense","offence","breach","transgression","infringement","contravention"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"現行犯","reading":"げんこうはん"}],"senses":[["flagrante delicto","caught red-handed"],["In flagrante delicto"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"政治犯","reading":"せいじはん"}],"senses":[["political offense","political offence","political crime"],["political offender","political prisoner","prisoner of conscience"],["Political prisoner"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani22"],"japanese":[{"word":"防犯","reading":"ぼうはん"}],"senses":[["prevention of crime"],["security (device, camera, etc.)"],["Crime prevention"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"主犯","reading":"しゅはん"}],"senses":[["principal offence","principal offense","principal offender"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"戦犯","reading":"せんぱん"}],"senses":[["war criminal"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"侵犯","reading":"しんぱん"}],"senses":[["violation (of foreign territory, rights, etc.)","invasion","infringement"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"共犯","reading":"きょうはん"}],"senses":[["complicity"],["Accomplice"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"防犯カメラ","reading":"ぼうはんカメラ"}],"senses":[["security camera"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani26"],"japanese":[{"word":"違反","reading":"いはん"}],"senses":[["violation","offense","offence","breach","transgression","infringement","contravention"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"現行犯","reading":"げんこうはん"}],"senses":[["flagrante delicto","caught red-handed"],["In flagrante delicto"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"政治犯","reading":"せいじはん"}],"senses":[["political offense","political offence","political crime"],["political offender","political prisoner","prisoner of conscience"],["Political prisoner"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani22"],"japanese":[{"word":"防犯","reading":"ぼうはん"}],"senses":[["prevention of crime"],["security (device, camera, etc.)"],["Crime prevention"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"主犯","reading":"しゅはん"}],"senses":[["principal offence","principal offense","principal offender"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"戦犯","reading":"せんぱん"}],"senses":[["war criminal"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"侵犯","reading":"しんぱん"}],"senses":[["violation (of foreign territory, rights, etc.)","invasion","infringement"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"共犯","reading":"きょうはん"}],"senses":[["complicity"],["Accomplice"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"防犯カメラ","reading":"ぼうはんカメラ"}],"senses":[["security camera"]]}]}
+{
+  "basic": ["犯", "Crime", "1517"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani26"],
+      "japanese": [{ "word": "違反", "reading": "いはん" }],
+      "senses": [
+        [
+          "violation",
+          "offense",
+          "offence",
+          "breach",
+          "transgression",
+          "infringement",
+          "contravention"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "現行犯", "reading": "げんこうはん" }],
+      "senses": [
+        ["flagrante delicto", "caught red-handed"],
+        ["In flagrante delicto"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "政治犯", "reading": "せいじはん" }],
+      "senses": [
+        ["political offense", "political offence", "political crime"],
+        ["political offender", "political prisoner", "prisoner of conscience"],
+        ["Political prisoner"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani22"],
+      "japanese": [{ "word": "防犯", "reading": "ぼうはん" }],
+      "senses": [
+        ["prevention of crime"],
+        ["security (device, camera, etc.)"],
+        ["Crime prevention"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "主犯", "reading": "しゅはん" }],
+      "senses": [
+        ["principal offence", "principal offense", "principal offender"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "戦犯", "reading": "せんぱん" }],
+      "senses": [["war criminal"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "侵犯", "reading": "しんぱん" }],
+      "senses": [
+        [
+          "violation (of foreign territory, rights, etc.)",
+          "invasion",
+          "infringement"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "共犯", "reading": "きょうはん" }],
+      "senses": [["complicity"], ["Accomplice"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "防犯カメラ", "reading": "ぼうはんカメラ" }],
+      "senses": [["security camera"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani26"],
+      "japanese": [{ "word": "違反", "reading": "いはん" }],
+      "senses": [
+        [
+          "violation",
+          "offense",
+          "offence",
+          "breach",
+          "transgression",
+          "infringement",
+          "contravention"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "現行犯", "reading": "げんこうはん" }],
+      "senses": [
+        ["flagrante delicto", "caught red-handed"],
+        ["In flagrante delicto"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "政治犯", "reading": "せいじはん" }],
+      "senses": [
+        ["political offense", "political offence", "political crime"],
+        ["political offender", "political prisoner", "prisoner of conscience"],
+        ["Political prisoner"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani22"],
+      "japanese": [{ "word": "防犯", "reading": "ぼうはん" }],
+      "senses": [
+        ["prevention of crime"],
+        ["security (device, camera, etc.)"],
+        ["Crime prevention"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "主犯", "reading": "しゅはん" }],
+      "senses": [
+        ["principal offence", "principal offense", "principal offender"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "戦犯", "reading": "せんぱん" }],
+      "senses": [["war criminal"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "侵犯", "reading": "しんぱん" }],
+      "senses": [
+        [
+          "violation (of foreign territory, rights, etc.)",
+          "invasion",
+          "infringement"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "共犯", "reading": "きょうはん" }],
+      "senses": [["complicity"], ["Accomplice"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "防犯カメラ", "reading": "ぼうはんカメラ" }],
+      "senses": [["security camera"]]
+    }
+  ]
+}

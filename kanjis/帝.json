@@ -1,1 +1,23 @@
-{"basic":["帝","Sovereign","466"],"extended":[{"jlpt":[],"tags":["wanikani46"],"japanese":[{"word":"皇帝","reading":"こうてい"},{"word":"皇帝","reading":"おうだい"}],"senses":[["emperor"],["Emperor"]]},{"jlpt":[],"tags":["wanikani46"],"japanese":[{"word":"皇帝","reading":"こうてい"},{"word":"皇帝","reading":"おうだい"}],"senses":[["emperor"],["Emperor"]]}]}
+{
+  "basic": ["帝", "Sovereign", "466"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": ["wanikani46"],
+      "japanese": [
+        { "word": "皇帝", "reading": "こうてい" },
+        { "word": "皇帝", "reading": "おうだい" }
+      ],
+      "senses": [["emperor"], ["Emperor"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani46"],
+      "japanese": [
+        { "word": "皇帝", "reading": "こうてい" },
+        { "word": "皇帝", "reading": "おうだい" }
+      ],
+      "senses": [["emperor"], ["Emperor"]]
+    }
+  ]
+}

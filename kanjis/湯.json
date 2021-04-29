@@ -1,1 +1,35 @@
-{"basic":["湯","Hot Water","585"],"extended":[{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"熱湯","reading":"ねっとう"}],"senses":[["boiling water"]]},{"jlpt":[],"tags":["wanikani32"],"japanese":[{"word":"銭湯","reading":"せんとう"},{"word":"洗湯","reading":"せんとう"}],"senses":[["public bath","bathhouse"],["Sentō"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"熱湯","reading":"ねっとう"}],"senses":[["boiling water"]]},{"jlpt":[],"tags":["wanikani32"],"japanese":[{"word":"銭湯","reading":"せんとう"},{"word":"洗湯","reading":"せんとう"}],"senses":[["public bath","bathhouse"],["Sentō"]]}]}
+{
+  "basic": ["湯", "Hot Water", "585"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "熱湯", "reading": "ねっとう" }],
+      "senses": [["boiling water"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani32"],
+      "japanese": [
+        { "word": "銭湯", "reading": "せんとう" },
+        { "word": "洗湯", "reading": "せんとう" }
+      ],
+      "senses": [["public bath", "bathhouse"], ["Sentō"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "熱湯", "reading": "ねっとう" }],
+      "senses": [["boiling water"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani32"],
+      "japanese": [
+        { "word": "銭湯", "reading": "せんとう" },
+        { "word": "洗湯", "reading": "せんとう" }
+      ],
+      "senses": [["public bath", "bathhouse"], ["Sentō"]]
+    }
+  ]
+}

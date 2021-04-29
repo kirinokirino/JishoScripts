@@ -1,1 +1,35 @@
-{"basic":["畑","Farm","178"],"extended":[{"jlpt":[],"tags":["wanikani41"],"japanese":[{"word":"田畑","reading":"たはた"},{"word":"田畑","reading":"でんぱた"},{"word":"田畑","reading":"でんばた"},{"word":"田畑","reading":"たはたけ"},{"word":"田畠","reading":"たはた"},{"word":"田畠","reading":"でんぱた"},{"word":"田畠","reading":"でんばた"},{"word":"田畠","reading":"たはたけ"}],"senses":[["fields (of rice and other crops)"]]},{"jlpt":[],"tags":["wanikani41"],"japanese":[{"word":"田畑","reading":"たはた"},{"word":"田畑","reading":"でんぱた"},{"word":"田畑","reading":"でんばた"},{"word":"田畑","reading":"たはたけ"},{"word":"田畠","reading":"たはた"},{"word":"田畠","reading":"でんぱた"},{"word":"田畠","reading":"でんばた"},{"word":"田畠","reading":"たはたけ"}],"senses":[["fields (of rice and other crops)"]]}]}
+{
+  "basic": ["畑", "Farm", "178"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": ["wanikani41"],
+      "japanese": [
+        { "word": "田畑", "reading": "たはた" },
+        { "word": "田畑", "reading": "でんぱた" },
+        { "word": "田畑", "reading": "でんばた" },
+        { "word": "田畑", "reading": "たはたけ" },
+        { "word": "田畠", "reading": "たはた" },
+        { "word": "田畠", "reading": "でんぱた" },
+        { "word": "田畠", "reading": "でんばた" },
+        { "word": "田畠", "reading": "たはたけ" }
+      ],
+      "senses": [["fields (of rice and other crops)"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani41"],
+      "japanese": [
+        { "word": "田畑", "reading": "たはた" },
+        { "word": "田畑", "reading": "でんぱた" },
+        { "word": "田畑", "reading": "でんばた" },
+        { "word": "田畑", "reading": "たはたけ" },
+        { "word": "田畠", "reading": "たはた" },
+        { "word": "田畠", "reading": "でんぱた" },
+        { "word": "田畠", "reading": "でんばた" },
+        { "word": "田畠", "reading": "たはたけ" }
+      ],
+      "senses": [["fields (of rice and other crops)"]]
+    }
+  ]
+}

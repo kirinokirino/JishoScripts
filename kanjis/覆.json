@@ -1,1 +1,55 @@
-{"basic":["覆","Capsize","1738"],"extended":[{"jlpt":[],"tags":["wanikani49"],"japanese":[{"word":"転覆","reading":"てんぷく"},{"word":"顛覆","reading":"てんぷく"},{"word":"転ぷく","reading":"てんぷく"},{"word":"顚覆","reading":"てんぷく"}],"senses":[["overturning","capsizing"],["overthrow (e.g. of a government)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"修復","reading":"しゅうふく"},{"word":"修復","reading":"しゅふく"},{"word":"修覆","reading":"しゅうふく"},{"word":"修覆","reading":"しゅふく"}],"senses":[["restoration","repair","mending"]]},{"jlpt":[],"tags":["wanikani49"],"japanese":[{"word":"転覆","reading":"てんぷく"},{"word":"顛覆","reading":"てんぷく"},{"word":"転ぷく","reading":"てんぷく"},{"word":"顚覆","reading":"てんぷく"}],"senses":[["overturning","capsizing"],["overthrow (e.g. of a government)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"修復","reading":"しゅうふく"},{"word":"修復","reading":"しゅふく"},{"word":"修覆","reading":"しゅうふく"},{"word":"修覆","reading":"しゅふく"}],"senses":[["restoration","repair","mending"]]}]}
+{
+  "basic": ["覆", "Capsize", "1738"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": ["wanikani49"],
+      "japanese": [
+        { "word": "転覆", "reading": "てんぷく" },
+        { "word": "顛覆", "reading": "てんぷく" },
+        { "word": "転ぷく", "reading": "てんぷく" },
+        { "word": "顚覆", "reading": "てんぷく" }
+      ],
+      "senses": [
+        ["overturning", "capsizing"],
+        ["overthrow (e.g. of a government)"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "修復", "reading": "しゅうふく" },
+        { "word": "修復", "reading": "しゅふく" },
+        { "word": "修覆", "reading": "しゅうふく" },
+        { "word": "修覆", "reading": "しゅふく" }
+      ],
+      "senses": [["restoration", "repair", "mending"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani49"],
+      "japanese": [
+        { "word": "転覆", "reading": "てんぷく" },
+        { "word": "顛覆", "reading": "てんぷく" },
+        { "word": "転ぷく", "reading": "てんぷく" },
+        { "word": "顚覆", "reading": "てんぷく" }
+      ],
+      "senses": [
+        ["overturning", "capsizing"],
+        ["overthrow (e.g. of a government)"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "修復", "reading": "しゅうふく" },
+        { "word": "修復", "reading": "しゅふく" },
+        { "word": "修覆", "reading": "しゅうふく" },
+        { "word": "修覆", "reading": "しゅふく" }
+      ],
+      "senses": [["restoration", "repair", "mending"]]
+    }
+  ]
+}

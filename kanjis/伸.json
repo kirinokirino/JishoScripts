@@ -1,1 +1,213 @@
-{"basic":["伸","Expand","1199"],"extended":[{"jlpt":["jlpt-n2"],"tags":["wanikani38"],"japanese":[{"word":"欠伸","reading":"あくび"},{"word":"欠","reading":"あくび"},{"word":"欠伸","reading":"けんしん"}],"senses":[["yawn","yawning"],["kanji \"yawning\" radical (radical 76)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"引き延ばし","reading":"ひきのばし"},{"word":"引き伸ばし","reading":"ひきのばし"},{"word":"引伸ばし","reading":"ひきのばし"},{"word":"引延ばし","reading":"ひきのばし"}],"senses":[["extension","prolongation"],["enlargement"],["Photographic printing"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"追伸","reading":"ついしん"},{"word":"追申","reading":"ついしん"}],"senses":[["postscript","post scriptum","PS","P.S."],["Postscript"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"伸び伸び","reading":"のびのび"}],"senses":[["comfortably","peacefully","with one's mind at ease","calmly","without worries"],["(growing) quickly"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"引き延ばす","reading":"ひきのばす"},{"word":"引き延す","reading":"ひきのばす"},{"word":"引延ばす","reading":"ひきのばす"},{"word":"引延す","reading":"ひきのばす"},{"word":"引き伸ばす","reading":"ひきのばす"},{"word":"引き伸す","reading":"ひきのばす"},{"word":"引伸ばす","reading":"ひきのばす"},{"word":"引伸す","reading":"ひきのばす"},{"word":"引きのばす","reading":"ひきのばす"}],"senses":[["to stretch larger"],["to enlarge (photos)"],["to delay (e.g. the end of a meeting)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"差し伸べる","reading":"さしのべる"},{"word":"差し延べる","reading":"さしのべる"},{"word":"差伸べる","reading":"さしのべる"},{"word":"差延べる","reading":"さしのべる"}],"senses":[["to hold out","to extend (e.g. one's hands)","to stretch","to reach out for"],["to thrust (javelin)"],["to offer (e.g. aid, help, etc.)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"急伸","reading":"きゅうしん"}],"senses":[["sudden rise (esp. of stock prices)","jump"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"続伸","reading":"ぞくしん"}],"senses":[["continuous rise (in market price)"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani38"],"japanese":[{"word":"欠伸","reading":"あくび"},{"word":"欠","reading":"あくび"},{"word":"欠伸","reading":"けんしん"}],"senses":[["yawn","yawning"],["kanji \"yawning\" radical (radical 76)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"引き延ばし","reading":"ひきのばし"},{"word":"引き伸ばし","reading":"ひきのばし"},{"word":"引伸ばし","reading":"ひきのばし"},{"word":"引延ばし","reading":"ひきのばし"}],"senses":[["extension","prolongation"],["enlargement"],["Photographic printing"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"追伸","reading":"ついしん"},{"word":"追申","reading":"ついしん"}],"senses":[["postscript","post scriptum","PS","P.S."],["Postscript"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"伸び伸び","reading":"のびのび"}],"senses":[["comfortably","peacefully","with one's mind at ease","calmly","without worries"],["(growing) quickly"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"引き延ばす","reading":"ひきのばす"},{"word":"引き延す","reading":"ひきのばす"},{"word":"引延ばす","reading":"ひきのばす"},{"word":"引延す","reading":"ひきのばす"},{"word":"引き伸ばす","reading":"ひきのばす"},{"word":"引き伸す","reading":"ひきのばす"},{"word":"引伸ばす","reading":"ひきのばす"},{"word":"引伸す","reading":"ひきのばす"},{"word":"引きのばす","reading":"ひきのばす"}],"senses":[["to stretch larger"],["to enlarge (photos)"],["to delay (e.g. the end of a meeting)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"差し伸べる","reading":"さしのべる"},{"word":"差し延べる","reading":"さしのべる"},{"word":"差伸べる","reading":"さしのべる"},{"word":"差延べる","reading":"さしのべる"}],"senses":[["to hold out","to extend (e.g. one's hands)","to stretch","to reach out for"],["to thrust (javelin)"],["to offer (e.g. aid, help, etc.)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"急伸","reading":"きゅうしん"}],"senses":[["sudden rise (esp. of stock prices)","jump"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"続伸","reading":"ぞくしん"}],"senses":[["continuous rise (in market price)"]]}]}
+{
+  "basic": ["伸", "Expand", "1199"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani38"],
+      "japanese": [
+        { "word": "欠伸", "reading": "あくび" },
+        { "word": "欠", "reading": "あくび" },
+        { "word": "欠伸", "reading": "けんしん" }
+      ],
+      "senses": [
+        ["yawn", "yawning"],
+        ["kanji \"yawning\" radical (radical 76)"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "引き延ばし", "reading": "ひきのばし" },
+        { "word": "引き伸ばし", "reading": "ひきのばし" },
+        { "word": "引伸ばし", "reading": "ひきのばし" },
+        { "word": "引延ばし", "reading": "ひきのばし" }
+      ],
+      "senses": [
+        ["extension", "prolongation"],
+        ["enlargement"],
+        ["Photographic printing"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "追伸", "reading": "ついしん" },
+        { "word": "追申", "reading": "ついしん" }
+      ],
+      "senses": [["postscript", "post scriptum", "PS", "P.S."], ["Postscript"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "伸び伸び", "reading": "のびのび" }],
+      "senses": [
+        [
+          "comfortably",
+          "peacefully",
+          "with one's mind at ease",
+          "calmly",
+          "without worries"
+        ],
+        ["(growing) quickly"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "引き延ばす", "reading": "ひきのばす" },
+        { "word": "引き延す", "reading": "ひきのばす" },
+        { "word": "引延ばす", "reading": "ひきのばす" },
+        { "word": "引延す", "reading": "ひきのばす" },
+        { "word": "引き伸ばす", "reading": "ひきのばす" },
+        { "word": "引き伸す", "reading": "ひきのばす" },
+        { "word": "引伸ばす", "reading": "ひきのばす" },
+        { "word": "引伸す", "reading": "ひきのばす" },
+        { "word": "引きのばす", "reading": "ひきのばす" }
+      ],
+      "senses": [
+        ["to stretch larger"],
+        ["to enlarge (photos)"],
+        ["to delay (e.g. the end of a meeting)"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "差し伸べる", "reading": "さしのべる" },
+        { "word": "差し延べる", "reading": "さしのべる" },
+        { "word": "差伸べる", "reading": "さしのべる" },
+        { "word": "差延べる", "reading": "さしのべる" }
+      ],
+      "senses": [
+        [
+          "to hold out",
+          "to extend (e.g. one's hands)",
+          "to stretch",
+          "to reach out for"
+        ],
+        ["to thrust (javelin)"],
+        ["to offer (e.g. aid, help, etc.)"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "急伸", "reading": "きゅうしん" }],
+      "senses": [["sudden rise (esp. of stock prices)", "jump"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "続伸", "reading": "ぞくしん" }],
+      "senses": [["continuous rise (in market price)"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani38"],
+      "japanese": [
+        { "word": "欠伸", "reading": "あくび" },
+        { "word": "欠", "reading": "あくび" },
+        { "word": "欠伸", "reading": "けんしん" }
+      ],
+      "senses": [
+        ["yawn", "yawning"],
+        ["kanji \"yawning\" radical (radical 76)"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "引き延ばし", "reading": "ひきのばし" },
+        { "word": "引き伸ばし", "reading": "ひきのばし" },
+        { "word": "引伸ばし", "reading": "ひきのばし" },
+        { "word": "引延ばし", "reading": "ひきのばし" }
+      ],
+      "senses": [
+        ["extension", "prolongation"],
+        ["enlargement"],
+        ["Photographic printing"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "追伸", "reading": "ついしん" },
+        { "word": "追申", "reading": "ついしん" }
+      ],
+      "senses": [["postscript", "post scriptum", "PS", "P.S."], ["Postscript"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "伸び伸び", "reading": "のびのび" }],
+      "senses": [
+        [
+          "comfortably",
+          "peacefully",
+          "with one's mind at ease",
+          "calmly",
+          "without worries"
+        ],
+        ["(growing) quickly"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "引き延ばす", "reading": "ひきのばす" },
+        { "word": "引き延す", "reading": "ひきのばす" },
+        { "word": "引延ばす", "reading": "ひきのばす" },
+        { "word": "引延す", "reading": "ひきのばす" },
+        { "word": "引き伸ばす", "reading": "ひきのばす" },
+        { "word": "引き伸す", "reading": "ひきのばす" },
+        { "word": "引伸ばす", "reading": "ひきのばす" },
+        { "word": "引伸す", "reading": "ひきのばす" },
+        { "word": "引きのばす", "reading": "ひきのばす" }
+      ],
+      "senses": [
+        ["to stretch larger"],
+        ["to enlarge (photos)"],
+        ["to delay (e.g. the end of a meeting)"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "差し伸べる", "reading": "さしのべる" },
+        { "word": "差し延べる", "reading": "さしのべる" },
+        { "word": "差伸べる", "reading": "さしのべる" },
+        { "word": "差延べる", "reading": "さしのべる" }
+      ],
+      "senses": [
+        [
+          "to hold out",
+          "to extend (e.g. one's hands)",
+          "to stretch",
+          "to reach out for"
+        ],
+        ["to thrust (javelin)"],
+        ["to offer (e.g. aid, help, etc.)"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "急伸", "reading": "きゅうしん" }],
+      "senses": [["sudden rise (esp. of stock prices)", "jump"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "続伸", "reading": "ぞくしん" }],
+      "senses": [["continuous rise (in market price)"]]
+    }
+  ]
+}

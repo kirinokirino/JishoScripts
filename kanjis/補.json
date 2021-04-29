@@ -1,1 +1,59 @@
-{"basic":["補","Supplement","1983"],"extended":[{"jlpt":["jlpt-n3"],"tags":[],"japanese":[{"word":"候補","reading":"こうほ"}],"senses":[["candidate","contender","prospect","pick","choice","list"],["candidacy","candidature","nomination"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"立候補","reading":"りっこうほ"}],"senses":[["candidacy","standing as a candidate","bidding (to host an event, e.g. the Olympics)"]]},{"jlpt":[],"tags":["wanikani25"],"japanese":[{"word":"候補者","reading":"こうほしゃ"}],"senses":[["candidate","applicant"]]},{"jlpt":["jlpt-n3"],"tags":[],"japanese":[{"word":"候補","reading":"こうほ"}],"senses":[["candidate","contender","prospect","pick","choice","list"],["candidacy","candidature","nomination"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"立候補","reading":"りっこうほ"}],"senses":[["candidacy","standing as a candidate","bidding (to host an event, e.g. the Olympics)"]]},{"jlpt":[],"tags":["wanikani25"],"japanese":[{"word":"候補者","reading":"こうほしゃ"}],"senses":[["candidate","applicant"]]}]}
+{
+  "basic": ["補", "Supplement", "1983"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": [],
+      "japanese": [{ "word": "候補", "reading": "こうほ" }],
+      "senses": [
+        ["candidate", "contender", "prospect", "pick", "choice", "list"],
+        ["candidacy", "candidature", "nomination"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "立候補", "reading": "りっこうほ" }],
+      "senses": [
+        [
+          "candidacy",
+          "standing as a candidate",
+          "bidding (to host an event, e.g. the Olympics)"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani25"],
+      "japanese": [{ "word": "候補者", "reading": "こうほしゃ" }],
+      "senses": [["candidate", "applicant"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": [],
+      "japanese": [{ "word": "候補", "reading": "こうほ" }],
+      "senses": [
+        ["candidate", "contender", "prospect", "pick", "choice", "list"],
+        ["candidacy", "candidature", "nomination"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "立候補", "reading": "りっこうほ" }],
+      "senses": [
+        [
+          "candidacy",
+          "standing as a candidate",
+          "bidding (to host an event, e.g. the Olympics)"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani25"],
+      "japanese": [{ "word": "候補者", "reading": "こうほしゃ" }],
+      "senses": [["candidate", "applicant"]]
+    }
+  ]
+}

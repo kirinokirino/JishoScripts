@@ -1,1 +1,41 @@
-{"basic":["潮","Tide","152"],"extended":[{"jlpt":[],"tags":["wanikani43"],"japanese":[{"word":"風潮","reading":"ふうちょう"}],"senses":[["tide","current"],["tendency","trend"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"紅潮","reading":"こうちょう"}],"senses":[["flush","blush"]]},{"jlpt":[],"tags":["wanikani45"],"japanese":[{"word":"黒潮","reading":"くろしお"}],"senses":[["Kuroshio Current","Japan Current"],["Kuroshio Current"]]},{"jlpt":[],"tags":["wanikani43"],"japanese":[{"word":"風潮","reading":"ふうちょう"}],"senses":[["tide","current"],["tendency","trend"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"紅潮","reading":"こうちょう"}],"senses":[["flush","blush"]]},{"jlpt":[],"tags":["wanikani45"],"japanese":[{"word":"黒潮","reading":"くろしお"}],"senses":[["Kuroshio Current","Japan Current"],["Kuroshio Current"]]}]}
+{
+  "basic": ["潮", "Tide", "152"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": ["wanikani43"],
+      "japanese": [{ "word": "風潮", "reading": "ふうちょう" }],
+      "senses": [["tide", "current"], ["tendency", "trend"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "紅潮", "reading": "こうちょう" }],
+      "senses": [["flush", "blush"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani45"],
+      "japanese": [{ "word": "黒潮", "reading": "くろしお" }],
+      "senses": [["Kuroshio Current", "Japan Current"], ["Kuroshio Current"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani43"],
+      "japanese": [{ "word": "風潮", "reading": "ふうちょう" }],
+      "senses": [["tide", "current"], ["tendency", "trend"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "紅潮", "reading": "こうちょう" }],
+      "senses": [["flush", "blush"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani45"],
+      "japanese": [{ "word": "黒潮", "reading": "くろしお" }],
+      "senses": [["Kuroshio Current", "Japan Current"], ["Kuroshio Current"]]
+    }
+  ]
+}

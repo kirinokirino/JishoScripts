@@ -1,1 +1,83 @@
-{"basic":["迷","Astray","992"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"低迷","reading":"ていめい"}],"senses":[["hanging low (over)","hovering around (price level)","low hanging (e.g. clouds)","sluggish (e.g. economy)","slump","recession"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"彷徨う","reading":"さまよう"},{"word":"さ迷う","reading":"さまよう"}],"senses":[["to loiter","to putter","to prowl","to wander about","to roam about","to knock around"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"混迷","reading":"こんめい"}],"senses":[["turmoil","chaos","confusion"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"低迷","reading":"ていめい"}],"senses":[["hanging low (over)","hovering around (price level)","low hanging (e.g. clouds)","sluggish (e.g. economy)","slump","recession"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"彷徨う","reading":"さまよう"},{"word":"さ迷う","reading":"さまよう"}],"senses":[["to loiter","to putter","to prowl","to wander about","to roam about","to knock around"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"混迷","reading":"こんめい"}],"senses":[["turmoil","chaos","confusion"]]}]}
+{
+  "basic": ["迷", "Astray", "992"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "低迷", "reading": "ていめい" }],
+      "senses": [
+        [
+          "hanging low (over)",
+          "hovering around (price level)",
+          "low hanging (e.g. clouds)",
+          "sluggish (e.g. economy)",
+          "slump",
+          "recession"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "彷徨う", "reading": "さまよう" },
+        { "word": "さ迷う", "reading": "さまよう" }
+      ],
+      "senses": [
+        [
+          "to loiter",
+          "to putter",
+          "to prowl",
+          "to wander about",
+          "to roam about",
+          "to knock around"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "混迷", "reading": "こんめい" }],
+      "senses": [["turmoil", "chaos", "confusion"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "低迷", "reading": "ていめい" }],
+      "senses": [
+        [
+          "hanging low (over)",
+          "hovering around (price level)",
+          "low hanging (e.g. clouds)",
+          "sluggish (e.g. economy)",
+          "slump",
+          "recession"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "彷徨う", "reading": "さまよう" },
+        { "word": "さ迷う", "reading": "さまよう" }
+      ],
+      "senses": [
+        [
+          "to loiter",
+          "to putter",
+          "to prowl",
+          "to wander about",
+          "to roam about",
+          "to knock around"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "混迷", "reading": "こんめい" }],
+      "senses": [["turmoil", "chaos", "confusion"]]
+    }
+  ]
+}

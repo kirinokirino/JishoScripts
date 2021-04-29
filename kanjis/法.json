@@ -1,1 +1,502 @@
-{"basic":["法","Method","813"],"extended":[{"jlpt":["jlpt-n4"],"tags":["wanikani15"],"japanese":[{"word":"文法","reading":"ぶんぽう"}],"senses":[["grammar"],["Grammar"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani28"],"japanese":[{"word":"憲法","reading":"けんぽう"},{"word":"憲法","reading":"けんぼう"}],"senses":[["constitution"],["rules","regulation"],["Constitution"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani15"],"japanese":[{"word":"方法","reading":"ほうほう"}],"senses":[["method","process","manner","way","means","technique"]]},{"jlpt":["jlpt-n3"],"tags":[],"japanese":[{"word":"作法","reading":"さほう"},{"word":"作法","reading":"さくほう"}],"senses":[["manners","etiquette","propriety"],["manner of production (esp. of prose, poetry, etc.)","way of making"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani44"],"japanese":[{"word":"寸法","reading":"すんぽう"}],"senses":[["measurement","size","extent","dimension"],["plan","intention","arrangement","schedule"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"手法","reading":"しゅほう"}],"senses":[["technique","method"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"製法","reading":"せいほう"}],"senses":[["manufacturing method","recipe","formula"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"方法論","reading":"ほうほうろん"}],"senses":[["methodology"],["Methodology"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"労働基準法","reading":"ろうどうきじゅんほう"}],"senses":[["Labor Standards Act"],["Labor Standards Act of 1947"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"商法","reading":"しょうほう"}],"senses":[["business practice","business method","commerce"],["commercial law"],["Commercial law"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"国際法","reading":"こくさいほう"}],"senses":[["international law","law of nations"],["International law"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"刑法","reading":"けいほう"}],"senses":[["criminal law","penal code"],["Criminal law"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"立法府","reading":"りっぽうふ"}],"senses":[["assize","court"],["legislature"],["Legislature"]]},{"jlpt":[],"tags":["wanikani46"],"japanese":[{"word":"魔法","reading":"まほう"}],"senses":[["magic","witchcraft","sorcery","spell"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"違法","reading":"いほう"}],"senses":[["illegal","illicit","unlawful"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"合法的","reading":"ごうほうてき"}],"senses":[["legal","lawful","legitimate","law-abiding","in order"]]},{"jlpt":[],"tags":["wanikani15"],"japanese":[{"word":"不法","reading":"ふほう"}],"senses":[["unlawful","illegal"],["unreasonable","outrageous","unjust","unwarranted"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"技法","reading":"ぎほう"}],"senses":[["technique"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"税法","reading":"ぜいほう"}],"senses":[["taxation law"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"療法","reading":"りょうほう"}],"senses":[["therapy","treatment","remedy","cure"]]},{"jlpt":["jlpt-n4"],"tags":["wanikani15"],"japanese":[{"word":"文法","reading":"ぶんぽう"}],"senses":[["grammar"],["Grammar"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani28"],"japanese":[{"word":"憲法","reading":"けんぽう"},{"word":"憲法","reading":"けんぼう"}],"senses":[["constitution"],["rules","regulation"],["Constitution"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani15"],"japanese":[{"word":"方法","reading":"ほうほう"}],"senses":[["method","process","manner","way","means","technique"]]},{"jlpt":["jlpt-n3"],"tags":[],"japanese":[{"word":"作法","reading":"さほう"},{"word":"作法","reading":"さくほう"}],"senses":[["manners","etiquette","propriety"],["manner of production (esp. of prose, poetry, etc.)","way of making"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani44"],"japanese":[{"word":"寸法","reading":"すんぽう"}],"senses":[["measurement","size","extent","dimension"],["plan","intention","arrangement","schedule"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"手法","reading":"しゅほう"}],"senses":[["technique","method"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"製法","reading":"せいほう"}],"senses":[["manufacturing method","recipe","formula"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"方法論","reading":"ほうほうろん"}],"senses":[["methodology"],["Methodology"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"労働基準法","reading":"ろうどうきじゅんほう"}],"senses":[["Labor Standards Act"],["Labor Standards Act of 1947"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"商法","reading":"しょうほう"}],"senses":[["business practice","business method","commerce"],["commercial law"],["Commercial law"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"国際法","reading":"こくさいほう"}],"senses":[["international law","law of nations"],["International law"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"刑法","reading":"けいほう"}],"senses":[["criminal law","penal code"],["Criminal law"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"立法府","reading":"りっぽうふ"}],"senses":[["assize","court"],["legislature"],["Legislature"]]},{"jlpt":[],"tags":["wanikani46"],"japanese":[{"word":"魔法","reading":"まほう"}],"senses":[["magic","witchcraft","sorcery","spell"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"違法","reading":"いほう"}],"senses":[["illegal","illicit","unlawful"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"合法的","reading":"ごうほうてき"}],"senses":[["legal","lawful","legitimate","law-abiding","in order"]]},{"jlpt":[],"tags":["wanikani15"],"japanese":[{"word":"不法","reading":"ふほう"}],"senses":[["unlawful","illegal"],["unreasonable","outrageous","unjust","unwarranted"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"技法","reading":"ぎほう"}],"senses":[["technique"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"税法","reading":"ぜいほう"}],"senses":[["taxation law"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"療法","reading":"りょうほう"}],"senses":[["therapy","treatment","remedy","cure"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"合法","reading":"ごうほう"}],"senses":[["legal","lawful","legitimate"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"非合法","reading":"ひごうほう"}],"senses":[["illegal","unlawful"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"立法","reading":"りっぽう"}],"senses":[["legislation","lawmaking"],["Legislation"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"司法","reading":"しほう"}],"senses":[["administration of justice"],["Judiciary"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"治療法","reading":"ちりょうほう"}],"senses":[["treatment","cure","remedy"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"解決方法","reading":"かいけつほうほう"}],"senses":[["way of solving (a problem)","solution"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"民法","reading":"みんぽう"}],"senses":[["civil law","civil code"],["Civil law (area)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"対症療法","reading":"たいしょうりょうほう"}],"senses":[["symptomatic therapy","makeshift solution"],["Symptomatic treatment"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"内閣法制局","reading":"ないかくほうせいきょく"}],"senses":[["Cabinet Legislation Bureau"],["Cabinet Legislation Bureau"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"財団法人","reading":"ざいだんほうじん"}],"senses":[["incorporated foundation","juridical foundation"],["Foundation (non-profit)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"適法","reading":"てきほう"}],"senses":[["legal","lawful","legitimate"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"工法","reading":"こうほう"}],"senses":[["method of construction"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"食管法","reading":"しょっかんほう"}],"senses":[["law governing food quality"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"公益法人","reading":"こうえきほうじん"}],"senses":[["public-service corporation","charitable corporation"],["juridical (legal) person working for the public good"]]},{"jlpt":[],"tags":["wanikani29"],"japanese":[{"word":"航法","reading":"こうほう"}],"senses":[["sailing","navigation"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"会社更生法","reading":"かいしゃこうせいほう"}],"senses":[["Corporate Rehabilitation Law"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"漢方","reading":"かんぽう"},{"word":"漢法","reading":"かんぽう"}],"senses":[["traditional Chinese medicine"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"基準法","reading":"きじゅんほう"}],"senses":[["basic law"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"禁止法","reading":"きんしほう"}],"senses":[["negative statute","law against something"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"取締法","reading":"とりしまりほう"}],"senses":[["control law"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"学校法人","reading":"がっこうほうじん"}],"senses":[["(legally) incorporated educational institution"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"取締法","reading":"とりしまりほう"}],"senses":[["control law"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"司法裁判","reading":"しほうさいばん"}],"senses":[["judicial trial"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"新法","reading":"しんぽう"}],"senses":[["new law"],["new method"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"禁止法","reading":"きんしほう"}],"senses":[["negative statute","law against something"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"独禁法","reading":"どっきんほう"}],"senses":[["antitrust law","Antitrust Act"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"戦法","reading":"せんぽう"}],"senses":[["tactics","strategy"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"農法","reading":"のうほう"}],"senses":[["farming methods"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"無法","reading":"むほう"}],"senses":[["lawlessness","injustice","wrong","outrage"],["outrageous","lawless","disorderly","unjust","unreasonable"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"支払い方法","reading":"しはらいほうほう"},{"word":"支払方法","reading":"しはらいほうほう"}],"senses":[["payment method"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"ケーソン工法","reading":"ケーソンこうほう"}],"senses":[["caisson method"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"お支払い方法","reading":"おしはらいほうほう"},{"word":"お支払方法","reading":"おしはらいほうほう"}],"senses":[["payment method"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"利用方法","reading":"りようほうほう"}],"senses":[["how to use","method for using","way of using"]]}]}
+{
+  "basic": ["法", "Method", "813"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n4"],
+      "tags": ["wanikani15"],
+      "japanese": [{ "word": "文法", "reading": "ぶんぽう" }],
+      "senses": [["grammar"], ["Grammar"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani28"],
+      "japanese": [
+        { "word": "憲法", "reading": "けんぽう" },
+        { "word": "憲法", "reading": "けんぼう" }
+      ],
+      "senses": [["constitution"], ["rules", "regulation"], ["Constitution"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani15"],
+      "japanese": [{ "word": "方法", "reading": "ほうほう" }],
+      "senses": [["method", "process", "manner", "way", "means", "technique"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": [],
+      "japanese": [
+        { "word": "作法", "reading": "さほう" },
+        { "word": "作法", "reading": "さくほう" }
+      ],
+      "senses": [
+        ["manners", "etiquette", "propriety"],
+        ["manner of production (esp. of prose, poetry, etc.)", "way of making"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani44"],
+      "japanese": [{ "word": "寸法", "reading": "すんぽう" }],
+      "senses": [
+        ["measurement", "size", "extent", "dimension"],
+        ["plan", "intention", "arrangement", "schedule"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "手法", "reading": "しゅほう" }],
+      "senses": [["technique", "method"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "製法", "reading": "せいほう" }],
+      "senses": [["manufacturing method", "recipe", "formula"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "方法論", "reading": "ほうほうろん" }],
+      "senses": [["methodology"], ["Methodology"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "労働基準法", "reading": "ろうどうきじゅんほう" }],
+      "senses": [["Labor Standards Act"], ["Labor Standards Act of 1947"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "商法", "reading": "しょうほう" }],
+      "senses": [
+        ["business practice", "business method", "commerce"],
+        ["commercial law"],
+        ["Commercial law"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "国際法", "reading": "こくさいほう" }],
+      "senses": [["international law", "law of nations"], ["International law"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "刑法", "reading": "けいほう" }],
+      "senses": [["criminal law", "penal code"], ["Criminal law"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "立法府", "reading": "りっぽうふ" }],
+      "senses": [["assize", "court"], ["legislature"], ["Legislature"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani46"],
+      "japanese": [{ "word": "魔法", "reading": "まほう" }],
+      "senses": [["magic", "witchcraft", "sorcery", "spell"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "違法", "reading": "いほう" }],
+      "senses": [["illegal", "illicit", "unlawful"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "合法的", "reading": "ごうほうてき" }],
+      "senses": [["legal", "lawful", "legitimate", "law-abiding", "in order"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani15"],
+      "japanese": [{ "word": "不法", "reading": "ふほう" }],
+      "senses": [
+        ["unlawful", "illegal"],
+        ["unreasonable", "outrageous", "unjust", "unwarranted"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "技法", "reading": "ぎほう" }],
+      "senses": [["technique"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "税法", "reading": "ぜいほう" }],
+      "senses": [["taxation law"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "療法", "reading": "りょうほう" }],
+      "senses": [["therapy", "treatment", "remedy", "cure"]]
+    },
+    {
+      "jlpt": ["jlpt-n4"],
+      "tags": ["wanikani15"],
+      "japanese": [{ "word": "文法", "reading": "ぶんぽう" }],
+      "senses": [["grammar"], ["Grammar"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani28"],
+      "japanese": [
+        { "word": "憲法", "reading": "けんぽう" },
+        { "word": "憲法", "reading": "けんぼう" }
+      ],
+      "senses": [["constitution"], ["rules", "regulation"], ["Constitution"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani15"],
+      "japanese": [{ "word": "方法", "reading": "ほうほう" }],
+      "senses": [["method", "process", "manner", "way", "means", "technique"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": [],
+      "japanese": [
+        { "word": "作法", "reading": "さほう" },
+        { "word": "作法", "reading": "さくほう" }
+      ],
+      "senses": [
+        ["manners", "etiquette", "propriety"],
+        ["manner of production (esp. of prose, poetry, etc.)", "way of making"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani44"],
+      "japanese": [{ "word": "寸法", "reading": "すんぽう" }],
+      "senses": [
+        ["measurement", "size", "extent", "dimension"],
+        ["plan", "intention", "arrangement", "schedule"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "手法", "reading": "しゅほう" }],
+      "senses": [["technique", "method"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "製法", "reading": "せいほう" }],
+      "senses": [["manufacturing method", "recipe", "formula"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "方法論", "reading": "ほうほうろん" }],
+      "senses": [["methodology"], ["Methodology"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "労働基準法", "reading": "ろうどうきじゅんほう" }],
+      "senses": [["Labor Standards Act"], ["Labor Standards Act of 1947"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "商法", "reading": "しょうほう" }],
+      "senses": [
+        ["business practice", "business method", "commerce"],
+        ["commercial law"],
+        ["Commercial law"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "国際法", "reading": "こくさいほう" }],
+      "senses": [["international law", "law of nations"], ["International law"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "刑法", "reading": "けいほう" }],
+      "senses": [["criminal law", "penal code"], ["Criminal law"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "立法府", "reading": "りっぽうふ" }],
+      "senses": [["assize", "court"], ["legislature"], ["Legislature"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani46"],
+      "japanese": [{ "word": "魔法", "reading": "まほう" }],
+      "senses": [["magic", "witchcraft", "sorcery", "spell"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "違法", "reading": "いほう" }],
+      "senses": [["illegal", "illicit", "unlawful"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "合法的", "reading": "ごうほうてき" }],
+      "senses": [["legal", "lawful", "legitimate", "law-abiding", "in order"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani15"],
+      "japanese": [{ "word": "不法", "reading": "ふほう" }],
+      "senses": [
+        ["unlawful", "illegal"],
+        ["unreasonable", "outrageous", "unjust", "unwarranted"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "技法", "reading": "ぎほう" }],
+      "senses": [["technique"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "税法", "reading": "ぜいほう" }],
+      "senses": [["taxation law"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "療法", "reading": "りょうほう" }],
+      "senses": [["therapy", "treatment", "remedy", "cure"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "合法", "reading": "ごうほう" }],
+      "senses": [["legal", "lawful", "legitimate"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "非合法", "reading": "ひごうほう" }],
+      "senses": [["illegal", "unlawful"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "立法", "reading": "りっぽう" }],
+      "senses": [["legislation", "lawmaking"], ["Legislation"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "司法", "reading": "しほう" }],
+      "senses": [["administration of justice"], ["Judiciary"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "治療法", "reading": "ちりょうほう" }],
+      "senses": [["treatment", "cure", "remedy"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "解決方法", "reading": "かいけつほうほう" }],
+      "senses": [["way of solving (a problem)", "solution"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "民法", "reading": "みんぽう" }],
+      "senses": [["civil law", "civil code"], ["Civil law (area)"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "対症療法", "reading": "たいしょうりょうほう" }],
+      "senses": [
+        ["symptomatic therapy", "makeshift solution"],
+        ["Symptomatic treatment"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "内閣法制局", "reading": "ないかくほうせいきょく" }],
+      "senses": [["Cabinet Legislation Bureau"], ["Cabinet Legislation Bureau"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "財団法人", "reading": "ざいだんほうじん" }],
+      "senses": [
+        ["incorporated foundation", "juridical foundation"],
+        ["Foundation (non-profit)"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "適法", "reading": "てきほう" }],
+      "senses": [["legal", "lawful", "legitimate"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "工法", "reading": "こうほう" }],
+      "senses": [["method of construction"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "食管法", "reading": "しょっかんほう" }],
+      "senses": [["law governing food quality"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "公益法人", "reading": "こうえきほうじん" }],
+      "senses": [
+        ["public-service corporation", "charitable corporation"],
+        ["juridical (legal) person working for the public good"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani29"],
+      "japanese": [{ "word": "航法", "reading": "こうほう" }],
+      "senses": [["sailing", "navigation"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "会社更生法", "reading": "かいしゃこうせいほう" }],
+      "senses": [["Corporate Rehabilitation Law"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "漢方", "reading": "かんぽう" },
+        { "word": "漢法", "reading": "かんぽう" }
+      ],
+      "senses": [["traditional Chinese medicine"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "基準法", "reading": "きじゅんほう" }],
+      "senses": [["basic law"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "禁止法", "reading": "きんしほう" }],
+      "senses": [["negative statute", "law against something"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "取締法", "reading": "とりしまりほう" }],
+      "senses": [["control law"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "学校法人", "reading": "がっこうほうじん" }],
+      "senses": [["(legally) incorporated educational institution"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "取締法", "reading": "とりしまりほう" }],
+      "senses": [["control law"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "司法裁判", "reading": "しほうさいばん" }],
+      "senses": [["judicial trial"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "新法", "reading": "しんぽう" }],
+      "senses": [["new law"], ["new method"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "禁止法", "reading": "きんしほう" }],
+      "senses": [["negative statute", "law against something"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "独禁法", "reading": "どっきんほう" }],
+      "senses": [["antitrust law", "Antitrust Act"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "戦法", "reading": "せんぽう" }],
+      "senses": [["tactics", "strategy"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "農法", "reading": "のうほう" }],
+      "senses": [["farming methods"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "無法", "reading": "むほう" }],
+      "senses": [
+        ["lawlessness", "injustice", "wrong", "outrage"],
+        ["outrageous", "lawless", "disorderly", "unjust", "unreasonable"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "支払い方法", "reading": "しはらいほうほう" },
+        { "word": "支払方法", "reading": "しはらいほうほう" }
+      ],
+      "senses": [["payment method"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "ケーソン工法", "reading": "ケーソンこうほう" }],
+      "senses": [["caisson method"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "お支払い方法", "reading": "おしはらいほうほう" },
+        { "word": "お支払方法", "reading": "おしはらいほうほう" }
+      ],
+      "senses": [["payment method"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "利用方法", "reading": "りようほうほう" }],
+      "senses": [["how to use", "method for using", "way of using"]]
+    }
+  ]
+}

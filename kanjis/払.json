@@ -1,1 +1,197 @@
-{"basic":["払","Pay","798"],"extended":[{"jlpt":["jlpt-n3"],"tags":[],"japanese":[{"word":"支払う","reading":"しはらう"}],"senses":[["to pay"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani37"],"japanese":[{"word":"支払い","reading":"しはらい"},{"word":"支払","reading":"しはらい"}],"senses":[["payment"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani37"],"japanese":[{"word":"酔っ払い","reading":"よっぱらい"},{"word":"酔っぱらい","reading":"よっぱらい"},{"word":"酔払い","reading":"よっぱらい"}],"senses":[["drunkard"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"未払い","reading":"みはらい"},{"word":"未払い","reading":"みばらい"},{"word":"未払","reading":"みはらい"},{"word":"未払","reading":"みばらい"}],"senses":[["unpaid","overdue"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"前払い","reading":"まえばらい"},{"word":"前払","reading":"まえばらい"}],"senses":[["payment in advance","prepayment"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"酔っ払う","reading":"よっぱらう"},{"word":"酔っぱらう","reading":"よっぱらう"},{"word":"酔払う","reading":"よっぱらう"}],"senses":[["to get drunk"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"不払い","reading":"ふばらい"}],"senses":[["nonpayment","default"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"利払い","reading":"りばらい"}],"senses":[["interest payment"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"門前払い","reading":"もんぜんばらい"}],"senses":[["turning another away at the gate or front door","refusing to receive a caller"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"支払い方法","reading":"しはらいほうほう"},{"word":"支払方法","reading":"しはらいほうほう"}],"senses":[["payment method"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"お支払い方法","reading":"おしはらいほうほう"},{"word":"お支払方法","reading":"おしはらいほうほう"}],"senses":[["payment method"]]},{"jlpt":["jlpt-n3"],"tags":[],"japanese":[{"word":"支払う","reading":"しはらう"}],"senses":[["to pay"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani37"],"japanese":[{"word":"支払い","reading":"しはらい"},{"word":"支払","reading":"しはらい"}],"senses":[["payment"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani37"],"japanese":[{"word":"酔っ払い","reading":"よっぱらい"},{"word":"酔っぱらい","reading":"よっぱらい"},{"word":"酔払い","reading":"よっぱらい"}],"senses":[["drunkard"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"未払い","reading":"みはらい"},{"word":"未払い","reading":"みばらい"},{"word":"未払","reading":"みはらい"},{"word":"未払","reading":"みばらい"}],"senses":[["unpaid","overdue"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"前払い","reading":"まえばらい"},{"word":"前払","reading":"まえばらい"}],"senses":[["payment in advance","prepayment"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"酔っ払う","reading":"よっぱらう"},{"word":"酔っぱらう","reading":"よっぱらう"},{"word":"酔払う","reading":"よっぱらう"}],"senses":[["to get drunk"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"不払い","reading":"ふばらい"}],"senses":[["nonpayment","default"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"利払い","reading":"りばらい"}],"senses":[["interest payment"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"門前払い","reading":"もんぜんばらい"}],"senses":[["turning another away at the gate or front door","refusing to receive a caller"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"支払い方法","reading":"しはらいほうほう"},{"word":"支払方法","reading":"しはらいほうほう"}],"senses":[["payment method"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"お支払い方法","reading":"おしはらいほうほう"},{"word":"お支払方法","reading":"おしはらいほうほう"}],"senses":[["payment method"]]}]}
+{
+  "basic": ["払", "Pay", "798"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": [],
+      "japanese": [{ "word": "支払う", "reading": "しはらう" }],
+      "senses": [["to pay"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani37"],
+      "japanese": [
+        { "word": "支払い", "reading": "しはらい" },
+        { "word": "支払", "reading": "しはらい" }
+      ],
+      "senses": [["payment"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani37"],
+      "japanese": [
+        { "word": "酔っ払い", "reading": "よっぱらい" },
+        { "word": "酔っぱらい", "reading": "よっぱらい" },
+        { "word": "酔払い", "reading": "よっぱらい" }
+      ],
+      "senses": [["drunkard"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "未払い", "reading": "みはらい" },
+        { "word": "未払い", "reading": "みばらい" },
+        { "word": "未払", "reading": "みはらい" },
+        { "word": "未払", "reading": "みばらい" }
+      ],
+      "senses": [["unpaid", "overdue"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "前払い", "reading": "まえばらい" },
+        { "word": "前払", "reading": "まえばらい" }
+      ],
+      "senses": [["payment in advance", "prepayment"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "酔っ払う", "reading": "よっぱらう" },
+        { "word": "酔っぱらう", "reading": "よっぱらう" },
+        { "word": "酔払う", "reading": "よっぱらう" }
+      ],
+      "senses": [["to get drunk"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "不払い", "reading": "ふばらい" }],
+      "senses": [["nonpayment", "default"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "利払い", "reading": "りばらい" }],
+      "senses": [["interest payment"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "門前払い", "reading": "もんぜんばらい" }],
+      "senses": [
+        [
+          "turning another away at the gate or front door",
+          "refusing to receive a caller"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "支払い方法", "reading": "しはらいほうほう" },
+        { "word": "支払方法", "reading": "しはらいほうほう" }
+      ],
+      "senses": [["payment method"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "お支払い方法", "reading": "おしはらいほうほう" },
+        { "word": "お支払方法", "reading": "おしはらいほうほう" }
+      ],
+      "senses": [["payment method"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": [],
+      "japanese": [{ "word": "支払う", "reading": "しはらう" }],
+      "senses": [["to pay"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani37"],
+      "japanese": [
+        { "word": "支払い", "reading": "しはらい" },
+        { "word": "支払", "reading": "しはらい" }
+      ],
+      "senses": [["payment"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani37"],
+      "japanese": [
+        { "word": "酔っ払い", "reading": "よっぱらい" },
+        { "word": "酔っぱらい", "reading": "よっぱらい" },
+        { "word": "酔払い", "reading": "よっぱらい" }
+      ],
+      "senses": [["drunkard"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "未払い", "reading": "みはらい" },
+        { "word": "未払い", "reading": "みばらい" },
+        { "word": "未払", "reading": "みはらい" },
+        { "word": "未払", "reading": "みばらい" }
+      ],
+      "senses": [["unpaid", "overdue"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "前払い", "reading": "まえばらい" },
+        { "word": "前払", "reading": "まえばらい" }
+      ],
+      "senses": [["payment in advance", "prepayment"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "酔っ払う", "reading": "よっぱらう" },
+        { "word": "酔っぱらう", "reading": "よっぱらう" },
+        { "word": "酔払う", "reading": "よっぱらう" }
+      ],
+      "senses": [["to get drunk"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "不払い", "reading": "ふばらい" }],
+      "senses": [["nonpayment", "default"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "利払い", "reading": "りばらい" }],
+      "senses": [["interest payment"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "門前払い", "reading": "もんぜんばらい" }],
+      "senses": [
+        [
+          "turning another away at the gate or front door",
+          "refusing to receive a caller"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "支払い方法", "reading": "しはらいほうほう" },
+        { "word": "支払方法", "reading": "しはらいほうほう" }
+      ],
+      "senses": [["payment method"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "お支払い方法", "reading": "おしはらいほうほう" },
+        { "word": "お支払方法", "reading": "おしはらいほうほう" }
+      ],
+      "senses": [["payment method"]]
+    }
+  ]
+}
