@@ -1,1 +1,23 @@
-{"basic":["縦","Vertical","1436"],"extended":[{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"操縦","reading":"そうじゅう"}],"senses":[["steering","piloting","flying","control","operation","handling"],["management","handling","control","manipulation"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"操縦","reading":"そうじゅう"}],"senses":[["steering","piloting","flying","control","operation","handling"],["management","handling","control","manipulation"]]}]}
+{
+  "basic": ["縦", "Vertical", "1436"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "操縦", "reading": "そうじゅう" }],
+      "senses": [
+        ["steering", "piloting", "flying", "control", "operation", "handling"],
+        ["management", "handling", "control", "manipulation"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "操縦", "reading": "そうじゅう" }],
+      "senses": [
+        ["steering", "piloting", "flying", "control", "operation", "handling"],
+        ["management", "handling", "control", "manipulation"]
+      ]
+    }
+  ]
+}

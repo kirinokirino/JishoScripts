@@ -1,1 +1,51 @@
-{"basic":["蓄","Amass","1486"],"extended":[{"jlpt":["jlpt-n1"],"tags":["wanikani48"],"japanese":[{"word":"貯蓄","reading":"ちょちく"},{"word":"儲蓄","reading":"ちょちく"}],"senses":[["savings"]]},{"jlpt":[],"tags":["wanikani48"],"japanese":[{"word":"備蓄","reading":"びちく"}],"senses":[["stockpile","reserves","storing","stocking up","laying in (supplies)"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani48"],"japanese":[{"word":"貯蓄","reading":"ちょちく"},{"word":"儲蓄","reading":"ちょちく"}],"senses":[["savings"]]},{"jlpt":[],"tags":["wanikani48"],"japanese":[{"word":"備蓄","reading":"びちく"}],"senses":[["stockpile","reserves","storing","stocking up","laying in (supplies)"]]}]}
+{
+  "basic": ["蓄", "Amass", "1486"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani48"],
+      "japanese": [
+        { "word": "貯蓄", "reading": "ちょちく" },
+        { "word": "儲蓄", "reading": "ちょちく" }
+      ],
+      "senses": [["savings"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani48"],
+      "japanese": [{ "word": "備蓄", "reading": "びちく" }],
+      "senses": [
+        [
+          "stockpile",
+          "reserves",
+          "storing",
+          "stocking up",
+          "laying in (supplies)"
+        ]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani48"],
+      "japanese": [
+        { "word": "貯蓄", "reading": "ちょちく" },
+        { "word": "儲蓄", "reading": "ちょちく" }
+      ],
+      "senses": [["savings"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani48"],
+      "japanese": [{ "word": "備蓄", "reading": "びちく" }],
+      "senses": [
+        [
+          "stockpile",
+          "reserves",
+          "storing",
+          "stocking up",
+          "laying in (supplies)"
+        ]
+      ]
+    }
+  ]
+}

@@ -1,1 +1,57 @@
-{"basic":["寸","Measurement","45"],"extended":[{"jlpt":["jlpt-n1","jlpt-n5"],"tags":[],"japanese":[{"word":"一寸","reading":"ちょっと"},{"word":"一寸","reading":"ちょと"},{"word":"鳥渡","reading":"ちょっと"},{"word":"鳥渡","reading":"ちょと"},{"reading":"チョット"},{"reading":"ちょいと"},{"reading":"チョッと"}],"senses":[["a little","a bit","slightly"],["just a minute","for a moment","briefly"],["somewhat","rather","fairly","pretty","quite"],["(not) easily","(not) readily"],["hey!","come on","excuse me"]]},{"jlpt":["jlpt-n5"],"tags":[],"japanese":[{"word":"燐寸","reading":"マッチ"}],"senses":[["match (to light fire with)"]]},{"jlpt":["jlpt-n1","jlpt-n5"],"tags":[],"japanese":[{"word":"一寸","reading":"ちょっと"},{"word":"一寸","reading":"ちょと"},{"word":"鳥渡","reading":"ちょっと"},{"word":"鳥渡","reading":"ちょと"},{"reading":"チョット"},{"reading":"ちょいと"},{"reading":"チョッと"}],"senses":[["a little","a bit","slightly"],["just a minute","for a moment","briefly"],["somewhat","rather","fairly","pretty","quite"],["(not) easily","(not) readily"],["hey!","come on","excuse me"]]},{"jlpt":["jlpt-n5"],"tags":[],"japanese":[{"word":"燐寸","reading":"マッチ"}],"senses":[["match (to light fire with)"]]}]}
+{
+  "basic": ["寸", "Measurement", "45"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n1", "jlpt-n5"],
+      "tags": [],
+      "japanese": [
+        { "word": "一寸", "reading": "ちょっと" },
+        { "word": "一寸", "reading": "ちょと" },
+        { "word": "鳥渡", "reading": "ちょっと" },
+        { "word": "鳥渡", "reading": "ちょと" },
+        { "reading": "チョット" },
+        { "reading": "ちょいと" },
+        { "reading": "チョッと" }
+      ],
+      "senses": [
+        ["a little", "a bit", "slightly"],
+        ["just a minute", "for a moment", "briefly"],
+        ["somewhat", "rather", "fairly", "pretty", "quite"],
+        ["(not) easily", "(not) readily"],
+        ["hey!", "come on", "excuse me"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n5"],
+      "tags": [],
+      "japanese": [{ "word": "燐寸", "reading": "マッチ" }],
+      "senses": [["match (to light fire with)"]]
+    },
+    {
+      "jlpt": ["jlpt-n1", "jlpt-n5"],
+      "tags": [],
+      "japanese": [
+        { "word": "一寸", "reading": "ちょっと" },
+        { "word": "一寸", "reading": "ちょと" },
+        { "word": "鳥渡", "reading": "ちょっと" },
+        { "word": "鳥渡", "reading": "ちょと" },
+        { "reading": "チョット" },
+        { "reading": "ちょいと" },
+        { "reading": "チョッと" }
+      ],
+      "senses": [
+        ["a little", "a bit", "slightly"],
+        ["just a minute", "for a moment", "briefly"],
+        ["somewhat", "rather", "fairly", "pretty", "quite"],
+        ["(not) easily", "(not) readily"],
+        ["hey!", "come on", "excuse me"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n5"],
+      "tags": [],
+      "japanese": [{ "word": "燐寸", "reading": "マッチ" }],
+      "senses": [["match (to light fire with)"]]
+    }
+  ]
+}

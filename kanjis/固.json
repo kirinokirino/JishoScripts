@@ -1,1 +1,105 @@
-{"basic":["固","Harden","622"],"extended":[{"jlpt":["jlpt-n1"],"tags":["wanikani14"],"japanese":[{"word":"頑固","reading":"がんこ"}],"senses":[["stubborn","obstinate","pigheaded"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"断固","reading":"だんこ"},{"word":"断乎","reading":"だんこ"}],"senses":[["firm","determined","resolute","conclusive"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"確固","reading":"かっこ"},{"word":"確乎","reading":"かっこ"}],"senses":[["firm","unshakeable","resolute"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"強固","reading":"きょうこ"},{"word":"鞏固","reading":"きょうこ"}],"senses":[["firm","strong","solid","stable"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"禁錮","reading":"きんこ"},{"word":"禁固","reading":"きんこ"}],"senses":[["imprisonment (without forced labour)","incarceration","confinement"]]},{"jlpt":[],"tags":["wanikani55"],"japanese":[{"word":"凝固","reading":"ぎょうこ"}],"senses":[["coagulation","freezing","solidification"],["Freezing"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani14"],"japanese":[{"word":"頑固","reading":"がんこ"}],"senses":[["stubborn","obstinate","pigheaded"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"断固","reading":"だんこ"},{"word":"断乎","reading":"だんこ"}],"senses":[["firm","determined","resolute","conclusive"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"確固","reading":"かっこ"},{"word":"確乎","reading":"かっこ"}],"senses":[["firm","unshakeable","resolute"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"強固","reading":"きょうこ"},{"word":"鞏固","reading":"きょうこ"}],"senses":[["firm","strong","solid","stable"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"禁錮","reading":"きんこ"},{"word":"禁固","reading":"きんこ"}],"senses":[["imprisonment (without forced labour)","incarceration","confinement"]]},{"jlpt":[],"tags":["wanikani55"],"japanese":[{"word":"凝固","reading":"ぎょうこ"}],"senses":[["coagulation","freezing","solidification"],["Freezing"]]}]}
+{
+  "basic": ["固", "Harden", "622"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani14"],
+      "japanese": [{ "word": "頑固", "reading": "がんこ" }],
+      "senses": [["stubborn", "obstinate", "pigheaded"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "断固", "reading": "だんこ" },
+        { "word": "断乎", "reading": "だんこ" }
+      ],
+      "senses": [["firm", "determined", "resolute", "conclusive"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "確固", "reading": "かっこ" },
+        { "word": "確乎", "reading": "かっこ" }
+      ],
+      "senses": [["firm", "unshakeable", "resolute"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "強固", "reading": "きょうこ" },
+        { "word": "鞏固", "reading": "きょうこ" }
+      ],
+      "senses": [["firm", "strong", "solid", "stable"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "禁錮", "reading": "きんこ" },
+        { "word": "禁固", "reading": "きんこ" }
+      ],
+      "senses": [
+        ["imprisonment (without forced labour)", "incarceration", "confinement"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani55"],
+      "japanese": [{ "word": "凝固", "reading": "ぎょうこ" }],
+      "senses": [["coagulation", "freezing", "solidification"], ["Freezing"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani14"],
+      "japanese": [{ "word": "頑固", "reading": "がんこ" }],
+      "senses": [["stubborn", "obstinate", "pigheaded"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "断固", "reading": "だんこ" },
+        { "word": "断乎", "reading": "だんこ" }
+      ],
+      "senses": [["firm", "determined", "resolute", "conclusive"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "確固", "reading": "かっこ" },
+        { "word": "確乎", "reading": "かっこ" }
+      ],
+      "senses": [["firm", "unshakeable", "resolute"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "強固", "reading": "きょうこ" },
+        { "word": "鞏固", "reading": "きょうこ" }
+      ],
+      "senses": [["firm", "strong", "solid", "stable"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "禁錮", "reading": "きんこ" },
+        { "word": "禁固", "reading": "きんこ" }
+      ],
+      "senses": [
+        ["imprisonment (without forced labour)", "incarceration", "confinement"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani55"],
+      "japanese": [{ "word": "凝固", "reading": "ぎょうこ" }],
+      "senses": [["coagulation", "freezing", "solidification"], ["Freezing"]]
+    }
+  ]
+}

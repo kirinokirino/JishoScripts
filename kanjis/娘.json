@@ -1,1 +1,25 @@
-{"basic":["娘","Daughter","1581"],"extended":[{"jlpt":[],"tags":["wanikani29"],"japanese":[{"word":"一人娘","reading":"ひとりむすめ"},{"word":"１人娘","reading":"ひとりむすめ"},{"word":"ひとり娘","reading":"ひとりむすめ"}],"senses":[["only daughter"]]},{"jlpt":[],"tags":["wanikani29"],"japanese":[{"word":"一人娘","reading":"ひとりむすめ"},{"word":"１人娘","reading":"ひとりむすめ"},{"word":"ひとり娘","reading":"ひとりむすめ"}],"senses":[["only daughter"]]}]}
+{
+  "basic": ["娘", "Daughter", "1581"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": ["wanikani29"],
+      "japanese": [
+        { "word": "一人娘", "reading": "ひとりむすめ" },
+        { "word": "１人娘", "reading": "ひとりむすめ" },
+        { "word": "ひとり娘", "reading": "ひとりむすめ" }
+      ],
+      "senses": [["only daughter"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani29"],
+      "japanese": [
+        { "word": "一人娘", "reading": "ひとりむすめ" },
+        { "word": "１人娘", "reading": "ひとりむすめ" },
+        { "word": "ひとり娘", "reading": "ひとりむすめ" }
+      ],
+      "senses": [["only daughter"]]
+    }
+  ]
+}

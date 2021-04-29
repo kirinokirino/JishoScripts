@@ -1,1 +1,23 @@
-{"basic":["亘","Span","32"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"に渡って","reading":"にわたって"},{"word":"に亘って","reading":"にわたって"}],"senses":[["throughout","over a period of ...","over a span of ..."]]},{"jlpt":[],"tags":[],"japanese":[{"word":"に渡って","reading":"にわたって"},{"word":"に亘って","reading":"にわたって"}],"senses":[["throughout","over a period of ...","over a span of ..."]]}]}
+{
+  "basic": ["亘", "Span", "32"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "に渡って", "reading": "にわたって" },
+        { "word": "に亘って", "reading": "にわたって" }
+      ],
+      "senses": [["throughout", "over a period of ...", "over a span of ..."]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "に渡って", "reading": "にわたって" },
+        { "word": "に亘って", "reading": "にわたって" }
+      ],
+      "senses": [["throughout", "over a period of ...", "over a span of ..."]]
+    }
+  ]
+}

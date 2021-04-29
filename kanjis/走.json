@@ -1,1 +1,255 @@
-{"basic":["走","Run","410"],"extended":[{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"逃走","reading":"とうそう"}],"senses":[["flight","desertion","escape"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"競走","reading":"きょうそう"}],"senses":[["race"],["Racing"]]},{"jlpt":["jlpt-n4","jlpt-n2","jlpt-n1"],"tags":[],"japanese":[{"word":"ご馳走","reading":"ごちそう"},{"word":"御馳走","reading":"ごちそう"}],"senses":[["feast","treating (someone)"],["to treat (someone, e.g. to a meal)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"滑走路","reading":"かっそうろ"}],"senses":[["runway"],["Runway"]]},{"jlpt":[],"tags":["wanikani22"],"japanese":[{"word":"脱走","reading":"だっそう"}],"senses":[["escape","flight","breakout","fleeing","desertion"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"独走","reading":"どくそう"}],"senses":[["running alone","running solo"],["having a large lead (over the others)","being far ahead (of everyone else)"],["having one's own way","ignoring others' opinions and acting as one wishes","arbitrary action"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"出走","reading":"しゅっそう"}],"senses":[["entry in a race"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"完走","reading":"かんそう"}],"senses":[["finishing (a race)","running the whole distance","reaching the goal","staying the course"]]},{"jlpt":[],"tags":["wanikani19"],"japanese":[{"word":"暴走","reading":"ぼうそう"}],"senses":[["acting rashly","running wildly","behaving recklessly","reckless driving","rampage"],["runaway (process)"],["reckless baserunning"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"滑走","reading":"かっそう"}],"senses":[["gliding","sliding","skating (on ice)","glide","slide"],["taxiing (aircraft)","making a takeoff run"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"競走馬","reading":"きょうそうば"}],"senses":[["racehorse"]]},{"jlpt":["jlpt-n2","jlpt-n1"],"tags":[],"japanese":[{"word":"ご馳走様","reading":"ごちそうさま"},{"word":"ご馳走さま","reading":"ごちそうさま"},{"word":"御馳走様","reading":"ごちそうさま"}],"senses":[["thank you (for the meal)","that was a delicious meal"],["thank you (for displaying lovey-dovey behaviour)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"師走","reading":"しわす"},{"word":"師走","reading":"しはす"}],"senses":[["twelfth month (esp. of the lunar calendar)","December"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"逃走","reading":"とうそう"}],"senses":[["flight","desertion","escape"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"競走","reading":"きょうそう"}],"senses":[["race"],["Racing"]]},{"jlpt":["jlpt-n4","jlpt-n2","jlpt-n1"],"tags":[],"japanese":[{"word":"ご馳走","reading":"ごちそう"},{"word":"御馳走","reading":"ごちそう"}],"senses":[["feast","treating (someone)"],["to treat (someone, e.g. to a meal)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"滑走路","reading":"かっそうろ"}],"senses":[["runway"],["Runway"]]},{"jlpt":[],"tags":["wanikani22"],"japanese":[{"word":"脱走","reading":"だっそう"}],"senses":[["escape","flight","breakout","fleeing","desertion"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"独走","reading":"どくそう"}],"senses":[["running alone","running solo"],["having a large lead (over the others)","being far ahead (of everyone else)"],["having one's own way","ignoring others' opinions and acting as one wishes","arbitrary action"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"出走","reading":"しゅっそう"}],"senses":[["entry in a race"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"完走","reading":"かんそう"}],"senses":[["finishing (a race)","running the whole distance","reaching the goal","staying the course"]]},{"jlpt":[],"tags":["wanikani19"],"japanese":[{"word":"暴走","reading":"ぼうそう"}],"senses":[["acting rashly","running wildly","behaving recklessly","reckless driving","rampage"],["runaway (process)"],["reckless baserunning"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"滑走","reading":"かっそう"}],"senses":[["gliding","sliding","skating (on ice)","glide","slide"],["taxiing (aircraft)","making a takeoff run"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"競走馬","reading":"きょうそうば"}],"senses":[["racehorse"]]},{"jlpt":["jlpt-n2","jlpt-n1"],"tags":[],"japanese":[{"word":"ご馳走様","reading":"ごちそうさま"},{"word":"ご馳走さま","reading":"ごちそうさま"},{"word":"御馳走様","reading":"ごちそうさま"}],"senses":[["thank you (for the meal)","that was a delicious meal"],["thank you (for displaying lovey-dovey behaviour)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"師走","reading":"しわす"},{"word":"師走","reading":"しはす"}],"senses":[["twelfth month (esp. of the lunar calendar)","December"]]}]}
+{
+  "basic": ["走", "Run", "410"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "逃走", "reading": "とうそう" }],
+      "senses": [["flight", "desertion", "escape"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "競走", "reading": "きょうそう" }],
+      "senses": [["race"], ["Racing"]]
+    },
+    {
+      "jlpt": ["jlpt-n4", "jlpt-n2", "jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "ご馳走", "reading": "ごちそう" },
+        { "word": "御馳走", "reading": "ごちそう" }
+      ],
+      "senses": [
+        ["feast", "treating (someone)"],
+        ["to treat (someone, e.g. to a meal)"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "滑走路", "reading": "かっそうろ" }],
+      "senses": [["runway"], ["Runway"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani22"],
+      "japanese": [{ "word": "脱走", "reading": "だっそう" }],
+      "senses": [["escape", "flight", "breakout", "fleeing", "desertion"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "独走", "reading": "どくそう" }],
+      "senses": [
+        ["running alone", "running solo"],
+        [
+          "having a large lead (over the others)",
+          "being far ahead (of everyone else)"
+        ],
+        [
+          "having one's own way",
+          "ignoring others' opinions and acting as one wishes",
+          "arbitrary action"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "出走", "reading": "しゅっそう" }],
+      "senses": [["entry in a race"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "完走", "reading": "かんそう" }],
+      "senses": [
+        [
+          "finishing (a race)",
+          "running the whole distance",
+          "reaching the goal",
+          "staying the course"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani19"],
+      "japanese": [{ "word": "暴走", "reading": "ぼうそう" }],
+      "senses": [
+        [
+          "acting rashly",
+          "running wildly",
+          "behaving recklessly",
+          "reckless driving",
+          "rampage"
+        ],
+        ["runaway (process)"],
+        ["reckless baserunning"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "滑走", "reading": "かっそう" }],
+      "senses": [
+        ["gliding", "sliding", "skating (on ice)", "glide", "slide"],
+        ["taxiing (aircraft)", "making a takeoff run"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "競走馬", "reading": "きょうそうば" }],
+      "senses": [["racehorse"]]
+    },
+    {
+      "jlpt": ["jlpt-n2", "jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "ご馳走様", "reading": "ごちそうさま" },
+        { "word": "ご馳走さま", "reading": "ごちそうさま" },
+        { "word": "御馳走様", "reading": "ごちそうさま" }
+      ],
+      "senses": [
+        ["thank you (for the meal)", "that was a delicious meal"],
+        ["thank you (for displaying lovey-dovey behaviour)"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "師走", "reading": "しわす" },
+        { "word": "師走", "reading": "しはす" }
+      ],
+      "senses": [["twelfth month (esp. of the lunar calendar)", "December"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "逃走", "reading": "とうそう" }],
+      "senses": [["flight", "desertion", "escape"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "競走", "reading": "きょうそう" }],
+      "senses": [["race"], ["Racing"]]
+    },
+    {
+      "jlpt": ["jlpt-n4", "jlpt-n2", "jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "ご馳走", "reading": "ごちそう" },
+        { "word": "御馳走", "reading": "ごちそう" }
+      ],
+      "senses": [
+        ["feast", "treating (someone)"],
+        ["to treat (someone, e.g. to a meal)"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "滑走路", "reading": "かっそうろ" }],
+      "senses": [["runway"], ["Runway"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani22"],
+      "japanese": [{ "word": "脱走", "reading": "だっそう" }],
+      "senses": [["escape", "flight", "breakout", "fleeing", "desertion"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "独走", "reading": "どくそう" }],
+      "senses": [
+        ["running alone", "running solo"],
+        [
+          "having a large lead (over the others)",
+          "being far ahead (of everyone else)"
+        ],
+        [
+          "having one's own way",
+          "ignoring others' opinions and acting as one wishes",
+          "arbitrary action"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "出走", "reading": "しゅっそう" }],
+      "senses": [["entry in a race"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "完走", "reading": "かんそう" }],
+      "senses": [
+        [
+          "finishing (a race)",
+          "running the whole distance",
+          "reaching the goal",
+          "staying the course"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani19"],
+      "japanese": [{ "word": "暴走", "reading": "ぼうそう" }],
+      "senses": [
+        [
+          "acting rashly",
+          "running wildly",
+          "behaving recklessly",
+          "reckless driving",
+          "rampage"
+        ],
+        ["runaway (process)"],
+        ["reckless baserunning"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "滑走", "reading": "かっそう" }],
+      "senses": [
+        ["gliding", "sliding", "skating (on ice)", "glide", "slide"],
+        ["taxiing (aircraft)", "making a takeoff run"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "競走馬", "reading": "きょうそうば" }],
+      "senses": [["racehorse"]]
+    },
+    {
+      "jlpt": ["jlpt-n2", "jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "ご馳走様", "reading": "ごちそうさま" },
+        { "word": "ご馳走さま", "reading": "ごちそうさま" },
+        { "word": "御馳走様", "reading": "ごちそうさま" }
+      ],
+      "senses": [
+        ["thank you (for the meal)", "that was a delicious meal"],
+        ["thank you (for displaying lovey-dovey behaviour)"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "師走", "reading": "しわす" },
+        { "word": "師走", "reading": "しはす" }
+      ],
+      "senses": [["twelfth month (esp. of the lunar calendar)", "December"]]
+    }
+  ]
+}

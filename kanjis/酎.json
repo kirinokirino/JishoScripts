@@ -1,1 +1,23 @@
-{"basic":["酎","Hooch","1537"],"extended":[{"jlpt":[],"tags":["wanikani41"],"japanese":[{"word":"焼酎","reading":"しょうちゅう"}],"senses":[["shōchū","Japanese spirit distilled from sweet potatoes, rice, etc."],["Shōchū"]]},{"jlpt":[],"tags":["wanikani41"],"japanese":[{"word":"焼酎","reading":"しょうちゅう"}],"senses":[["shōchū","Japanese spirit distilled from sweet potatoes, rice, etc."],["Shōchū"]]}]}
+{
+  "basic": ["酎", "Hooch", "1537"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": ["wanikani41"],
+      "japanese": [{ "word": "焼酎", "reading": "しょうちゅう" }],
+      "senses": [
+        ["shōchū", "Japanese spirit distilled from sweet potatoes, rice, etc."],
+        ["Shōchū"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani41"],
+      "japanese": [{ "word": "焼酎", "reading": "しょうちゅう" }],
+      "senses": [
+        ["shōchū", "Japanese spirit distilled from sweet potatoes, rice, etc."],
+        ["Shōchū"]
+      ]
+    }
+  ]
+}

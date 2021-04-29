@@ -1,1 +1,127 @@
-{"basic":["異","Uncommon","1936"],"extended":[{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"驚異","reading":"きょうい"}],"senses":[["wonder","miracle","amazement","prodigy"],["Pulse (1995 film)"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"差異","reading":"さい"},{"word":"差違","reading":"さい"}],"senses":[["difference","disparity","gap"],["Difference (philosophy)"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"相違","reading":"そうい"},{"word":"相異","reading":"そうい"}],"senses":[["difference","discrepancy","variation"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"特異","reading":"とくい"}],"senses":[["unique","peculiar","singular"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"奇異","reading":"きい"}],"senses":[["odd","strange","queer","peculiar"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"によって異なる","reading":"によってことなる"}],"senses":[["to differ depending on ..."]]},{"jlpt":[],"tags":[],"japanese":[{"word":"人事異動","reading":"じんじいどう"}],"senses":[["personnel change","personnel shift","reshuffle","(annual) staff reassignment"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"驚異","reading":"きょうい"}],"senses":[["wonder","miracle","amazement","prodigy"],["Pulse (1995 film)"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"差異","reading":"さい"},{"word":"差違","reading":"さい"}],"senses":[["difference","disparity","gap"],["Difference (philosophy)"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"相違","reading":"そうい"},{"word":"相異","reading":"そうい"}],"senses":[["difference","discrepancy","variation"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"特異","reading":"とくい"}],"senses":[["unique","peculiar","singular"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"奇異","reading":"きい"}],"senses":[["odd","strange","queer","peculiar"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"によって異なる","reading":"によってことなる"}],"senses":[["to differ depending on ..."]]},{"jlpt":[],"tags":[],"japanese":[{"word":"人事異動","reading":"じんじいどう"}],"senses":[["personnel change","personnel shift","reshuffle","(annual) staff reassignment"]]}]}
+{
+  "basic": ["異", "Uncommon", "1936"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "驚異", "reading": "きょうい" }],
+      "senses": [
+        ["wonder", "miracle", "amazement", "prodigy"],
+        ["Pulse (1995 film)"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "差異", "reading": "さい" },
+        { "word": "差違", "reading": "さい" }
+      ],
+      "senses": [
+        ["difference", "disparity", "gap"],
+        ["Difference (philosophy)"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [
+        { "word": "相違", "reading": "そうい" },
+        { "word": "相異", "reading": "そうい" }
+      ],
+      "senses": [["difference", "discrepancy", "variation"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "特異", "reading": "とくい" }],
+      "senses": [["unique", "peculiar", "singular"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "奇異", "reading": "きい" }],
+      "senses": [["odd", "strange", "queer", "peculiar"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "によって異なる", "reading": "によってことなる" }],
+      "senses": [["to differ depending on ..."]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "人事異動", "reading": "じんじいどう" }],
+      "senses": [
+        [
+          "personnel change",
+          "personnel shift",
+          "reshuffle",
+          "(annual) staff reassignment"
+        ]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "驚異", "reading": "きょうい" }],
+      "senses": [
+        ["wonder", "miracle", "amazement", "prodigy"],
+        ["Pulse (1995 film)"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "差異", "reading": "さい" },
+        { "word": "差違", "reading": "さい" }
+      ],
+      "senses": [
+        ["difference", "disparity", "gap"],
+        ["Difference (philosophy)"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [
+        { "word": "相違", "reading": "そうい" },
+        { "word": "相異", "reading": "そうい" }
+      ],
+      "senses": [["difference", "discrepancy", "variation"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "特異", "reading": "とくい" }],
+      "senses": [["unique", "peculiar", "singular"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "奇異", "reading": "きい" }],
+      "senses": [["odd", "strange", "queer", "peculiar"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "によって異なる", "reading": "によってことなる" }],
+      "senses": [["to differ depending on ..."]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "人事異動", "reading": "じんじいどう" }],
+      "senses": [
+        [
+          "personnel change",
+          "personnel shift",
+          "reshuffle",
+          "(annual) staff reassignment"
+        ]
+      ]
+    }
+  ]
+}

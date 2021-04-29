@@ -1,1 +1,17 @@
-{"basic":["娠","With Child","2168"],"extended":[{"jlpt":["jlpt-n1"],"tags":["wanikani38"],"japanese":[{"word":"妊娠","reading":"にんしん"}],"senses":[["pregnancy","conception"],["Pregnancy"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani38"],"japanese":[{"word":"妊娠","reading":"にんしん"}],"senses":[["pregnancy","conception"],["Pregnancy"]]}]}
+{
+  "basic": ["娠", "With Child", "2168"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani38"],
+      "japanese": [{ "word": "妊娠", "reading": "にんしん" }],
+      "senses": [["pregnancy", "conception"], ["Pregnancy"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani38"],
+      "japanese": [{ "word": "妊娠", "reading": "にんしん" }],
+      "senses": [["pregnancy", "conception"], ["Pregnancy"]]
+    }
+  ]
+}

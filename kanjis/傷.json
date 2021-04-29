@@ -1,1 +1,181 @@
-{"basic":["傷","Wound","1071"],"extended":[{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"負傷","reading":"ふしょう"}],"senses":[["injury","wound"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"中傷","reading":"ちゅうしょう"}],"senses":[["slander","libel","defamation","calumny","smear"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"損傷","reading":"そんしょう"}],"senses":[["damage","injury"],["Injury"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"外傷","reading":"がいしょう"}],"senses":[["external wound","(physical) trauma"],["Trauma (medicine)"]]},{"jlpt":["jlpt-n2","jlpt-n1"],"tags":["wanikani32"],"japanese":[{"word":"火傷","reading":"やけど"},{"word":"火傷","reading":"かしょう"}],"senses":[["burn","scald"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"重傷","reading":"じゅうしょう"},{"word":"重傷","reading":"おもで"},{"word":"重手","reading":"おもで"}],"senses":[["serious wound","serious injury"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"死傷者","reading":"ししょうしゃ"}],"senses":[["casualties","killed and wounded"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"致命傷","reading":"ちめいしょう"}],"senses":[["fatal wound"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"軽傷","reading":"けいしょう"}],"senses":[["minor injury"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"無傷","reading":"むきず"}],"senses":[["unhurt","uninjured","unwounded","unscathed","unharmed"],["flawless (e.g. gem)","unblemished","undamaged","perfect (condition)"],["spotless (e.g. reputation)","faultless (e.g. performance)","perfect (record)","without failure","without defeat"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"殺傷","reading":"さっしょう"}],"senses":[["killing and wounding","bloodshed"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"負傷","reading":"ふしょう"}],"senses":[["injury","wound"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"中傷","reading":"ちゅうしょう"}],"senses":[["slander","libel","defamation","calumny","smear"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"損傷","reading":"そんしょう"}],"senses":[["damage","injury"],["Injury"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"外傷","reading":"がいしょう"}],"senses":[["external wound","(physical) trauma"],["Trauma (medicine)"]]},{"jlpt":["jlpt-n2","jlpt-n1"],"tags":["wanikani32"],"japanese":[{"word":"火傷","reading":"やけど"},{"word":"火傷","reading":"かしょう"}],"senses":[["burn","scald"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"重傷","reading":"じゅうしょう"},{"word":"重傷","reading":"おもで"},{"word":"重手","reading":"おもで"}],"senses":[["serious wound","serious injury"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"死傷者","reading":"ししょうしゃ"}],"senses":[["casualties","killed and wounded"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"致命傷","reading":"ちめいしょう"}],"senses":[["fatal wound"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"軽傷","reading":"けいしょう"}],"senses":[["minor injury"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"無傷","reading":"むきず"}],"senses":[["unhurt","uninjured","unwounded","unscathed","unharmed"],["flawless (e.g. gem)","unblemished","undamaged","perfect (condition)"],["spotless (e.g. reputation)","faultless (e.g. performance)","perfect (record)","without failure","without defeat"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"殺傷","reading":"さっしょう"}],"senses":[["killing and wounding","bloodshed"]]}]}
+{
+  "basic": ["傷", "Wound", "1071"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "負傷", "reading": "ふしょう" }],
+      "senses": [["injury", "wound"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "中傷", "reading": "ちゅうしょう" }],
+      "senses": [["slander", "libel", "defamation", "calumny", "smear"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "損傷", "reading": "そんしょう" }],
+      "senses": [["damage", "injury"], ["Injury"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "外傷", "reading": "がいしょう" }],
+      "senses": [["external wound", "(physical) trauma"], ["Trauma (medicine)"]]
+    },
+    {
+      "jlpt": ["jlpt-n2", "jlpt-n1"],
+      "tags": ["wanikani32"],
+      "japanese": [
+        { "word": "火傷", "reading": "やけど" },
+        { "word": "火傷", "reading": "かしょう" }
+      ],
+      "senses": [["burn", "scald"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "重傷", "reading": "じゅうしょう" },
+        { "word": "重傷", "reading": "おもで" },
+        { "word": "重手", "reading": "おもで" }
+      ],
+      "senses": [["serious wound", "serious injury"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "死傷者", "reading": "ししょうしゃ" }],
+      "senses": [["casualties", "killed and wounded"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "致命傷", "reading": "ちめいしょう" }],
+      "senses": [["fatal wound"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "軽傷", "reading": "けいしょう" }],
+      "senses": [["minor injury"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "無傷", "reading": "むきず" }],
+      "senses": [
+        ["unhurt", "uninjured", "unwounded", "unscathed", "unharmed"],
+        [
+          "flawless (e.g. gem)",
+          "unblemished",
+          "undamaged",
+          "perfect (condition)"
+        ],
+        [
+          "spotless (e.g. reputation)",
+          "faultless (e.g. performance)",
+          "perfect (record)",
+          "without failure",
+          "without defeat"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "殺傷", "reading": "さっしょう" }],
+      "senses": [["killing and wounding", "bloodshed"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "負傷", "reading": "ふしょう" }],
+      "senses": [["injury", "wound"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "中傷", "reading": "ちゅうしょう" }],
+      "senses": [["slander", "libel", "defamation", "calumny", "smear"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "損傷", "reading": "そんしょう" }],
+      "senses": [["damage", "injury"], ["Injury"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "外傷", "reading": "がいしょう" }],
+      "senses": [["external wound", "(physical) trauma"], ["Trauma (medicine)"]]
+    },
+    {
+      "jlpt": ["jlpt-n2", "jlpt-n1"],
+      "tags": ["wanikani32"],
+      "japanese": [
+        { "word": "火傷", "reading": "やけど" },
+        { "word": "火傷", "reading": "かしょう" }
+      ],
+      "senses": [["burn", "scald"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "重傷", "reading": "じゅうしょう" },
+        { "word": "重傷", "reading": "おもで" },
+        { "word": "重手", "reading": "おもで" }
+      ],
+      "senses": [["serious wound", "serious injury"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "死傷者", "reading": "ししょうしゃ" }],
+      "senses": [["casualties", "killed and wounded"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "致命傷", "reading": "ちめいしょう" }],
+      "senses": [["fatal wound"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "軽傷", "reading": "けいしょう" }],
+      "senses": [["minor injury"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "無傷", "reading": "むきず" }],
+      "senses": [
+        ["unhurt", "uninjured", "unwounded", "unscathed", "unharmed"],
+        [
+          "flawless (e.g. gem)",
+          "unblemished",
+          "undamaged",
+          "perfect (condition)"
+        ],
+        [
+          "spotless (e.g. reputation)",
+          "faultless (e.g. performance)",
+          "perfect (record)",
+          "without failure",
+          "without defeat"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "殺傷", "reading": "さっしょう" }],
+      "senses": [["killing and wounding", "bloodshed"]]
+    }
+  ]
+}

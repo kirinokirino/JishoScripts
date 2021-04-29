@@ -1,1 +1,53 @@
-{"basic":["南","South","1740"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"中南米","reading":"ちゅうなんべい"}],"senses":[["Central and South America"],["Chuunanbei"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"西南","reading":"せいなん"},{"word":"西南","reading":"にしみなみ"}],"senses":[["south-west"],["Seinan"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"東南","reading":"とうなん"},{"word":"東南","reading":"ひがしみなみ"}],"senses":[["south-east"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"中南米","reading":"ちゅうなんべい"}],"senses":[["Central and South America"],["Chuunanbei"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"西南","reading":"せいなん"},{"word":"西南","reading":"にしみなみ"}],"senses":[["south-west"],["Seinan"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"東南","reading":"とうなん"},{"word":"東南","reading":"ひがしみなみ"}],"senses":[["south-east"]]}]}
+{
+  "basic": ["南", "South", "1740"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "中南米", "reading": "ちゅうなんべい" }],
+      "senses": [["Central and South America"], ["Chuunanbei"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "西南", "reading": "せいなん" },
+        { "word": "西南", "reading": "にしみなみ" }
+      ],
+      "senses": [["south-west"], ["Seinan"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "東南", "reading": "とうなん" },
+        { "word": "東南", "reading": "ひがしみなみ" }
+      ],
+      "senses": [["south-east"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "中南米", "reading": "ちゅうなんべい" }],
+      "senses": [["Central and South America"], ["Chuunanbei"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "西南", "reading": "せいなん" },
+        { "word": "西南", "reading": "にしみなみ" }
+      ],
+      "senses": [["south-west"], ["Seinan"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "東南", "reading": "とうなん" },
+        { "word": "東南", "reading": "ひがしみなみ" }
+      ],
+      "senses": [["south-east"]]
+    }
+  ]
+}

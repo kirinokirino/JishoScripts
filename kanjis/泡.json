@@ -1,1 +1,29 @@
-{"basic":["泡","Bubble","572"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"発泡スチロール","reading":"はっぽうスチロール"},{"word":"発砲スチロール","reading":"はっぽうスチロール"}],"senses":[["styrofoam","styrene foam","expanded polystyrene"],["Styrofoam"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"発泡スチロール","reading":"はっぽうスチロール"},{"word":"発砲スチロール","reading":"はっぽうスチロール"}],"senses":[["styrofoam","styrene foam","expanded polystyrene"],["Styrofoam"]]}]}
+{
+  "basic": ["泡", "Bubble", "572"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "発泡スチロール", "reading": "はっぽうスチロール" },
+        { "word": "発砲スチロール", "reading": "はっぽうスチロール" }
+      ],
+      "senses": [
+        ["styrofoam", "styrene foam", "expanded polystyrene"],
+        ["Styrofoam"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "発泡スチロール", "reading": "はっぽうスチロール" },
+        { "word": "発砲スチロール", "reading": "はっぽうスチロール" }
+      ],
+      "senses": [
+        ["styrofoam", "styrene foam", "expanded polystyrene"],
+        ["Styrofoam"]
+      ]
+    }
+  ]
+}

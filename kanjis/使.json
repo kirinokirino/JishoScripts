@@ -1,1 +1,239 @@
-{"basic":["使","Use","1065"],"extended":[{"jlpt":["jlpt-n5"],"tags":[],"japanese":[{"word":"大使館","reading":"たいしかん"}],"senses":[["embassy"],["Diplomatic mission"]]},{"jlpt":["jlpt-n3"],"tags":[],"japanese":[{"word":"大使","reading":"たいし"}],"senses":[["ambassador"],["Ambassador"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani39"],"japanese":[{"word":"言葉遣い","reading":"ことばづかい"},{"word":"言葉使い","reading":"ことばづかい"},{"word":"言葉づかい","reading":"ことばづかい"}],"senses":[["speech","expression","wording","language"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"無駄遣い","reading":"むだづかい"},{"word":"無駄使い","reading":"むだづかい"},{"word":"無駄づかい","reading":"むだづかい"},{"word":"むだ遣い","reading":"むだづかい"},{"word":"むだ使い","reading":"むだづかい"},{"word":"徒遣い","reading":"むだづかい"}],"senses":[["waste (of money, time, etc.)","squandering","frittering away"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"お使い","reading":"おつかい"},{"word":"御使い","reading":"おつかい"},{"word":"お遣い","reading":"おつかい"},{"word":"御遣い","reading":"おつかい"},{"word":"お使","reading":"おつかい"},{"word":"御使","reading":"おつかい"}],"senses":[["errand","mission","going as envoy"],["messenger","bearer","errand boy","errand girl"],["familiar spirit"]]},{"jlpt":[],"tags":["wanikani9"],"japanese":[{"word":"天使","reading":"てんし"}],"senses":[["angel"],["Angel"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"仮名遣い","reading":"かなづかい"},{"word":"仮名遣","reading":"かなづかい"},{"word":"かな遣い","reading":"かなづかい"},{"word":"かな使い","reading":"かなづかい"},{"word":"仮名使い","reading":"かなづかい"}],"senses":[["kana orthography","syllabary spelling"],["Kanazukai"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"行使","reading":"こうし"}],"senses":[["use","exercise (of one's right, authority, power, etc.)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"駆使","reading":"くし"}],"senses":[["using freely","making full use of","having a good command of"],["working (someone) hard","driving (someone) on"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"労使","reading":"ろうし"}],"senses":[["labour and management","labor and management"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"公使","reading":"こうし"}],"senses":[["envoy","diplomat below the rank of ambassador (e.g. deputy chief of mission, charge d'affaires)","minister (of legation)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"実力行使","reading":"じつりょくこうし"}],"senses":[["use of force"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"特使","reading":"とくし"}],"senses":[["special envoy"]]},{"jlpt":["jlpt-n5"],"tags":[],"japanese":[{"word":"大使館","reading":"たいしかん"}],"senses":[["embassy"],["Diplomatic mission"]]},{"jlpt":["jlpt-n3"],"tags":[],"japanese":[{"word":"大使","reading":"たいし"}],"senses":[["ambassador"],["Ambassador"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani39"],"japanese":[{"word":"言葉遣い","reading":"ことばづかい"},{"word":"言葉使い","reading":"ことばづかい"},{"word":"言葉づかい","reading":"ことばづかい"}],"senses":[["speech","expression","wording","language"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"無駄遣い","reading":"むだづかい"},{"word":"無駄使い","reading":"むだづかい"},{"word":"無駄づかい","reading":"むだづかい"},{"word":"むだ遣い","reading":"むだづかい"},{"word":"むだ使い","reading":"むだづかい"},{"word":"徒遣い","reading":"むだづかい"}],"senses":[["waste (of money, time, etc.)","squandering","frittering away"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"お使い","reading":"おつかい"},{"word":"御使い","reading":"おつかい"},{"word":"お遣い","reading":"おつかい"},{"word":"御遣い","reading":"おつかい"},{"word":"お使","reading":"おつかい"},{"word":"御使","reading":"おつかい"}],"senses":[["errand","mission","going as envoy"],["messenger","bearer","errand boy","errand girl"],["familiar spirit"]]},{"jlpt":[],"tags":["wanikani9"],"japanese":[{"word":"天使","reading":"てんし"}],"senses":[["angel"],["Angel"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"仮名遣い","reading":"かなづかい"},{"word":"仮名遣","reading":"かなづかい"},{"word":"かな遣い","reading":"かなづかい"},{"word":"かな使い","reading":"かなづかい"},{"word":"仮名使い","reading":"かなづかい"}],"senses":[["kana orthography","syllabary spelling"],["Kanazukai"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"行使","reading":"こうし"}],"senses":[["use","exercise (of one's right, authority, power, etc.)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"駆使","reading":"くし"}],"senses":[["using freely","making full use of","having a good command of"],["working (someone) hard","driving (someone) on"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"労使","reading":"ろうし"}],"senses":[["labour and management","labor and management"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"公使","reading":"こうし"}],"senses":[["envoy","diplomat below the rank of ambassador (e.g. deputy chief of mission, charge d'affaires)","minister (of legation)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"実力行使","reading":"じつりょくこうし"}],"senses":[["use of force"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"特使","reading":"とくし"}],"senses":[["special envoy"]]}]}
+{
+  "basic": ["使", "Use", "1065"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n5"],
+      "tags": [],
+      "japanese": [{ "word": "大使館", "reading": "たいしかん" }],
+      "senses": [["embassy"], ["Diplomatic mission"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": [],
+      "japanese": [{ "word": "大使", "reading": "たいし" }],
+      "senses": [["ambassador"], ["Ambassador"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani39"],
+      "japanese": [
+        { "word": "言葉遣い", "reading": "ことばづかい" },
+        { "word": "言葉使い", "reading": "ことばづかい" },
+        { "word": "言葉づかい", "reading": "ことばづかい" }
+      ],
+      "senses": [["speech", "expression", "wording", "language"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "無駄遣い", "reading": "むだづかい" },
+        { "word": "無駄使い", "reading": "むだづかい" },
+        { "word": "無駄づかい", "reading": "むだづかい" },
+        { "word": "むだ遣い", "reading": "むだづかい" },
+        { "word": "むだ使い", "reading": "むだづかい" },
+        { "word": "徒遣い", "reading": "むだづかい" }
+      ],
+      "senses": [
+        ["waste (of money, time, etc.)", "squandering", "frittering away"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "お使い", "reading": "おつかい" },
+        { "word": "御使い", "reading": "おつかい" },
+        { "word": "お遣い", "reading": "おつかい" },
+        { "word": "御遣い", "reading": "おつかい" },
+        { "word": "お使", "reading": "おつかい" },
+        { "word": "御使", "reading": "おつかい" }
+      ],
+      "senses": [
+        ["errand", "mission", "going as envoy"],
+        ["messenger", "bearer", "errand boy", "errand girl"],
+        ["familiar spirit"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani9"],
+      "japanese": [{ "word": "天使", "reading": "てんし" }],
+      "senses": [["angel"], ["Angel"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [
+        { "word": "仮名遣い", "reading": "かなづかい" },
+        { "word": "仮名遣", "reading": "かなづかい" },
+        { "word": "かな遣い", "reading": "かなづかい" },
+        { "word": "かな使い", "reading": "かなづかい" },
+        { "word": "仮名使い", "reading": "かなづかい" }
+      ],
+      "senses": [["kana orthography", "syllabary spelling"], ["Kanazukai"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "行使", "reading": "こうし" }],
+      "senses": [["use", "exercise (of one's right, authority, power, etc.)"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "駆使", "reading": "くし" }],
+      "senses": [
+        ["using freely", "making full use of", "having a good command of"],
+        ["working (someone) hard", "driving (someone) on"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "労使", "reading": "ろうし" }],
+      "senses": [["labour and management", "labor and management"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "公使", "reading": "こうし" }],
+      "senses": [
+        [
+          "envoy",
+          "diplomat below the rank of ambassador (e.g. deputy chief of mission, charge d'affaires)",
+          "minister (of legation)"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "実力行使", "reading": "じつりょくこうし" }],
+      "senses": [["use of force"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "特使", "reading": "とくし" }],
+      "senses": [["special envoy"]]
+    },
+    {
+      "jlpt": ["jlpt-n5"],
+      "tags": [],
+      "japanese": [{ "word": "大使館", "reading": "たいしかん" }],
+      "senses": [["embassy"], ["Diplomatic mission"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": [],
+      "japanese": [{ "word": "大使", "reading": "たいし" }],
+      "senses": [["ambassador"], ["Ambassador"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani39"],
+      "japanese": [
+        { "word": "言葉遣い", "reading": "ことばづかい" },
+        { "word": "言葉使い", "reading": "ことばづかい" },
+        { "word": "言葉づかい", "reading": "ことばづかい" }
+      ],
+      "senses": [["speech", "expression", "wording", "language"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "無駄遣い", "reading": "むだづかい" },
+        { "word": "無駄使い", "reading": "むだづかい" },
+        { "word": "無駄づかい", "reading": "むだづかい" },
+        { "word": "むだ遣い", "reading": "むだづかい" },
+        { "word": "むだ使い", "reading": "むだづかい" },
+        { "word": "徒遣い", "reading": "むだづかい" }
+      ],
+      "senses": [
+        ["waste (of money, time, etc.)", "squandering", "frittering away"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "お使い", "reading": "おつかい" },
+        { "word": "御使い", "reading": "おつかい" },
+        { "word": "お遣い", "reading": "おつかい" },
+        { "word": "御遣い", "reading": "おつかい" },
+        { "word": "お使", "reading": "おつかい" },
+        { "word": "御使", "reading": "おつかい" }
+      ],
+      "senses": [
+        ["errand", "mission", "going as envoy"],
+        ["messenger", "bearer", "errand boy", "errand girl"],
+        ["familiar spirit"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani9"],
+      "japanese": [{ "word": "天使", "reading": "てんし" }],
+      "senses": [["angel"], ["Angel"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [
+        { "word": "仮名遣い", "reading": "かなづかい" },
+        { "word": "仮名遣", "reading": "かなづかい" },
+        { "word": "かな遣い", "reading": "かなづかい" },
+        { "word": "かな使い", "reading": "かなづかい" },
+        { "word": "仮名使い", "reading": "かなづかい" }
+      ],
+      "senses": [["kana orthography", "syllabary spelling"], ["Kanazukai"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "行使", "reading": "こうし" }],
+      "senses": [["use", "exercise (of one's right, authority, power, etc.)"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "駆使", "reading": "くし" }],
+      "senses": [
+        ["using freely", "making full use of", "having a good command of"],
+        ["working (someone) hard", "driving (someone) on"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "労使", "reading": "ろうし" }],
+      "senses": [["labour and management", "labor and management"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "公使", "reading": "こうし" }],
+      "senses": [
+        [
+          "envoy",
+          "diplomat below the rank of ambassador (e.g. deputy chief of mission, charge d'affaires)",
+          "minister (of legation)"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "実力行使", "reading": "じつりょくこうし" }],
+      "senses": [["use of force"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "特使", "reading": "とくし" }],
+      "senses": [["special envoy"]]
+    }
+  ]
+}

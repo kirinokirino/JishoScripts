@@ -1,1 +1,115 @@
-{"basic":["注","Pour","285"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"発注","reading":"はっちゅう"},{"word":"発註","reading":"はっちゅう"}],"senses":[["ordering (materials)","placing an order","order"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"傾注","reading":"けいちゅう"}],"senses":[["devotion","concentration"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"不注意","reading":"ふちゅうい"}],"senses":[["carelessness","inattention","thoughtlessness"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"取扱注意","reading":"とりあつかいちゅうい"},{"word":"取り扱い注意","reading":"とりあつかいちゅうい"}],"senses":[["handling warning"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"要注意","reading":"ようちゅうい"}],"senses":[["need for caution","need for care","requiring special attention"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"受注","reading":"じゅちゅう"},{"word":"受註","reading":"じゅちゅう"}],"senses":[["accepting an order","receiving an order","orders received"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"予約注文","reading":"よやくちゅうもん"}],"senses":[["pre-order","advance order"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"発注","reading":"はっちゅう"},{"word":"発註","reading":"はっちゅう"}],"senses":[["ordering (materials)","placing an order","order"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"傾注","reading":"けいちゅう"}],"senses":[["devotion","concentration"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"不注意","reading":"ふちゅうい"}],"senses":[["carelessness","inattention","thoughtlessness"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"取扱注意","reading":"とりあつかいちゅうい"},{"word":"取り扱い注意","reading":"とりあつかいちゅうい"}],"senses":[["handling warning"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"要注意","reading":"ようちゅうい"}],"senses":[["need for caution","need for care","requiring special attention"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"受注","reading":"じゅちゅう"},{"word":"受註","reading":"じゅちゅう"}],"senses":[["accepting an order","receiving an order","orders received"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"予約注文","reading":"よやくちゅうもん"}],"senses":[["pre-order","advance order"]]}]}
+{
+  "basic": ["注", "Pour", "285"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "発注", "reading": "はっちゅう" },
+        { "word": "発註", "reading": "はっちゅう" }
+      ],
+      "senses": [["ordering (materials)", "placing an order", "order"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "傾注", "reading": "けいちゅう" }],
+      "senses": [["devotion", "concentration"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "不注意", "reading": "ふちゅうい" }],
+      "senses": [["carelessness", "inattention", "thoughtlessness"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "取扱注意", "reading": "とりあつかいちゅうい" },
+        { "word": "取り扱い注意", "reading": "とりあつかいちゅうい" }
+      ],
+      "senses": [["handling warning"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "要注意", "reading": "ようちゅうい" }],
+      "senses": [
+        ["need for caution", "need for care", "requiring special attention"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "受注", "reading": "じゅちゅう" },
+        { "word": "受註", "reading": "じゅちゅう" }
+      ],
+      "senses": [
+        ["accepting an order", "receiving an order", "orders received"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "予約注文", "reading": "よやくちゅうもん" }],
+      "senses": [["pre-order", "advance order"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "発注", "reading": "はっちゅう" },
+        { "word": "発註", "reading": "はっちゅう" }
+      ],
+      "senses": [["ordering (materials)", "placing an order", "order"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "傾注", "reading": "けいちゅう" }],
+      "senses": [["devotion", "concentration"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "不注意", "reading": "ふちゅうい" }],
+      "senses": [["carelessness", "inattention", "thoughtlessness"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "取扱注意", "reading": "とりあつかいちゅうい" },
+        { "word": "取り扱い注意", "reading": "とりあつかいちゅうい" }
+      ],
+      "senses": [["handling warning"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "要注意", "reading": "ようちゅうい" }],
+      "senses": [
+        ["need for caution", "need for care", "requiring special attention"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "受注", "reading": "じゅちゅう" },
+        { "word": "受註", "reading": "じゅちゅう" }
+      ],
+      "senses": [
+        ["accepting an order", "receiving an order", "orders received"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "予約注文", "reading": "よやくちゅうもん" }],
+      "senses": [["pre-order", "advance order"]]
+    }
+  ]
+}

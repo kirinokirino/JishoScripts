@@ -1,1 +1,626 @@
-{"basic":["本","Book","224"],"extended":[{"jlpt":["jlpt-n1"],"tags":["wanikani12"],"japanese":[{"word":"根源","reading":"こんげん"},{"word":"根原","reading":"こんげん"},{"word":"根元","reading":"こんげん"}],"senses":[["root","source","origin","cause"],["Nemoto"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani45"],"japanese":[{"word":"脚本","reading":"きゃくほん"}],"senses":[["script","screenplay","scenario"],["Screenplay"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani14"],"japanese":[{"word":"基本","reading":"きほん"}],"senses":[["basics","fundamentals","basis","foundation"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"見本","reading":"みほん"}],"senses":[["sample","specimen","pattern"],["model","example"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"標本","reading":"ひょうほん"}],"senses":[["example","specimen","sample"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"元々","reading":"もともと"},{"word":"本々","reading":"もともと"},{"word":"元元","reading":"もともと"},{"word":"本本","reading":"もともと"}],"senses":[["originally","by nature","from the start"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"手本","reading":"てほん"}],"senses":[["copybook"],["model","pattern"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"台本","reading":"だいほん"}],"senses":[["script","libretto","scenario"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani2"],"japanese":[{"word":"日本","reading":"にほん"},{"word":"日本","reading":"にっぽん"}],"senses":[["Japan"],["Japan"]]},{"jlpt":[],"tags":["wanikani10"],"japanese":[{"word":"日本語","reading":"にほんご"},{"word":"日本語","reading":"にっぽんご"}],"senses":[["Japanese (language)"],["Japanese language"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"資本金","reading":"しほんきん"}],"senses":[["capital stock"],["Common stock"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"日本海","reading":"にほんかい"}],"senses":[["Sea of Japan"],["Sea of Japan"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"見本市","reading":"みほんいち"}],"senses":[["trade fair"],["Trade fair"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"資本主義","reading":"しほんしゅぎ"}],"senses":[["capitalism"],["Capitalism"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"絵本","reading":"えほん"}],"senses":[["picture book"],["Picture book"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"日本画","reading":"にほんが"}],"senses":[["Japanese painting"],["Nihonga"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"日本料理","reading":"にほんりょうり"}],"senses":[["Japanese cooking"],["Japanese cuisine"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani21"],"japanese":[{"word":"資本","reading":"しほん"}],"senses":[["funds","capital"],["Capital (economics)"]]},{"jlpt":[],"tags":["wanikani16"],"japanese":[{"word":"基本的","reading":"きほんてき"}],"senses":[["fundamental","basic"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"根本的","reading":"こんぽんてき"}],"senses":[["fundamental","basic"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani12"],"japanese":[{"word":"根源","reading":"こんげん"},{"word":"根原","reading":"こんげん"},{"word":"根元","reading":"こんげん"}],"senses":[["root","source","origin","cause"],["Nemoto"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani45"],"japanese":[{"word":"脚本","reading":"きゃくほん"}],"senses":[["script","screenplay","scenario"],["Screenplay"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani14"],"japanese":[{"word":"基本","reading":"きほん"}],"senses":[["basics","fundamentals","basis","foundation"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"見本","reading":"みほん"}],"senses":[["sample","specimen","pattern"],["model","example"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"標本","reading":"ひょうほん"}],"senses":[["example","specimen","sample"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"元々","reading":"もともと"},{"word":"本々","reading":"もともと"},{"word":"元元","reading":"もともと"},{"word":"本本","reading":"もともと"}],"senses":[["originally","by nature","from the start"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"手本","reading":"てほん"}],"senses":[["copybook"],["model","pattern"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"台本","reading":"だいほん"}],"senses":[["script","libretto","scenario"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani2"],"japanese":[{"word":"日本","reading":"にほん"},{"word":"日本","reading":"にっぽん"}],"senses":[["Japan"],["Japan"]]},{"jlpt":[],"tags":["wanikani10"],"japanese":[{"word":"日本語","reading":"にほんご"},{"word":"日本語","reading":"にっぽんご"}],"senses":[["Japanese (language)"],["Japanese language"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"資本金","reading":"しほんきん"}],"senses":[["capital stock"],["Common stock"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"日本海","reading":"にほんかい"}],"senses":[["Sea of Japan"],["Sea of Japan"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"見本市","reading":"みほんいち"}],"senses":[["trade fair"],["Trade fair"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"資本主義","reading":"しほんしゅぎ"}],"senses":[["capitalism"],["Capitalism"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"絵本","reading":"えほん"}],"senses":[["picture book"],["Picture book"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"日本画","reading":"にほんが"}],"senses":[["Japanese painting"],["Nihonga"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"日本料理","reading":"にほんりょうり"}],"senses":[["Japanese cooking"],["Japanese cuisine"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani21"],"japanese":[{"word":"資本","reading":"しほん"}],"senses":[["funds","capital"],["Capital (economics)"]]},{"jlpt":[],"tags":["wanikani16"],"japanese":[{"word":"基本的","reading":"きほんてき"}],"senses":[["fundamental","basic"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"根本的","reading":"こんぽんてき"}],"senses":[["fundamental","basic"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"抜本的","reading":"ばっぽんてき"}],"senses":[["drastic","radical"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"原本","reading":"げんぽん"}],"senses":[["the original","original copy","script"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"日本式","reading":"にほんしき"}],"senses":[["Japanese style"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"四本","reading":"よんほん"}],"senses":[["four (long cylindrical things)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"不本意","reading":"ふほんい"}],"senses":[["reluctant","unwilling","involuntary","unintentional","unintended","unlooked-for","disappointing"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"資本家","reading":"しほんか"}],"senses":[["capitalist","financier"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"張本人","reading":"ちょうほんにん"},{"word":"帳本人","reading":"ちょうほんにん"}],"senses":[["originator","ringleader","perpetrator","main culprit","person responsible"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"日本経済","reading":"にほんけいざい"}],"senses":[["Japanese economy"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"日本史","reading":"にほんし"}],"senses":[["history of Japan","Japanese history"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"古本屋","reading":"ふるほんや"}],"senses":[["secondhand bookshop","secondhand bookstore","secondhand bookseller"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"日本中","reading":"にほんじゅう"},{"word":"日本中","reading":"にっぽんじゅう"},{"word":"日本じゅう","reading":"にほんじゅう"},{"word":"日本じゅう","reading":"にっぽんじゅう"}],"senses":[["throughout Japan"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"日本初","reading":"にほんはつ"},{"word":"日本初","reading":"にっぽんはつ"}],"senses":[["first (of its kind) in Japan"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"一本","reading":"いっぽん"},{"word":"１本","reading":"いっぽん"}],"senses":[["one long cylindrical thing","one film, TV show, etc.","one goal, home run, etc.","one telephone call"],["one version"],["one book","a certain book"],["ippon","one point","a blow"],["geisha"],["single-minded focus on ..."],["Ippon"],["Ippon"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"日本人","reading":"にほんじん"},{"word":"日本人","reading":"にっぽんじん"}],"senses":[["Japanese person","Japanese people"],["Japanese people"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"日本酒","reading":"にほんしゅ"}],"senses":[["sake","Japanese rice wine"],["Sake"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"日本航空","reading":"にっぽんこうくう"}],"senses":[["Japan Air Lines","JAL"],["Japan Airlines"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"古本","reading":"ふるほん"},{"word":"古本","reading":"ふるぼん"},{"word":"古本","reading":"こほん"}],"senses":[["secondhand book"],["ancient book","antiquarian books"],["Used book"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"日本銀行","reading":"にっぽんぎんこう"},{"word":"日本銀行","reading":"にほんぎんこう"}],"senses":[["Bank of Japan","BOJ","BoJ"],["Nihonginkou"],["Bank of Japan"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"三本","reading":"さんぼん"},{"word":"３本","reading":"さんぼん"}],"senses":[["three (long cylindrical things)"],["three-of-a-kind (in a dealt hand)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"日本一","reading":"にほんいち"},{"word":"日本一","reading":"にっぽんいち"}],"senses":[["Japan's best","number one in Japan"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"社会資本","reading":"しゃかいしほん"}],"senses":[["social capital","SOC"],["Social capital"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"単行本","reading":"たんこうぼん"}],"senses":[["tankōbon","(manga) volume","(comic) trade paperback"],["single book (as opposed to magazine, anthology, etc.)","separate volume"],["Tankōbon"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"日本道路公団","reading":"にほんどうろこうだん"}],"senses":[["Japan Highway Public Corporation"],["Japan Highway Public Corporation"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"自己資本","reading":"じこしほん"}],"senses":[["net worth","owned capital"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"総本山","reading":"そうほんざん"}],"senses":[["head temple of a sect"],["(organizational) headquarters","(organisational) headquarters"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"元本","reading":"がんぽん"},{"word":"元本","reading":"げんぽん"}],"senses":[["principal (invest.)","capital"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"西日本","reading":"にしにほん"},{"word":"西日本","reading":"にしにっぽん"}],"senses":[["western Japan","Japan west of the Itoigawa-Shizuoka Tectonic Line, i.e. the Chūbu region and westward"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"二本立て","reading":"にほんだて"}],"senses":[["double feature (movie)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"配本","reading":"はいほん"}],"senses":[["distribution of books"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"戸籍謄本","reading":"こせきとうほん"}],"senses":[["official copy of the family register"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"日本政府","reading":"にほんせいふ"}],"senses":[["Japanese government"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"基本料金","reading":"きほんりょうきん"}],"senses":[["basic rate (i.e. excluding optional service fees, usage charges, etc.)","basic charge","base cost","base price"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"日本社会","reading":"にほんしゃかい"}],"senses":[["Japanese society"]]},{"jlpt":[],"tags":["wanikani24"],"japanese":[{"word":"日本製","reading":"にほんせい"}],"senses":[["made in Japan"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"日本企業","reading":"にほんきぎょう"}],"senses":[["Japanese company (business, firm)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"日本全国","reading":"にほんぜんこく"}],"senses":[["all over Japan","throughout Japan"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"新日本製鐵","reading":"しんにっぽんせいてつ"},{"word":"新日本製鐵","reading":"しんにほんせいてつ"},{"word":"新日本製鉄","reading":"しんにっぽんせいてつ"},{"word":"新日本製鉄","reading":"しんにほんせいてつ"}],"senses":[["Nippon Steel Corporation"],["Nippon Steel"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"日本学術会議","reading":"にほんがくじゅつかいぎ"}],"senses":[["Science Council of Japan"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"根本","reading":"こんぽん"},{"word":"根本","reading":"こんぼん"}],"senses":[["root","source","origin"],["foundation","basis","essence"]]}]}
+{
+  "basic": ["本", "Book", "224"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani12"],
+      "japanese": [
+        { "word": "根源", "reading": "こんげん" },
+        { "word": "根原", "reading": "こんげん" },
+        { "word": "根元", "reading": "こんげん" }
+      ],
+      "senses": [["root", "source", "origin", "cause"], ["Nemoto"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani45"],
+      "japanese": [{ "word": "脚本", "reading": "きゃくほん" }],
+      "senses": [["script", "screenplay", "scenario"], ["Screenplay"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani14"],
+      "japanese": [{ "word": "基本", "reading": "きほん" }],
+      "senses": [["basics", "fundamentals", "basis", "foundation"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "見本", "reading": "みほん" }],
+      "senses": [["sample", "specimen", "pattern"], ["model", "example"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "標本", "reading": "ひょうほん" }],
+      "senses": [["example", "specimen", "sample"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [
+        { "word": "元々", "reading": "もともと" },
+        { "word": "本々", "reading": "もともと" },
+        { "word": "元元", "reading": "もともと" },
+        { "word": "本本", "reading": "もともと" }
+      ],
+      "senses": [["originally", "by nature", "from the start"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "手本", "reading": "てほん" }],
+      "senses": [["copybook"], ["model", "pattern"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "台本", "reading": "だいほん" }],
+      "senses": [["script", "libretto", "scenario"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani2"],
+      "japanese": [
+        { "word": "日本", "reading": "にほん" },
+        { "word": "日本", "reading": "にっぽん" }
+      ],
+      "senses": [["Japan"], ["Japan"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani10"],
+      "japanese": [
+        { "word": "日本語", "reading": "にほんご" },
+        { "word": "日本語", "reading": "にっぽんご" }
+      ],
+      "senses": [["Japanese (language)"], ["Japanese language"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "資本金", "reading": "しほんきん" }],
+      "senses": [["capital stock"], ["Common stock"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "日本海", "reading": "にほんかい" }],
+      "senses": [["Sea of Japan"], ["Sea of Japan"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "見本市", "reading": "みほんいち" }],
+      "senses": [["trade fair"], ["Trade fair"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "資本主義", "reading": "しほんしゅぎ" }],
+      "senses": [["capitalism"], ["Capitalism"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "絵本", "reading": "えほん" }],
+      "senses": [["picture book"], ["Picture book"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "日本画", "reading": "にほんが" }],
+      "senses": [["Japanese painting"], ["Nihonga"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "日本料理", "reading": "にほんりょうり" }],
+      "senses": [["Japanese cooking"], ["Japanese cuisine"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani21"],
+      "japanese": [{ "word": "資本", "reading": "しほん" }],
+      "senses": [["funds", "capital"], ["Capital (economics)"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani16"],
+      "japanese": [{ "word": "基本的", "reading": "きほんてき" }],
+      "senses": [["fundamental", "basic"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "根本的", "reading": "こんぽんてき" }],
+      "senses": [["fundamental", "basic"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani12"],
+      "japanese": [
+        { "word": "根源", "reading": "こんげん" },
+        { "word": "根原", "reading": "こんげん" },
+        { "word": "根元", "reading": "こんげん" }
+      ],
+      "senses": [["root", "source", "origin", "cause"], ["Nemoto"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani45"],
+      "japanese": [{ "word": "脚本", "reading": "きゃくほん" }],
+      "senses": [["script", "screenplay", "scenario"], ["Screenplay"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani14"],
+      "japanese": [{ "word": "基本", "reading": "きほん" }],
+      "senses": [["basics", "fundamentals", "basis", "foundation"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "見本", "reading": "みほん" }],
+      "senses": [["sample", "specimen", "pattern"], ["model", "example"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "標本", "reading": "ひょうほん" }],
+      "senses": [["example", "specimen", "sample"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [
+        { "word": "元々", "reading": "もともと" },
+        { "word": "本々", "reading": "もともと" },
+        { "word": "元元", "reading": "もともと" },
+        { "word": "本本", "reading": "もともと" }
+      ],
+      "senses": [["originally", "by nature", "from the start"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "手本", "reading": "てほん" }],
+      "senses": [["copybook"], ["model", "pattern"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "台本", "reading": "だいほん" }],
+      "senses": [["script", "libretto", "scenario"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani2"],
+      "japanese": [
+        { "word": "日本", "reading": "にほん" },
+        { "word": "日本", "reading": "にっぽん" }
+      ],
+      "senses": [["Japan"], ["Japan"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani10"],
+      "japanese": [
+        { "word": "日本語", "reading": "にほんご" },
+        { "word": "日本語", "reading": "にっぽんご" }
+      ],
+      "senses": [["Japanese (language)"], ["Japanese language"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "資本金", "reading": "しほんきん" }],
+      "senses": [["capital stock"], ["Common stock"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "日本海", "reading": "にほんかい" }],
+      "senses": [["Sea of Japan"], ["Sea of Japan"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "見本市", "reading": "みほんいち" }],
+      "senses": [["trade fair"], ["Trade fair"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "資本主義", "reading": "しほんしゅぎ" }],
+      "senses": [["capitalism"], ["Capitalism"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "絵本", "reading": "えほん" }],
+      "senses": [["picture book"], ["Picture book"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "日本画", "reading": "にほんが" }],
+      "senses": [["Japanese painting"], ["Nihonga"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "日本料理", "reading": "にほんりょうり" }],
+      "senses": [["Japanese cooking"], ["Japanese cuisine"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani21"],
+      "japanese": [{ "word": "資本", "reading": "しほん" }],
+      "senses": [["funds", "capital"], ["Capital (economics)"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani16"],
+      "japanese": [{ "word": "基本的", "reading": "きほんてき" }],
+      "senses": [["fundamental", "basic"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "根本的", "reading": "こんぽんてき" }],
+      "senses": [["fundamental", "basic"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "抜本的", "reading": "ばっぽんてき" }],
+      "senses": [["drastic", "radical"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "原本", "reading": "げんぽん" }],
+      "senses": [["the original", "original copy", "script"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "日本式", "reading": "にほんしき" }],
+      "senses": [["Japanese style"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "四本", "reading": "よんほん" }],
+      "senses": [["four (long cylindrical things)"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "不本意", "reading": "ふほんい" }],
+      "senses": [
+        [
+          "reluctant",
+          "unwilling",
+          "involuntary",
+          "unintentional",
+          "unintended",
+          "unlooked-for",
+          "disappointing"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "資本家", "reading": "しほんか" }],
+      "senses": [["capitalist", "financier"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "張本人", "reading": "ちょうほんにん" },
+        { "word": "帳本人", "reading": "ちょうほんにん" }
+      ],
+      "senses": [
+        [
+          "originator",
+          "ringleader",
+          "perpetrator",
+          "main culprit",
+          "person responsible"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "日本経済", "reading": "にほんけいざい" }],
+      "senses": [["Japanese economy"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "日本史", "reading": "にほんし" }],
+      "senses": [["history of Japan", "Japanese history"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "古本屋", "reading": "ふるほんや" }],
+      "senses": [
+        ["secondhand bookshop", "secondhand bookstore", "secondhand bookseller"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "日本中", "reading": "にほんじゅう" },
+        { "word": "日本中", "reading": "にっぽんじゅう" },
+        { "word": "日本じゅう", "reading": "にほんじゅう" },
+        { "word": "日本じゅう", "reading": "にっぽんじゅう" }
+      ],
+      "senses": [["throughout Japan"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "日本初", "reading": "にほんはつ" },
+        { "word": "日本初", "reading": "にっぽんはつ" }
+      ],
+      "senses": [["first (of its kind) in Japan"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "一本", "reading": "いっぽん" },
+        { "word": "１本", "reading": "いっぽん" }
+      ],
+      "senses": [
+        [
+          "one long cylindrical thing",
+          "one film, TV show, etc.",
+          "one goal, home run, etc.",
+          "one telephone call"
+        ],
+        ["one version"],
+        ["one book", "a certain book"],
+        ["ippon", "one point", "a blow"],
+        ["geisha"],
+        ["single-minded focus on ..."],
+        ["Ippon"],
+        ["Ippon"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "日本人", "reading": "にほんじん" },
+        { "word": "日本人", "reading": "にっぽんじん" }
+      ],
+      "senses": [["Japanese person", "Japanese people"], ["Japanese people"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "日本酒", "reading": "にほんしゅ" }],
+      "senses": [["sake", "Japanese rice wine"], ["Sake"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "日本航空", "reading": "にっぽんこうくう" }],
+      "senses": [["Japan Air Lines", "JAL"], ["Japan Airlines"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "古本", "reading": "ふるほん" },
+        { "word": "古本", "reading": "ふるぼん" },
+        { "word": "古本", "reading": "こほん" }
+      ],
+      "senses": [
+        ["secondhand book"],
+        ["ancient book", "antiquarian books"],
+        ["Used book"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "日本銀行", "reading": "にっぽんぎんこう" },
+        { "word": "日本銀行", "reading": "にほんぎんこう" }
+      ],
+      "senses": [
+        ["Bank of Japan", "BOJ", "BoJ"],
+        ["Nihonginkou"],
+        ["Bank of Japan"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "三本", "reading": "さんぼん" },
+        { "word": "３本", "reading": "さんぼん" }
+      ],
+      "senses": [
+        ["three (long cylindrical things)"],
+        ["three-of-a-kind (in a dealt hand)"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "日本一", "reading": "にほんいち" },
+        { "word": "日本一", "reading": "にっぽんいち" }
+      ],
+      "senses": [["Japan's best", "number one in Japan"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "社会資本", "reading": "しゃかいしほん" }],
+      "senses": [["social capital", "SOC"], ["Social capital"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "単行本", "reading": "たんこうぼん" }],
+      "senses": [
+        ["tankōbon", "(manga) volume", "(comic) trade paperback"],
+        [
+          "single book (as opposed to magazine, anthology, etc.)",
+          "separate volume"
+        ],
+        ["Tankōbon"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "日本道路公団", "reading": "にほんどうろこうだん" }],
+      "senses": [
+        ["Japan Highway Public Corporation"],
+        ["Japan Highway Public Corporation"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "自己資本", "reading": "じこしほん" }],
+      "senses": [["net worth", "owned capital"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "総本山", "reading": "そうほんざん" }],
+      "senses": [
+        ["head temple of a sect"],
+        ["(organizational) headquarters", "(organisational) headquarters"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "元本", "reading": "がんぽん" },
+        { "word": "元本", "reading": "げんぽん" }
+      ],
+      "senses": [["principal (invest.)", "capital"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "西日本", "reading": "にしにほん" },
+        { "word": "西日本", "reading": "にしにっぽん" }
+      ],
+      "senses": [
+        [
+          "western Japan",
+          "Japan west of the Itoigawa-Shizuoka Tectonic Line, i.e. the Chūbu region and westward"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "二本立て", "reading": "にほんだて" }],
+      "senses": [["double feature (movie)"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "配本", "reading": "はいほん" }],
+      "senses": [["distribution of books"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "戸籍謄本", "reading": "こせきとうほん" }],
+      "senses": [["official copy of the family register"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "日本政府", "reading": "にほんせいふ" }],
+      "senses": [["Japanese government"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "基本料金", "reading": "きほんりょうきん" }],
+      "senses": [
+        [
+          "basic rate (i.e. excluding optional service fees, usage charges, etc.)",
+          "basic charge",
+          "base cost",
+          "base price"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "日本社会", "reading": "にほんしゃかい" }],
+      "senses": [["Japanese society"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani24"],
+      "japanese": [{ "word": "日本製", "reading": "にほんせい" }],
+      "senses": [["made in Japan"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "日本企業", "reading": "にほんきぎょう" }],
+      "senses": [["Japanese company (business, firm)"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "日本全国", "reading": "にほんぜんこく" }],
+      "senses": [["all over Japan", "throughout Japan"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "新日本製鐵", "reading": "しんにっぽんせいてつ" },
+        { "word": "新日本製鐵", "reading": "しんにほんせいてつ" },
+        { "word": "新日本製鉄", "reading": "しんにっぽんせいてつ" },
+        { "word": "新日本製鉄", "reading": "しんにほんせいてつ" }
+      ],
+      "senses": [["Nippon Steel Corporation"], ["Nippon Steel"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "日本学術会議", "reading": "にほんがくじゅつかいぎ" }],
+      "senses": [["Science Council of Japan"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "根本", "reading": "こんぽん" },
+        { "word": "根本", "reading": "こんぼん" }
+      ],
+      "senses": [
+        ["root", "source", "origin"],
+        ["foundation", "basis", "essence"]
+      ]
+    }
+  ]
+}

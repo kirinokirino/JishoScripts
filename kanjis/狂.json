@@ -1,1 +1,41 @@
-{"basic":["狂","Lunatic","277"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"熱狂","reading":"ねっきょう"}],"senses":[["wild enthusiasm","being crazy about"],["Fanaticism"]]},{"jlpt":[],"tags":["wanikani26"],"japanese":[{"word":"気違い","reading":"きちがい"},{"word":"気狂い","reading":"きちがい"},{"word":"基地外","reading":"きちがい"},{"word":"既知外","reading":"きちがい"},{"reading":"キチガイ"}],"senses":[["madness","madman"],["enthusiast","freak","junkie"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"熱狂","reading":"ねっきょう"}],"senses":[["wild enthusiasm","being crazy about"],["Fanaticism"]]},{"jlpt":[],"tags":["wanikani26"],"japanese":[{"word":"気違い","reading":"きちがい"},{"word":"気狂い","reading":"きちがい"},{"word":"基地外","reading":"きちがい"},{"word":"既知外","reading":"きちがい"},{"reading":"キチガイ"}],"senses":[["madness","madman"],["enthusiast","freak","junkie"]]}]}
+{
+  "basic": ["狂", "Lunatic", "277"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "熱狂", "reading": "ねっきょう" }],
+      "senses": [["wild enthusiasm", "being crazy about"], ["Fanaticism"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani26"],
+      "japanese": [
+        { "word": "気違い", "reading": "きちがい" },
+        { "word": "気狂い", "reading": "きちがい" },
+        { "word": "基地外", "reading": "きちがい" },
+        { "word": "既知外", "reading": "きちがい" },
+        { "reading": "キチガイ" }
+      ],
+      "senses": [["madness", "madman"], ["enthusiast", "freak", "junkie"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "熱狂", "reading": "ねっきょう" }],
+      "senses": [["wild enthusiasm", "being crazy about"], ["Fanaticism"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani26"],
+      "japanese": [
+        { "word": "気違い", "reading": "きちがい" },
+        { "word": "気狂い", "reading": "きちがい" },
+        { "word": "基地外", "reading": "きちがい" },
+        { "word": "既知外", "reading": "きちがい" },
+        { "reading": "キチガイ" }
+      ],
+      "senses": [["madness", "madman"], ["enthusiast", "freak", "junkie"]]
+    }
+  ]
+}

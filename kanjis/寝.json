@@ -1,1 +1,65 @@
-{"basic":["寝","Lie Down","1233"],"extended":[{"jlpt":["jlpt-n2"],"tags":["wanikani22"],"japanese":[{"word":"昼寝","reading":"ひるね"},{"word":"昼寐","reading":"ひるね"}],"senses":[["nap (afternoon)","siesta"],["Hirune"],["Nap"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"就寝","reading":"しゅうしん"}],"senses":[["going to bed","retiring (for the night)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"早寝","reading":"はやね"}],"senses":[["go to bed early"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"二度寝","reading":"にどね"},{"word":"２度寝","reading":"にどね"}],"senses":[["going back to sleep (e.g. after waking up in the morning)"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani22"],"japanese":[{"word":"昼寝","reading":"ひるね"},{"word":"昼寐","reading":"ひるね"}],"senses":[["nap (afternoon)","siesta"],["Hirune"],["Nap"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"就寝","reading":"しゅうしん"}],"senses":[["going to bed","retiring (for the night)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"早寝","reading":"はやね"}],"senses":[["go to bed early"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"二度寝","reading":"にどね"},{"word":"２度寝","reading":"にどね"}],"senses":[["going back to sleep (e.g. after waking up in the morning)"]]}]}
+{
+  "basic": ["寝", "Lie Down", "1233"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani22"],
+      "japanese": [
+        { "word": "昼寝", "reading": "ひるね" },
+        { "word": "昼寐", "reading": "ひるね" }
+      ],
+      "senses": [["nap (afternoon)", "siesta"], ["Hirune"], ["Nap"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "就寝", "reading": "しゅうしん" }],
+      "senses": [["going to bed", "retiring (for the night)"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "早寝", "reading": "はやね" }],
+      "senses": [["go to bed early"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "二度寝", "reading": "にどね" },
+        { "word": "２度寝", "reading": "にどね" }
+      ],
+      "senses": [["going back to sleep (e.g. after waking up in the morning)"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani22"],
+      "japanese": [
+        { "word": "昼寝", "reading": "ひるね" },
+        { "word": "昼寐", "reading": "ひるね" }
+      ],
+      "senses": [["nap (afternoon)", "siesta"], ["Hirune"], ["Nap"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "就寝", "reading": "しゅうしん" }],
+      "senses": [["going to bed", "retiring (for the night)"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "早寝", "reading": "はやね" }],
+      "senses": [["go to bed early"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "二度寝", "reading": "にどね" },
+        { "word": "２度寝", "reading": "にどね" }
+      ],
+      "senses": [["going back to sleep (e.g. after waking up in the morning)"]]
+    }
+  ]
+}

@@ -1,1 +1,99 @@
-{"basic":["届","Deliver","1191"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"行き届く","reading":"いきとどく"},{"word":"行き届く","reading":"ゆきとどく"},{"word":"行きとどく","reading":"いきとどく"},{"word":"行きとどく","reading":"ゆきとどく"}],"senses":[["to be scrupulous","to be attentive","to be prudent","to be complete","to be thorough"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"変更届","reading":"へんこうとどけ"},{"word":"変更届け","reading":"へんこうとどけ"}],"senses":[["notification of change","alteration report","registration of modification"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"見届ける","reading":"みとどける"}],"senses":[["to make sure of","to assure oneself of","to see with one's own eyes","to ascertain"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"行き届く","reading":"いきとどく"},{"word":"行き届く","reading":"ゆきとどく"},{"word":"行きとどく","reading":"いきとどく"},{"word":"行きとどく","reading":"ゆきとどく"}],"senses":[["to be scrupulous","to be attentive","to be prudent","to be complete","to be thorough"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"変更届","reading":"へんこうとどけ"},{"word":"変更届け","reading":"へんこうとどけ"}],"senses":[["notification of change","alteration report","registration of modification"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"見届ける","reading":"みとどける"}],"senses":[["to make sure of","to assure oneself of","to see with one's own eyes","to ascertain"]]}]}
+{
+  "basic": ["届", "Deliver", "1191"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "行き届く", "reading": "いきとどく" },
+        { "word": "行き届く", "reading": "ゆきとどく" },
+        { "word": "行きとどく", "reading": "いきとどく" },
+        { "word": "行きとどく", "reading": "ゆきとどく" }
+      ],
+      "senses": [
+        [
+          "to be scrupulous",
+          "to be attentive",
+          "to be prudent",
+          "to be complete",
+          "to be thorough"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "変更届", "reading": "へんこうとどけ" },
+        { "word": "変更届け", "reading": "へんこうとどけ" }
+      ],
+      "senses": [
+        [
+          "notification of change",
+          "alteration report",
+          "registration of modification"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "見届ける", "reading": "みとどける" }],
+      "senses": [
+        [
+          "to make sure of",
+          "to assure oneself of",
+          "to see with one's own eyes",
+          "to ascertain"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "行き届く", "reading": "いきとどく" },
+        { "word": "行き届く", "reading": "ゆきとどく" },
+        { "word": "行きとどく", "reading": "いきとどく" },
+        { "word": "行きとどく", "reading": "ゆきとどく" }
+      ],
+      "senses": [
+        [
+          "to be scrupulous",
+          "to be attentive",
+          "to be prudent",
+          "to be complete",
+          "to be thorough"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "変更届", "reading": "へんこうとどけ" },
+        { "word": "変更届け", "reading": "へんこうとどけ" }
+      ],
+      "senses": [
+        [
+          "notification of change",
+          "alteration report",
+          "registration of modification"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "見届ける", "reading": "みとどける" }],
+      "senses": [
+        [
+          "to make sure of",
+          "to assure oneself of",
+          "to see with one's own eyes",
+          "to ascertain"
+        ]
+      ]
+    }
+  ]
+}

@@ -1,1 +1,135 @@
-{"basic":["玉","Jewel","272"],"extended":[{"jlpt":[],"tags":["wanikani2"],"japanese":[{"word":"目玉","reading":"めだま"}],"senses":[["eyeball"],["special feature","centerpiece","showpiece","drawcard"],["special program","loss leader"],["sunny-side up fried egg"],["Medama"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"替え玉","reading":"かえだま"},{"word":"替玉","reading":"かえだま"}],"senses":[["proxy","ringer","substitute","double"],["second serving of noodles (to add to previously purchased ramen)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"お年玉","reading":"おとしだま"},{"word":"御年玉","reading":"おとしだま"}],"senses":[["New Year's gift (usu. money given to a child by relatives and visitors)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"シャボン玉","reading":"シャボンだま"},{"word":"しゃぼん玉","reading":"しゃぼんだま"}],"senses":[["soap bubble"],["Soap bubble"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"埼玉","reading":"さいたま"}],"senses":[["Saitama (city, prefecture)"],["Saitama"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"目玉商品","reading":"めだましょうひん"}],"senses":[["bargain goods","loss leader"],["eye-catching goods","featured product"]]},{"jlpt":[],"tags":["wanikani3"],"japanese":[{"word":"ビー玉","reading":"ビーだま"}],"senses":[["marble","glass marble"],["Marble (toy)"]]},{"jlpt":[],"tags":["wanikani2"],"japanese":[{"word":"目玉","reading":"めだま"}],"senses":[["eyeball"],["special feature","centerpiece","showpiece","drawcard"],["special program","loss leader"],["sunny-side up fried egg"],["Medama"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"替え玉","reading":"かえだま"},{"word":"替玉","reading":"かえだま"}],"senses":[["proxy","ringer","substitute","double"],["second serving of noodles (to add to previously purchased ramen)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"お年玉","reading":"おとしだま"},{"word":"御年玉","reading":"おとしだま"}],"senses":[["New Year's gift (usu. money given to a child by relatives and visitors)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"シャボン玉","reading":"シャボンだま"},{"word":"しゃぼん玉","reading":"しゃぼんだま"}],"senses":[["soap bubble"],["Soap bubble"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"埼玉","reading":"さいたま"}],"senses":[["Saitama (city, prefecture)"],["Saitama"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"目玉商品","reading":"めだましょうひん"}],"senses":[["bargain goods","loss leader"],["eye-catching goods","featured product"]]},{"jlpt":[],"tags":["wanikani3"],"japanese":[{"word":"ビー玉","reading":"ビーだま"}],"senses":[["marble","glass marble"],["Marble (toy)"]]}]}
+{
+  "basic": ["玉", "Jewel", "272"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": ["wanikani2"],
+      "japanese": [{ "word": "目玉", "reading": "めだま" }],
+      "senses": [
+        ["eyeball"],
+        ["special feature", "centerpiece", "showpiece", "drawcard"],
+        ["special program", "loss leader"],
+        ["sunny-side up fried egg"],
+        ["Medama"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "替え玉", "reading": "かえだま" },
+        { "word": "替玉", "reading": "かえだま" }
+      ],
+      "senses": [
+        ["proxy", "ringer", "substitute", "double"],
+        ["second serving of noodles (to add to previously purchased ramen)"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "お年玉", "reading": "おとしだま" },
+        { "word": "御年玉", "reading": "おとしだま" }
+      ],
+      "senses": [
+        ["New Year's gift (usu. money given to a child by relatives and visitors)"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "シャボン玉", "reading": "シャボンだま" },
+        { "word": "しゃぼん玉", "reading": "しゃぼんだま" }
+      ],
+      "senses": [["soap bubble"], ["Soap bubble"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "埼玉", "reading": "さいたま" }],
+      "senses": [["Saitama (city, prefecture)"], ["Saitama"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "目玉商品", "reading": "めだましょうひん" }],
+      "senses": [
+        ["bargain goods", "loss leader"],
+        ["eye-catching goods", "featured product"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani3"],
+      "japanese": [{ "word": "ビー玉", "reading": "ビーだま" }],
+      "senses": [["marble", "glass marble"], ["Marble (toy)"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani2"],
+      "japanese": [{ "word": "目玉", "reading": "めだま" }],
+      "senses": [
+        ["eyeball"],
+        ["special feature", "centerpiece", "showpiece", "drawcard"],
+        ["special program", "loss leader"],
+        ["sunny-side up fried egg"],
+        ["Medama"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "替え玉", "reading": "かえだま" },
+        { "word": "替玉", "reading": "かえだま" }
+      ],
+      "senses": [
+        ["proxy", "ringer", "substitute", "double"],
+        ["second serving of noodles (to add to previously purchased ramen)"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "お年玉", "reading": "おとしだま" },
+        { "word": "御年玉", "reading": "おとしだま" }
+      ],
+      "senses": [
+        ["New Year's gift (usu. money given to a child by relatives and visitors)"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "シャボン玉", "reading": "シャボンだま" },
+        { "word": "しゃぼん玉", "reading": "しゃぼんだま" }
+      ],
+      "senses": [["soap bubble"], ["Soap bubble"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "埼玉", "reading": "さいたま" }],
+      "senses": [["Saitama (city, prefecture)"], ["Saitama"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "目玉商品", "reading": "めだましょうひん" }],
+      "senses": [
+        ["bargain goods", "loss leader"],
+        ["eye-catching goods", "featured product"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani3"],
+      "japanese": [{ "word": "ビー玉", "reading": "ビーだま" }],
+      "senses": [["marble", "glass marble"], ["Marble (toy)"]]
+    }
+  ]
+}

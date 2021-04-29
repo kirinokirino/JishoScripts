@@ -1,1 +1,23 @@
-{"basic":["蛮","Barbarian","1884"],"extended":[{"jlpt":[],"tags":["wanikani60"],"japanese":[{"word":"野蛮","reading":"やばん"}],"senses":[["savage","barbarous","barbaric","uncivilized","uncivilised"],["Barbarian"]]},{"jlpt":[],"tags":["wanikani60"],"japanese":[{"word":"野蛮","reading":"やばん"}],"senses":[["savage","barbarous","barbaric","uncivilized","uncivilised"],["Barbarian"]]}]}
+{
+  "basic": ["蛮", "Barbarian", "1884"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": ["wanikani60"],
+      "japanese": [{ "word": "野蛮", "reading": "やばん" }],
+      "senses": [
+        ["savage", "barbarous", "barbaric", "uncivilized", "uncivilised"],
+        ["Barbarian"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani60"],
+      "japanese": [{ "word": "野蛮", "reading": "やばん" }],
+      "senses": [
+        ["savage", "barbarous", "barbaric", "uncivilized", "uncivilised"],
+        ["Barbarian"]
+      ]
+    }
+  ]
+}

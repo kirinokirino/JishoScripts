@@ -1,1 +1,65 @@
-{"basic":["濯","Laundry","619"],"extended":[{"jlpt":["jlpt-n5"],"tags":["wanikani51"],"japanese":[{"word":"洗濯","reading":"せんたく"},{"word":"洗たく","reading":"せんたく"},{"word":"洗濯","reading":"せんだく"}],"senses":[["washing","laundry"],["relaxing","taking a break"],["Laundry"]]},{"jlpt":[],"tags":["wanikani51"],"japanese":[{"word":"洗濯機","reading":"せんたくき"},{"word":"洗たく機","reading":"せんたくき"},{"word":"洗濯機","reading":"せんたっき"}],"senses":[["washing machine (laundry)"],["Washing machine"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"洗濯物","reading":"せんたくもの"}],"senses":[["laundry","the washing"]]},{"jlpt":["jlpt-n5"],"tags":["wanikani51"],"japanese":[{"word":"洗濯","reading":"せんたく"},{"word":"洗たく","reading":"せんたく"},{"word":"洗濯","reading":"せんだく"}],"senses":[["washing","laundry"],["relaxing","taking a break"],["Laundry"]]},{"jlpt":[],"tags":["wanikani51"],"japanese":[{"word":"洗濯機","reading":"せんたくき"},{"word":"洗たく機","reading":"せんたくき"},{"word":"洗濯機","reading":"せんたっき"}],"senses":[["washing machine (laundry)"],["Washing machine"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"洗濯物","reading":"せんたくもの"}],"senses":[["laundry","the washing"]]}]}
+{
+  "basic": ["濯", "Laundry", "619"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n5"],
+      "tags": ["wanikani51"],
+      "japanese": [
+        { "word": "洗濯", "reading": "せんたく" },
+        { "word": "洗たく", "reading": "せんたく" },
+        { "word": "洗濯", "reading": "せんだく" }
+      ],
+      "senses": [
+        ["washing", "laundry"],
+        ["relaxing", "taking a break"],
+        ["Laundry"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani51"],
+      "japanese": [
+        { "word": "洗濯機", "reading": "せんたくき" },
+        { "word": "洗たく機", "reading": "せんたくき" },
+        { "word": "洗濯機", "reading": "せんたっき" }
+      ],
+      "senses": [["washing machine (laundry)"], ["Washing machine"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "洗濯物", "reading": "せんたくもの" }],
+      "senses": [["laundry", "the washing"]]
+    },
+    {
+      "jlpt": ["jlpt-n5"],
+      "tags": ["wanikani51"],
+      "japanese": [
+        { "word": "洗濯", "reading": "せんたく" },
+        { "word": "洗たく", "reading": "せんたく" },
+        { "word": "洗濯", "reading": "せんだく" }
+      ],
+      "senses": [
+        ["washing", "laundry"],
+        ["relaxing", "taking a break"],
+        ["Laundry"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani51"],
+      "japanese": [
+        { "word": "洗濯機", "reading": "せんたくき" },
+        { "word": "洗たく機", "reading": "せんたくき" },
+        { "word": "洗濯機", "reading": "せんたっき" }
+      ],
+      "senses": [["washing machine (laundry)"], ["Washing machine"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "洗濯物", "reading": "せんたくもの" }],
+      "senses": [["laundry", "the washing"]]
+    }
+  ]
+}

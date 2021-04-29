@@ -1,1 +1,85 @@
-{"basic":["呼","Call","1597"],"extended":[{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"嗚呼","reading":"ああ"},{"word":"噫","reading":"ああ"},{"word":"嗟","reading":"ああ"},{"reading":"あー"},{"reading":"あぁ"},{"reading":"アー"},{"reading":"アア"},{"reading":"アァ"}],"senses":[["ah!","oh!","alas!"],["yes","indeed","that is correct"],["aah","gah","argh"],["hey!","yo!"],["uh huh","yeah yeah","right","gotcha"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"人工呼吸","reading":"じんこうこきゅう"}],"senses":[["artificial respiration"],["Mechanical ventilation"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"嗚呼嗚呼","reading":"ああああ"},{"word":"嗚呼嗚呼","reading":"あーあー"},{"word":"嗚呼嗚呼","reading":"あーーー"},{"reading":"アアアア"},{"reading":"アーアー"},{"reading":"アーーー"}],"senses":[["aaah!","oooh!","oh no!","oh boy!"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"嗚呼","reading":"ああ"},{"word":"噫","reading":"ああ"},{"word":"嗟","reading":"ああ"},{"reading":"あー"},{"reading":"あぁ"},{"reading":"アー"},{"reading":"アア"},{"reading":"アァ"}],"senses":[["ah!","oh!","alas!"],["yes","indeed","that is correct"],["aah","gah","argh"],["hey!","yo!"],["uh huh","yeah yeah","right","gotcha"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"人工呼吸","reading":"じんこうこきゅう"}],"senses":[["artificial respiration"],["Mechanical ventilation"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"嗚呼嗚呼","reading":"ああああ"},{"word":"嗚呼嗚呼","reading":"あーあー"},{"word":"嗚呼嗚呼","reading":"あーーー"},{"reading":"アアアア"},{"reading":"アーアー"},{"reading":"アーーー"}],"senses":[["aaah!","oooh!","oh no!","oh boy!"]]}]}
+{
+  "basic": ["呼", "Call", "1597"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "嗚呼", "reading": "ああ" },
+        { "word": "噫", "reading": "ああ" },
+        { "word": "嗟", "reading": "ああ" },
+        { "reading": "あー" },
+        { "reading": "あぁ" },
+        { "reading": "アー" },
+        { "reading": "アア" },
+        { "reading": "アァ" }
+      ],
+      "senses": [
+        ["ah!", "oh!", "alas!"],
+        ["yes", "indeed", "that is correct"],
+        ["aah", "gah", "argh"],
+        ["hey!", "yo!"],
+        ["uh huh", "yeah yeah", "right", "gotcha"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "人工呼吸", "reading": "じんこうこきゅう" }],
+      "senses": [["artificial respiration"], ["Mechanical ventilation"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "嗚呼嗚呼", "reading": "ああああ" },
+        { "word": "嗚呼嗚呼", "reading": "あーあー" },
+        { "word": "嗚呼嗚呼", "reading": "あーーー" },
+        { "reading": "アアアア" },
+        { "reading": "アーアー" },
+        { "reading": "アーーー" }
+      ],
+      "senses": [["aaah!", "oooh!", "oh no!", "oh boy!"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "嗚呼", "reading": "ああ" },
+        { "word": "噫", "reading": "ああ" },
+        { "word": "嗟", "reading": "ああ" },
+        { "reading": "あー" },
+        { "reading": "あぁ" },
+        { "reading": "アー" },
+        { "reading": "アア" },
+        { "reading": "アァ" }
+      ],
+      "senses": [
+        ["ah!", "oh!", "alas!"],
+        ["yes", "indeed", "that is correct"],
+        ["aah", "gah", "argh"],
+        ["hey!", "yo!"],
+        ["uh huh", "yeah yeah", "right", "gotcha"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "人工呼吸", "reading": "じんこうこきゅう" }],
+      "senses": [["artificial respiration"], ["Mechanical ventilation"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "嗚呼嗚呼", "reading": "ああああ" },
+        { "word": "嗚呼嗚呼", "reading": "あーあー" },
+        { "word": "嗚呼嗚呼", "reading": "あーーー" },
+        { "reading": "アアアア" },
+        { "reading": "アーアー" },
+        { "reading": "アーーー" }
+      ],
+      "senses": [["aaah!", "oooh!", "oh no!", "oh boy!"]]
+    }
+  ]
+}

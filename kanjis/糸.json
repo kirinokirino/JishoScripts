@@ -1,1 +1,63 @@
-{"basic":["糸","Thread","1431"],"extended":[{"jlpt":["jlpt-n2"],"tags":["wanikani5"],"japanese":[{"word":"毛糸","reading":"けいと"}],"senses":[["knitting wool","woolen yarn","woollen yarn"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"金糸雀","reading":"カナリア"},{"word":"金糸雀","reading":"カナリヤ"}],"senses":[["canary (esp. the island canary, Serinus canaria)"],["Atlantic Canary"]]},{"jlpt":[],"tags":["wanikani58"],"japanese":[{"word":"絹糸","reading":"けんし"},{"word":"絹糸","reading":"きぬいと"},{"word":"繭糸","reading":"けんし"},{"word":"繭糸","reading":"きぬいと"}],"senses":[["silk thread"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani5"],"japanese":[{"word":"毛糸","reading":"けいと"}],"senses":[["knitting wool","woolen yarn","woollen yarn"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"金糸雀","reading":"カナリア"},{"word":"金糸雀","reading":"カナリヤ"}],"senses":[["canary (esp. the island canary, Serinus canaria)"],["Atlantic Canary"]]},{"jlpt":[],"tags":["wanikani58"],"japanese":[{"word":"絹糸","reading":"けんし"},{"word":"絹糸","reading":"きぬいと"},{"word":"繭糸","reading":"けんし"},{"word":"繭糸","reading":"きぬいと"}],"senses":[["silk thread"]]}]}
+{
+  "basic": ["糸", "Thread", "1431"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani5"],
+      "japanese": [{ "word": "毛糸", "reading": "けいと" }],
+      "senses": [["knitting wool", "woolen yarn", "woollen yarn"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "金糸雀", "reading": "カナリア" },
+        { "word": "金糸雀", "reading": "カナリヤ" }
+      ],
+      "senses": [
+        ["canary (esp. the island canary, Serinus canaria)"],
+        ["Atlantic Canary"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani58"],
+      "japanese": [
+        { "word": "絹糸", "reading": "けんし" },
+        { "word": "絹糸", "reading": "きぬいと" },
+        { "word": "繭糸", "reading": "けんし" },
+        { "word": "繭糸", "reading": "きぬいと" }
+      ],
+      "senses": [["silk thread"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani5"],
+      "japanese": [{ "word": "毛糸", "reading": "けいと" }],
+      "senses": [["knitting wool", "woolen yarn", "woollen yarn"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "金糸雀", "reading": "カナリア" },
+        { "word": "金糸雀", "reading": "カナリヤ" }
+      ],
+      "senses": [
+        ["canary (esp. the island canary, Serinus canaria)"],
+        ["Atlantic Canary"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani58"],
+      "japanese": [
+        { "word": "絹糸", "reading": "けんし" },
+        { "word": "絹糸", "reading": "きぬいと" },
+        { "word": "繭糸", "reading": "けんし" },
+        { "word": "繭糸", "reading": "きぬいと" }
+      ],
+      "senses": [["silk thread"]]
+    }
+  ]
+}

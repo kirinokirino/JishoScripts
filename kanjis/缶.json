@@ -1,1 +1,65 @@
-{"basic":["缶","Tin Can","2116"],"extended":[{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"薬缶","reading":"やかん"},{"word":"薬罐","reading":"やかん"},{"word":"薬鑵","reading":"やかん"},{"word":"藥罐","reading":"やかん"}],"senses":[["kettle"]]},{"jlpt":[],"tags":["wanikani44"],"japanese":[{"word":"空き缶","reading":"あきかん"},{"word":"空缶","reading":"あきかん"},{"word":"あき缶","reading":"あきかん"}],"senses":[["empty can"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"ドラム缶","reading":"ドラムかん"}],"senses":[["drum (e.g. oil, gasoline)","metal barrel"],["Drum (container)"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"薬缶","reading":"やかん"},{"word":"薬罐","reading":"やかん"},{"word":"薬鑵","reading":"やかん"},{"word":"藥罐","reading":"やかん"}],"senses":[["kettle"]]},{"jlpt":[],"tags":["wanikani44"],"japanese":[{"word":"空き缶","reading":"あきかん"},{"word":"空缶","reading":"あきかん"},{"word":"あき缶","reading":"あきかん"}],"senses":[["empty can"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"ドラム缶","reading":"ドラムかん"}],"senses":[["drum (e.g. oil, gasoline)","metal barrel"],["Drum (container)"]]}]}
+{
+  "basic": ["缶", "Tin Can", "2116"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [
+        { "word": "薬缶", "reading": "やかん" },
+        { "word": "薬罐", "reading": "やかん" },
+        { "word": "薬鑵", "reading": "やかん" },
+        { "word": "藥罐", "reading": "やかん" }
+      ],
+      "senses": [["kettle"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani44"],
+      "japanese": [
+        { "word": "空き缶", "reading": "あきかん" },
+        { "word": "空缶", "reading": "あきかん" },
+        { "word": "あき缶", "reading": "あきかん" }
+      ],
+      "senses": [["empty can"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "ドラム缶", "reading": "ドラムかん" }],
+      "senses": [
+        ["drum (e.g. oil, gasoline)", "metal barrel"],
+        ["Drum (container)"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [
+        { "word": "薬缶", "reading": "やかん" },
+        { "word": "薬罐", "reading": "やかん" },
+        { "word": "薬鑵", "reading": "やかん" },
+        { "word": "藥罐", "reading": "やかん" }
+      ],
+      "senses": [["kettle"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani44"],
+      "japanese": [
+        { "word": "空き缶", "reading": "あきかん" },
+        { "word": "空缶", "reading": "あきかん" },
+        { "word": "あき缶", "reading": "あきかん" }
+      ],
+      "senses": [["empty can"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "ドラム缶", "reading": "ドラムかん" }],
+      "senses": [
+        ["drum (e.g. oil, gasoline)", "metal barrel"],
+        ["Drum (container)"]
+      ]
+    }
+  ]
+}

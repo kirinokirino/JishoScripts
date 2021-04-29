@@ -1,1 +1,111 @@
-{"basic":["妙","Exquisite","130"],"extended":[{"jlpt":["jlpt-n3"],"tags":["wanikani29"],"japanese":[{"word":"奇妙","reading":"きみょう"}],"senses":[["strange","odd","peculiar","queer","curious"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani28"],"japanese":[{"word":"微妙","reading":"びみょう"},{"reading":"ビミョー"}],"senses":[["subtle","delicate","fine"],["difficult","complex","tricky","delicate (situation, position, etc.)","close (e.g. decision)"],["doubtful","questionable","dicey"],["not great","iffy"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani50"],"japanese":[{"word":"巧妙","reading":"こうみょう"}],"senses":[["ingenious","skillful","clever","deft"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"絶妙","reading":"ぜつみょう"}],"senses":[["exquisite","superb","perfect","miraculous"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"軽妙","reading":"けいみょう"}],"senses":[["light and easy","lambent","clever","witty","smart"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"神妙","reading":"しんみょう"},{"word":"神妙","reading":"しんびょう"}],"senses":[["meek","quiet","docile","humble","faithful","obedient"],["mysterious","marvelous","marvellous"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani29"],"japanese":[{"word":"奇妙","reading":"きみょう"}],"senses":[["strange","odd","peculiar","queer","curious"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani28"],"japanese":[{"word":"微妙","reading":"びみょう"},{"reading":"ビミョー"}],"senses":[["subtle","delicate","fine"],["difficult","complex","tricky","delicate (situation, position, etc.)","close (e.g. decision)"],["doubtful","questionable","dicey"],["not great","iffy"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani50"],"japanese":[{"word":"巧妙","reading":"こうみょう"}],"senses":[["ingenious","skillful","clever","deft"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"絶妙","reading":"ぜつみょう"}],"senses":[["exquisite","superb","perfect","miraculous"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"軽妙","reading":"けいみょう"}],"senses":[["light and easy","lambent","clever","witty","smart"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"神妙","reading":"しんみょう"},{"word":"神妙","reading":"しんびょう"}],"senses":[["meek","quiet","docile","humble","faithful","obedient"],["mysterious","marvelous","marvellous"]]}]}
+{
+  "basic": ["妙", "Exquisite", "130"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani29"],
+      "japanese": [{ "word": "奇妙", "reading": "きみょう" }],
+      "senses": [["strange", "odd", "peculiar", "queer", "curious"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani28"],
+      "japanese": [{ "word": "微妙", "reading": "びみょう" }, { "reading": "ビミョー" }],
+      "senses": [
+        ["subtle", "delicate", "fine"],
+        [
+          "difficult",
+          "complex",
+          "tricky",
+          "delicate (situation, position, etc.)",
+          "close (e.g. decision)"
+        ],
+        ["doubtful", "questionable", "dicey"],
+        ["not great", "iffy"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani50"],
+      "japanese": [{ "word": "巧妙", "reading": "こうみょう" }],
+      "senses": [["ingenious", "skillful", "clever", "deft"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "絶妙", "reading": "ぜつみょう" }],
+      "senses": [["exquisite", "superb", "perfect", "miraculous"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "軽妙", "reading": "けいみょう" }],
+      "senses": [["light and easy", "lambent", "clever", "witty", "smart"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "神妙", "reading": "しんみょう" },
+        { "word": "神妙", "reading": "しんびょう" }
+      ],
+      "senses": [
+        ["meek", "quiet", "docile", "humble", "faithful", "obedient"],
+        ["mysterious", "marvelous", "marvellous"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani29"],
+      "japanese": [{ "word": "奇妙", "reading": "きみょう" }],
+      "senses": [["strange", "odd", "peculiar", "queer", "curious"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani28"],
+      "japanese": [{ "word": "微妙", "reading": "びみょう" }, { "reading": "ビミョー" }],
+      "senses": [
+        ["subtle", "delicate", "fine"],
+        [
+          "difficult",
+          "complex",
+          "tricky",
+          "delicate (situation, position, etc.)",
+          "close (e.g. decision)"
+        ],
+        ["doubtful", "questionable", "dicey"],
+        ["not great", "iffy"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani50"],
+      "japanese": [{ "word": "巧妙", "reading": "こうみょう" }],
+      "senses": [["ingenious", "skillful", "clever", "deft"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "絶妙", "reading": "ぜつみょう" }],
+      "senses": [["exquisite", "superb", "perfect", "miraculous"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "軽妙", "reading": "けいみょう" }],
+      "senses": [["light and easy", "lambent", "clever", "witty", "smart"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "神妙", "reading": "しんみょう" },
+        { "word": "神妙", "reading": "しんびょう" }
+      ],
+      "senses": [
+        ["meek", "quiet", "docile", "humble", "faithful", "obedient"],
+        ["mysterious", "marvelous", "marvellous"]
+      ]
+    }
+  ]
+}

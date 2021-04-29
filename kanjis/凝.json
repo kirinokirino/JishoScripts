@@ -1,1 +1,35 @@
-{"basic":["凝","Congeal","1515"],"extended":[{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"混凝土","reading":"コンクリート"}],"senses":[["concrete"],["Concrete"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"肩こり","reading":"かたこり"},{"word":"肩凝り","reading":"かたこり"}],"senses":[["stiff neck","stiff shoulders"],["Stiff neck"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"混凝土","reading":"コンクリート"}],"senses":[["concrete"],["Concrete"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"肩こり","reading":"かたこり"},{"word":"肩凝り","reading":"かたこり"}],"senses":[["stiff neck","stiff shoulders"],["Stiff neck"]]}]}
+{
+  "basic": ["凝", "Congeal", "1515"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "混凝土", "reading": "コンクリート" }],
+      "senses": [["concrete"], ["Concrete"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "肩こり", "reading": "かたこり" },
+        { "word": "肩凝り", "reading": "かたこり" }
+      ],
+      "senses": [["stiff neck", "stiff shoulders"], ["Stiff neck"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "混凝土", "reading": "コンクリート" }],
+      "senses": [["concrete"], ["Concrete"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "肩こり", "reading": "かたこり" },
+        { "word": "肩凝り", "reading": "かたこり" }
+      ],
+      "senses": [["stiff neck", "stiff shoulders"], ["Stiff neck"]]
+    }
+  ]
+}

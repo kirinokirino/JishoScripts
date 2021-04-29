@@ -1,1 +1,131 @@
-{"basic":["覧","Perusal","919"],"extended":[{"jlpt":["jlpt-n4"],"tags":[],"japanese":[{"word":"展覧会","reading":"てんらんかい"}],"senses":[["exhibition"],["Art exhibition"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani30"],"japanese":[{"word":"ご覧","reading":"ごらん"},{"word":"御覧","reading":"ごらん"}],"senses":[["(please) try to"],["(please) look"],["seeing","looking","watching"]]},{"jlpt":[],"tags":["wanikani30"],"japanese":[{"word":"博覧会","reading":"はくらんかい"}],"senses":[["fair","exhibition","exposition"],["Exhibition"]]},{"jlpt":["jlpt-n4"],"tags":["wanikani39"],"japanese":[{"word":"ご覧になる","reading":"ごらんになる"},{"word":"御覧になる","reading":"ごらんになる"},{"word":"ご覧に成る","reading":"ごらんになる"},{"word":"御覧に成る","reading":"ごらんになる"}],"senses":[["to see","to look","to watch"],["to try to"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani57"],"japanese":[{"word":"閲覧","reading":"えつらん"}],"senses":[["inspection","reading","perusal"],["browsing (the web)"]]},{"jlpt":[],"tags":["wanikani30"],"japanese":[{"word":"一覧","reading":"いちらん"}],"senses":[["look","glance","sight","inspection"],["summary","list","table","catalog","catalogue"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"遊覧","reading":"ゆうらん"}],"senses":[["sightseeing"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"一覧表","reading":"いちらんひょう"}],"senses":[["list","table","schedule","catalogue","catalog"]]},{"jlpt":["jlpt-n4"],"tags":[],"japanese":[{"word":"展覧会","reading":"てんらんかい"}],"senses":[["exhibition"],["Art exhibition"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani30"],"japanese":[{"word":"ご覧","reading":"ごらん"},{"word":"御覧","reading":"ごらん"}],"senses":[["(please) try to"],["(please) look"],["seeing","looking","watching"]]},{"jlpt":[],"tags":["wanikani30"],"japanese":[{"word":"博覧会","reading":"はくらんかい"}],"senses":[["fair","exhibition","exposition"],["Exhibition"]]},{"jlpt":["jlpt-n4"],"tags":["wanikani39"],"japanese":[{"word":"ご覧になる","reading":"ごらんになる"},{"word":"御覧になる","reading":"ごらんになる"},{"word":"ご覧に成る","reading":"ごらんになる"},{"word":"御覧に成る","reading":"ごらんになる"}],"senses":[["to see","to look","to watch"],["to try to"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani57"],"japanese":[{"word":"閲覧","reading":"えつらん"}],"senses":[["inspection","reading","perusal"],["browsing (the web)"]]},{"jlpt":[],"tags":["wanikani30"],"japanese":[{"word":"一覧","reading":"いちらん"}],"senses":[["look","glance","sight","inspection"],["summary","list","table","catalog","catalogue"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"遊覧","reading":"ゆうらん"}],"senses":[["sightseeing"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"一覧表","reading":"いちらんひょう"}],"senses":[["list","table","schedule","catalogue","catalog"]]}]}
+{
+  "basic": ["覧", "Perusal", "919"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n4"],
+      "tags": [],
+      "japanese": [{ "word": "展覧会", "reading": "てんらんかい" }],
+      "senses": [["exhibition"], ["Art exhibition"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani30"],
+      "japanese": [
+        { "word": "ご覧", "reading": "ごらん" },
+        { "word": "御覧", "reading": "ごらん" }
+      ],
+      "senses": [
+        ["(please) try to"],
+        ["(please) look"],
+        ["seeing", "looking", "watching"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani30"],
+      "japanese": [{ "word": "博覧会", "reading": "はくらんかい" }],
+      "senses": [["fair", "exhibition", "exposition"], ["Exhibition"]]
+    },
+    {
+      "jlpt": ["jlpt-n4"],
+      "tags": ["wanikani39"],
+      "japanese": [
+        { "word": "ご覧になる", "reading": "ごらんになる" },
+        { "word": "御覧になる", "reading": "ごらんになる" },
+        { "word": "ご覧に成る", "reading": "ごらんになる" },
+        { "word": "御覧に成る", "reading": "ごらんになる" }
+      ],
+      "senses": [["to see", "to look", "to watch"], ["to try to"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani57"],
+      "japanese": [{ "word": "閲覧", "reading": "えつらん" }],
+      "senses": [["inspection", "reading", "perusal"], ["browsing (the web)"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani30"],
+      "japanese": [{ "word": "一覧", "reading": "いちらん" }],
+      "senses": [
+        ["look", "glance", "sight", "inspection"],
+        ["summary", "list", "table", "catalog", "catalogue"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "遊覧", "reading": "ゆうらん" }],
+      "senses": [["sightseeing"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "一覧表", "reading": "いちらんひょう" }],
+      "senses": [["list", "table", "schedule", "catalogue", "catalog"]]
+    },
+    {
+      "jlpt": ["jlpt-n4"],
+      "tags": [],
+      "japanese": [{ "word": "展覧会", "reading": "てんらんかい" }],
+      "senses": [["exhibition"], ["Art exhibition"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani30"],
+      "japanese": [
+        { "word": "ご覧", "reading": "ごらん" },
+        { "word": "御覧", "reading": "ごらん" }
+      ],
+      "senses": [
+        ["(please) try to"],
+        ["(please) look"],
+        ["seeing", "looking", "watching"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani30"],
+      "japanese": [{ "word": "博覧会", "reading": "はくらんかい" }],
+      "senses": [["fair", "exhibition", "exposition"], ["Exhibition"]]
+    },
+    {
+      "jlpt": ["jlpt-n4"],
+      "tags": ["wanikani39"],
+      "japanese": [
+        { "word": "ご覧になる", "reading": "ごらんになる" },
+        { "word": "御覧になる", "reading": "ごらんになる" },
+        { "word": "ご覧に成る", "reading": "ごらんになる" },
+        { "word": "御覧に成る", "reading": "ごらんになる" }
+      ],
+      "senses": [["to see", "to look", "to watch"], ["to try to"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani57"],
+      "japanese": [{ "word": "閲覧", "reading": "えつらん" }],
+      "senses": [["inspection", "reading", "perusal"], ["browsing (the web)"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani30"],
+      "japanese": [{ "word": "一覧", "reading": "いちらん" }],
+      "senses": [
+        ["look", "glance", "sight", "inspection"],
+        ["summary", "list", "table", "catalog", "catalogue"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "遊覧", "reading": "ゆうらん" }],
+      "senses": [["sightseeing"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "一覧表", "reading": "いちらんひょう" }],
+      "senses": [["list", "table", "schedule", "catalogue", "catalog"]]
+    }
+  ]
+}

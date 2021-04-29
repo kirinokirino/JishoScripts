@@ -1,1 +1,95 @@
-{"basic":["爆","Bomb","1942"],"extended":[{"jlpt":["jlpt-n1"],"tags":["wanikani41"],"japanese":[{"word":"原爆","reading":"げんばく"}],"senses":[["atomic bomb","A-bomb"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"空爆","reading":"くうばく"}],"senses":[["aerial bombing"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"原水爆","reading":"げんすいばく"}],"senses":[["atomic and hydrogen bombs","nuclear and thermonuclear bombs"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"起爆","reading":"きばく"}],"senses":[["ignition","detonation","triggering","explosion"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"被爆","reading":"ひばく"}],"senses":[["being bombed"],["being A-bombed","being nuked","being exposed to radiation (from an atomic blast)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"水爆","reading":"すいばく"}],"senses":[["hydrogen bomb"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani41"],"japanese":[{"word":"原爆","reading":"げんばく"}],"senses":[["atomic bomb","A-bomb"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"空爆","reading":"くうばく"}],"senses":[["aerial bombing"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"原水爆","reading":"げんすいばく"}],"senses":[["atomic and hydrogen bombs","nuclear and thermonuclear bombs"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"起爆","reading":"きばく"}],"senses":[["ignition","detonation","triggering","explosion"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"被爆","reading":"ひばく"}],"senses":[["being bombed"],["being A-bombed","being nuked","being exposed to radiation (from an atomic blast)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"水爆","reading":"すいばく"}],"senses":[["hydrogen bomb"]]}]}
+{
+  "basic": ["爆", "Bomb", "1942"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani41"],
+      "japanese": [{ "word": "原爆", "reading": "げんばく" }],
+      "senses": [["atomic bomb", "A-bomb"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "空爆", "reading": "くうばく" }],
+      "senses": [["aerial bombing"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "原水爆", "reading": "げんすいばく" }],
+      "senses": [
+        ["atomic and hydrogen bombs", "nuclear and thermonuclear bombs"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "起爆", "reading": "きばく" }],
+      "senses": [["ignition", "detonation", "triggering", "explosion"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "被爆", "reading": "ひばく" }],
+      "senses": [
+        ["being bombed"],
+        [
+          "being A-bombed",
+          "being nuked",
+          "being exposed to radiation (from an atomic blast)"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "水爆", "reading": "すいばく" }],
+      "senses": [["hydrogen bomb"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani41"],
+      "japanese": [{ "word": "原爆", "reading": "げんばく" }],
+      "senses": [["atomic bomb", "A-bomb"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "空爆", "reading": "くうばく" }],
+      "senses": [["aerial bombing"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "原水爆", "reading": "げんすいばく" }],
+      "senses": [
+        ["atomic and hydrogen bombs", "nuclear and thermonuclear bombs"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "起爆", "reading": "きばく" }],
+      "senses": [["ignition", "detonation", "triggering", "explosion"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "被爆", "reading": "ひばく" }],
+      "senses": [
+        ["being bombed"],
+        [
+          "being A-bombed",
+          "being nuked",
+          "being exposed to radiation (from an atomic blast)"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "水爆", "reading": "すいばく" }],
+      "senses": [["hydrogen bomb"]]
+    }
+  ]
+}

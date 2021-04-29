@@ -1,1 +1,17 @@
-{"basic":["誕","Nativity","420"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"生誕","reading":"せいたん"}],"senses":[["birth","nativity"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"生誕","reading":"せいたん"}],"senses":[["birth","nativity"]]}]}
+{
+  "basic": ["誕", "Nativity", "420"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "生誕", "reading": "せいたん" }],
+      "senses": [["birth", "nativity"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "生誕", "reading": "せいたん" }],
+      "senses": [["birth", "nativity"]]
+    }
+  ]
+}

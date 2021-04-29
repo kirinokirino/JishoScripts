@@ -1,1 +1,243 @@
-{"basic":["図","Map","1264"],"extended":[{"jlpt":["jlpt-n3"],"tags":["wanikani14"],"japanese":[{"word":"合図","reading":"あいず"},{"word":"相図","reading":"あいず"}],"senses":[["sign","signal","cue"],["Phase diagram"]]},{"jlpt":["jlpt-n3","jlpt-n1"],"tags":[],"japanese":[{"word":"不図","reading":"ふと"},{"word":"不斗","reading":"ふと"},{"word":"不圖","reading":"ふと"}],"senses":[["suddenly","casually","accidentally","incidentally","unexpectedly","unintentionally"]]},{"jlpt":["jlpt-n2","jlpt-n1"],"tags":[],"japanese":[{"word":"図々しい","reading":"ずうずうしい"},{"word":"図図しい","reading":"ずうずうしい"},{"reading":"ずーずーしい"}],"senses":[["impudent","shameless","brazen","forward","audacious","cheeky"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"意図","reading":"いと"}],"senses":[["intention","aim","design"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"指図","reading":"さしず"},{"word":"指し図","reading":"さしず"}],"senses":[["directions","instructions","orders","command"]]},{"jlpt":["jlpt-n5"],"tags":["wanikani6"],"japanese":[{"word":"地図","reading":"ちず"}],"senses":[["map"],["Map"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"路線図","reading":"ろせんず"}],"senses":[["route map (buses, trains, etc.)"],["Transit map"]]},{"jlpt":[],"tags":["wanikani14"],"japanese":[{"word":"意図的","reading":"いとてき"}],"senses":[["intentional","on purpose"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"愚図愚図","reading":"ぐずぐず"},{"reading":"グズグズ"}],"senses":[["slowly","tardily","dawdling","lingering","hesitantly"],["complaining","grumbling"],["unsettled (e.g. weather)"],["loose","slackened"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"製図","reading":"せいず"}],"senses":[["drafting","drawing"],["Technical drawing"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"構図","reading":"こうず"}],"senses":[["composition"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"一途","reading":"いちず"},{"word":"一図","reading":"いちず"}],"senses":[["wholehearted","earnest","determined","intent","single-minded","straightforward","devoted to","doing nothing but"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani14"],"japanese":[{"word":"合図","reading":"あいず"},{"word":"相図","reading":"あいず"}],"senses":[["sign","signal","cue"],["Phase diagram"]]},{"jlpt":["jlpt-n3","jlpt-n1"],"tags":[],"japanese":[{"word":"不図","reading":"ふと"},{"word":"不斗","reading":"ふと"},{"word":"不圖","reading":"ふと"}],"senses":[["suddenly","casually","accidentally","incidentally","unexpectedly","unintentionally"]]},{"jlpt":["jlpt-n2","jlpt-n1"],"tags":[],"japanese":[{"word":"図々しい","reading":"ずうずうしい"},{"word":"図図しい","reading":"ずうずうしい"},{"reading":"ずーずーしい"}],"senses":[["impudent","shameless","brazen","forward","audacious","cheeky"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"意図","reading":"いと"}],"senses":[["intention","aim","design"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"指図","reading":"さしず"},{"word":"指し図","reading":"さしず"}],"senses":[["directions","instructions","orders","command"]]},{"jlpt":["jlpt-n5"],"tags":["wanikani6"],"japanese":[{"word":"地図","reading":"ちず"}],"senses":[["map"],["Map"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"路線図","reading":"ろせんず"}],"senses":[["route map (buses, trains, etc.)"],["Transit map"]]},{"jlpt":[],"tags":["wanikani14"],"japanese":[{"word":"意図的","reading":"いとてき"}],"senses":[["intentional","on purpose"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"愚図愚図","reading":"ぐずぐず"},{"reading":"グズグズ"}],"senses":[["slowly","tardily","dawdling","lingering","hesitantly"],["complaining","grumbling"],["unsettled (e.g. weather)"],["loose","slackened"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"製図","reading":"せいず"}],"senses":[["drafting","drawing"],["Technical drawing"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"構図","reading":"こうず"}],"senses":[["composition"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"一途","reading":"いちず"},{"word":"一図","reading":"いちず"}],"senses":[["wholehearted","earnest","determined","intent","single-minded","straightforward","devoted to","doing nothing but"]]}]}
+{
+  "basic": ["図", "Map", "1264"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani14"],
+      "japanese": [
+        { "word": "合図", "reading": "あいず" },
+        { "word": "相図", "reading": "あいず" }
+      ],
+      "senses": [["sign", "signal", "cue"], ["Phase diagram"]]
+    },
+    {
+      "jlpt": ["jlpt-n3", "jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "不図", "reading": "ふと" },
+        { "word": "不斗", "reading": "ふと" },
+        { "word": "不圖", "reading": "ふと" }
+      ],
+      "senses": [
+        [
+          "suddenly",
+          "casually",
+          "accidentally",
+          "incidentally",
+          "unexpectedly",
+          "unintentionally"
+        ]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2", "jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "図々しい", "reading": "ずうずうしい" },
+        { "word": "図図しい", "reading": "ずうずうしい" },
+        { "reading": "ずーずーしい" }
+      ],
+      "senses": [
+        ["impudent", "shameless", "brazen", "forward", "audacious", "cheeky"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "意図", "reading": "いと" }],
+      "senses": [["intention", "aim", "design"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "指図", "reading": "さしず" },
+        { "word": "指し図", "reading": "さしず" }
+      ],
+      "senses": [["directions", "instructions", "orders", "command"]]
+    },
+    {
+      "jlpt": ["jlpt-n5"],
+      "tags": ["wanikani6"],
+      "japanese": [{ "word": "地図", "reading": "ちず" }],
+      "senses": [["map"], ["Map"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "路線図", "reading": "ろせんず" }],
+      "senses": [["route map (buses, trains, etc.)"], ["Transit map"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani14"],
+      "japanese": [{ "word": "意図的", "reading": "いとてき" }],
+      "senses": [["intentional", "on purpose"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "愚図愚図", "reading": "ぐずぐず" },
+        { "reading": "グズグズ" }
+      ],
+      "senses": [
+        ["slowly", "tardily", "dawdling", "lingering", "hesitantly"],
+        ["complaining", "grumbling"],
+        ["unsettled (e.g. weather)"],
+        ["loose", "slackened"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "製図", "reading": "せいず" }],
+      "senses": [["drafting", "drawing"], ["Technical drawing"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "構図", "reading": "こうず" }],
+      "senses": [["composition"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "一途", "reading": "いちず" },
+        { "word": "一図", "reading": "いちず" }
+      ],
+      "senses": [
+        [
+          "wholehearted",
+          "earnest",
+          "determined",
+          "intent",
+          "single-minded",
+          "straightforward",
+          "devoted to",
+          "doing nothing but"
+        ]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani14"],
+      "japanese": [
+        { "word": "合図", "reading": "あいず" },
+        { "word": "相図", "reading": "あいず" }
+      ],
+      "senses": [["sign", "signal", "cue"], ["Phase diagram"]]
+    },
+    {
+      "jlpt": ["jlpt-n3", "jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "不図", "reading": "ふと" },
+        { "word": "不斗", "reading": "ふと" },
+        { "word": "不圖", "reading": "ふと" }
+      ],
+      "senses": [
+        [
+          "suddenly",
+          "casually",
+          "accidentally",
+          "incidentally",
+          "unexpectedly",
+          "unintentionally"
+        ]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2", "jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "図々しい", "reading": "ずうずうしい" },
+        { "word": "図図しい", "reading": "ずうずうしい" },
+        { "reading": "ずーずーしい" }
+      ],
+      "senses": [
+        ["impudent", "shameless", "brazen", "forward", "audacious", "cheeky"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "意図", "reading": "いと" }],
+      "senses": [["intention", "aim", "design"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "指図", "reading": "さしず" },
+        { "word": "指し図", "reading": "さしず" }
+      ],
+      "senses": [["directions", "instructions", "orders", "command"]]
+    },
+    {
+      "jlpt": ["jlpt-n5"],
+      "tags": ["wanikani6"],
+      "japanese": [{ "word": "地図", "reading": "ちず" }],
+      "senses": [["map"], ["Map"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "路線図", "reading": "ろせんず" }],
+      "senses": [["route map (buses, trains, etc.)"], ["Transit map"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani14"],
+      "japanese": [{ "word": "意図的", "reading": "いとてき" }],
+      "senses": [["intentional", "on purpose"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "愚図愚図", "reading": "ぐずぐず" },
+        { "reading": "グズグズ" }
+      ],
+      "senses": [
+        ["slowly", "tardily", "dawdling", "lingering", "hesitantly"],
+        ["complaining", "grumbling"],
+        ["unsettled (e.g. weather)"],
+        ["loose", "slackened"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "製図", "reading": "せいず" }],
+      "senses": [["drafting", "drawing"], ["Technical drawing"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "構図", "reading": "こうず" }],
+      "senses": [["composition"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "一途", "reading": "いちず" },
+        { "word": "一図", "reading": "いちず" }
+      ],
+      "senses": [
+        [
+          "wholehearted",
+          "earnest",
+          "determined",
+          "intent",
+          "single-minded",
+          "straightforward",
+          "devoted to",
+          "doing nothing but"
+        ]
+      ]
+    }
+  ]
+}

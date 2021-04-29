@@ -1,1 +1,257 @@
-{"basic":["抜","Slip Out","761"],"extended":[{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"海抜","reading":"かいばつ"}],"senses":[["height above sea level"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"奇抜","reading":"きばつ"}],"senses":[["novel","original","striking","strange","eccentric","fantastic"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"骨抜き","reading":"ほねぬき"}],"senses":[["boning (fish or meat)","deboning"],["watering down (a plan, bill, etc.)","dilution","emasculation"],["taking the backbone out of","weakening"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"切り抜き","reading":"きりぬき"},{"word":"切抜き","reading":"きりぬき"}],"senses":[["clipping (of newspaper article, etc.)","cutting","scrap (for a scrapbook)"],["cut-out (picture, coloured paper, etc.)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"選抜","reading":"せんばつ"}],"senses":[["selection","choice","picking out"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"生え抜き","reading":"はえぬき"}],"senses":[["native-born","trueborn"]]},{"jlpt":[],"tags":["wanikani27"],"japanese":[{"word":"間抜け","reading":"まぬけ"},{"reading":"マヌケ"}],"senses":[["stupid","foolish","idiotic","inane"],["fool","idiot","blockhead","half-wit"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"引き抜く","reading":"ひきぬく"},{"word":"引抜く","reading":"ひきぬく"},{"word":"引きぬく","reading":"ひきぬく"}],"senses":[["to extract","to pull out","to draw out","to uproot"],["to headhunt","to lure away","to poach","to entice"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"突き抜ける","reading":"つきぬける"},{"word":"突抜ける","reading":"つきぬける"}],"senses":[["to pierce through","to break through"]]},{"jlpt":[],"tags":["wanikani55"],"japanese":[{"word":"栓抜き","reading":"せんぬき"},{"word":"栓抜","reading":"せんぬき"}],"senses":[["bottle opener","corkscrew"],["Bottle opener"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"目抜き","reading":"めぬき"}],"senses":[["principal","main","important","fashionable"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"手抜き","reading":"てぬき"},{"word":"手抜","reading":"てぬき"}],"senses":[["omitting crucial steps","cutting corners","skimping"],["intentional negligence"],["tenuki","taking the initiative by ignoring the opponent's last move and playing somewhere else (in go)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"追い抜く","reading":"おいぬく"},{"word":"追抜く","reading":"おいぬく"}],"senses":[["to pass (a car)","to overtake"],["to surpass","to outstrip","to outdistance","to outsail"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"海抜","reading":"かいばつ"}],"senses":[["height above sea level"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"奇抜","reading":"きばつ"}],"senses":[["novel","original","striking","strange","eccentric","fantastic"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"骨抜き","reading":"ほねぬき"}],"senses":[["boning (fish or meat)","deboning"],["watering down (a plan, bill, etc.)","dilution","emasculation"],["taking the backbone out of","weakening"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"切り抜き","reading":"きりぬき"},{"word":"切抜き","reading":"きりぬき"}],"senses":[["clipping (of newspaper article, etc.)","cutting","scrap (for a scrapbook)"],["cut-out (picture, coloured paper, etc.)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"選抜","reading":"せんばつ"}],"senses":[["selection","choice","picking out"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"生え抜き","reading":"はえぬき"}],"senses":[["native-born","trueborn"]]},{"jlpt":[],"tags":["wanikani27"],"japanese":[{"word":"間抜け","reading":"まぬけ"},{"reading":"マヌケ"}],"senses":[["stupid","foolish","idiotic","inane"],["fool","idiot","blockhead","half-wit"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"引き抜く","reading":"ひきぬく"},{"word":"引抜く","reading":"ひきぬく"},{"word":"引きぬく","reading":"ひきぬく"}],"senses":[["to extract","to pull out","to draw out","to uproot"],["to headhunt","to lure away","to poach","to entice"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"突き抜ける","reading":"つきぬける"},{"word":"突抜ける","reading":"つきぬける"}],"senses":[["to pierce through","to break through"]]},{"jlpt":[],"tags":["wanikani55"],"japanese":[{"word":"栓抜き","reading":"せんぬき"},{"word":"栓抜","reading":"せんぬき"}],"senses":[["bottle opener","corkscrew"],["Bottle opener"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"目抜き","reading":"めぬき"}],"senses":[["principal","main","important","fashionable"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"手抜き","reading":"てぬき"},{"word":"手抜","reading":"てぬき"}],"senses":[["omitting crucial steps","cutting corners","skimping"],["intentional negligence"],["tenuki","taking the initiative by ignoring the opponent's last move and playing somewhere else (in go)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"追い抜く","reading":"おいぬく"},{"word":"追抜く","reading":"おいぬく"}],"senses":[["to pass (a car)","to overtake"],["to surpass","to outstrip","to outdistance","to outsail"]]}]}
+{
+  "basic": ["抜", "Slip Out", "761"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "海抜", "reading": "かいばつ" }],
+      "senses": [["height above sea level"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "奇抜", "reading": "きばつ" }],
+      "senses": [
+        ["novel", "original", "striking", "strange", "eccentric", "fantastic"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "骨抜き", "reading": "ほねぬき" }],
+      "senses": [
+        ["boning (fish or meat)", "deboning"],
+        ["watering down (a plan, bill, etc.)", "dilution", "emasculation"],
+        ["taking the backbone out of", "weakening"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "切り抜き", "reading": "きりぬき" },
+        { "word": "切抜き", "reading": "きりぬき" }
+      ],
+      "senses": [
+        [
+          "clipping (of newspaper article, etc.)",
+          "cutting",
+          "scrap (for a scrapbook)"
+        ],
+        ["cut-out (picture, coloured paper, etc.)"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "選抜", "reading": "せんばつ" }],
+      "senses": [["selection", "choice", "picking out"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "生え抜き", "reading": "はえぬき" }],
+      "senses": [["native-born", "trueborn"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani27"],
+      "japanese": [{ "word": "間抜け", "reading": "まぬけ" }, { "reading": "マヌケ" }],
+      "senses": [
+        ["stupid", "foolish", "idiotic", "inane"],
+        ["fool", "idiot", "blockhead", "half-wit"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "引き抜く", "reading": "ひきぬく" },
+        { "word": "引抜く", "reading": "ひきぬく" },
+        { "word": "引きぬく", "reading": "ひきぬく" }
+      ],
+      "senses": [
+        ["to extract", "to pull out", "to draw out", "to uproot"],
+        ["to headhunt", "to lure away", "to poach", "to entice"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "突き抜ける", "reading": "つきぬける" },
+        { "word": "突抜ける", "reading": "つきぬける" }
+      ],
+      "senses": [["to pierce through", "to break through"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani55"],
+      "japanese": [
+        { "word": "栓抜き", "reading": "せんぬき" },
+        { "word": "栓抜", "reading": "せんぬき" }
+      ],
+      "senses": [["bottle opener", "corkscrew"], ["Bottle opener"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "目抜き", "reading": "めぬき" }],
+      "senses": [["principal", "main", "important", "fashionable"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "手抜き", "reading": "てぬき" },
+        { "word": "手抜", "reading": "てぬき" }
+      ],
+      "senses": [
+        ["omitting crucial steps", "cutting corners", "skimping"],
+        ["intentional negligence"],
+        [
+          "tenuki",
+          "taking the initiative by ignoring the opponent's last move and playing somewhere else (in go)"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "追い抜く", "reading": "おいぬく" },
+        { "word": "追抜く", "reading": "おいぬく" }
+      ],
+      "senses": [
+        ["to pass (a car)", "to overtake"],
+        ["to surpass", "to outstrip", "to outdistance", "to outsail"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "海抜", "reading": "かいばつ" }],
+      "senses": [["height above sea level"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "奇抜", "reading": "きばつ" }],
+      "senses": [
+        ["novel", "original", "striking", "strange", "eccentric", "fantastic"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "骨抜き", "reading": "ほねぬき" }],
+      "senses": [
+        ["boning (fish or meat)", "deboning"],
+        ["watering down (a plan, bill, etc.)", "dilution", "emasculation"],
+        ["taking the backbone out of", "weakening"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "切り抜き", "reading": "きりぬき" },
+        { "word": "切抜き", "reading": "きりぬき" }
+      ],
+      "senses": [
+        [
+          "clipping (of newspaper article, etc.)",
+          "cutting",
+          "scrap (for a scrapbook)"
+        ],
+        ["cut-out (picture, coloured paper, etc.)"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "選抜", "reading": "せんばつ" }],
+      "senses": [["selection", "choice", "picking out"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "生え抜き", "reading": "はえぬき" }],
+      "senses": [["native-born", "trueborn"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani27"],
+      "japanese": [{ "word": "間抜け", "reading": "まぬけ" }, { "reading": "マヌケ" }],
+      "senses": [
+        ["stupid", "foolish", "idiotic", "inane"],
+        ["fool", "idiot", "blockhead", "half-wit"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "引き抜く", "reading": "ひきぬく" },
+        { "word": "引抜く", "reading": "ひきぬく" },
+        { "word": "引きぬく", "reading": "ひきぬく" }
+      ],
+      "senses": [
+        ["to extract", "to pull out", "to draw out", "to uproot"],
+        ["to headhunt", "to lure away", "to poach", "to entice"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "突き抜ける", "reading": "つきぬける" },
+        { "word": "突抜ける", "reading": "つきぬける" }
+      ],
+      "senses": [["to pierce through", "to break through"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani55"],
+      "japanese": [
+        { "word": "栓抜き", "reading": "せんぬき" },
+        { "word": "栓抜", "reading": "せんぬき" }
+      ],
+      "senses": [["bottle opener", "corkscrew"], ["Bottle opener"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "目抜き", "reading": "めぬき" }],
+      "senses": [["principal", "main", "important", "fashionable"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "手抜き", "reading": "てぬき" },
+        { "word": "手抜", "reading": "てぬき" }
+      ],
+      "senses": [
+        ["omitting crucial steps", "cutting corners", "skimping"],
+        ["intentional negligence"],
+        [
+          "tenuki",
+          "taking the initiative by ignoring the opponent's last move and playing somewhere else (in go)"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "追い抜く", "reading": "おいぬく" },
+        { "word": "追抜く", "reading": "おいぬく" }
+      ],
+      "senses": [
+        ["to pass (a car)", "to overtake"],
+        ["to surpass", "to outstrip", "to outdistance", "to outsail"]
+      ]
+    }
+  ]
+}

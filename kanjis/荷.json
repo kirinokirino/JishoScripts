@@ -1,1 +1,99 @@
-{"basic":["荷","Baggage","1088"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"負荷","reading":"ふか"}],"senses":[["burden","load (e.g. CPU time, electricity, etc.)"],["Load"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"重荷","reading":"おもに"},{"word":"重荷","reading":"じゅうか"}],"senses":[["load","heavy burden","encumbrance","heavy freight","heavy responsibility"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"出荷","reading":"しゅっか"}],"senses":[["shipping","shipment","forwarding"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"入荷","reading":"にゅうか"}],"senses":[["arrival of goods","goods received"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"集荷","reading":"しゅうか"},{"word":"蒐荷","reading":"しゅうか"}],"senses":[["collection of cargo (esp. produce, etc.)","cargo booking"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"負荷","reading":"ふか"}],"senses":[["burden","load (e.g. CPU time, electricity, etc.)"],["Load"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"重荷","reading":"おもに"},{"word":"重荷","reading":"じゅうか"}],"senses":[["load","heavy burden","encumbrance","heavy freight","heavy responsibility"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"出荷","reading":"しゅっか"}],"senses":[["shipping","shipment","forwarding"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"入荷","reading":"にゅうか"}],"senses":[["arrival of goods","goods received"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"集荷","reading":"しゅうか"},{"word":"蒐荷","reading":"しゅうか"}],"senses":[["collection of cargo (esp. produce, etc.)","cargo booking"]]}]}
+{
+  "basic": ["荷", "Baggage", "1088"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "負荷", "reading": "ふか" }],
+      "senses": [
+        ["burden", "load (e.g. CPU time, electricity, etc.)"],
+        ["Load"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "重荷", "reading": "おもに" },
+        { "word": "重荷", "reading": "じゅうか" }
+      ],
+      "senses": [
+        [
+          "load",
+          "heavy burden",
+          "encumbrance",
+          "heavy freight",
+          "heavy responsibility"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "出荷", "reading": "しゅっか" }],
+      "senses": [["shipping", "shipment", "forwarding"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "入荷", "reading": "にゅうか" }],
+      "senses": [["arrival of goods", "goods received"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "集荷", "reading": "しゅうか" },
+        { "word": "蒐荷", "reading": "しゅうか" }
+      ],
+      "senses": [["collection of cargo (esp. produce, etc.)", "cargo booking"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "負荷", "reading": "ふか" }],
+      "senses": [
+        ["burden", "load (e.g. CPU time, electricity, etc.)"],
+        ["Load"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "重荷", "reading": "おもに" },
+        { "word": "重荷", "reading": "じゅうか" }
+      ],
+      "senses": [
+        [
+          "load",
+          "heavy burden",
+          "encumbrance",
+          "heavy freight",
+          "heavy responsibility"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "出荷", "reading": "しゅっか" }],
+      "senses": [["shipping", "shipment", "forwarding"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "入荷", "reading": "にゅうか" }],
+      "senses": [["arrival of goods", "goods received"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "集荷", "reading": "しゅうか" },
+        { "word": "蒐荷", "reading": "しゅうか" }
+      ],
+      "senses": [["collection of cargo (esp. produce, etc.)", "cargo booking"]]
+    }
+  ]
+}

@@ -1,1 +1,23 @@
-{"basic":["賠","Compensation","515"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"損害賠償","reading":"そんがいばいしょう"}],"senses":[["restitution","damages","indemnity","compensation"],["Damages"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"損害賠償","reading":"そんがいばいしょう"}],"senses":[["restitution","damages","indemnity","compensation"],["Damages"]]}]}
+{
+  "basic": ["賠", "Compensation", "515"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "損害賠償", "reading": "そんがいばいしょう" }],
+      "senses": [
+        ["restitution", "damages", "indemnity", "compensation"],
+        ["Damages"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "損害賠償", "reading": "そんがいばいしょう" }],
+      "senses": [
+        ["restitution", "damages", "indemnity", "compensation"],
+        ["Damages"]
+      ]
+    }
+  ]
+}

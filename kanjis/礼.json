@@ -1,1 +1,149 @@
-{"basic":["礼","Salutation","1168"],"extended":[{"jlpt":["jlpt-n4"],"tags":["wanikani4"],"japanese":[{"word":"お礼","reading":"おれい"},{"word":"御礼","reading":"おれい"},{"word":"御礼","reading":"おんれい"}],"senses":[["thanks","gratitude"],["manners","etiquette"],["bow"],["reward","gift"],["ceremony","ritual"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"無礼","reading":"ぶれい"}],"senses":[["rudeness","impoliteness","discourtesy","insolence"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"洗礼","reading":"せんれい"}],"senses":[["baptism"],["Baptism"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"謝礼","reading":"しゃれい"}],"senses":[["reward","honorarium","remuneration"]]},{"jlpt":[],"tags":["wanikani7"],"japanese":[{"word":"失礼","reading":"しつれい"},{"word":"失礼","reading":"しつらい"},{"word":"失礼","reading":"しちらい"}],"senses":[["discourtesy","impoliteness"],["excuse me","goodbye"],["to leave"],["to be rude"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"儀礼","reading":"ぎれい"}],"senses":[["etiquette","courtesy"],["Yili (text)"]]},{"jlpt":[],"tags":["wanikani40"],"japanese":[{"word":"巡礼","reading":"じゅんれい"},{"word":"順礼","reading":"じゅんれい"}],"senses":[["pilgrimage","pilgrim"],["Pilgrimage"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"朝礼","reading":"ちょうれい"}],"senses":[["morning assembly (at a company, school, etc.)","morning gathering"]]},{"jlpt":["jlpt-n4"],"tags":["wanikani4"],"japanese":[{"word":"お礼","reading":"おれい"},{"word":"御礼","reading":"おれい"},{"word":"御礼","reading":"おんれい"}],"senses":[["thanks","gratitude"],["manners","etiquette"],["bow"],["reward","gift"],["ceremony","ritual"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"無礼","reading":"ぶれい"}],"senses":[["rudeness","impoliteness","discourtesy","insolence"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"洗礼","reading":"せんれい"}],"senses":[["baptism"],["Baptism"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"謝礼","reading":"しゃれい"}],"senses":[["reward","honorarium","remuneration"]]},{"jlpt":[],"tags":["wanikani7"],"japanese":[{"word":"失礼","reading":"しつれい"},{"word":"失礼","reading":"しつらい"},{"word":"失礼","reading":"しちらい"}],"senses":[["discourtesy","impoliteness"],["excuse me","goodbye"],["to leave"],["to be rude"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"儀礼","reading":"ぎれい"}],"senses":[["etiquette","courtesy"],["Yili (text)"]]},{"jlpt":[],"tags":["wanikani40"],"japanese":[{"word":"巡礼","reading":"じゅんれい"},{"word":"順礼","reading":"じゅんれい"}],"senses":[["pilgrimage","pilgrim"],["Pilgrimage"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"朝礼","reading":"ちょうれい"}],"senses":[["morning assembly (at a company, school, etc.)","morning gathering"]]}]}
+{
+  "basic": ["礼", "Salutation", "1168"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n4"],
+      "tags": ["wanikani4"],
+      "japanese": [
+        { "word": "お礼", "reading": "おれい" },
+        { "word": "御礼", "reading": "おれい" },
+        { "word": "御礼", "reading": "おんれい" }
+      ],
+      "senses": [
+        ["thanks", "gratitude"],
+        ["manners", "etiquette"],
+        ["bow"],
+        ["reward", "gift"],
+        ["ceremony", "ritual"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "無礼", "reading": "ぶれい" }],
+      "senses": [["rudeness", "impoliteness", "discourtesy", "insolence"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "洗礼", "reading": "せんれい" }],
+      "senses": [["baptism"], ["Baptism"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "謝礼", "reading": "しゃれい" }],
+      "senses": [["reward", "honorarium", "remuneration"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani7"],
+      "japanese": [
+        { "word": "失礼", "reading": "しつれい" },
+        { "word": "失礼", "reading": "しつらい" },
+        { "word": "失礼", "reading": "しちらい" }
+      ],
+      "senses": [
+        ["discourtesy", "impoliteness"],
+        ["excuse me", "goodbye"],
+        ["to leave"],
+        ["to be rude"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "儀礼", "reading": "ぎれい" }],
+      "senses": [["etiquette", "courtesy"], ["Yili (text)"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani40"],
+      "japanese": [
+        { "word": "巡礼", "reading": "じゅんれい" },
+        { "word": "順礼", "reading": "じゅんれい" }
+      ],
+      "senses": [["pilgrimage", "pilgrim"], ["Pilgrimage"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "朝礼", "reading": "ちょうれい" }],
+      "senses": [
+        ["morning assembly (at a company, school, etc.)", "morning gathering"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n4"],
+      "tags": ["wanikani4"],
+      "japanese": [
+        { "word": "お礼", "reading": "おれい" },
+        { "word": "御礼", "reading": "おれい" },
+        { "word": "御礼", "reading": "おんれい" }
+      ],
+      "senses": [
+        ["thanks", "gratitude"],
+        ["manners", "etiquette"],
+        ["bow"],
+        ["reward", "gift"],
+        ["ceremony", "ritual"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "無礼", "reading": "ぶれい" }],
+      "senses": [["rudeness", "impoliteness", "discourtesy", "insolence"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "洗礼", "reading": "せんれい" }],
+      "senses": [["baptism"], ["Baptism"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "謝礼", "reading": "しゃれい" }],
+      "senses": [["reward", "honorarium", "remuneration"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani7"],
+      "japanese": [
+        { "word": "失礼", "reading": "しつれい" },
+        { "word": "失礼", "reading": "しつらい" },
+        { "word": "失礼", "reading": "しちらい" }
+      ],
+      "senses": [
+        ["discourtesy", "impoliteness"],
+        ["excuse me", "goodbye"],
+        ["to leave"],
+        ["to be rude"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "儀礼", "reading": "ぎれい" }],
+      "senses": [["etiquette", "courtesy"], ["Yili (text)"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani40"],
+      "japanese": [
+        { "word": "巡礼", "reading": "じゅんれい" },
+        { "word": "順礼", "reading": "じゅんれい" }
+      ],
+      "senses": [["pilgrimage", "pilgrim"], ["Pilgrimage"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "朝礼", "reading": "ちょうれい" }],
+      "senses": [
+        ["morning assembly (at a company, school, etc.)", "morning gathering"]
+      ]
+    }
+  ]
+}

@@ -1,1 +1,171 @@
-{"basic":["筋","Muscle","1012"],"extended":[{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"大筋","reading":"おおすじ"}],"senses":[["outline","summary","gist","basic points"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"背筋","reading":"せすじ"}],"senses":[["spine","line of the backbone"],["seam down the back (of clothing)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"道筋","reading":"みちすじ"}],"senses":[["path","route","itinerary"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"消息筋","reading":"しょうそくすじ"}],"senses":[["informed circles"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani35"],"japanese":[{"word":"一筋","reading":"ひとすじ"},{"word":"一条","reading":"ひとすじ"},{"word":"ひと筋","reading":"ひとすじ"},{"word":"一すじ","reading":"ひとすじ"},{"word":"ひと条","reading":"ひとすじ"}],"senses":[["one long straight object (e.g. strand of hair, beam of light, wisp of smoke)"],["a single bloodline"],["earnest","resolute","intent","devoted","single-minded"],["ordinary","common"]]},{"jlpt":["jlpt-n2","jlpt-n1"],"tags":[],"japanese":[{"word":"粗筋","reading":"あらすじ"},{"word":"荒筋","reading":"あらすじ"},{"word":"あら筋","reading":"あらすじ"}],"senses":[["outline","summary","argument"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"心筋","reading":"しんきん"}],"senses":[["heart muscle","myocardium"],["Cardiac muscle"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"鉄筋","reading":"てっきん"}],"senses":[["rebar","(iron) reinforcing bar","reinforcing steel"],["reinforced concrete"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"売れ筋","reading":"うれすじ"}],"senses":[["popular line (of products)","best-selling line","hot sellers"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"売れ筋ランキング","reading":"うれすじランキング"}],"senses":[["list of top-selling products"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"大筋","reading":"おおすじ"}],"senses":[["outline","summary","gist","basic points"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"背筋","reading":"せすじ"}],"senses":[["spine","line of the backbone"],["seam down the back (of clothing)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"道筋","reading":"みちすじ"}],"senses":[["path","route","itinerary"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"消息筋","reading":"しょうそくすじ"}],"senses":[["informed circles"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani35"],"japanese":[{"word":"一筋","reading":"ひとすじ"},{"word":"一条","reading":"ひとすじ"},{"word":"ひと筋","reading":"ひとすじ"},{"word":"一すじ","reading":"ひとすじ"},{"word":"ひと条","reading":"ひとすじ"}],"senses":[["one long straight object (e.g. strand of hair, beam of light, wisp of smoke)"],["a single bloodline"],["earnest","resolute","intent","devoted","single-minded"],["ordinary","common"]]},{"jlpt":["jlpt-n2","jlpt-n1"],"tags":[],"japanese":[{"word":"粗筋","reading":"あらすじ"},{"word":"荒筋","reading":"あらすじ"},{"word":"あら筋","reading":"あらすじ"}],"senses":[["outline","summary","argument"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"心筋","reading":"しんきん"}],"senses":[["heart muscle","myocardium"],["Cardiac muscle"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"鉄筋","reading":"てっきん"}],"senses":[["rebar","(iron) reinforcing bar","reinforcing steel"],["reinforced concrete"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"売れ筋","reading":"うれすじ"}],"senses":[["popular line (of products)","best-selling line","hot sellers"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"売れ筋ランキング","reading":"うれすじランキング"}],"senses":[["list of top-selling products"]]}]}
+{
+  "basic": ["筋", "Muscle", "1012"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "大筋", "reading": "おおすじ" }],
+      "senses": [["outline", "summary", "gist", "basic points"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "背筋", "reading": "せすじ" }],
+      "senses": [
+        ["spine", "line of the backbone"],
+        ["seam down the back (of clothing)"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "道筋", "reading": "みちすじ" }],
+      "senses": [["path", "route", "itinerary"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "消息筋", "reading": "しょうそくすじ" }],
+      "senses": [["informed circles"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani35"],
+      "japanese": [
+        { "word": "一筋", "reading": "ひとすじ" },
+        { "word": "一条", "reading": "ひとすじ" },
+        { "word": "ひと筋", "reading": "ひとすじ" },
+        { "word": "一すじ", "reading": "ひとすじ" },
+        { "word": "ひと条", "reading": "ひとすじ" }
+      ],
+      "senses": [
+        ["one long straight object (e.g. strand of hair, beam of light, wisp of smoke)"],
+        ["a single bloodline"],
+        ["earnest", "resolute", "intent", "devoted", "single-minded"],
+        ["ordinary", "common"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2", "jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "粗筋", "reading": "あらすじ" },
+        { "word": "荒筋", "reading": "あらすじ" },
+        { "word": "あら筋", "reading": "あらすじ" }
+      ],
+      "senses": [["outline", "summary", "argument"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "心筋", "reading": "しんきん" }],
+      "senses": [["heart muscle", "myocardium"], ["Cardiac muscle"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "鉄筋", "reading": "てっきん" }],
+      "senses": [
+        ["rebar", "(iron) reinforcing bar", "reinforcing steel"],
+        ["reinforced concrete"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "売れ筋", "reading": "うれすじ" }],
+      "senses": [
+        ["popular line (of products)", "best-selling line", "hot sellers"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "売れ筋ランキング", "reading": "うれすじランキング" }],
+      "senses": [["list of top-selling products"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "大筋", "reading": "おおすじ" }],
+      "senses": [["outline", "summary", "gist", "basic points"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "背筋", "reading": "せすじ" }],
+      "senses": [
+        ["spine", "line of the backbone"],
+        ["seam down the back (of clothing)"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "道筋", "reading": "みちすじ" }],
+      "senses": [["path", "route", "itinerary"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "消息筋", "reading": "しょうそくすじ" }],
+      "senses": [["informed circles"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani35"],
+      "japanese": [
+        { "word": "一筋", "reading": "ひとすじ" },
+        { "word": "一条", "reading": "ひとすじ" },
+        { "word": "ひと筋", "reading": "ひとすじ" },
+        { "word": "一すじ", "reading": "ひとすじ" },
+        { "word": "ひと条", "reading": "ひとすじ" }
+      ],
+      "senses": [
+        ["one long straight object (e.g. strand of hair, beam of light, wisp of smoke)"],
+        ["a single bloodline"],
+        ["earnest", "resolute", "intent", "devoted", "single-minded"],
+        ["ordinary", "common"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2", "jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "粗筋", "reading": "あらすじ" },
+        { "word": "荒筋", "reading": "あらすじ" },
+        { "word": "あら筋", "reading": "あらすじ" }
+      ],
+      "senses": [["outline", "summary", "argument"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "心筋", "reading": "しんきん" }],
+      "senses": [["heart muscle", "myocardium"], ["Cardiac muscle"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "鉄筋", "reading": "てっきん" }],
+      "senses": [
+        ["rebar", "(iron) reinforcing bar", "reinforcing steel"],
+        ["reinforced concrete"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "売れ筋", "reading": "うれすじ" }],
+      "senses": [
+        ["popular line (of products)", "best-selling line", "hot sellers"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "売れ筋ランキング", "reading": "うれすじランキング" }],
+      "senses": [["list of top-selling products"]]
+    }
+  ]
+}

@@ -1,1 +1,584 @@
-{"basic":["明","Bright","20"],"extended":[{"jlpt":["jlpt-n4"],"tags":["wanikani17"],"japanese":[{"word":"説明","reading":"せつめい"}],"senses":[["explanation","exposition"],["Explanation"]]},{"jlpt":["jlpt-n3"],"tags":[],"japanese":[{"word":"発明","reading":"はつめい"}],"senses":[["invention"],["intelligent","clever","smart"],["making sense (of something)","understanding"],["Invention"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani16"],"japanese":[{"word":"証明","reading":"しょうめい"}],"senses":[["proof","testimony","demonstration","verification","certification"],["Mathematical proof"]]},{"jlpt":["jlpt-n3"],"tags":[],"japanese":[{"word":"文明","reading":"ぶんめい"}],"senses":[["civilization","civilisation","culture"],["Bunmei era (1469.4.28-1487.7.20)"],["Civilization"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani40"],"japanese":[{"word":"透明","reading":"とうめい"}],"senses":[["transparent","clear"],["Transparency and translucency"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"声明","reading":"せいめい"}],"senses":[["declaration","statement","proclamation"],["Shōmyō"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani30"],"japanese":[{"word":"照明","reading":"しょうめい"}],"senses":[["illumination","lighting"],["Lighting"]]},{"jlpt":["jlpt-n3"],"tags":[],"japanese":[{"word":"夜明け","reading":"よあけ"},{"word":"夜明","reading":"よあけ"}],"senses":[["dawn","daybreak"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani48"],"japanese":[{"word":"賢明","reading":"けんめい"}],"senses":[["wise","sensible","well-advised","intelligent","sagacious","prudent"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani6"],"japanese":[{"word":"不明","reading":"ふめい"}],"senses":[["unclear","obscure","indistinct","uncertain","ambiguous"],["unknown","unidentified"],["ignorance","lack of wisdom","lack of insight"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"表明","reading":"ひょうめい"}],"senses":[["declaration","indication","representation","manifestation","demonstration","expression","announcement","assertion"],["Assertion (computing)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"失明","reading":"しつめい"}],"senses":[["loss of eyesight","loss of vision","going blind","blindness"],["Blindness"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"身分証明書","reading":"みぶんしょうめいしょ"}],"senses":[["identification papers","ID","piece of identification","identity document"],["Identity document"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"公明党","reading":"こうめいとう"}],"senses":[["Komeito (Japanese political party)"],["New Komeito Party"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"判明","reading":"はんめい"}],"senses":[["establishing","proving","ascertaining","identifying","confirming"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"弁明","reading":"べんめい"},{"word":"辯明","reading":"べんめい"},{"word":"辨明","reading":"べんめい"}],"senses":[["explanation","excuse","clarification","vindication","apology"]]},{"jlpt":[],"tags":["wanikani19"],"japanese":[{"word":"説明書","reading":"せつめいしょ"}],"senses":[["(printed) instructions","manual","explanatory leaflet (pamphlet, note)","description"]]},{"jlpt":[],"tags":["wanikani51"],"japanese":[{"word":"釈明","reading":"しゃくめい"}],"senses":[["explanation","vindication"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"鮮明","reading":"せんめい"}],"senses":[["vivid","clear","distinct"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"解明","reading":"かいめい"}],"senses":[["elucidation","explication","explaining","unravelling","clarification","understanding"]]},{"jlpt":["jlpt-n4"],"tags":["wanikani17"],"japanese":[{"word":"説明","reading":"せつめい"}],"senses":[["explanation","exposition"],["Explanation"]]},{"jlpt":["jlpt-n3"],"tags":[],"japanese":[{"word":"発明","reading":"はつめい"}],"senses":[["invention"],["intelligent","clever","smart"],["making sense (of something)","understanding"],["Invention"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani16"],"japanese":[{"word":"証明","reading":"しょうめい"}],"senses":[["proof","testimony","demonstration","verification","certification"],["Mathematical proof"]]},{"jlpt":["jlpt-n3"],"tags":[],"japanese":[{"word":"文明","reading":"ぶんめい"}],"senses":[["civilization","civilisation","culture"],["Bunmei era (1469.4.28-1487.7.20)"],["Civilization"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani40"],"japanese":[{"word":"透明","reading":"とうめい"}],"senses":[["transparent","clear"],["Transparency and translucency"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"声明","reading":"せいめい"}],"senses":[["declaration","statement","proclamation"],["Shōmyō"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani30"],"japanese":[{"word":"照明","reading":"しょうめい"}],"senses":[["illumination","lighting"],["Lighting"]]},{"jlpt":["jlpt-n3"],"tags":[],"japanese":[{"word":"夜明け","reading":"よあけ"},{"word":"夜明","reading":"よあけ"}],"senses":[["dawn","daybreak"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani48"],"japanese":[{"word":"賢明","reading":"けんめい"}],"senses":[["wise","sensible","well-advised","intelligent","sagacious","prudent"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani6"],"japanese":[{"word":"不明","reading":"ふめい"}],"senses":[["unclear","obscure","indistinct","uncertain","ambiguous"],["unknown","unidentified"],["ignorance","lack of wisdom","lack of insight"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"表明","reading":"ひょうめい"}],"senses":[["declaration","indication","representation","manifestation","demonstration","expression","announcement","assertion"],["Assertion (computing)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"失明","reading":"しつめい"}],"senses":[["loss of eyesight","loss of vision","going blind","blindness"],["Blindness"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"身分証明書","reading":"みぶんしょうめいしょ"}],"senses":[["identification papers","ID","piece of identification","identity document"],["Identity document"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"公明党","reading":"こうめいとう"}],"senses":[["Komeito (Japanese political party)"],["New Komeito Party"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"判明","reading":"はんめい"}],"senses":[["establishing","proving","ascertaining","identifying","confirming"]]},{"jlpt":[],"tags":["wanikani19"],"japanese":[{"word":"説明書","reading":"せつめいしょ"}],"senses":[["(printed) instructions","manual","explanatory leaflet (pamphlet, note)","description"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"弁明","reading":"べんめい"},{"word":"辯明","reading":"べんめい"},{"word":"辨明","reading":"べんめい"}],"senses":[["explanation","excuse","clarification","vindication","apology"]]},{"jlpt":[],"tags":["wanikani51"],"japanese":[{"word":"釈明","reading":"しゃくめい"}],"senses":[["explanation","vindication"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"鮮明","reading":"せんめい"}],"senses":[["vivid","clear","distinct"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"解明","reading":"かいめい"}],"senses":[["elucidation","explication","explaining","unravelling","clarification","understanding"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"梅雨明け","reading":"つゆあけ"},{"word":"出梅","reading":"つゆあけ"},{"word":"出梅","reading":"しゅつばい"}],"senses":[["end of the rainy season"]]},{"jlpt":[],"tags":["wanikani8"],"japanese":[{"word":"究明","reading":"きゅうめい"}],"senses":[["investigation (esp. in academic and scientific contexts)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"週明け","reading":"しゅうあけ"},{"word":"週あけ","reading":"しゅうあけ"}],"senses":[["beginning of next week (usu. Monday)","early next week"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"打ち明ける","reading":"うちあける"},{"word":"打明ける","reading":"うちあける"}],"senses":[["to confide","to reveal","to disclose","to lay bare","to speak frankly","to open (one's heart)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"自明","reading":"じめい"}],"senses":[["self-evident","obvious","axiomatic","self-explanatory","trivial"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"意味不明","reading":"いみふめい"}],"senses":[["of uncertain meaning","ambiguous","cryptic","nonsensical","incomprehensible","perplexing"]]},{"jlpt":["jlpt-n2","jlpt-n1"],"tags":[],"japanese":[{"word":"明々後日","reading":"しあさって"},{"word":"明々後日","reading":"みょうみょうごにち"},{"word":"明明後日","reading":"しあさって"},{"word":"明明後日","reading":"みょうみょうごにち"}],"senses":[["in three days' time","two days after tomorrow"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"年明け","reading":"としあけ"}],"senses":[["beginning of the year","early in the New Year"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"光明","reading":"こうみょう"},{"word":"光明","reading":"こうめい"}],"senses":[["bright light"],["hope","bright future"],["light emanating from a buddha or bodhisattva, symbolizing their wisdom and compassion"],["Guangming"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"行方不明","reading":"ゆくえふめい"}],"senses":[["missing (of a person)","lost","unaccounted for","whereabouts unknown"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"英明","reading":"えいめい"}],"senses":[["intelligent","wise","bright","brilliant","clear-sighted"]]},{"jlpt":[],"tags":["wanikani42"],"japanese":[{"word":"克明","reading":"こくめい"}],"senses":[["detailed","scrupulous","careful","minute","faithful","elaborate"],["diligent","honest","upright","sincere"]]},{"jlpt":[],"tags":["wanikani42"],"japanese":[{"word":"不透明","reading":"ふとうめい"}],"senses":[["opaque","obscure","murky","turbid"],["opacity","obscurity"],["unclear","unpredictable","uncertain"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"公明","reading":"こうめい"}],"senses":[["fairness","openness","impartiality"],["Komeito (Japanese political party)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"未明","reading":"みめい"}],"senses":[["early dawn","grey of morning","gray of morning"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"幕開け","reading":"まくあけ"},{"word":"幕明け","reading":"まくあけ"}],"senses":[["the rise of the curtain","opening (of play)"],["beginning (e.g. of an era)","opening (festival, event, etc.)"]]},{"jlpt":[],"tags":["wanikani18"],"japanese":[{"word":"証明書","reading":"しょうめいしょ"}],"senses":[["certificate (usually of proof of something)","credentials"]]}]}
+{
+  "basic": ["明", "Bright", "20"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n4"],
+      "tags": ["wanikani17"],
+      "japanese": [{ "word": "説明", "reading": "せつめい" }],
+      "senses": [["explanation", "exposition"], ["Explanation"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": [],
+      "japanese": [{ "word": "発明", "reading": "はつめい" }],
+      "senses": [
+        ["invention"],
+        ["intelligent", "clever", "smart"],
+        ["making sense (of something)", "understanding"],
+        ["Invention"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani16"],
+      "japanese": [{ "word": "証明", "reading": "しょうめい" }],
+      "senses": [
+        [
+          "proof",
+          "testimony",
+          "demonstration",
+          "verification",
+          "certification"
+        ],
+        ["Mathematical proof"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": [],
+      "japanese": [{ "word": "文明", "reading": "ぶんめい" }],
+      "senses": [
+        ["civilization", "civilisation", "culture"],
+        ["Bunmei era (1469.4.28-1487.7.20)"],
+        ["Civilization"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani40"],
+      "japanese": [{ "word": "透明", "reading": "とうめい" }],
+      "senses": [["transparent", "clear"], ["Transparency and translucency"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "声明", "reading": "せいめい" }],
+      "senses": [["declaration", "statement", "proclamation"], ["Shōmyō"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani30"],
+      "japanese": [{ "word": "照明", "reading": "しょうめい" }],
+      "senses": [["illumination", "lighting"], ["Lighting"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": [],
+      "japanese": [
+        { "word": "夜明け", "reading": "よあけ" },
+        { "word": "夜明", "reading": "よあけ" }
+      ],
+      "senses": [["dawn", "daybreak"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani48"],
+      "japanese": [{ "word": "賢明", "reading": "けんめい" }],
+      "senses": [
+        [
+          "wise",
+          "sensible",
+          "well-advised",
+          "intelligent",
+          "sagacious",
+          "prudent"
+        ]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani6"],
+      "japanese": [{ "word": "不明", "reading": "ふめい" }],
+      "senses": [
+        ["unclear", "obscure", "indistinct", "uncertain", "ambiguous"],
+        ["unknown", "unidentified"],
+        ["ignorance", "lack of wisdom", "lack of insight"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "表明", "reading": "ひょうめい" }],
+      "senses": [
+        [
+          "declaration",
+          "indication",
+          "representation",
+          "manifestation",
+          "demonstration",
+          "expression",
+          "announcement",
+          "assertion"
+        ],
+        ["Assertion (computing)"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "失明", "reading": "しつめい" }],
+      "senses": [
+        ["loss of eyesight", "loss of vision", "going blind", "blindness"],
+        ["Blindness"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "身分証明書", "reading": "みぶんしょうめいしょ" }],
+      "senses": [
+        [
+          "identification papers",
+          "ID",
+          "piece of identification",
+          "identity document"
+        ],
+        ["Identity document"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "公明党", "reading": "こうめいとう" }],
+      "senses": [["Komeito (Japanese political party)"], ["New Komeito Party"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "判明", "reading": "はんめい" }],
+      "senses": [
+        ["establishing", "proving", "ascertaining", "identifying", "confirming"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "弁明", "reading": "べんめい" },
+        { "word": "辯明", "reading": "べんめい" },
+        { "word": "辨明", "reading": "べんめい" }
+      ],
+      "senses": [
+        ["explanation", "excuse", "clarification", "vindication", "apology"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani19"],
+      "japanese": [{ "word": "説明書", "reading": "せつめいしょ" }],
+      "senses": [
+        [
+          "(printed) instructions",
+          "manual",
+          "explanatory leaflet (pamphlet, note)",
+          "description"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani51"],
+      "japanese": [{ "word": "釈明", "reading": "しゃくめい" }],
+      "senses": [["explanation", "vindication"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "鮮明", "reading": "せんめい" }],
+      "senses": [["vivid", "clear", "distinct"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "解明", "reading": "かいめい" }],
+      "senses": [
+        [
+          "elucidation",
+          "explication",
+          "explaining",
+          "unravelling",
+          "clarification",
+          "understanding"
+        ]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n4"],
+      "tags": ["wanikani17"],
+      "japanese": [{ "word": "説明", "reading": "せつめい" }],
+      "senses": [["explanation", "exposition"], ["Explanation"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": [],
+      "japanese": [{ "word": "発明", "reading": "はつめい" }],
+      "senses": [
+        ["invention"],
+        ["intelligent", "clever", "smart"],
+        ["making sense (of something)", "understanding"],
+        ["Invention"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani16"],
+      "japanese": [{ "word": "証明", "reading": "しょうめい" }],
+      "senses": [
+        [
+          "proof",
+          "testimony",
+          "demonstration",
+          "verification",
+          "certification"
+        ],
+        ["Mathematical proof"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": [],
+      "japanese": [{ "word": "文明", "reading": "ぶんめい" }],
+      "senses": [
+        ["civilization", "civilisation", "culture"],
+        ["Bunmei era (1469.4.28-1487.7.20)"],
+        ["Civilization"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani40"],
+      "japanese": [{ "word": "透明", "reading": "とうめい" }],
+      "senses": [["transparent", "clear"], ["Transparency and translucency"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "声明", "reading": "せいめい" }],
+      "senses": [["declaration", "statement", "proclamation"], ["Shōmyō"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani30"],
+      "japanese": [{ "word": "照明", "reading": "しょうめい" }],
+      "senses": [["illumination", "lighting"], ["Lighting"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": [],
+      "japanese": [
+        { "word": "夜明け", "reading": "よあけ" },
+        { "word": "夜明", "reading": "よあけ" }
+      ],
+      "senses": [["dawn", "daybreak"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani48"],
+      "japanese": [{ "word": "賢明", "reading": "けんめい" }],
+      "senses": [
+        [
+          "wise",
+          "sensible",
+          "well-advised",
+          "intelligent",
+          "sagacious",
+          "prudent"
+        ]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani6"],
+      "japanese": [{ "word": "不明", "reading": "ふめい" }],
+      "senses": [
+        ["unclear", "obscure", "indistinct", "uncertain", "ambiguous"],
+        ["unknown", "unidentified"],
+        ["ignorance", "lack of wisdom", "lack of insight"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "表明", "reading": "ひょうめい" }],
+      "senses": [
+        [
+          "declaration",
+          "indication",
+          "representation",
+          "manifestation",
+          "demonstration",
+          "expression",
+          "announcement",
+          "assertion"
+        ],
+        ["Assertion (computing)"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "失明", "reading": "しつめい" }],
+      "senses": [
+        ["loss of eyesight", "loss of vision", "going blind", "blindness"],
+        ["Blindness"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "身分証明書", "reading": "みぶんしょうめいしょ" }],
+      "senses": [
+        [
+          "identification papers",
+          "ID",
+          "piece of identification",
+          "identity document"
+        ],
+        ["Identity document"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "公明党", "reading": "こうめいとう" }],
+      "senses": [["Komeito (Japanese political party)"], ["New Komeito Party"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "判明", "reading": "はんめい" }],
+      "senses": [
+        ["establishing", "proving", "ascertaining", "identifying", "confirming"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani19"],
+      "japanese": [{ "word": "説明書", "reading": "せつめいしょ" }],
+      "senses": [
+        [
+          "(printed) instructions",
+          "manual",
+          "explanatory leaflet (pamphlet, note)",
+          "description"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "弁明", "reading": "べんめい" },
+        { "word": "辯明", "reading": "べんめい" },
+        { "word": "辨明", "reading": "べんめい" }
+      ],
+      "senses": [
+        ["explanation", "excuse", "clarification", "vindication", "apology"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani51"],
+      "japanese": [{ "word": "釈明", "reading": "しゃくめい" }],
+      "senses": [["explanation", "vindication"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "鮮明", "reading": "せんめい" }],
+      "senses": [["vivid", "clear", "distinct"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "解明", "reading": "かいめい" }],
+      "senses": [
+        [
+          "elucidation",
+          "explication",
+          "explaining",
+          "unravelling",
+          "clarification",
+          "understanding"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "梅雨明け", "reading": "つゆあけ" },
+        { "word": "出梅", "reading": "つゆあけ" },
+        { "word": "出梅", "reading": "しゅつばい" }
+      ],
+      "senses": [["end of the rainy season"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani8"],
+      "japanese": [{ "word": "究明", "reading": "きゅうめい" }],
+      "senses": [["investigation (esp. in academic and scientific contexts)"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "週明け", "reading": "しゅうあけ" },
+        { "word": "週あけ", "reading": "しゅうあけ" }
+      ],
+      "senses": [["beginning of next week (usu. Monday)", "early next week"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "打ち明ける", "reading": "うちあける" },
+        { "word": "打明ける", "reading": "うちあける" }
+      ],
+      "senses": [
+        [
+          "to confide",
+          "to reveal",
+          "to disclose",
+          "to lay bare",
+          "to speak frankly",
+          "to open (one's heart)"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "自明", "reading": "じめい" }],
+      "senses": [
+        ["self-evident", "obvious", "axiomatic", "self-explanatory", "trivial"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "意味不明", "reading": "いみふめい" }],
+      "senses": [
+        [
+          "of uncertain meaning",
+          "ambiguous",
+          "cryptic",
+          "nonsensical",
+          "incomprehensible",
+          "perplexing"
+        ]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2", "jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "明々後日", "reading": "しあさって" },
+        { "word": "明々後日", "reading": "みょうみょうごにち" },
+        { "word": "明明後日", "reading": "しあさって" },
+        { "word": "明明後日", "reading": "みょうみょうごにち" }
+      ],
+      "senses": [["in three days' time", "two days after tomorrow"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "年明け", "reading": "としあけ" }],
+      "senses": [["beginning of the year", "early in the New Year"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "光明", "reading": "こうみょう" },
+        { "word": "光明", "reading": "こうめい" }
+      ],
+      "senses": [
+        ["bright light"],
+        ["hope", "bright future"],
+        ["light emanating from a buddha or bodhisattva, symbolizing their wisdom and compassion"],
+        ["Guangming"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "行方不明", "reading": "ゆくえふめい" }],
+      "senses": [
+        [
+          "missing (of a person)",
+          "lost",
+          "unaccounted for",
+          "whereabouts unknown"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "英明", "reading": "えいめい" }],
+      "senses": [
+        ["intelligent", "wise", "bright", "brilliant", "clear-sighted"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani42"],
+      "japanese": [{ "word": "克明", "reading": "こくめい" }],
+      "senses": [
+        [
+          "detailed",
+          "scrupulous",
+          "careful",
+          "minute",
+          "faithful",
+          "elaborate"
+        ],
+        ["diligent", "honest", "upright", "sincere"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani42"],
+      "japanese": [{ "word": "不透明", "reading": "ふとうめい" }],
+      "senses": [
+        ["opaque", "obscure", "murky", "turbid"],
+        ["opacity", "obscurity"],
+        ["unclear", "unpredictable", "uncertain"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "公明", "reading": "こうめい" }],
+      "senses": [
+        ["fairness", "openness", "impartiality"],
+        ["Komeito (Japanese political party)"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "未明", "reading": "みめい" }],
+      "senses": [["early dawn", "grey of morning", "gray of morning"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "幕開け", "reading": "まくあけ" },
+        { "word": "幕明け", "reading": "まくあけ" }
+      ],
+      "senses": [
+        ["the rise of the curtain", "opening (of play)"],
+        ["beginning (e.g. of an era)", "opening (festival, event, etc.)"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani18"],
+      "japanese": [{ "word": "証明書", "reading": "しょうめいしょ" }],
+      "senses": [["certificate (usually of proof of something)", "credentials"]]
+    }
+  ]
+}

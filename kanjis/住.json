@@ -1,1 +1,143 @@
-{"basic":["住","Dwell","1027"],"extended":[{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"居住","reading":"きょじゅう"}],"senses":[["residence","abode","dwelling"],["Residency (domicile)"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"衣食住","reading":"いしょくじゅう"}],"senses":[["necessities of life (food, clothing and shelter)"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani28"],"japanese":[{"word":"移住","reading":"いじゅう"}],"senses":[["migration","immigration"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"定住","reading":"ていじゅう"},{"word":"定住","reading":"じょうじゅう"}],"senses":[["settlement","permanent residency"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"在住","reading":"ざいじゅう"}],"senses":[["residing","living","dwelling"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"永住","reading":"えいじゅう"}],"senses":[["permanent residence"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"現住所","reading":"げんじゅうしょ"}],"senses":[["(present) address"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"居住者","reading":"きょじゅうしゃ"}],"senses":[["resident","inhabitant"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"先住","reading":"せんじゅう"}],"senses":[["original inhabitant","aboriginal"],["previous priest"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"安住","reading":"あんじゅう"}],"senses":[["living in peace","living a quiet life"],["being content with one's present position","being satisfied with one's lot"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"居住","reading":"きょじゅう"}],"senses":[["residence","abode","dwelling"],["Residency (domicile)"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"衣食住","reading":"いしょくじゅう"}],"senses":[["necessities of life (food, clothing and shelter)"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani28"],"japanese":[{"word":"移住","reading":"いじゅう"}],"senses":[["migration","immigration"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"定住","reading":"ていじゅう"},{"word":"定住","reading":"じょうじゅう"}],"senses":[["settlement","permanent residency"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"在住","reading":"ざいじゅう"}],"senses":[["residing","living","dwelling"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"永住","reading":"えいじゅう"}],"senses":[["permanent residence"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"現住所","reading":"げんじゅうしょ"}],"senses":[["(present) address"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"居住者","reading":"きょじゅうしゃ"}],"senses":[["resident","inhabitant"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"先住","reading":"せんじゅう"}],"senses":[["original inhabitant","aboriginal"],["previous priest"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"安住","reading":"あんじゅう"}],"senses":[["living in peace","living a quiet life"],["being content with one's present position","being satisfied with one's lot"]]}]}
+{
+  "basic": ["住", "Dwell", "1027"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "居住", "reading": "きょじゅう" }],
+      "senses": [["residence", "abode", "dwelling"], ["Residency (domicile)"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "衣食住", "reading": "いしょくじゅう" }],
+      "senses": [["necessities of life (food, clothing and shelter)"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani28"],
+      "japanese": [{ "word": "移住", "reading": "いじゅう" }],
+      "senses": [["migration", "immigration"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "定住", "reading": "ていじゅう" },
+        { "word": "定住", "reading": "じょうじゅう" }
+      ],
+      "senses": [["settlement", "permanent residency"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "在住", "reading": "ざいじゅう" }],
+      "senses": [["residing", "living", "dwelling"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "永住", "reading": "えいじゅう" }],
+      "senses": [["permanent residence"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "現住所", "reading": "げんじゅうしょ" }],
+      "senses": [["(present) address"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "居住者", "reading": "きょじゅうしゃ" }],
+      "senses": [["resident", "inhabitant"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "先住", "reading": "せんじゅう" }],
+      "senses": [["original inhabitant", "aboriginal"], ["previous priest"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "安住", "reading": "あんじゅう" }],
+      "senses": [
+        ["living in peace", "living a quiet life"],
+        [
+          "being content with one's present position",
+          "being satisfied with one's lot"
+        ]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "居住", "reading": "きょじゅう" }],
+      "senses": [["residence", "abode", "dwelling"], ["Residency (domicile)"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "衣食住", "reading": "いしょくじゅう" }],
+      "senses": [["necessities of life (food, clothing and shelter)"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani28"],
+      "japanese": [{ "word": "移住", "reading": "いじゅう" }],
+      "senses": [["migration", "immigration"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "定住", "reading": "ていじゅう" },
+        { "word": "定住", "reading": "じょうじゅう" }
+      ],
+      "senses": [["settlement", "permanent residency"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "在住", "reading": "ざいじゅう" }],
+      "senses": [["residing", "living", "dwelling"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "永住", "reading": "えいじゅう" }],
+      "senses": [["permanent residence"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "現住所", "reading": "げんじゅうしょ" }],
+      "senses": [["(present) address"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "居住者", "reading": "きょじゅうしゃ" }],
+      "senses": [["resident", "inhabitant"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "先住", "reading": "せんじゅう" }],
+      "senses": [["original inhabitant", "aboriginal"], ["previous priest"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "安住", "reading": "あんじゅう" }],
+      "senses": [
+        ["living in peace", "living a quiet life"],
+        [
+          "being content with one's present position",
+          "being satisfied with one's lot"
+        ]
+      ]
+    }
+  ]
+}

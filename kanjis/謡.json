@@ -1,1 +1,67 @@
-{"basic":["謡","Noh Chanting","2119"],"extended":[{"jlpt":[],"tags":["wanikani54"],"japanese":[{"word":"童謡","reading":"どうよう"}],"senses":[["children's song","nursery rhyme"],["Nursery rhyme"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani54"],"japanese":[{"word":"民謡","reading":"みんよう"}],"senses":[["folk song","popular song"],["Min'yō"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani54"],"japanese":[{"word":"歌謡","reading":"かよう"}],"senses":[["song","ballad"]]},{"jlpt":[],"tags":["wanikani56"],"japanese":[{"word":"歌謡曲","reading":"かようきょく"}],"senses":[["kayōkyoku","form of Japanese popular music that developed during the Showa era"],["(Western) pop song"],["Kayōkyoku"]]},{"jlpt":[],"tags":["wanikani54"],"japanese":[{"word":"童謡","reading":"どうよう"}],"senses":[["children's song","nursery rhyme"],["Nursery rhyme"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani54"],"japanese":[{"word":"民謡","reading":"みんよう"}],"senses":[["folk song","popular song"],["Min'yō"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani54"],"japanese":[{"word":"歌謡","reading":"かよう"}],"senses":[["song","ballad"]]},{"jlpt":[],"tags":["wanikani56"],"japanese":[{"word":"歌謡曲","reading":"かようきょく"}],"senses":[["kayōkyoku","form of Japanese popular music that developed during the Showa era"],["(Western) pop song"],["Kayōkyoku"]]}]}
+{
+  "basic": ["謡", "Noh Chanting", "2119"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": ["wanikani54"],
+      "japanese": [{ "word": "童謡", "reading": "どうよう" }],
+      "senses": [["children's song", "nursery rhyme"], ["Nursery rhyme"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani54"],
+      "japanese": [{ "word": "民謡", "reading": "みんよう" }],
+      "senses": [["folk song", "popular song"], ["Min'yō"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani54"],
+      "japanese": [{ "word": "歌謡", "reading": "かよう" }],
+      "senses": [["song", "ballad"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani56"],
+      "japanese": [{ "word": "歌謡曲", "reading": "かようきょく" }],
+      "senses": [
+        [
+          "kayōkyoku",
+          "form of Japanese popular music that developed during the Showa era"
+        ],
+        ["(Western) pop song"],
+        ["Kayōkyoku"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani54"],
+      "japanese": [{ "word": "童謡", "reading": "どうよう" }],
+      "senses": [["children's song", "nursery rhyme"], ["Nursery rhyme"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani54"],
+      "japanese": [{ "word": "民謡", "reading": "みんよう" }],
+      "senses": [["folk song", "popular song"], ["Min'yō"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani54"],
+      "japanese": [{ "word": "歌謡", "reading": "かよう" }],
+      "senses": [["song", "ballad"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani56"],
+      "japanese": [{ "word": "歌謡曲", "reading": "かようきょく" }],
+      "senses": [
+        [
+          "kayōkyoku",
+          "form of Japanese popular music that developed during the Showa era"
+        ],
+        ["(Western) pop song"],
+        ["Kayōkyoku"]
+      ]
+    }
+  ]
+}

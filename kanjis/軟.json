@@ -1,1 +1,17 @@
-{"basic":["軟","Soft","509"],"extended":[{"jlpt":["jlpt-n1"],"tags":["wanikani51"],"japanese":[{"word":"柔軟","reading":"じゅうなん"}],"senses":[["flexible","lithe","soft","pliable"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani51"],"japanese":[{"word":"柔軟","reading":"じゅうなん"}],"senses":[["flexible","lithe","soft","pliable"]]}]}
+{
+  "basic": ["軟", "Soft", "509"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani51"],
+      "japanese": [{ "word": "柔軟", "reading": "じゅうなん" }],
+      "senses": [["flexible", "lithe", "soft", "pliable"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani51"],
+      "japanese": [{ "word": "柔軟", "reading": "じゅうなん" }],
+      "senses": [["flexible", "lithe", "soft", "pliable"]]
+    }
+  ]
+}

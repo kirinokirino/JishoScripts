@@ -1,1 +1,41 @@
-{"basic":["邦","Home Country","1991"],"extended":[{"jlpt":["jlpt-n1"],"tags":["wanikani39"],"japanese":[{"word":"連邦","reading":"れんぽう"},{"word":"聯邦","reading":"れんぽう"}],"senses":[["commonwealth","federation of states","confederation","union"],["Federation"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"東邦","reading":"とうほう"}],"senses":[["Oriental country","the Orient"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani39"],"japanese":[{"word":"連邦","reading":"れんぽう"},{"word":"聯邦","reading":"れんぽう"}],"senses":[["commonwealth","federation of states","confederation","union"],["Federation"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"東邦","reading":"とうほう"}],"senses":[["Oriental country","the Orient"]]}]}
+{
+  "basic": ["邦", "Home Country", "1991"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani39"],
+      "japanese": [
+        { "word": "連邦", "reading": "れんぽう" },
+        { "word": "聯邦", "reading": "れんぽう" }
+      ],
+      "senses": [
+        ["commonwealth", "federation of states", "confederation", "union"],
+        ["Federation"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "東邦", "reading": "とうほう" }],
+      "senses": [["Oriental country", "the Orient"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani39"],
+      "japanese": [
+        { "word": "連邦", "reading": "れんぽう" },
+        { "word": "聯邦", "reading": "れんぽう" }
+      ],
+      "senses": [
+        ["commonwealth", "federation of states", "confederation", "union"],
+        ["Federation"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "東邦", "reading": "とうほう" }],
+      "senses": [["Oriental country", "the Orient"]]
+    }
+  ]
+}

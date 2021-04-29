@@ -1,1 +1,23 @@
-{"basic":["砕","Smash","121"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"火砕流","reading":"かさいりゅう"},{"word":"火災流","reading":"かさいりゅう"}],"senses":[["pyroclastic flow"],["Pyroclastic flow"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"火砕流","reading":"かさいりゅう"},{"word":"火災流","reading":"かさいりゅう"}],"senses":[["pyroclastic flow"],["Pyroclastic flow"]]}]}
+{
+  "basic": ["砕", "Smash", "121"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "火砕流", "reading": "かさいりゅう" },
+        { "word": "火災流", "reading": "かさいりゅう" }
+      ],
+      "senses": [["pyroclastic flow"], ["Pyroclastic flow"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "火砕流", "reading": "かさいりゅう" },
+        { "word": "火災流", "reading": "かさいりゅう" }
+      ],
+      "senses": [["pyroclastic flow"], ["Pyroclastic flow"]]
+    }
+  ]
+}

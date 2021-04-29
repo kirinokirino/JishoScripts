@@ -1,1 +1,33 @@
-{"basic":["塊","Clod","2180"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"団塊","reading":"だんかい"}],"senses":[["mass","lump","clod","clump"],["nodule"],["baby boom generation (of 1947-1949)","babyboomer (born between 1947-1949)"],["Nodule (geology)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"団塊","reading":"だんかい"}],"senses":[["mass","lump","clod","clump"],["nodule"],["baby boom generation (of 1947-1949)","babyboomer (born between 1947-1949)"],["Nodule (geology)"]]}]}
+{
+  "basic": ["塊", "Clod", "2180"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "団塊", "reading": "だんかい" }],
+      "senses": [
+        ["mass", "lump", "clod", "clump"],
+        ["nodule"],
+        [
+          "baby boom generation (of 1947-1949)",
+          "babyboomer (born between 1947-1949)"
+        ],
+        ["Nodule (geology)"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "団塊", "reading": "だんかい" }],
+      "senses": [
+        ["mass", "lump", "clod", "clump"],
+        ["nodule"],
+        [
+          "baby boom generation (of 1947-1949)",
+          "babyboomer (born between 1947-1949)"
+        ],
+        ["Nodule (geology)"]
+      ]
+    }
+  ]
+}

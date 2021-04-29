@@ -1,1 +1,531 @@
-{"basic":["長","Long","2070"],"extended":[{"jlpt":["jlpt-n4"],"tags":[],"japanese":[{"word":"校長","reading":"こうちょう"}],"senses":[["principal","headmaster"],["Head teacher"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani20"],"japanese":[{"word":"議長","reading":"ぎちょう"}],"senses":[["chair","chairman","chairperson","speaker (of an assembly)","president (of a council, senate, etc.)"],["Speaker (politics)"]]},{"jlpt":["jlpt-n4"],"tags":["wanikani6"],"japanese":[{"word":"社長","reading":"しゃちょう"}],"senses":[["company president","manager","director"]]},{"jlpt":["jlpt-n4"],"tags":[],"japanese":[{"word":"部長","reading":"ぶちょう"}],"senses":[["head (chief, director) of a section or department"],["head of a (school) club","head of a (school) team"]]},{"jlpt":["jlpt-n4"],"tags":["wanikani13"],"japanese":[{"word":"課長","reading":"かちょう"}],"senses":[["section manager","section chief"]]},{"jlpt":["jlpt-n3"],"tags":[],"japanese":[{"word":"成長","reading":"せいちょう"}],"senses":[["growth","development","growing up","becoming an adult"],["growth (of a company, the economy, etc.)"]]},{"jlpt":["jlpt-n3"],"tags":[],"japanese":[{"word":"身長","reading":"しんちょう"}],"senses":[["height (of body)","stature"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani30","wanikani32"],"japanese":[{"word":"延長","reading":"えんちょう"}],"senses":[["extension","elongation","prolongation","lengthening"],["Enchō era (923.4.11-931.4.26)"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"生長","reading":"せいちょう"}],"senses":[["growth (of a plant)"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"年長","reading":"ねんちょう"}],"senses":[["senior","older"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"会長","reading":"かいちょう"}],"senses":[["president (of a society)","chairman"],["Chairman"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"波長","reading":"はちょう"}],"senses":[["wavelength"],["Wavelength"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"局長","reading":"きょくちょう"}],"senses":[["bureau director","office chief"],["Director-general"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"機長","reading":"きちょう"}],"senses":[["captain (of an aircraft)"],["Pilot in command"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"市長","reading":"しちょう"}],"senses":[["mayor"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"船長","reading":"せんちょう"},{"word":"船長","reading":"ふなおさ"}],"senses":[["ship's captain","skipper"],["length of a ship"],["boatman"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"委員長","reading":"いいんちょう"}],"senses":[["(committee) chairman","president"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"隊長","reading":"たいちょう"}],"senses":[["commanding officer"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"学長","reading":"がくちょう"}],"senses":[["(university) president","chancellor","principal","provost"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"店長","reading":"てんちょう"}],"senses":[["shop manager"]]},{"jlpt":["jlpt-n4"],"tags":[],"japanese":[{"word":"校長","reading":"こうちょう"}],"senses":[["principal","headmaster"],["Head teacher"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani20"],"japanese":[{"word":"議長","reading":"ぎちょう"}],"senses":[["chair","chairman","chairperson","speaker (of an assembly)","president (of a council, senate, etc.)"],["Speaker (politics)"]]},{"jlpt":["jlpt-n4"],"tags":["wanikani6"],"japanese":[{"word":"社長","reading":"しゃちょう"}],"senses":[["company president","manager","director"]]},{"jlpt":["jlpt-n4"],"tags":[],"japanese":[{"word":"部長","reading":"ぶちょう"}],"senses":[["head (chief, director) of a section or department"],["head of a (school) club","head of a (school) team"]]},{"jlpt":["jlpt-n4"],"tags":["wanikani13"],"japanese":[{"word":"課長","reading":"かちょう"}],"senses":[["section manager","section chief"]]},{"jlpt":["jlpt-n3"],"tags":[],"japanese":[{"word":"成長","reading":"せいちょう"}],"senses":[["growth","development","growing up","becoming an adult"],["growth (of a company, the economy, etc.)"]]},{"jlpt":["jlpt-n3"],"tags":[],"japanese":[{"word":"身長","reading":"しんちょう"}],"senses":[["height (of body)","stature"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani30","wanikani32"],"japanese":[{"word":"延長","reading":"えんちょう"}],"senses":[["extension","elongation","prolongation","lengthening"],["Enchō era (923.4.11-931.4.26)"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"生長","reading":"せいちょう"}],"senses":[["growth (of a plant)"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"年長","reading":"ねんちょう"}],"senses":[["senior","older"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"会長","reading":"かいちょう"}],"senses":[["president (of a society)","chairman"],["Chairman"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"波長","reading":"はちょう"}],"senses":[["wavelength"],["Wavelength"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"局長","reading":"きょくちょう"}],"senses":[["bureau director","office chief"],["Director-general"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"機長","reading":"きちょう"}],"senses":[["captain (of an aircraft)"],["Pilot in command"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"市長","reading":"しちょう"}],"senses":[["mayor"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"船長","reading":"せんちょう"},{"word":"船長","reading":"ふなおさ"}],"senses":[["ship's captain","skipper"],["length of a ship"],["boatman"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"委員長","reading":"いいんちょう"}],"senses":[["(committee) chairman","president"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"隊長","reading":"たいちょう"}],"senses":[["commanding officer"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"学長","reading":"がくちょう"}],"senses":[["(university) president","chancellor","principal","provost"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"店長","reading":"てんちょう"}],"senses":[["shop manager"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"店長","reading":"てんちょう"}],"senses":[["shop manager"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"急成長","reading":"きゅうせいちょう"}],"senses":[["rapid growth"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"最長","reading":"さいちょう"}],"senses":[["longest"],["oldest"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"係長","reading":"かかりちょう"},{"word":"掛長","reading":"かかりちょう"}],"senses":[["subsection head","assistant manager","chief clerk"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"副社長","reading":"ふくしゃちょう"}],"senses":[["executive vice-president"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"所長","reading":"しょちょう"}],"senses":[["chief","head (of an office, of a laboratory)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"署長","reading":"しょちょう"}],"senses":[["chief (of police)","head (of office)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"支店長","reading":"してんちょう"}],"senses":[["branch manager","manager of a branch office"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"全長","reading":"ぜんちょう"}],"senses":[["over-all length","span"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"村長","reading":"そんちょう"},{"word":"村長","reading":"むらおさ"}],"senses":[["village headman","village mayor"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"組長","reading":"くみちょう"}],"senses":[["boss (esp. yakuza)","foreman"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"首長","reading":"しゅちょう"}],"senses":[["head (of organization, organisation)","chief"],["sheikh","emir"],["Mayor"]]},{"jlpt":[],"tags":["wanikani13"],"japanese":[{"word":"駅長","reading":"えきちょう"}],"senses":[["station master"],["Station master"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"塾長","reading":"じゅくちょう"}],"senses":[["principal of a private school"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"園長","reading":"えんちょう"}],"senses":[["head of a garden","kindergarten principal","nursery school principal","park director","zoo director","head of a plantation"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"区長","reading":"くちょう"}],"senses":[["head of a ward","mayor of a ward","chief administrator of a ward"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"院長","reading":"いんちょう"}],"senses":[["director"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"次長","reading":"じちょう"}],"senses":[["vice-chief","vice-director","assistant director","deputy manager"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"総長","reading":"そうちょう"}],"senses":[["(college) president","secretary-general"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"座長","reading":"ざちょう"}],"senses":[["chairman"],["leader of a troupe","proprietor of a theatrical company"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"座長","reading":"ざちょう"}],"senses":[["chairman"],["leader of a troupe","proprietor of a theatrical company"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"沖縄開発庁長官","reading":"おきなわかいはつちょうちょうかん"}],"senses":[["Director General of Okinawa Development Agency"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"団長","reading":"だんちょう"}],"senses":[["leader of a delegation (body, party)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"町長","reading":"ちょうちょう"}],"senses":[["town mayor"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"官房長官","reading":"かんぼうちょうかん"}],"senses":[["Chief Cabinet Secretary"],["Chief of Staff of the Presidency"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"北海道開発庁長官","reading":"ほっかいどうかいはつちょうちょうかん"}],"senses":[["Director General of Hokkaido Development Agency"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"室長","reading":"しつちょう"}],"senses":[["section chief","laboratory manager","office head","room monitor"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"経済成長率","reading":"けいざいせいちょうりつ"}],"senses":[["rate of economic growth"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"医長","reading":"いちょう"}],"senses":[["medical director","chief physician"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"館長","reading":"かんちょう"}],"senses":[["superintendent","director","curator","chief librarian"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"管長","reading":"かんちょう"}],"senses":[["superintendent priest","chief abbot"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"細長い","reading":"ほそながい"}],"senses":[["long and narrow"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"ト長調","reading":"トちょうちょう"}],"senses":[["G major"],["G major"]]}]}
+{
+  "basic": ["長", "Long", "2070"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n4"],
+      "tags": [],
+      "japanese": [{ "word": "校長", "reading": "こうちょう" }],
+      "senses": [["principal", "headmaster"], ["Head teacher"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani20"],
+      "japanese": [{ "word": "議長", "reading": "ぎちょう" }],
+      "senses": [
+        [
+          "chair",
+          "chairman",
+          "chairperson",
+          "speaker (of an assembly)",
+          "president (of a council, senate, etc.)"
+        ],
+        ["Speaker (politics)"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n4"],
+      "tags": ["wanikani6"],
+      "japanese": [{ "word": "社長", "reading": "しゃちょう" }],
+      "senses": [["company president", "manager", "director"]]
+    },
+    {
+      "jlpt": ["jlpt-n4"],
+      "tags": [],
+      "japanese": [{ "word": "部長", "reading": "ぶちょう" }],
+      "senses": [
+        ["head (chief, director) of a section or department"],
+        ["head of a (school) club", "head of a (school) team"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n4"],
+      "tags": ["wanikani13"],
+      "japanese": [{ "word": "課長", "reading": "かちょう" }],
+      "senses": [["section manager", "section chief"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": [],
+      "japanese": [{ "word": "成長", "reading": "せいちょう" }],
+      "senses": [
+        ["growth", "development", "growing up", "becoming an adult"],
+        ["growth (of a company, the economy, etc.)"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": [],
+      "japanese": [{ "word": "身長", "reading": "しんちょう" }],
+      "senses": [["height (of body)", "stature"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani30", "wanikani32"],
+      "japanese": [{ "word": "延長", "reading": "えんちょう" }],
+      "senses": [
+        ["extension", "elongation", "prolongation", "lengthening"],
+        ["Enchō era (923.4.11-931.4.26)"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "生長", "reading": "せいちょう" }],
+      "senses": [["growth (of a plant)"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "年長", "reading": "ねんちょう" }],
+      "senses": [["senior", "older"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "会長", "reading": "かいちょう" }],
+      "senses": [["president (of a society)", "chairman"], ["Chairman"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "波長", "reading": "はちょう" }],
+      "senses": [["wavelength"], ["Wavelength"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "局長", "reading": "きょくちょう" }],
+      "senses": [["bureau director", "office chief"], ["Director-general"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "機長", "reading": "きちょう" }],
+      "senses": [["captain (of an aircraft)"], ["Pilot in command"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "市長", "reading": "しちょう" }],
+      "senses": [["mayor"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "船長", "reading": "せんちょう" },
+        { "word": "船長", "reading": "ふなおさ" }
+      ],
+      "senses": [
+        ["ship's captain", "skipper"],
+        ["length of a ship"],
+        ["boatman"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "委員長", "reading": "いいんちょう" }],
+      "senses": [["(committee) chairman", "president"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "隊長", "reading": "たいちょう" }],
+      "senses": [["commanding officer"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "学長", "reading": "がくちょう" }],
+      "senses": [
+        ["(university) president", "chancellor", "principal", "provost"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "店長", "reading": "てんちょう" }],
+      "senses": [["shop manager"]]
+    },
+    {
+      "jlpt": ["jlpt-n4"],
+      "tags": [],
+      "japanese": [{ "word": "校長", "reading": "こうちょう" }],
+      "senses": [["principal", "headmaster"], ["Head teacher"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani20"],
+      "japanese": [{ "word": "議長", "reading": "ぎちょう" }],
+      "senses": [
+        [
+          "chair",
+          "chairman",
+          "chairperson",
+          "speaker (of an assembly)",
+          "president (of a council, senate, etc.)"
+        ],
+        ["Speaker (politics)"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n4"],
+      "tags": ["wanikani6"],
+      "japanese": [{ "word": "社長", "reading": "しゃちょう" }],
+      "senses": [["company president", "manager", "director"]]
+    },
+    {
+      "jlpt": ["jlpt-n4"],
+      "tags": [],
+      "japanese": [{ "word": "部長", "reading": "ぶちょう" }],
+      "senses": [
+        ["head (chief, director) of a section or department"],
+        ["head of a (school) club", "head of a (school) team"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n4"],
+      "tags": ["wanikani13"],
+      "japanese": [{ "word": "課長", "reading": "かちょう" }],
+      "senses": [["section manager", "section chief"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": [],
+      "japanese": [{ "word": "成長", "reading": "せいちょう" }],
+      "senses": [
+        ["growth", "development", "growing up", "becoming an adult"],
+        ["growth (of a company, the economy, etc.)"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": [],
+      "japanese": [{ "word": "身長", "reading": "しんちょう" }],
+      "senses": [["height (of body)", "stature"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani30", "wanikani32"],
+      "japanese": [{ "word": "延長", "reading": "えんちょう" }],
+      "senses": [
+        ["extension", "elongation", "prolongation", "lengthening"],
+        ["Enchō era (923.4.11-931.4.26)"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "生長", "reading": "せいちょう" }],
+      "senses": [["growth (of a plant)"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "年長", "reading": "ねんちょう" }],
+      "senses": [["senior", "older"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "会長", "reading": "かいちょう" }],
+      "senses": [["president (of a society)", "chairman"], ["Chairman"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "波長", "reading": "はちょう" }],
+      "senses": [["wavelength"], ["Wavelength"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "局長", "reading": "きょくちょう" }],
+      "senses": [["bureau director", "office chief"], ["Director-general"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "機長", "reading": "きちょう" }],
+      "senses": [["captain (of an aircraft)"], ["Pilot in command"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "市長", "reading": "しちょう" }],
+      "senses": [["mayor"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "船長", "reading": "せんちょう" },
+        { "word": "船長", "reading": "ふなおさ" }
+      ],
+      "senses": [
+        ["ship's captain", "skipper"],
+        ["length of a ship"],
+        ["boatman"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "委員長", "reading": "いいんちょう" }],
+      "senses": [["(committee) chairman", "president"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "隊長", "reading": "たいちょう" }],
+      "senses": [["commanding officer"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "学長", "reading": "がくちょう" }],
+      "senses": [
+        ["(university) president", "chancellor", "principal", "provost"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "店長", "reading": "てんちょう" }],
+      "senses": [["shop manager"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "店長", "reading": "てんちょう" }],
+      "senses": [["shop manager"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "急成長", "reading": "きゅうせいちょう" }],
+      "senses": [["rapid growth"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "最長", "reading": "さいちょう" }],
+      "senses": [["longest"], ["oldest"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "係長", "reading": "かかりちょう" },
+        { "word": "掛長", "reading": "かかりちょう" }
+      ],
+      "senses": [["subsection head", "assistant manager", "chief clerk"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "副社長", "reading": "ふくしゃちょう" }],
+      "senses": [["executive vice-president"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "所長", "reading": "しょちょう" }],
+      "senses": [["chief", "head (of an office, of a laboratory)"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "署長", "reading": "しょちょう" }],
+      "senses": [["chief (of police)", "head (of office)"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "支店長", "reading": "してんちょう" }],
+      "senses": [["branch manager", "manager of a branch office"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "全長", "reading": "ぜんちょう" }],
+      "senses": [["over-all length", "span"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "村長", "reading": "そんちょう" },
+        { "word": "村長", "reading": "むらおさ" }
+      ],
+      "senses": [["village headman", "village mayor"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "組長", "reading": "くみちょう" }],
+      "senses": [["boss (esp. yakuza)", "foreman"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "首長", "reading": "しゅちょう" }],
+      "senses": [
+        ["head (of organization, organisation)", "chief"],
+        ["sheikh", "emir"],
+        ["Mayor"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani13"],
+      "japanese": [{ "word": "駅長", "reading": "えきちょう" }],
+      "senses": [["station master"], ["Station master"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "塾長", "reading": "じゅくちょう" }],
+      "senses": [["principal of a private school"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "園長", "reading": "えんちょう" }],
+      "senses": [
+        [
+          "head of a garden",
+          "kindergarten principal",
+          "nursery school principal",
+          "park director",
+          "zoo director",
+          "head of a plantation"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "区長", "reading": "くちょう" }],
+      "senses": [
+        ["head of a ward", "mayor of a ward", "chief administrator of a ward"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "院長", "reading": "いんちょう" }],
+      "senses": [["director"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "次長", "reading": "じちょう" }],
+      "senses": [
+        ["vice-chief", "vice-director", "assistant director", "deputy manager"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "総長", "reading": "そうちょう" }],
+      "senses": [["(college) president", "secretary-general"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "座長", "reading": "ざちょう" }],
+      "senses": [
+        ["chairman"],
+        ["leader of a troupe", "proprietor of a theatrical company"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "座長", "reading": "ざちょう" }],
+      "senses": [
+        ["chairman"],
+        ["leader of a troupe", "proprietor of a theatrical company"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "沖縄開発庁長官", "reading": "おきなわかいはつちょうちょうかん" }],
+      "senses": [["Director General of Okinawa Development Agency"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "団長", "reading": "だんちょう" }],
+      "senses": [["leader of a delegation (body, party)"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "町長", "reading": "ちょうちょう" }],
+      "senses": [["town mayor"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "官房長官", "reading": "かんぼうちょうかん" }],
+      "senses": [
+        ["Chief Cabinet Secretary"],
+        ["Chief of Staff of the Presidency"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "北海道開発庁長官", "reading": "ほっかいどうかいはつちょうちょうかん" }],
+      "senses": [["Director General of Hokkaido Development Agency"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "室長", "reading": "しつちょう" }],
+      "senses": [
+        ["section chief", "laboratory manager", "office head", "room monitor"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "経済成長率", "reading": "けいざいせいちょうりつ" }],
+      "senses": [["rate of economic growth"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "医長", "reading": "いちょう" }],
+      "senses": [["medical director", "chief physician"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "館長", "reading": "かんちょう" }],
+      "senses": [["superintendent", "director", "curator", "chief librarian"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "管長", "reading": "かんちょう" }],
+      "senses": [["superintendent priest", "chief abbot"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "細長い", "reading": "ほそながい" }],
+      "senses": [["long and narrow"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "ト長調", "reading": "トちょうちょう" }],
+      "senses": [["G major"], ["G major"]]
+    }
+  ]
+}

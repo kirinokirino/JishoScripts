@@ -1,1 +1,179 @@
-{"basic":["降","Descend","1405"],"extended":[{"jlpt":["jlpt-n2"],"tags":["wanikani34"],"japanese":[{"word":"以降","reading":"いこう"},{"word":"已降","reading":"いこう"}],"senses":[["on and after","as from","hereafter","thereafter","since"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"雨降り","reading":"あめふり"},{"word":"雨ふり","reading":"あめふり"}],"senses":[["rainfall","rainy weather"],["rainy","wet"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"飛び下りる","reading":"とびおりる"},{"word":"飛び降りる","reading":"とびおりる"},{"word":"跳び降りる","reading":"とびおりる"},{"word":"飛降りる","reading":"とびおりる"}],"senses":[["to jump down","to jump off","to jump from","to jump out of"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"乗り降り","reading":"のりおり"}],"senses":[["getting on and off (a vehicle)","boarding and alighting"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"下降","reading":"かこう"}],"senses":[["descent","fall","drop","decline","downturn","subsidence"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"天下り","reading":"あまくだり"},{"word":"天降り","reading":"あまくだり"}],"senses":[["retiring high-ranking government officials taking a lucrative job in a private or semi-private corporation"],["command (from superior to inferior, government to private sector, etc.)","order","imposition"],["descent from heaven"],["Amakudari"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"滑降","reading":"かっこう"}],"senses":[["descent (esp. in skiing)","sliding down"],["downhill (skiing race)"],["Downhill"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"乗降","reading":"じょうこう"}],"senses":[["getting on and off","embarking and disembarking"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"投降","reading":"とうこう"}],"senses":[["surrender"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani34"],"japanese":[{"word":"以降","reading":"いこう"},{"word":"已降","reading":"いこう"}],"senses":[["on and after","as from","hereafter","thereafter","since"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"雨降り","reading":"あめふり"},{"word":"雨ふり","reading":"あめふり"}],"senses":[["rainfall","rainy weather"],["rainy","wet"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"飛び下りる","reading":"とびおりる"},{"word":"飛び降りる","reading":"とびおりる"},{"word":"跳び降りる","reading":"とびおりる"},{"word":"飛降りる","reading":"とびおりる"}],"senses":[["to jump down","to jump off","to jump from","to jump out of"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"乗り降り","reading":"のりおり"}],"senses":[["getting on and off (a vehicle)","boarding and alighting"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"下降","reading":"かこう"}],"senses":[["descent","fall","drop","decline","downturn","subsidence"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"滑降","reading":"かっこう"}],"senses":[["descent (esp. in skiing)","sliding down"],["downhill (skiing race)"],["Downhill"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"天下り","reading":"あまくだり"},{"word":"天降り","reading":"あまくだり"}],"senses":[["retiring high-ranking government officials taking a lucrative job in a private or semi-private corporation"],["command (from superior to inferior, government to private sector, etc.)","order","imposition"],["descent from heaven"],["Amakudari"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"乗降","reading":"じょうこう"}],"senses":[["getting on and off","embarking and disembarking"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"投降","reading":"とうこう"}],"senses":[["surrender"]]}]}
+{
+  "basic": ["降", "Descend", "1405"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani34"],
+      "japanese": [
+        { "word": "以降", "reading": "いこう" },
+        { "word": "已降", "reading": "いこう" }
+      ],
+      "senses": [
+        ["on and after", "as from", "hereafter", "thereafter", "since"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "雨降り", "reading": "あめふり" },
+        { "word": "雨ふり", "reading": "あめふり" }
+      ],
+      "senses": [["rainfall", "rainy weather"], ["rainy", "wet"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "飛び下りる", "reading": "とびおりる" },
+        { "word": "飛び降りる", "reading": "とびおりる" },
+        { "word": "跳び降りる", "reading": "とびおりる" },
+        { "word": "飛降りる", "reading": "とびおりる" }
+      ],
+      "senses": [
+        ["to jump down", "to jump off", "to jump from", "to jump out of"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "乗り降り", "reading": "のりおり" }],
+      "senses": [["getting on and off (a vehicle)", "boarding and alighting"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "下降", "reading": "かこう" }],
+      "senses": [
+        ["descent", "fall", "drop", "decline", "downturn", "subsidence"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "天下り", "reading": "あまくだり" },
+        { "word": "天降り", "reading": "あまくだり" }
+      ],
+      "senses": [
+        ["retiring high-ranking government officials taking a lucrative job in a private or semi-private corporation"],
+        [
+          "command (from superior to inferior, government to private sector, etc.)",
+          "order",
+          "imposition"
+        ],
+        ["descent from heaven"],
+        ["Amakudari"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "滑降", "reading": "かっこう" }],
+      "senses": [
+        ["descent (esp. in skiing)", "sliding down"],
+        ["downhill (skiing race)"],
+        ["Downhill"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "乗降", "reading": "じょうこう" }],
+      "senses": [["getting on and off", "embarking and disembarking"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "投降", "reading": "とうこう" }],
+      "senses": [["surrender"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani34"],
+      "japanese": [
+        { "word": "以降", "reading": "いこう" },
+        { "word": "已降", "reading": "いこう" }
+      ],
+      "senses": [
+        ["on and after", "as from", "hereafter", "thereafter", "since"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "雨降り", "reading": "あめふり" },
+        { "word": "雨ふり", "reading": "あめふり" }
+      ],
+      "senses": [["rainfall", "rainy weather"], ["rainy", "wet"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "飛び下りる", "reading": "とびおりる" },
+        { "word": "飛び降りる", "reading": "とびおりる" },
+        { "word": "跳び降りる", "reading": "とびおりる" },
+        { "word": "飛降りる", "reading": "とびおりる" }
+      ],
+      "senses": [
+        ["to jump down", "to jump off", "to jump from", "to jump out of"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "乗り降り", "reading": "のりおり" }],
+      "senses": [["getting on and off (a vehicle)", "boarding and alighting"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "下降", "reading": "かこう" }],
+      "senses": [
+        ["descent", "fall", "drop", "decline", "downturn", "subsidence"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "滑降", "reading": "かっこう" }],
+      "senses": [
+        ["descent (esp. in skiing)", "sliding down"],
+        ["downhill (skiing race)"],
+        ["Downhill"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "天下り", "reading": "あまくだり" },
+        { "word": "天降り", "reading": "あまくだり" }
+      ],
+      "senses": [
+        ["retiring high-ranking government officials taking a lucrative job in a private or semi-private corporation"],
+        [
+          "command (from superior to inferior, government to private sector, etc.)",
+          "order",
+          "imposition"
+        ],
+        ["descent from heaven"],
+        ["Amakudari"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "乗降", "reading": "じょうこう" }],
+      "senses": [["getting on and off", "embarking and disembarking"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "投降", "reading": "とうこう" }],
+      "senses": [["surrender"]]
+    }
+  ]
+}

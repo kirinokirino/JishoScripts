@@ -1,1 +1,55 @@
-{"basic":["依","Reliant","1045"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"に因って","reading":"によって"},{"word":"に依って","reading":"によって"}],"senses":[["according to","by (means of)","due to","because of"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"に依る","reading":"による"},{"word":"に因る","reading":"による"},{"word":"に拠る","reading":"による"}],"senses":[["by means of","due to","because of","according to"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"に依ると","reading":"によると"}],"senses":[["according to (someone)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"に因って","reading":"によって"},{"word":"に依って","reading":"によって"}],"senses":[["according to","by (means of)","due to","because of"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"に依る","reading":"による"},{"word":"に因る","reading":"による"},{"word":"に拠る","reading":"による"}],"senses":[["by means of","due to","because of","according to"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"に依ると","reading":"によると"}],"senses":[["according to (someone)"]]}]}
+{
+  "basic": ["依", "Reliant", "1045"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "に因って", "reading": "によって" },
+        { "word": "に依って", "reading": "によって" }
+      ],
+      "senses": [["according to", "by (means of)", "due to", "because of"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "に依る", "reading": "による" },
+        { "word": "に因る", "reading": "による" },
+        { "word": "に拠る", "reading": "による" }
+      ],
+      "senses": [["by means of", "due to", "because of", "according to"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "に依ると", "reading": "によると" }],
+      "senses": [["according to (someone)"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "に因って", "reading": "によって" },
+        { "word": "に依って", "reading": "によって" }
+      ],
+      "senses": [["according to", "by (means of)", "due to", "because of"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "に依る", "reading": "による" },
+        { "word": "に因る", "reading": "による" },
+        { "word": "に拠る", "reading": "による" }
+      ],
+      "senses": [["by means of", "due to", "because of", "according to"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "に依ると", "reading": "によると" }],
+      "senses": [["according to (someone)"]]
+    }
+  ]
+}

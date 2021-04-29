@@ -1,1 +1,115 @@
-{"basic":["王","King","271"],"extended":[{"jlpt":["jlpt-n3"],"tags":["wanikani2"],"japanese":[{"word":"女王","reading":"じょおう"},{"word":"女王","reading":"じょうおう"},{"word":"女王","reading":"にょおう"}],"senses":[["queen"],["female champion"],["Queen regnant"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani6"],"japanese":[{"word":"国王","reading":"こくおう"}],"senses":[["king","queen","monarch","sovereign"],["the Crown (as a focus of authority in the UK, etc.)","the throne"]]},{"jlpt":[],"tags":["wanikani6"],"japanese":[{"word":"海王星","reading":"かいおうせい"}],"senses":[["Neptune (planet)"],["Neptune"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"法王","reading":"ほうおう"}],"senses":[["Pope"],["Buddha"],["Houou"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"天王星","reading":"てんのうせい"},{"word":"天王星","reading":"てんおうせい"}],"senses":[["Uranus (planet)"],["Uranus"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"竜王","reading":"りゅうおう"},{"word":"龍王","reading":"りゅうおう"}],"senses":[["Dragon King"],["promoted rook"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"花王","reading":"かおう"}],"senses":[["tree peony (Paeonia suffruticosa)"],["Kao Corporation"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani2"],"japanese":[{"word":"女王","reading":"じょおう"},{"word":"女王","reading":"じょうおう"},{"word":"女王","reading":"にょおう"}],"senses":[["queen"],["female champion"],["Queen regnant"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani6"],"japanese":[{"word":"国王","reading":"こくおう"}],"senses":[["king","queen","monarch","sovereign"],["the Crown (as a focus of authority in the UK, etc.)","the throne"]]},{"jlpt":[],"tags":["wanikani6"],"japanese":[{"word":"海王星","reading":"かいおうせい"}],"senses":[["Neptune (planet)"],["Neptune"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"法王","reading":"ほうおう"}],"senses":[["Pope"],["Buddha"],["Houou"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"天王星","reading":"てんのうせい"},{"word":"天王星","reading":"てんおうせい"}],"senses":[["Uranus (planet)"],["Uranus"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"竜王","reading":"りゅうおう"},{"word":"龍王","reading":"りゅうおう"}],"senses":[["Dragon King"],["promoted rook"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"花王","reading":"かおう"}],"senses":[["tree peony (Paeonia suffruticosa)"],["Kao Corporation"]]}]}
+{
+  "basic": ["王", "King", "271"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani2"],
+      "japanese": [
+        { "word": "女王", "reading": "じょおう" },
+        { "word": "女王", "reading": "じょうおう" },
+        { "word": "女王", "reading": "にょおう" }
+      ],
+      "senses": [["queen"], ["female champion"], ["Queen regnant"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani6"],
+      "japanese": [{ "word": "国王", "reading": "こくおう" }],
+      "senses": [
+        ["king", "queen", "monarch", "sovereign"],
+        ["the Crown (as a focus of authority in the UK, etc.)", "the throne"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani6"],
+      "japanese": [{ "word": "海王星", "reading": "かいおうせい" }],
+      "senses": [["Neptune (planet)"], ["Neptune"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "法王", "reading": "ほうおう" }],
+      "senses": [["Pope"], ["Buddha"], ["Houou"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "天王星", "reading": "てんのうせい" },
+        { "word": "天王星", "reading": "てんおうせい" }
+      ],
+      "senses": [["Uranus (planet)"], ["Uranus"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "竜王", "reading": "りゅうおう" },
+        { "word": "龍王", "reading": "りゅうおう" }
+      ],
+      "senses": [["Dragon King"], ["promoted rook"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "花王", "reading": "かおう" }],
+      "senses": [["tree peony (Paeonia suffruticosa)"], ["Kao Corporation"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani2"],
+      "japanese": [
+        { "word": "女王", "reading": "じょおう" },
+        { "word": "女王", "reading": "じょうおう" },
+        { "word": "女王", "reading": "にょおう" }
+      ],
+      "senses": [["queen"], ["female champion"], ["Queen regnant"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani6"],
+      "japanese": [{ "word": "国王", "reading": "こくおう" }],
+      "senses": [
+        ["king", "queen", "monarch", "sovereign"],
+        ["the Crown (as a focus of authority in the UK, etc.)", "the throne"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani6"],
+      "japanese": [{ "word": "海王星", "reading": "かいおうせい" }],
+      "senses": [["Neptune (planet)"], ["Neptune"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "法王", "reading": "ほうおう" }],
+      "senses": [["Pope"], ["Buddha"], ["Houou"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "天王星", "reading": "てんのうせい" },
+        { "word": "天王星", "reading": "てんおうせい" }
+      ],
+      "senses": [["Uranus (planet)"], ["Uranus"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "竜王", "reading": "りゅうおう" },
+        { "word": "龍王", "reading": "りゅうおう" }
+      ],
+      "senses": [["Dragon King"], ["promoted rook"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "花王", "reading": "かおう" }],
+      "senses": [["tree peony (Paeonia suffruticosa)"], ["Kao Corporation"]]
+    }
+  ]
+}

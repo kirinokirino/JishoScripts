@@ -1,1 +1,117 @@
-{"basic":["嫌","Dislike","1724"],"extended":[{"jlpt":["jlpt-n3"],"tags":["wanikani20"],"japanese":[{"word":"機嫌","reading":"きげん"},{"word":"譏嫌","reading":"きげん"},{"word":"気嫌","reading":"きげん"}],"senses":[["humour","humor","temper","mood","spirits"],["safety","health","well-being","one's situation"],["in a good mood","in high spirits","happy","cheery","merry","chipper"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"好き嫌い","reading":"すききらい"}],"senses":[["likes and dislikes","pickiness (about food)","choosiness","fussiness","tastes","preferences"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"上機嫌","reading":"じょうきげん"}],"senses":[["good humour (humor)","good mood"]]},{"jlpt":[],"tags":["wanikani22"],"japanese":[{"word":"大嫌い","reading":"だいきらい"}],"senses":[["detestable","abhorrent","loathsome"]]},{"jlpt":[],"tags":["wanikani22"],"japanese":[{"word":"不機嫌","reading":"ふきげん"}],"senses":[["pout","displeasure","ill humor","ill humour","sullenness"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani20"],"japanese":[{"word":"機嫌","reading":"きげん"},{"word":"譏嫌","reading":"きげん"},{"word":"気嫌","reading":"きげん"}],"senses":[["humour","humor","temper","mood","spirits"],["safety","health","well-being","one's situation"],["in a good mood","in high spirits","happy","cheery","merry","chipper"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"好き嫌い","reading":"すききらい"}],"senses":[["likes and dislikes","pickiness (about food)","choosiness","fussiness","tastes","preferences"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"上機嫌","reading":"じょうきげん"}],"senses":[["good humour (humor)","good mood"]]},{"jlpt":[],"tags":["wanikani22"],"japanese":[{"word":"大嫌い","reading":"だいきらい"}],"senses":[["detestable","abhorrent","loathsome"]]},{"jlpt":[],"tags":["wanikani22"],"japanese":[{"word":"不機嫌","reading":"ふきげん"}],"senses":[["pout","displeasure","ill humor","ill humour","sullenness"]]}]}
+{
+  "basic": ["嫌", "Dislike", "1724"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani20"],
+      "japanese": [
+        { "word": "機嫌", "reading": "きげん" },
+        { "word": "譏嫌", "reading": "きげん" },
+        { "word": "気嫌", "reading": "きげん" }
+      ],
+      "senses": [
+        ["humour", "humor", "temper", "mood", "spirits"],
+        ["safety", "health", "well-being", "one's situation"],
+        [
+          "in a good mood",
+          "in high spirits",
+          "happy",
+          "cheery",
+          "merry",
+          "chipper"
+        ]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "好き嫌い", "reading": "すききらい" }],
+      "senses": [
+        [
+          "likes and dislikes",
+          "pickiness (about food)",
+          "choosiness",
+          "fussiness",
+          "tastes",
+          "preferences"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "上機嫌", "reading": "じょうきげん" }],
+      "senses": [["good humour (humor)", "good mood"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani22"],
+      "japanese": [{ "word": "大嫌い", "reading": "だいきらい" }],
+      "senses": [["detestable", "abhorrent", "loathsome"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani22"],
+      "japanese": [{ "word": "不機嫌", "reading": "ふきげん" }],
+      "senses": [
+        ["pout", "displeasure", "ill humor", "ill humour", "sullenness"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani20"],
+      "japanese": [
+        { "word": "機嫌", "reading": "きげん" },
+        { "word": "譏嫌", "reading": "きげん" },
+        { "word": "気嫌", "reading": "きげん" }
+      ],
+      "senses": [
+        ["humour", "humor", "temper", "mood", "spirits"],
+        ["safety", "health", "well-being", "one's situation"],
+        [
+          "in a good mood",
+          "in high spirits",
+          "happy",
+          "cheery",
+          "merry",
+          "chipper"
+        ]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "好き嫌い", "reading": "すききらい" }],
+      "senses": [
+        [
+          "likes and dislikes",
+          "pickiness (about food)",
+          "choosiness",
+          "fussiness",
+          "tastes",
+          "preferences"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "上機嫌", "reading": "じょうきげん" }],
+      "senses": [["good humour (humor)", "good mood"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani22"],
+      "japanese": [{ "word": "大嫌い", "reading": "だいきらい" }],
+      "senses": [["detestable", "abhorrent", "loathsome"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani22"],
+      "japanese": [{ "word": "不機嫌", "reading": "ふきげん" }],
+      "senses": [
+        ["pout", "displeasure", "ill humor", "ill humour", "sullenness"]
+      ]
+    }
+  ]
+}

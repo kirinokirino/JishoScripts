@@ -1,1 +1,35 @@
-{"basic":["黙","Silence","255"],"extended":[{"jlpt":["jlpt-n1"],"tags":["wanikani46"],"japanese":[{"word":"沈黙","reading":"ちんもく"}],"senses":[["silence","being silent","quiet","hush"],["reticence","inaction"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"暗黙","reading":"あんもく"}],"senses":[["tacit","unspoken","implicit"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani46"],"japanese":[{"word":"沈黙","reading":"ちんもく"}],"senses":[["silence","being silent","quiet","hush"],["reticence","inaction"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"暗黙","reading":"あんもく"}],"senses":[["tacit","unspoken","implicit"]]}]}
+{
+  "basic": ["黙", "Silence", "255"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani46"],
+      "japanese": [{ "word": "沈黙", "reading": "ちんもく" }],
+      "senses": [
+        ["silence", "being silent", "quiet", "hush"],
+        ["reticence", "inaction"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "暗黙", "reading": "あんもく" }],
+      "senses": [["tacit", "unspoken", "implicit"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani46"],
+      "japanese": [{ "word": "沈黙", "reading": "ちんもく" }],
+      "senses": [
+        ["silence", "being silent", "quiet", "hush"],
+        ["reticence", "inaction"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "暗黙", "reading": "あんもく" }],
+      "senses": [["tacit", "unspoken", "implicit"]]
+    }
+  ]
+}

@@ -1,1 +1,23 @@
-{"basic":["拍","Clap","704"],"extended":[{"jlpt":[],"tags":["wanikani56"],"japanese":[{"word":"脈拍","reading":"みゃくはく"},{"word":"脈搏","reading":"みゃくはく"}],"senses":[["pulse","pulse rate","pulsation","stroke of pulse"]]},{"jlpt":[],"tags":["wanikani56"],"japanese":[{"word":"脈拍","reading":"みゃくはく"},{"word":"脈搏","reading":"みゃくはく"}],"senses":[["pulse","pulse rate","pulsation","stroke of pulse"]]}]}
+{
+  "basic": ["拍", "Clap", "704"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": ["wanikani56"],
+      "japanese": [
+        { "word": "脈拍", "reading": "みゃくはく" },
+        { "word": "脈搏", "reading": "みゃくはく" }
+      ],
+      "senses": [["pulse", "pulse rate", "pulsation", "stroke of pulse"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani56"],
+      "japanese": [
+        { "word": "脈拍", "reading": "みゃくはく" },
+        { "word": "脈搏", "reading": "みゃくはく" }
+      ],
+      "senses": [["pulse", "pulse rate", "pulsation", "stroke of pulse"]]
+    }
+  ]
+}

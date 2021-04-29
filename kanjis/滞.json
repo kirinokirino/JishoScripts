@@ -1,1 +1,81 @@
-{"basic":["滞","Stagnate","445"],"extended":[{"jlpt":["jlpt-n3"],"tags":["wanikani39"],"japanese":[{"word":"渋滞","reading":"じゅうたい"}],"senses":[["congestion (e.g. traffic)","delay","stagnation"],["Traffic congestion"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"停滞","reading":"ていたい"}],"senses":[["stagnation","tie-up","standstill","congestion","delay","accumulation","falling into arrears"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"延滞","reading":"えんたい"}],"senses":[["arrears","(being) overdue","delay (e.g. in payment)","procrastination"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani39"],"japanese":[{"word":"渋滞","reading":"じゅうたい"}],"senses":[["congestion (e.g. traffic)","delay","stagnation"],["Traffic congestion"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"停滞","reading":"ていたい"}],"senses":[["stagnation","tie-up","standstill","congestion","delay","accumulation","falling into arrears"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"延滞","reading":"えんたい"}],"senses":[["arrears","(being) overdue","delay (e.g. in payment)","procrastination"]]}]}
+{
+  "basic": ["滞", "Stagnate", "445"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani39"],
+      "japanese": [{ "word": "渋滞", "reading": "じゅうたい" }],
+      "senses": [
+        ["congestion (e.g. traffic)", "delay", "stagnation"],
+        ["Traffic congestion"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "停滞", "reading": "ていたい" }],
+      "senses": [
+        [
+          "stagnation",
+          "tie-up",
+          "standstill",
+          "congestion",
+          "delay",
+          "accumulation",
+          "falling into arrears"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "延滞", "reading": "えんたい" }],
+      "senses": [
+        [
+          "arrears",
+          "(being) overdue",
+          "delay (e.g. in payment)",
+          "procrastination"
+        ]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani39"],
+      "japanese": [{ "word": "渋滞", "reading": "じゅうたい" }],
+      "senses": [
+        ["congestion (e.g. traffic)", "delay", "stagnation"],
+        ["Traffic congestion"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "停滞", "reading": "ていたい" }],
+      "senses": [
+        [
+          "stagnation",
+          "tie-up",
+          "standstill",
+          "congestion",
+          "delay",
+          "accumulation",
+          "falling into arrears"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "延滞", "reading": "えんたい" }],
+      "senses": [
+        [
+          "arrears",
+          "(being) overdue",
+          "delay (e.g. in payment)",
+          "procrastination"
+        ]
+      ]
+    }
+  ]
+}

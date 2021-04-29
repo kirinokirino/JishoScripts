@@ -1,1 +1,53 @@
-{"basic":["吐","Spit","162"],"extended":[{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"嘘つき","reading":"うそつき"},{"word":"嘘吐き","reading":"うそつき"},{"word":"嘘付き","reading":"うそつき"},{"word":"うそ付き","reading":"うそつき"},{"word":"噓吐き","reading":"うそつき"},{"word":"うそ吐き","reading":"うそつき"},{"word":"ウソ付き","reading":"ウソつき"},{"word":"ウソ吐き","reading":"ウソつき"}],"senses":[["liar","fibber"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"嘔吐","reading":"おうと"},{"word":"おう吐","reading":"おうと"}],"senses":[["vomiting","emesis"],["Vomiting"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"嘘つき","reading":"うそつき"},{"word":"嘘吐き","reading":"うそつき"},{"word":"嘘付き","reading":"うそつき"},{"word":"うそ付き","reading":"うそつき"},{"word":"噓吐き","reading":"うそつき"},{"word":"うそ吐き","reading":"うそつき"},{"word":"ウソ付き","reading":"ウソつき"},{"word":"ウソ吐き","reading":"ウソつき"}],"senses":[["liar","fibber"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"嘔吐","reading":"おうと"},{"word":"おう吐","reading":"おうと"}],"senses":[["vomiting","emesis"],["Vomiting"]]}]}
+{
+  "basic": ["吐", "Spit", "162"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "嘘つき", "reading": "うそつき" },
+        { "word": "嘘吐き", "reading": "うそつき" },
+        { "word": "嘘付き", "reading": "うそつき" },
+        { "word": "うそ付き", "reading": "うそつき" },
+        { "word": "噓吐き", "reading": "うそつき" },
+        { "word": "うそ吐き", "reading": "うそつき" },
+        { "word": "ウソ付き", "reading": "ウソつき" },
+        { "word": "ウソ吐き", "reading": "ウソつき" }
+      ],
+      "senses": [["liar", "fibber"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "嘔吐", "reading": "おうと" },
+        { "word": "おう吐", "reading": "おうと" }
+      ],
+      "senses": [["vomiting", "emesis"], ["Vomiting"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "嘘つき", "reading": "うそつき" },
+        { "word": "嘘吐き", "reading": "うそつき" },
+        { "word": "嘘付き", "reading": "うそつき" },
+        { "word": "うそ付き", "reading": "うそつき" },
+        { "word": "噓吐き", "reading": "うそつき" },
+        { "word": "うそ吐き", "reading": "うそつき" },
+        { "word": "ウソ付き", "reading": "ウソつき" },
+        { "word": "ウソ吐き", "reading": "ウソつき" }
+      ],
+      "senses": [["liar", "fibber"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "嘔吐", "reading": "おうと" },
+        { "word": "おう吐", "reading": "おうと" }
+      ],
+      "senses": [["vomiting", "emesis"], ["Vomiting"]]
+    }
+  ]
+}

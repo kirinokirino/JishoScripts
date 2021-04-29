@@ -1,1 +1,29 @@
-{"basic":["婿","Bridegroom","422"],"extended":[{"jlpt":[],"tags":["wanikani60"],"japanese":[{"word":"娘婿","reading":"むすめむこ"}],"senses":[["son-in-law"]]},{"jlpt":[],"tags":["wanikani60"],"japanese":[{"word":"花婿","reading":"はなむこ"}],"senses":[["bridegroom"]]},{"jlpt":[],"tags":["wanikani60"],"japanese":[{"word":"娘婿","reading":"むすめむこ"}],"senses":[["son-in-law"]]},{"jlpt":[],"tags":["wanikani60"],"japanese":[{"word":"花婿","reading":"はなむこ"}],"senses":[["bridegroom"]]}]}
+{
+  "basic": ["婿", "Bridegroom", "422"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": ["wanikani60"],
+      "japanese": [{ "word": "娘婿", "reading": "むすめむこ" }],
+      "senses": [["son-in-law"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani60"],
+      "japanese": [{ "word": "花婿", "reading": "はなむこ" }],
+      "senses": [["bridegroom"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani60"],
+      "japanese": [{ "word": "娘婿", "reading": "むすめむこ" }],
+      "senses": [["son-in-law"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani60"],
+      "japanese": [{ "word": "花婿", "reading": "はなむこ" }],
+      "senses": [["bridegroom"]]
+    }
+  ]
+}

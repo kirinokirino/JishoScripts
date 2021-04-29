@@ -1,1 +1,23 @@
-{"basic":["函","Bin","2051"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"投函","reading":"とうかん"},{"word":"投かん","reading":"とうかん"}],"senses":[["mailing","posting"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"投函","reading":"とうかん"},{"word":"投かん","reading":"とうかん"}],"senses":[["mailing","posting"]]}]}
+{
+  "basic": ["函", "Bin", "2051"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "投函", "reading": "とうかん" },
+        { "word": "投かん", "reading": "とうかん" }
+      ],
+      "senses": [["mailing", "posting"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "投函", "reading": "とうかん" },
+        { "word": "投かん", "reading": "とうかん" }
+      ],
+      "senses": [["mailing", "posting"]]
+    }
+  ]
+}

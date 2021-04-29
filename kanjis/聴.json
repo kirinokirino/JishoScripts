@@ -1,1 +1,151 @@
-{"basic":["聴","Listen","890"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"補聴器","reading":"ほちょうき"}],"senses":[["hearing aid"],["Hearing aid"]]},{"jlpt":[],"tags":["wanikani37"],"japanese":[{"word":"盗聴","reading":"とうちょう"}],"senses":[["interception (email)","wiretap","bug"],["Telephone tapping"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"視聴","reading":"しちょう"},{"word":"視聴","reading":"してい"}],"senses":[["looking and listening","(television) viewing"],["attention","interest"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"傍聴","reading":"ぼうちょう"}],"senses":[["listening (to a lecture, hearing, parliament session, etc.)","attending (without participating)","sitting in (e.g. on a meeting)","observing"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"視聴者","reading":"しちょうしゃ"}],"senses":[["viewer","(television) audience"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"視聴率","reading":"しちょうりつ"}],"senses":[["ratings (e.g. of a television program)","audience rating","viewing rate"],["Audience measurement"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"難聴","reading":"なんちょう"}],"senses":[["hardness of hearing","bradyacusia","deafness","hearing loss"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"公聴会","reading":"こうちょうかい"}],"senses":[["public hearing"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"補聴器","reading":"ほちょうき"}],"senses":[["hearing aid"],["Hearing aid"]]},{"jlpt":[],"tags":["wanikani37"],"japanese":[{"word":"盗聴","reading":"とうちょう"}],"senses":[["interception (email)","wiretap","bug"],["Telephone tapping"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"視聴","reading":"しちょう"},{"word":"視聴","reading":"してい"}],"senses":[["looking and listening","(television) viewing"],["attention","interest"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"傍聴","reading":"ぼうちょう"}],"senses":[["listening (to a lecture, hearing, parliament session, etc.)","attending (without participating)","sitting in (e.g. on a meeting)","observing"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"視聴者","reading":"しちょうしゃ"}],"senses":[["viewer","(television) audience"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"視聴率","reading":"しちょうりつ"}],"senses":[["ratings (e.g. of a television program)","audience rating","viewing rate"],["Audience measurement"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"難聴","reading":"なんちょう"}],"senses":[["hardness of hearing","bradyacusia","deafness","hearing loss"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"公聴会","reading":"こうちょうかい"}],"senses":[["public hearing"]]}]}
+{
+  "basic": ["聴", "Listen", "890"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "補聴器", "reading": "ほちょうき" }],
+      "senses": [["hearing aid"], ["Hearing aid"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani37"],
+      "japanese": [{ "word": "盗聴", "reading": "とうちょう" }],
+      "senses": [
+        ["interception (email)", "wiretap", "bug"],
+        ["Telephone tapping"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "視聴", "reading": "しちょう" },
+        { "word": "視聴", "reading": "してい" }
+      ],
+      "senses": [
+        ["looking and listening", "(television) viewing"],
+        ["attention", "interest"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "傍聴", "reading": "ぼうちょう" }],
+      "senses": [
+        [
+          "listening (to a lecture, hearing, parliament session, etc.)",
+          "attending (without participating)",
+          "sitting in (e.g. on a meeting)",
+          "observing"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "視聴者", "reading": "しちょうしゃ" }],
+      "senses": [["viewer", "(television) audience"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "視聴率", "reading": "しちょうりつ" }],
+      "senses": [
+        [
+          "ratings (e.g. of a television program)",
+          "audience rating",
+          "viewing rate"
+        ],
+        ["Audience measurement"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "難聴", "reading": "なんちょう" }],
+      "senses": [
+        ["hardness of hearing", "bradyacusia", "deafness", "hearing loss"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "公聴会", "reading": "こうちょうかい" }],
+      "senses": [["public hearing"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "補聴器", "reading": "ほちょうき" }],
+      "senses": [["hearing aid"], ["Hearing aid"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani37"],
+      "japanese": [{ "word": "盗聴", "reading": "とうちょう" }],
+      "senses": [
+        ["interception (email)", "wiretap", "bug"],
+        ["Telephone tapping"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "視聴", "reading": "しちょう" },
+        { "word": "視聴", "reading": "してい" }
+      ],
+      "senses": [
+        ["looking and listening", "(television) viewing"],
+        ["attention", "interest"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "傍聴", "reading": "ぼうちょう" }],
+      "senses": [
+        [
+          "listening (to a lecture, hearing, parliament session, etc.)",
+          "attending (without participating)",
+          "sitting in (e.g. on a meeting)",
+          "observing"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "視聴者", "reading": "しちょうしゃ" }],
+      "senses": [["viewer", "(television) audience"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "視聴率", "reading": "しちょうりつ" }],
+      "senses": [
+        [
+          "ratings (e.g. of a television program)",
+          "audience rating",
+          "viewing rate"
+        ],
+        ["Audience measurement"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "難聴", "reading": "なんちょう" }],
+      "senses": [
+        ["hardness of hearing", "bradyacusia", "deafness", "hearing loss"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "公聴会", "reading": "こうちょうかい" }],
+      "senses": [["public hearing"]]
+    }
+  ]
+}

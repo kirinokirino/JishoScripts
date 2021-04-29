@@ -1,1 +1,23 @@
-{"basic":["隅","Corner","2108"],"extended":[{"jlpt":[],"tags":["wanikani51"],"japanese":[{"word":"片隅","reading":"かたすみ"},{"word":"片すみ","reading":"かたすみ"}],"senses":[["corner","nook"],["Katasumi"]]},{"jlpt":[],"tags":["wanikani51"],"japanese":[{"word":"片隅","reading":"かたすみ"},{"word":"片すみ","reading":"かたすみ"}],"senses":[["corner","nook"],["Katasumi"]]}]}
+{
+  "basic": ["隅", "Corner", "2108"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": ["wanikani51"],
+      "japanese": [
+        { "word": "片隅", "reading": "かたすみ" },
+        { "word": "片すみ", "reading": "かたすみ" }
+      ],
+      "senses": [["corner", "nook"], ["Katasumi"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani51"],
+      "japanese": [
+        { "word": "片隅", "reading": "かたすみ" },
+        { "word": "片すみ", "reading": "かたすみ" }
+      ],
+      "senses": [["corner", "nook"], ["Katasumi"]]
+    }
+  ]
+}

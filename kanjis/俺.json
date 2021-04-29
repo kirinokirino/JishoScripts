@@ -1,1 +1,17 @@
-{"basic":["俺","Myself","1091"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"reading":"マンガン"},{"word":"満俺","reading":"まんがん"}],"senses":[["manganese (Mn)"],["Mangan"],["Manganese"]]},{"jlpt":[],"tags":[],"japanese":[{"reading":"マンガン"},{"word":"満俺","reading":"まんがん"}],"senses":[["manganese (Mn)"],["Mangan"],["Manganese"]]}]}
+{
+  "basic": ["俺", "Myself", "1091"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "reading": "マンガン" }, { "word": "満俺", "reading": "まんがん" }],
+      "senses": [["manganese (Mn)"], ["Mangan"], ["Manganese"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "reading": "マンガン" }, { "word": "満俺", "reading": "まんがん" }],
+      "senses": [["manganese (Mn)"], ["Mangan"], ["Manganese"]]
+    }
+  ]
+}

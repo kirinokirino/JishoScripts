@@ -1,1 +1,17 @@
-{"basic":["恥","Shame","886"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"無恥","reading":"むち"}],"senses":[["shameless"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"無恥","reading":"むち"}],"senses":[["shameless"]]}]}
+{
+  "basic": ["恥", "Shame", "886"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "無恥", "reading": "むち" }],
+      "senses": [["shameless"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "無恥", "reading": "むち" }],
+      "senses": [["shameless"]]
+    }
+  ]
+}

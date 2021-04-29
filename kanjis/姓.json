@@ -1,1 +1,51 @@
-{"basic":["姓","Surname","1678"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"百姓","reading":"ひゃくしょう"}],"senses":[["farmer","peasant","country bumpkin"],["farming"],["the common people"],["Baixing"]]},{"jlpt":[],"tags":["wanikani36"],"japanese":[{"word":"旧姓","reading":"きゅうせい"}],"senses":[["one's original family name","maiden name"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"同姓","reading":"どうせい"}],"senses":[["same surname"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"百姓","reading":"ひゃくしょう"}],"senses":[["farmer","peasant","country bumpkin"],["farming"],["the common people"],["Baixing"]]},{"jlpt":[],"tags":["wanikani36"],"japanese":[{"word":"旧姓","reading":"きゅうせい"}],"senses":[["one's original family name","maiden name"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"同姓","reading":"どうせい"}],"senses":[["same surname"]]}]}
+{
+  "basic": ["姓", "Surname", "1678"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "百姓", "reading": "ひゃくしょう" }],
+      "senses": [
+        ["farmer", "peasant", "country bumpkin"],
+        ["farming"],
+        ["the common people"],
+        ["Baixing"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani36"],
+      "japanese": [{ "word": "旧姓", "reading": "きゅうせい" }],
+      "senses": [["one's original family name", "maiden name"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "同姓", "reading": "どうせい" }],
+      "senses": [["same surname"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "百姓", "reading": "ひゃくしょう" }],
+      "senses": [
+        ["farmer", "peasant", "country bumpkin"],
+        ["farming"],
+        ["the common people"],
+        ["Baixing"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani36"],
+      "japanese": [{ "word": "旧姓", "reading": "きゅうせい" }],
+      "senses": [["one's original family name", "maiden name"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "同姓", "reading": "どうせい" }],
+      "senses": [["same surname"]]
+    }
+  ]
+}

@@ -1,1 +1,403 @@
-{"basic":["路","Path","1376"],"extended":[{"jlpt":["jlpt-n3"],"tags":["wanikani10"],"japanese":[{"word":"道路","reading":"どうろ"}],"senses":[["road","highway"],["Road"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"通路","reading":"つうろ"}],"senses":[["passage","pathway","roadway","avenue","aisle"],["Aisle"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani10"],"japanese":[{"word":"線路","reading":"せんろ"}],"senses":[["railway track","railway line","railroad","railway","track","line"],["Rail"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"回り道","reading":"まわりみち"},{"word":"まわり道","reading":"まわりみち"},{"word":"廻り道","reading":"まわりみち"},{"word":"廻り路","reading":"まわりみち"},{"word":"回り路","reading":"まわりみち"}],"senses":[["detour","diversion"],["The Wrong Move"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"回路","reading":"かいろ"}],"senses":[["circuit (electric)"],["cycle (e.g. Krebs cycle)"],["Circuit"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"十字路","reading":"じゅうじろ"}],"senses":[["crossroads","intersection"],["Juujiro"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"進路","reading":"しんろ"}],"senses":[["route","course","path"],["one's future course (e.g. after graduating high school)"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani31"],"japanese":[{"word":"経路","reading":"けいろ"},{"word":"径路","reading":"けいろ"},{"word":"逕路","reading":"けいろ"}],"senses":[["course","route","path","channel"],["process","means"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"高速道路","reading":"こうそくどうろ"}],"senses":[["highway","freeway","expressway","motorway"],["Controlled-access highway"]]},{"jlpt":[],"tags":["wanikani27"],"japanese":[{"word":"迷路","reading":"めいろ"}],"senses":[["maze","labyrinth"],["inner ear"],["Maze"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"水路","reading":"すいろ"}],"senses":[["waterway","canal","channel","watercourse","aqueduct"],["swimming pool lane"],["Waterway"]]},{"jlpt":[],"tags":["wanikani10"],"japanese":[{"word":"路地","reading":"ろじ"},{"word":"露地","reading":"ろじ"},{"word":"露路","reading":"ろじ"}],"senses":[["alley","alleyway","lane"],["bare earth (i.e. ground not covered by a roof)","open field","outdoors (non-greenhouse cultivation of crops)"],["teahouse garden"],["path through a gate (or through a garden, etc.)"],["Roji"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"滑走路","reading":"かっそうろ"}],"senses":[["runway"],["Runway"]]},{"jlpt":[],"tags":["wanikani10"],"japanese":[{"word":"近道","reading":"ちかみち"},{"word":"近路","reading":"ちかみち"}],"senses":[["short way","shortcut"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"街路","reading":"がいろ"}],"senses":[["road","street","avenue"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"空路","reading":"くうろ"}],"senses":[["air route","air lane"],["by air","by plane"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"航路","reading":"こうろ"}],"senses":[["(air or sea) route","course","line","run"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"陸路","reading":"りくろ"}],"senses":[["land route","overland route"],["by land","overland"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"街路樹","reading":"がいろじゅ"}],"senses":[["roadside trees"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"順路","reading":"じゅんろ"}],"senses":[["(regular) route","fixed route","specified route","suggested route"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani10"],"japanese":[{"word":"道路","reading":"どうろ"}],"senses":[["road","highway"],["Road"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"通路","reading":"つうろ"}],"senses":[["passage","pathway","roadway","avenue","aisle"],["Aisle"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani10"],"japanese":[{"word":"線路","reading":"せんろ"}],"senses":[["railway track","railway line","railroad","railway","track","line"],["Rail"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"回り道","reading":"まわりみち"},{"word":"まわり道","reading":"まわりみち"},{"word":"廻り道","reading":"まわりみち"},{"word":"廻り路","reading":"まわりみち"},{"word":"回り路","reading":"まわりみち"}],"senses":[["detour","diversion"],["The Wrong Move"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"回路","reading":"かいろ"}],"senses":[["circuit (electric)"],["cycle (e.g. Krebs cycle)"],["Circuit"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"十字路","reading":"じゅうじろ"}],"senses":[["crossroads","intersection"],["Juujiro"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"進路","reading":"しんろ"}],"senses":[["route","course","path"],["one's future course (e.g. after graduating high school)"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani31"],"japanese":[{"word":"経路","reading":"けいろ"},{"word":"径路","reading":"けいろ"},{"word":"逕路","reading":"けいろ"}],"senses":[["course","route","path","channel"],["process","means"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"高速道路","reading":"こうそくどうろ"}],"senses":[["highway","freeway","expressway","motorway"],["Controlled-access highway"]]},{"jlpt":[],"tags":["wanikani27"],"japanese":[{"word":"迷路","reading":"めいろ"}],"senses":[["maze","labyrinth"],["inner ear"],["Maze"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"水路","reading":"すいろ"}],"senses":[["waterway","canal","channel","watercourse","aqueduct"],["swimming pool lane"],["Waterway"]]},{"jlpt":[],"tags":["wanikani10"],"japanese":[{"word":"路地","reading":"ろじ"},{"word":"露地","reading":"ろじ"},{"word":"露路","reading":"ろじ"}],"senses":[["alley","alleyway","lane"],["bare earth (i.e. ground not covered by a roof)","open field","outdoors (non-greenhouse cultivation of crops)"],["teahouse garden"],["path through a gate (or through a garden, etc.)"],["Roji"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"滑走路","reading":"かっそうろ"}],"senses":[["runway"],["Runway"]]},{"jlpt":[],"tags":["wanikani10"],"japanese":[{"word":"近道","reading":"ちかみち"},{"word":"近路","reading":"ちかみち"}],"senses":[["short way","shortcut"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"街路","reading":"がいろ"}],"senses":[["road","street","avenue"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"空路","reading":"くうろ"}],"senses":[["air route","air lane"],["by air","by plane"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"航路","reading":"こうろ"}],"senses":[["(air or sea) route","course","line","run"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"陸路","reading":"りくろ"}],"senses":[["land route","overland route"],["by land","overland"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"街路樹","reading":"がいろじゅ"}],"senses":[["roadside trees"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"順路","reading":"じゅんろ"}],"senses":[["(regular) route","fixed route","specified route","suggested route"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"順路","reading":"じゅんろ"}],"senses":[["(regular) route","fixed route","specified route","suggested route"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"帰り道","reading":"かえりみち"},{"word":"帰り路","reading":"かえりみち"}],"senses":[["the way back","the way home","return trip"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"舎路","reading":"シアトル"}],"senses":[["Seattle"],["Seattle"],["Seattle"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"日本道路公団","reading":"にほんどうろこうだん"}],"senses":[["Japan Highway Public Corporation"],["Japan Highway Public Corporation"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"岐路","reading":"きろ"}],"senses":[["forked road","crossroads"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"活路","reading":"かつろ"}],"senses":[["means of survival","means of escape","way out of a difficulty"]]}]}
+{
+  "basic": ["路", "Path", "1376"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani10"],
+      "japanese": [{ "word": "道路", "reading": "どうろ" }],
+      "senses": [["road", "highway"], ["Road"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "通路", "reading": "つうろ" }],
+      "senses": [
+        ["passage", "pathway", "roadway", "avenue", "aisle"],
+        ["Aisle"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani10"],
+      "japanese": [{ "word": "線路", "reading": "せんろ" }],
+      "senses": [
+        [
+          "railway track",
+          "railway line",
+          "railroad",
+          "railway",
+          "track",
+          "line"
+        ],
+        ["Rail"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [
+        { "word": "回り道", "reading": "まわりみち" },
+        { "word": "まわり道", "reading": "まわりみち" },
+        { "word": "廻り道", "reading": "まわりみち" },
+        { "word": "廻り路", "reading": "まわりみち" },
+        { "word": "回り路", "reading": "まわりみち" }
+      ],
+      "senses": [["detour", "diversion"], ["The Wrong Move"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "回路", "reading": "かいろ" }],
+      "senses": [
+        ["circuit (electric)"],
+        ["cycle (e.g. Krebs cycle)"],
+        ["Circuit"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "十字路", "reading": "じゅうじろ" }],
+      "senses": [["crossroads", "intersection"], ["Juujiro"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "進路", "reading": "しんろ" }],
+      "senses": [
+        ["route", "course", "path"],
+        ["one's future course (e.g. after graduating high school)"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani31"],
+      "japanese": [
+        { "word": "経路", "reading": "けいろ" },
+        { "word": "径路", "reading": "けいろ" },
+        { "word": "逕路", "reading": "けいろ" }
+      ],
+      "senses": [["course", "route", "path", "channel"], ["process", "means"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "高速道路", "reading": "こうそくどうろ" }],
+      "senses": [
+        ["highway", "freeway", "expressway", "motorway"],
+        ["Controlled-access highway"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani27"],
+      "japanese": [{ "word": "迷路", "reading": "めいろ" }],
+      "senses": [["maze", "labyrinth"], ["inner ear"], ["Maze"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "水路", "reading": "すいろ" }],
+      "senses": [
+        ["waterway", "canal", "channel", "watercourse", "aqueduct"],
+        ["swimming pool lane"],
+        ["Waterway"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani10"],
+      "japanese": [
+        { "word": "路地", "reading": "ろじ" },
+        { "word": "露地", "reading": "ろじ" },
+        { "word": "露路", "reading": "ろじ" }
+      ],
+      "senses": [
+        ["alley", "alleyway", "lane"],
+        [
+          "bare earth (i.e. ground not covered by a roof)",
+          "open field",
+          "outdoors (non-greenhouse cultivation of crops)"
+        ],
+        ["teahouse garden"],
+        ["path through a gate (or through a garden, etc.)"],
+        ["Roji"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "滑走路", "reading": "かっそうろ" }],
+      "senses": [["runway"], ["Runway"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani10"],
+      "japanese": [
+        { "word": "近道", "reading": "ちかみち" },
+        { "word": "近路", "reading": "ちかみち" }
+      ],
+      "senses": [["short way", "shortcut"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "街路", "reading": "がいろ" }],
+      "senses": [["road", "street", "avenue"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "空路", "reading": "くうろ" }],
+      "senses": [["air route", "air lane"], ["by air", "by plane"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "航路", "reading": "こうろ" }],
+      "senses": [["(air or sea) route", "course", "line", "run"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "陸路", "reading": "りくろ" }],
+      "senses": [["land route", "overland route"], ["by land", "overland"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "街路樹", "reading": "がいろじゅ" }],
+      "senses": [["roadside trees"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "順路", "reading": "じゅんろ" }],
+      "senses": [
+        ["(regular) route", "fixed route", "specified route", "suggested route"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani10"],
+      "japanese": [{ "word": "道路", "reading": "どうろ" }],
+      "senses": [["road", "highway"], ["Road"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "通路", "reading": "つうろ" }],
+      "senses": [
+        ["passage", "pathway", "roadway", "avenue", "aisle"],
+        ["Aisle"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani10"],
+      "japanese": [{ "word": "線路", "reading": "せんろ" }],
+      "senses": [
+        [
+          "railway track",
+          "railway line",
+          "railroad",
+          "railway",
+          "track",
+          "line"
+        ],
+        ["Rail"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [
+        { "word": "回り道", "reading": "まわりみち" },
+        { "word": "まわり道", "reading": "まわりみち" },
+        { "word": "廻り道", "reading": "まわりみち" },
+        { "word": "廻り路", "reading": "まわりみち" },
+        { "word": "回り路", "reading": "まわりみち" }
+      ],
+      "senses": [["detour", "diversion"], ["The Wrong Move"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "回路", "reading": "かいろ" }],
+      "senses": [
+        ["circuit (electric)"],
+        ["cycle (e.g. Krebs cycle)"],
+        ["Circuit"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "十字路", "reading": "じゅうじろ" }],
+      "senses": [["crossroads", "intersection"], ["Juujiro"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "進路", "reading": "しんろ" }],
+      "senses": [
+        ["route", "course", "path"],
+        ["one's future course (e.g. after graduating high school)"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani31"],
+      "japanese": [
+        { "word": "経路", "reading": "けいろ" },
+        { "word": "径路", "reading": "けいろ" },
+        { "word": "逕路", "reading": "けいろ" }
+      ],
+      "senses": [["course", "route", "path", "channel"], ["process", "means"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "高速道路", "reading": "こうそくどうろ" }],
+      "senses": [
+        ["highway", "freeway", "expressway", "motorway"],
+        ["Controlled-access highway"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani27"],
+      "japanese": [{ "word": "迷路", "reading": "めいろ" }],
+      "senses": [["maze", "labyrinth"], ["inner ear"], ["Maze"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "水路", "reading": "すいろ" }],
+      "senses": [
+        ["waterway", "canal", "channel", "watercourse", "aqueduct"],
+        ["swimming pool lane"],
+        ["Waterway"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani10"],
+      "japanese": [
+        { "word": "路地", "reading": "ろじ" },
+        { "word": "露地", "reading": "ろじ" },
+        { "word": "露路", "reading": "ろじ" }
+      ],
+      "senses": [
+        ["alley", "alleyway", "lane"],
+        [
+          "bare earth (i.e. ground not covered by a roof)",
+          "open field",
+          "outdoors (non-greenhouse cultivation of crops)"
+        ],
+        ["teahouse garden"],
+        ["path through a gate (or through a garden, etc.)"],
+        ["Roji"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "滑走路", "reading": "かっそうろ" }],
+      "senses": [["runway"], ["Runway"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani10"],
+      "japanese": [
+        { "word": "近道", "reading": "ちかみち" },
+        { "word": "近路", "reading": "ちかみち" }
+      ],
+      "senses": [["short way", "shortcut"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "街路", "reading": "がいろ" }],
+      "senses": [["road", "street", "avenue"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "空路", "reading": "くうろ" }],
+      "senses": [["air route", "air lane"], ["by air", "by plane"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "航路", "reading": "こうろ" }],
+      "senses": [["(air or sea) route", "course", "line", "run"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "陸路", "reading": "りくろ" }],
+      "senses": [["land route", "overland route"], ["by land", "overland"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "街路樹", "reading": "がいろじゅ" }],
+      "senses": [["roadside trees"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "順路", "reading": "じゅんろ" }],
+      "senses": [
+        ["(regular) route", "fixed route", "specified route", "suggested route"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "順路", "reading": "じゅんろ" }],
+      "senses": [
+        ["(regular) route", "fixed route", "specified route", "suggested route"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "帰り道", "reading": "かえりみち" },
+        { "word": "帰り路", "reading": "かえりみち" }
+      ],
+      "senses": [["the way back", "the way home", "return trip"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "舎路", "reading": "シアトル" }],
+      "senses": [["Seattle"], ["Seattle"], ["Seattle"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "日本道路公団", "reading": "にほんどうろこうだん" }],
+      "senses": [
+        ["Japan Highway Public Corporation"],
+        ["Japan Highway Public Corporation"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "岐路", "reading": "きろ" }],
+      "senses": [["forked road", "crossroads"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "活路", "reading": "かつろ" }],
+      "senses": [
+        ["means of survival", "means of escape", "way out of a difficulty"]
+      ]
+    }
+  ]
+}

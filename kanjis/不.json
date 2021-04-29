@@ -1,1 +1,185 @@
-{"basic":["不","Negative","1302"],"extended":[{"jlpt":["jlpt-n2","jlpt-n1"],"tags":["wanikani59"],"japanese":[{"word":"ご無沙汰","reading":"ごぶさた"},{"word":"御無沙汰","reading":"ごぶさた"},{"word":"ご不沙汰","reading":"ごぶさた"},{"word":"御不沙汰","reading":"ごぶさた"}],"senses":[["not writing or contacting for a while","neglecting (failing) to write (call, visit, etc.)","long silence"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"心不全","reading":"しんふぜん"}],"senses":[["heart failure"],["Heart failure"]]},{"jlpt":[],"tags":["wanikani22"],"japanese":[{"word":"寝不足","reading":"ねぶそく"}],"senses":[["lack of sleep","insufficient sleep"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"運動不足","reading":"うんどうぶそく"}],"senses":[["lack of physical exercise","insufficient exercise","inactivity"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"意味不明","reading":"いみふめい"}],"senses":[["of uncertain meaning","ambiguous","cryptic","nonsensical","incomprehensible","perplexing"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"行方不明","reading":"ゆくえふめい"}],"senses":[["missing (of a person)","lost","unaccounted for","whereabouts unknown"]]},{"jlpt":[],"tags":["wanikani48"],"japanese":[{"word":"理不尽","reading":"りふじん"}],"senses":[["unreasonable","irrational","outrageous","absurd"]]},{"jlpt":[],"tags":["wanikani42"],"japanese":[{"word":"親不孝","reading":"おやふこう"},{"word":"親不幸","reading":"おやふこう"}],"senses":[["lack of filial piety","disobedience to one's parents"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"知らず知らず","reading":"しらずしらず"},{"word":"知らず識らず","reading":"しらずしらず"},{"word":"不知不識","reading":"しらずしらず"}],"senses":[["unconsciously","unwittingly","unawares"]]},{"jlpt":["jlpt-n2","jlpt-n1"],"tags":["wanikani59"],"japanese":[{"word":"ご無沙汰","reading":"ごぶさた"},{"word":"御無沙汰","reading":"ごぶさた"},{"word":"ご不沙汰","reading":"ごぶさた"},{"word":"御不沙汰","reading":"ごぶさた"}],"senses":[["not writing or contacting for a while","neglecting (failing) to write (call, visit, etc.)","long silence"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"心不全","reading":"しんふぜん"}],"senses":[["heart failure"],["Heart failure"]]},{"jlpt":[],"tags":["wanikani22"],"japanese":[{"word":"寝不足","reading":"ねぶそく"}],"senses":[["lack of sleep","insufficient sleep"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"運動不足","reading":"うんどうぶそく"}],"senses":[["lack of physical exercise","insufficient exercise","inactivity"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"意味不明","reading":"いみふめい"}],"senses":[["of uncertain meaning","ambiguous","cryptic","nonsensical","incomprehensible","perplexing"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"行方不明","reading":"ゆくえふめい"}],"senses":[["missing (of a person)","lost","unaccounted for","whereabouts unknown"]]},{"jlpt":[],"tags":["wanikani48"],"japanese":[{"word":"理不尽","reading":"りふじん"}],"senses":[["unreasonable","irrational","outrageous","absurd"]]},{"jlpt":[],"tags":["wanikani42"],"japanese":[{"word":"親不孝","reading":"おやふこう"},{"word":"親不幸","reading":"おやふこう"}],"senses":[["lack of filial piety","disobedience to one's parents"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"知らず知らず","reading":"しらずしらず"},{"word":"知らず識らず","reading":"しらずしらず"},{"word":"不知不識","reading":"しらずしらず"}],"senses":[["unconsciously","unwittingly","unawares"]]}]}
+{
+  "basic": ["不", "Negative", "1302"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n2", "jlpt-n1"],
+      "tags": ["wanikani59"],
+      "japanese": [
+        { "word": "ご無沙汰", "reading": "ごぶさた" },
+        { "word": "御無沙汰", "reading": "ごぶさた" },
+        { "word": "ご不沙汰", "reading": "ごぶさた" },
+        { "word": "御不沙汰", "reading": "ごぶさた" }
+      ],
+      "senses": [
+        [
+          "not writing or contacting for a while",
+          "neglecting (failing) to write (call, visit, etc.)",
+          "long silence"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "心不全", "reading": "しんふぜん" }],
+      "senses": [["heart failure"], ["Heart failure"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani22"],
+      "japanese": [{ "word": "寝不足", "reading": "ねぶそく" }],
+      "senses": [["lack of sleep", "insufficient sleep"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "運動不足", "reading": "うんどうぶそく" }],
+      "senses": [
+        ["lack of physical exercise", "insufficient exercise", "inactivity"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "意味不明", "reading": "いみふめい" }],
+      "senses": [
+        [
+          "of uncertain meaning",
+          "ambiguous",
+          "cryptic",
+          "nonsensical",
+          "incomprehensible",
+          "perplexing"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "行方不明", "reading": "ゆくえふめい" }],
+      "senses": [
+        [
+          "missing (of a person)",
+          "lost",
+          "unaccounted for",
+          "whereabouts unknown"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani48"],
+      "japanese": [{ "word": "理不尽", "reading": "りふじん" }],
+      "senses": [["unreasonable", "irrational", "outrageous", "absurd"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani42"],
+      "japanese": [
+        { "word": "親不孝", "reading": "おやふこう" },
+        { "word": "親不幸", "reading": "おやふこう" }
+      ],
+      "senses": [["lack of filial piety", "disobedience to one's parents"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "知らず知らず", "reading": "しらずしらず" },
+        { "word": "知らず識らず", "reading": "しらずしらず" },
+        { "word": "不知不識", "reading": "しらずしらず" }
+      ],
+      "senses": [["unconsciously", "unwittingly", "unawares"]]
+    },
+    {
+      "jlpt": ["jlpt-n2", "jlpt-n1"],
+      "tags": ["wanikani59"],
+      "japanese": [
+        { "word": "ご無沙汰", "reading": "ごぶさた" },
+        { "word": "御無沙汰", "reading": "ごぶさた" },
+        { "word": "ご不沙汰", "reading": "ごぶさた" },
+        { "word": "御不沙汰", "reading": "ごぶさた" }
+      ],
+      "senses": [
+        [
+          "not writing or contacting for a while",
+          "neglecting (failing) to write (call, visit, etc.)",
+          "long silence"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "心不全", "reading": "しんふぜん" }],
+      "senses": [["heart failure"], ["Heart failure"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani22"],
+      "japanese": [{ "word": "寝不足", "reading": "ねぶそく" }],
+      "senses": [["lack of sleep", "insufficient sleep"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "運動不足", "reading": "うんどうぶそく" }],
+      "senses": [
+        ["lack of physical exercise", "insufficient exercise", "inactivity"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "意味不明", "reading": "いみふめい" }],
+      "senses": [
+        [
+          "of uncertain meaning",
+          "ambiguous",
+          "cryptic",
+          "nonsensical",
+          "incomprehensible",
+          "perplexing"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "行方不明", "reading": "ゆくえふめい" }],
+      "senses": [
+        [
+          "missing (of a person)",
+          "lost",
+          "unaccounted for",
+          "whereabouts unknown"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani48"],
+      "japanese": [{ "word": "理不尽", "reading": "りふじん" }],
+      "senses": [["unreasonable", "irrational", "outrageous", "absurd"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani42"],
+      "japanese": [
+        { "word": "親不孝", "reading": "おやふこう" },
+        { "word": "親不幸", "reading": "おやふこう" }
+      ],
+      "senses": [["lack of filial piety", "disobedience to one's parents"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "知らず知らず", "reading": "しらずしらず" },
+        { "word": "知らず識らず", "reading": "しらずしらず" },
+        { "word": "不知不識", "reading": "しらずしらず" }
+      ],
+      "senses": [["unconsciously", "unwittingly", "unawares"]]
+    }
+  ]
+}

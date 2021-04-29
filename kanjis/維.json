@@ -1,1 +1,47 @@
-{"basic":["維","Fiber","1441"],"extended":[{"jlpt":["jlpt-n1"],"tags":["wanikani53"],"japanese":[{"word":"繊維","reading":"せんい"},{"word":"線維","reading":"せんい"}],"senses":[["fibre","fiber","textile"],["Fiber"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"塞爾維","reading":"セルビア"}],"senses":[["Serbia"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"蘇維埃","reading":"ソビエト"}],"senses":[["soviet"],["Soviet Union"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani53"],"japanese":[{"word":"繊維","reading":"せんい"},{"word":"線維","reading":"せんい"}],"senses":[["fibre","fiber","textile"],["Fiber"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"塞爾維","reading":"セルビア"}],"senses":[["Serbia"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"蘇維埃","reading":"ソビエト"}],"senses":[["soviet"],["Soviet Union"]]}]}
+{
+  "basic": ["維", "Fiber", "1441"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani53"],
+      "japanese": [
+        { "word": "繊維", "reading": "せんい" },
+        { "word": "線維", "reading": "せんい" }
+      ],
+      "senses": [["fibre", "fiber", "textile"], ["Fiber"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "塞爾維", "reading": "セルビア" }],
+      "senses": [["Serbia"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "蘇維埃", "reading": "ソビエト" }],
+      "senses": [["soviet"], ["Soviet Union"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani53"],
+      "japanese": [
+        { "word": "繊維", "reading": "せんい" },
+        { "word": "線維", "reading": "せんい" }
+      ],
+      "senses": [["fibre", "fiber", "textile"], ["Fiber"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "塞爾維", "reading": "セルビア" }],
+      "senses": [["Serbia"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "蘇維埃", "reading": "ソビエト" }],
+      "senses": [["soviet"], ["Soviet Union"]]
+    }
+  ]
+}

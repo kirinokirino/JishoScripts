@@ -1,1 +1,77 @@
-{"basic":["疑","Doubt","1513"],"extended":[{"jlpt":[],"tags":["wanikani21"],"japanese":[{"word":"容疑者","reading":"ようぎしゃ"}],"senses":[["suspect (person)"]]},{"jlpt":[],"tags":["wanikani19"],"japanese":[{"word":"容疑","reading":"ようぎ"}],"senses":[["suspicion","charge"]]},{"jlpt":[],"tags":["wanikani20"],"japanese":[{"word":"嫌疑","reading":"けんぎ"}],"senses":[["suspicion"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"質疑","reading":"しつぎ"}],"senses":[["question"],["interpellation"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"被疑者","reading":"ひぎしゃ"}],"senses":[["suspect (person)"],["Suspect"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"懐疑","reading":"かいぎ"}],"senses":[["doubt","skepticism","scepticism","disbelief"]]},{"jlpt":[],"tags":["wanikani21"],"japanese":[{"word":"容疑者","reading":"ようぎしゃ"}],"senses":[["suspect (person)"]]},{"jlpt":[],"tags":["wanikani19"],"japanese":[{"word":"容疑","reading":"ようぎ"}],"senses":[["suspicion","charge"]]},{"jlpt":[],"tags":["wanikani20"],"japanese":[{"word":"嫌疑","reading":"けんぎ"}],"senses":[["suspicion"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"質疑","reading":"しつぎ"}],"senses":[["question"],["interpellation"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"被疑者","reading":"ひぎしゃ"}],"senses":[["suspect (person)"],["Suspect"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"懐疑","reading":"かいぎ"}],"senses":[["doubt","skepticism","scepticism","disbelief"]]}]}
+{
+  "basic": ["疑", "Doubt", "1513"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": ["wanikani21"],
+      "japanese": [{ "word": "容疑者", "reading": "ようぎしゃ" }],
+      "senses": [["suspect (person)"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani19"],
+      "japanese": [{ "word": "容疑", "reading": "ようぎ" }],
+      "senses": [["suspicion", "charge"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani20"],
+      "japanese": [{ "word": "嫌疑", "reading": "けんぎ" }],
+      "senses": [["suspicion"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "質疑", "reading": "しつぎ" }],
+      "senses": [["question"], ["interpellation"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "被疑者", "reading": "ひぎしゃ" }],
+      "senses": [["suspect (person)"], ["Suspect"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "懐疑", "reading": "かいぎ" }],
+      "senses": [["doubt", "skepticism", "scepticism", "disbelief"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani21"],
+      "japanese": [{ "word": "容疑者", "reading": "ようぎしゃ" }],
+      "senses": [["suspect (person)"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani19"],
+      "japanese": [{ "word": "容疑", "reading": "ようぎ" }],
+      "senses": [["suspicion", "charge"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani20"],
+      "japanese": [{ "word": "嫌疑", "reading": "けんぎ" }],
+      "senses": [["suspicion"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "質疑", "reading": "しつぎ" }],
+      "senses": [["question"], ["interpellation"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "被疑者", "reading": "ひぎしゃ" }],
+      "senses": [["suspect (person)"], ["Suspect"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "懐疑", "reading": "かいぎ" }],
+      "senses": [["doubt", "skepticism", "scepticism", "disbelief"]]
+    }
+  ]
+}

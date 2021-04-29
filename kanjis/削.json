@@ -1,1 +1,35 @@
-{"basic":["削","Plane","124"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"添削","reading":"てんさく"}],"senses":[["correction","looking over","touching up"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"掘削","reading":"くっさく"},{"word":"掘鑿","reading":"くっさく"}],"senses":[["digging out","excavation"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"添削","reading":"てんさく"}],"senses":[["correction","looking over","touching up"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"掘削","reading":"くっさく"},{"word":"掘鑿","reading":"くっさく"}],"senses":[["digging out","excavation"]]}]}
+{
+  "basic": ["削", "Plane", "124"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "添削", "reading": "てんさく" }],
+      "senses": [["correction", "looking over", "touching up"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "掘削", "reading": "くっさく" },
+        { "word": "掘鑿", "reading": "くっさく" }
+      ],
+      "senses": [["digging out", "excavation"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "添削", "reading": "てんさく" }],
+      "senses": [["correction", "looking over", "touching up"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "掘削", "reading": "くっさく" },
+        { "word": "掘鑿", "reading": "くっさく" }
+      ],
+      "senses": [["digging out", "excavation"]]
+    }
+  ]
+}

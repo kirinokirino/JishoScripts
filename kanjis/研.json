@@ -1,1 +1,29 @@
-{"basic":["研","Polish","729"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"経済研究所","reading":"けいざいけんきゅうしょ"}],"senses":[["economics research centre","economics research center"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"最新研究","reading":"さいしんけんきゅう"}],"senses":[["the newest research"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"経済研究所","reading":"けいざいけんきゅうしょ"}],"senses":[["economics research centre","economics research center"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"最新研究","reading":"さいしんけんきゅう"}],"senses":[["the newest research"]]}]}
+{
+  "basic": ["研", "Polish", "729"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "経済研究所", "reading": "けいざいけんきゅうしょ" }],
+      "senses": [["economics research centre", "economics research center"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "最新研究", "reading": "さいしんけんきゅう" }],
+      "senses": [["the newest research"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "経済研究所", "reading": "けいざいけんきゅうしょ" }],
+      "senses": [["economics research centre", "economics research center"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "最新研究", "reading": "さいしんけんきゅう" }],
+      "senses": [["the newest research"]]
+    }
+  ]
+}

@@ -1,1 +1,135 @@
-{"basic":["聞","Hear","1754"],"extended":[{"jlpt":["jlpt-n5"],"tags":["wanikani10"],"japanese":[{"word":"新聞","reading":"しんぶん"}],"senses":[["newspaper"],["Newspaper"]]},{"jlpt":["jlpt-n4"],"tags":[],"japanese":[{"word":"新聞社","reading":"しんぶんしゃ"}],"senses":[["newspaper company"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"新聞紙","reading":"しんぶんし"},{"word":"新聞紙","reading":"しんぶんがみ"}],"senses":[["newsprint","newspaper used for wrapping, packing, etc."],["newspaper"],["Newsprint"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"聴聞","reading":"ちょうもん"}],"senses":[["listening","hearing"],["Hearing (law)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"新聞記事","reading":"しんぶんきじ"}],"senses":[["newspaper story (article, account)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"前代未聞","reading":"ぜんだいみもん"}],"senses":[["unheard-of","unprecedented","unparalleled in history (unparallelled)","record-breaking"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"見聞","reading":"けんぶん"},{"word":"見聞","reading":"けんもん"}],"senses":[["information","experience","knowledge","observation"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"スポーツ新聞","reading":"スポーツしんぶん"}],"senses":[["sports newspaper"]]},{"jlpt":["jlpt-n5"],"tags":["wanikani10"],"japanese":[{"word":"新聞","reading":"しんぶん"}],"senses":[["newspaper"],["Newspaper"]]},{"jlpt":["jlpt-n4"],"tags":[],"japanese":[{"word":"新聞社","reading":"しんぶんしゃ"}],"senses":[["newspaper company"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"新聞紙","reading":"しんぶんし"},{"word":"新聞紙","reading":"しんぶんがみ"}],"senses":[["newsprint","newspaper used for wrapping, packing, etc."],["newspaper"],["Newsprint"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"聴聞","reading":"ちょうもん"}],"senses":[["listening","hearing"],["Hearing (law)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"新聞記事","reading":"しんぶんきじ"}],"senses":[["newspaper story (article, account)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"前代未聞","reading":"ぜんだいみもん"}],"senses":[["unheard-of","unprecedented","unparalleled in history (unparallelled)","record-breaking"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"見聞","reading":"けんぶん"},{"word":"見聞","reading":"けんもん"}],"senses":[["information","experience","knowledge","observation"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"スポーツ新聞","reading":"スポーツしんぶん"}],"senses":[["sports newspaper"]]}]}
+{
+  "basic": ["聞", "Hear", "1754"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n5"],
+      "tags": ["wanikani10"],
+      "japanese": [{ "word": "新聞", "reading": "しんぶん" }],
+      "senses": [["newspaper"], ["Newspaper"]]
+    },
+    {
+      "jlpt": ["jlpt-n4"],
+      "tags": [],
+      "japanese": [{ "word": "新聞社", "reading": "しんぶんしゃ" }],
+      "senses": [["newspaper company"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "新聞紙", "reading": "しんぶんし" },
+        { "word": "新聞紙", "reading": "しんぶんがみ" }
+      ],
+      "senses": [
+        ["newsprint", "newspaper used for wrapping, packing, etc."],
+        ["newspaper"],
+        ["Newsprint"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "聴聞", "reading": "ちょうもん" }],
+      "senses": [["listening", "hearing"], ["Hearing (law)"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "新聞記事", "reading": "しんぶんきじ" }],
+      "senses": [["newspaper story (article, account)"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "前代未聞", "reading": "ぜんだいみもん" }],
+      "senses": [
+        [
+          "unheard-of",
+          "unprecedented",
+          "unparalleled in history (unparallelled)",
+          "record-breaking"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "見聞", "reading": "けんぶん" },
+        { "word": "見聞", "reading": "けんもん" }
+      ],
+      "senses": [["information", "experience", "knowledge", "observation"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "スポーツ新聞", "reading": "スポーツしんぶん" }],
+      "senses": [["sports newspaper"]]
+    },
+    {
+      "jlpt": ["jlpt-n5"],
+      "tags": ["wanikani10"],
+      "japanese": [{ "word": "新聞", "reading": "しんぶん" }],
+      "senses": [["newspaper"], ["Newspaper"]]
+    },
+    {
+      "jlpt": ["jlpt-n4"],
+      "tags": [],
+      "japanese": [{ "word": "新聞社", "reading": "しんぶんしゃ" }],
+      "senses": [["newspaper company"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "新聞紙", "reading": "しんぶんし" },
+        { "word": "新聞紙", "reading": "しんぶんがみ" }
+      ],
+      "senses": [
+        ["newsprint", "newspaper used for wrapping, packing, etc."],
+        ["newspaper"],
+        ["Newsprint"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "聴聞", "reading": "ちょうもん" }],
+      "senses": [["listening", "hearing"], ["Hearing (law)"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "新聞記事", "reading": "しんぶんきじ" }],
+      "senses": [["newspaper story (article, account)"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "前代未聞", "reading": "ぜんだいみもん" }],
+      "senses": [
+        [
+          "unheard-of",
+          "unprecedented",
+          "unparalleled in history (unparallelled)",
+          "record-breaking"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "見聞", "reading": "けんぶん" },
+        { "word": "見聞", "reading": "けんもん" }
+      ],
+      "senses": [["information", "experience", "knowledge", "observation"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "スポーツ新聞", "reading": "スポーツしんぶん" }],
+      "senses": [["sports newspaper"]]
+    }
+  ]
+}

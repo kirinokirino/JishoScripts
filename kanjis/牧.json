@@ -1,1 +1,17 @@
-{"basic":["牧","Breed","351"],"extended":[{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"遊牧","reading":"ゆうぼく"}],"senses":[["nomadism"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"遊牧","reading":"ゆうぼく"}],"senses":[["nomadism"]]}]}
+{
+  "basic": ["牧", "Breed", "351"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "遊牧", "reading": "ゆうぼく" }],
+      "senses": [["nomadism"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "遊牧", "reading": "ゆうぼく" }],
+      "senses": [["nomadism"]]
+    }
+  ]
+}

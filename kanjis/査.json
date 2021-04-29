@@ -1,1 +1,251 @@
-{"basic":["査","Investigate","1920"],"extended":[{"jlpt":["jlpt-n3"],"tags":[],"japanese":[{"word":"調査","reading":"ちょうさ"}],"senses":[["investigation","examination","inquiry","enquiry","survey"],["Survey methodology"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani21","wanikani23"],"japanese":[{"word":"検査","reading":"けんさ"}],"senses":[["inspection (e.g. customs, factory)","examination","scan (e.g. MRI, PET, etc.)"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani40"],"japanese":[{"word":"巡査","reading":"じゅんさ"}],"senses":[["police officer","policeman","constable"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani25"],"japanese":[{"word":"捜査","reading":"そうさ"}],"senses":[["search (esp. in criminal investigations)","investigation","inquiry","enquiry"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani21"],"japanese":[{"word":"審査","reading":"しんさ"}],"senses":[["judging","inspection","examination","investigation","review"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"国勢調査","reading":"こくせいちょうさ"}],"senses":[["(national) census"],["Census"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"監査","reading":"かんさ"},{"word":"鑑査","reading":"かんさ"}],"senses":[["inspection","audit","judgement","judgment"],["Audit"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"血液検査","reading":"けつえきけんさ"}],"senses":[["blood test","hemanalysis"],["Blood test"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"市場調査","reading":"しじょうちょうさ"}],"senses":[["market research"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"会計検査院","reading":"かいけいけんさいん"}],"senses":[["Board of Audit"],["Board of Audit (Japan)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"監査役","reading":"かんさやく"}],"senses":[["auditor","inspector"],["Statutory auditor"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"実態調査","reading":"じったいちょうさ"}],"senses":[["fact-finding investigation","investigation into actual conditions","fact-finding survey"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"主査","reading":"しゅさ"}],"senses":[["chief examiner or investigator"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"探査","reading":"たんさ"}],"senses":[["probe","inquiry","enquiry","investigation"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"意識調査","reading":"いしきちょうさ"}],"senses":[["attitude survey","opinion poll"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"捜査官","reading":"そうさかん"}],"senses":[["police investigator","investigator"]]},{"jlpt":["jlpt-n3"],"tags":[],"japanese":[{"word":"調査","reading":"ちょうさ"}],"senses":[["investigation","examination","inquiry","enquiry","survey"],["Survey methodology"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani21","wanikani23"],"japanese":[{"word":"検査","reading":"けんさ"}],"senses":[["inspection (e.g. customs, factory)","examination","scan (e.g. MRI, PET, etc.)"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani40"],"japanese":[{"word":"巡査","reading":"じゅんさ"}],"senses":[["police officer","policeman","constable"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani25"],"japanese":[{"word":"捜査","reading":"そうさ"}],"senses":[["search (esp. in criminal investigations)","investigation","inquiry","enquiry"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani21"],"japanese":[{"word":"審査","reading":"しんさ"}],"senses":[["judging","inspection","examination","investigation","review"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"国勢調査","reading":"こくせいちょうさ"}],"senses":[["(national) census"],["Census"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"監査","reading":"かんさ"},{"word":"鑑査","reading":"かんさ"}],"senses":[["inspection","audit","judgement","judgment"],["Audit"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"血液検査","reading":"けつえきけんさ"}],"senses":[["blood test","hemanalysis"],["Blood test"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"市場調査","reading":"しじょうちょうさ"}],"senses":[["market research"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"会計検査院","reading":"かいけいけんさいん"}],"senses":[["Board of Audit"],["Board of Audit (Japan)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"監査役","reading":"かんさやく"}],"senses":[["auditor","inspector"],["Statutory auditor"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"実態調査","reading":"じったいちょうさ"}],"senses":[["fact-finding investigation","investigation into actual conditions","fact-finding survey"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"主査","reading":"しゅさ"}],"senses":[["chief examiner or investigator"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"探査","reading":"たんさ"}],"senses":[["probe","inquiry","enquiry","investigation"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"意識調査","reading":"いしきちょうさ"}],"senses":[["attitude survey","opinion poll"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"捜査官","reading":"そうさかん"}],"senses":[["police investigator","investigator"]]}]}
+{
+  "basic": ["査", "Investigate", "1920"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": [],
+      "japanese": [{ "word": "調査", "reading": "ちょうさ" }],
+      "senses": [
+        ["investigation", "examination", "inquiry", "enquiry", "survey"],
+        ["Survey methodology"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani21", "wanikani23"],
+      "japanese": [{ "word": "検査", "reading": "けんさ" }],
+      "senses": [
+        [
+          "inspection (e.g. customs, factory)",
+          "examination",
+          "scan (e.g. MRI, PET, etc.)"
+        ]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani40"],
+      "japanese": [{ "word": "巡査", "reading": "じゅんさ" }],
+      "senses": [["police officer", "policeman", "constable"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani25"],
+      "japanese": [{ "word": "捜査", "reading": "そうさ" }],
+      "senses": [
+        [
+          "search (esp. in criminal investigations)",
+          "investigation",
+          "inquiry",
+          "enquiry"
+        ]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani21"],
+      "japanese": [{ "word": "審査", "reading": "しんさ" }],
+      "senses": [
+        ["judging", "inspection", "examination", "investigation", "review"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "国勢調査", "reading": "こくせいちょうさ" }],
+      "senses": [["(national) census"], ["Census"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "監査", "reading": "かんさ" },
+        { "word": "鑑査", "reading": "かんさ" }
+      ],
+      "senses": [["inspection", "audit", "judgement", "judgment"], ["Audit"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "血液検査", "reading": "けつえきけんさ" }],
+      "senses": [["blood test", "hemanalysis"], ["Blood test"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "市場調査", "reading": "しじょうちょうさ" }],
+      "senses": [["market research"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "会計検査院", "reading": "かいけいけんさいん" }],
+      "senses": [["Board of Audit"], ["Board of Audit (Japan)"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "監査役", "reading": "かんさやく" }],
+      "senses": [["auditor", "inspector"], ["Statutory auditor"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "実態調査", "reading": "じったいちょうさ" }],
+      "senses": [
+        [
+          "fact-finding investigation",
+          "investigation into actual conditions",
+          "fact-finding survey"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "主査", "reading": "しゅさ" }],
+      "senses": [["chief examiner or investigator"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "探査", "reading": "たんさ" }],
+      "senses": [["probe", "inquiry", "enquiry", "investigation"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "意識調査", "reading": "いしきちょうさ" }],
+      "senses": [["attitude survey", "opinion poll"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "捜査官", "reading": "そうさかん" }],
+      "senses": [["police investigator", "investigator"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": [],
+      "japanese": [{ "word": "調査", "reading": "ちょうさ" }],
+      "senses": [
+        ["investigation", "examination", "inquiry", "enquiry", "survey"],
+        ["Survey methodology"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani21", "wanikani23"],
+      "japanese": [{ "word": "検査", "reading": "けんさ" }],
+      "senses": [
+        [
+          "inspection (e.g. customs, factory)",
+          "examination",
+          "scan (e.g. MRI, PET, etc.)"
+        ]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani40"],
+      "japanese": [{ "word": "巡査", "reading": "じゅんさ" }],
+      "senses": [["police officer", "policeman", "constable"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani25"],
+      "japanese": [{ "word": "捜査", "reading": "そうさ" }],
+      "senses": [
+        [
+          "search (esp. in criminal investigations)",
+          "investigation",
+          "inquiry",
+          "enquiry"
+        ]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani21"],
+      "japanese": [{ "word": "審査", "reading": "しんさ" }],
+      "senses": [
+        ["judging", "inspection", "examination", "investigation", "review"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "国勢調査", "reading": "こくせいちょうさ" }],
+      "senses": [["(national) census"], ["Census"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "監査", "reading": "かんさ" },
+        { "word": "鑑査", "reading": "かんさ" }
+      ],
+      "senses": [["inspection", "audit", "judgement", "judgment"], ["Audit"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "血液検査", "reading": "けつえきけんさ" }],
+      "senses": [["blood test", "hemanalysis"], ["Blood test"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "市場調査", "reading": "しじょうちょうさ" }],
+      "senses": [["market research"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "会計検査院", "reading": "かいけいけんさいん" }],
+      "senses": [["Board of Audit"], ["Board of Audit (Japan)"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "監査役", "reading": "かんさやく" }],
+      "senses": [["auditor", "inspector"], ["Statutory auditor"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "実態調査", "reading": "じったいちょうさ" }],
+      "senses": [
+        [
+          "fact-finding investigation",
+          "investigation into actual conditions",
+          "fact-finding survey"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "主査", "reading": "しゅさ" }],
+      "senses": [["chief examiner or investigator"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "探査", "reading": "たんさ" }],
+      "senses": [["probe", "inquiry", "enquiry", "investigation"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "意識調査", "reading": "いしきちょうさ" }],
+      "senses": [["attitude survey", "opinion poll"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "捜査官", "reading": "そうさかん" }],
+      "senses": [["police investigator", "investigator"]]
+    }
+  ]
+}

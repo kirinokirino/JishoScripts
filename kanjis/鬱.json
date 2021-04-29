@@ -1,1 +1,37 @@
-{"basic":["鬱","Gloom","2120"],"extended":[{"jlpt":["jlpt-n1"],"tags":["wanikani55"],"japanese":[{"word":"憂鬱","reading":"ゆううつ"},{"word":"憂うつ","reading":"ゆううつ"},{"word":"憂欝","reading":"ゆううつ"},{"word":"悒鬱","reading":"ゆううつ"},{"word":"幽鬱","reading":"ゆううつ"},{"word":"幽欝","reading":"ゆううつ"},{"word":"悒欝","reading":"ゆううつ"}],"senses":[["depression","melancholy","dejection","gloom","despondency"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani55"],"japanese":[{"word":"憂鬱","reading":"ゆううつ"},{"word":"憂うつ","reading":"ゆううつ"},{"word":"憂欝","reading":"ゆううつ"},{"word":"悒鬱","reading":"ゆううつ"},{"word":"幽鬱","reading":"ゆううつ"},{"word":"幽欝","reading":"ゆううつ"},{"word":"悒欝","reading":"ゆううつ"}],"senses":[["depression","melancholy","dejection","gloom","despondency"]]}]}
+{
+  "basic": ["鬱", "Gloom", "2120"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani55"],
+      "japanese": [
+        { "word": "憂鬱", "reading": "ゆううつ" },
+        { "word": "憂うつ", "reading": "ゆううつ" },
+        { "word": "憂欝", "reading": "ゆううつ" },
+        { "word": "悒鬱", "reading": "ゆううつ" },
+        { "word": "幽鬱", "reading": "ゆううつ" },
+        { "word": "幽欝", "reading": "ゆううつ" },
+        { "word": "悒欝", "reading": "ゆううつ" }
+      ],
+      "senses": [
+        ["depression", "melancholy", "dejection", "gloom", "despondency"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani55"],
+      "japanese": [
+        { "word": "憂鬱", "reading": "ゆううつ" },
+        { "word": "憂うつ", "reading": "ゆううつ" },
+        { "word": "憂欝", "reading": "ゆううつ" },
+        { "word": "悒鬱", "reading": "ゆううつ" },
+        { "word": "幽鬱", "reading": "ゆううつ" },
+        { "word": "幽欝", "reading": "ゆううつ" },
+        { "word": "悒欝", "reading": "ゆううつ" }
+      ],
+      "senses": [
+        ["depression", "melancholy", "dejection", "gloom", "despondency"]
+      ]
+    }
+  ]
+}

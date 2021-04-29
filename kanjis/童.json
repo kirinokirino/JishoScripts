@@ -1,1 +1,29 @@
-{"basic":["童","Juvenile","468"],"extended":[{"jlpt":["jlpt-n2"],"tags":["wanikani28"],"japanese":[{"word":"児童","reading":"じどう"}],"senses":[["children","juvenile"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"学童","reading":"がくどう"}],"senses":[["school child","pupil"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani28"],"japanese":[{"word":"児童","reading":"じどう"}],"senses":[["children","juvenile"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"学童","reading":"がくどう"}],"senses":[["school child","pupil"]]}]}
+{
+  "basic": ["童", "Juvenile", "468"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani28"],
+      "japanese": [{ "word": "児童", "reading": "じどう" }],
+      "senses": [["children", "juvenile"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "学童", "reading": "がくどう" }],
+      "senses": [["school child", "pupil"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani28"],
+      "japanese": [{ "word": "児童", "reading": "じどう" }],
+      "senses": [["children", "juvenile"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "学童", "reading": "がくどう" }],
+      "senses": [["school child", "pupil"]]
+    }
+  ]
+}

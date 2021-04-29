@@ -1,1 +1,47 @@
-{"basic":["穴","Hole","1413"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"落とし穴","reading":"おとしあな"},{"word":"落し穴","reading":"おとしあな"},{"word":"陥し穴","reading":"おとしあな"},{"word":"陥とし穴","reading":"おとしあな"},{"word":"陥穴","reading":"おとしあな"}],"senses":[["pitfall","trap","pit"],["Trou de loup"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"風穴","reading":"かざあな"},{"word":"風穴","reading":"かぜあな"}],"senses":[["air hole","windhole","ventilator"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"落とし穴","reading":"おとしあな"},{"word":"落し穴","reading":"おとしあな"},{"word":"陥し穴","reading":"おとしあな"},{"word":"陥とし穴","reading":"おとしあな"},{"word":"陥穴","reading":"おとしあな"}],"senses":[["pitfall","trap","pit"],["Trou de loup"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"風穴","reading":"かざあな"},{"word":"風穴","reading":"かぜあな"}],"senses":[["air hole","windhole","ventilator"]]}]}
+{
+  "basic": ["穴", "Hole", "1413"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "落とし穴", "reading": "おとしあな" },
+        { "word": "落し穴", "reading": "おとしあな" },
+        { "word": "陥し穴", "reading": "おとしあな" },
+        { "word": "陥とし穴", "reading": "おとしあな" },
+        { "word": "陥穴", "reading": "おとしあな" }
+      ],
+      "senses": [["pitfall", "trap", "pit"], ["Trou de loup"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "風穴", "reading": "かざあな" },
+        { "word": "風穴", "reading": "かぜあな" }
+      ],
+      "senses": [["air hole", "windhole", "ventilator"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "落とし穴", "reading": "おとしあな" },
+        { "word": "落し穴", "reading": "おとしあな" },
+        { "word": "陥し穴", "reading": "おとしあな" },
+        { "word": "陥とし穴", "reading": "おとしあな" },
+        { "word": "陥穴", "reading": "おとしあな" }
+      ],
+      "senses": [["pitfall", "trap", "pit"], ["Trou de loup"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "風穴", "reading": "かざあな" },
+        { "word": "風穴", "reading": "かぜあな" }
+      ],
+      "senses": [["air hole", "windhole", "ventilator"]]
+    }
+  ]
+}

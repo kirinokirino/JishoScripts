@@ -1,1 +1,251 @@
-{"basic":["護","Safeguard","756"],"extended":[{"jlpt":["jlpt-n1"],"tags":["wanikani23"],"japanese":[{"word":"保護","reading":"ほご"}],"senses":[["protection","safeguard","guardianship","custody","patronage"],["preservation","conservation"],["Protection"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"看護","reading":"かんご"}],"senses":[["nursing","(army) nurse"],["Nursing"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"介護","reading":"かいご"}],"senses":[["nursing","care","caregiving","caring"],["Elderly care"]]},{"jlpt":["jlpt-n4"],"tags":["wanikani23"],"japanese":[{"word":"看護師","reading":"かんごし"}],"senses":[["(hospital) nurse","registered nurse","RN"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"弁護","reading":"べんご"}],"senses":[["defense","defence","pleading","advocacy"]]},{"jlpt":[],"tags":["wanikani23"],"japanese":[{"word":"弁護士","reading":"べんごし"}],"senses":[["lawyer","attorney"],["Lawyer"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"看護婦","reading":"かんごふ"}],"senses":[["(female) nurse"]]},{"jlpt":[],"tags":["wanikani52"],"japanese":[{"word":"擁護","reading":"ようご"}],"senses":[["protection","advocacy","support","defence","championship","vindication"],["to protect (e.g. rights, etc.)","to advocate (e.g. free trade, etc.)","to support"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"保護者","reading":"ほごしゃ"}],"senses":[["guardian","protector","patron","parent"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"弁護人","reading":"べんごにん"}],"senses":[["counsel","defender","advocate"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"援護","reading":"えんご"},{"word":"掩護","reading":"えんご"}],"senses":[["covering","protection","backing","relief"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"環境保護","reading":"かんきょうほご"}],"senses":[["environmental protection"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"人権擁護","reading":"じんけんようご"}],"senses":[["protection of human rights"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"養護","reading":"ようご"}],"senses":[["nursing","(protective) care"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"愛護","reading":"あいご"}],"senses":[["protection","tender care"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"警護","reading":"けいご"}],"senses":[["bodyguard","escort"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"防護","reading":"ぼうご"}],"senses":[["protection"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani23"],"japanese":[{"word":"保護","reading":"ほご"}],"senses":[["protection","safeguard","guardianship","custody","patronage"],["preservation","conservation"],["Protection"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"看護","reading":"かんご"}],"senses":[["nursing","(army) nurse"],["Nursing"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"介護","reading":"かいご"}],"senses":[["nursing","care","caregiving","caring"],["Elderly care"]]},{"jlpt":["jlpt-n4"],"tags":["wanikani23"],"japanese":[{"word":"看護師","reading":"かんごし"}],"senses":[["(hospital) nurse","registered nurse","RN"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"弁護","reading":"べんご"}],"senses":[["defense","defence","pleading","advocacy"]]},{"jlpt":[],"tags":["wanikani23"],"japanese":[{"word":"弁護士","reading":"べんごし"}],"senses":[["lawyer","attorney"],["Lawyer"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"看護婦","reading":"かんごふ"}],"senses":[["(female) nurse"]]},{"jlpt":[],"tags":["wanikani52"],"japanese":[{"word":"擁護","reading":"ようご"}],"senses":[["protection","advocacy","support","defence","championship","vindication"],["to protect (e.g. rights, etc.)","to advocate (e.g. free trade, etc.)","to support"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"保護者","reading":"ほごしゃ"}],"senses":[["guardian","protector","patron","parent"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"弁護人","reading":"べんごにん"}],"senses":[["counsel","defender","advocate"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"援護","reading":"えんご"},{"word":"掩護","reading":"えんご"}],"senses":[["covering","protection","backing","relief"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"環境保護","reading":"かんきょうほご"}],"senses":[["environmental protection"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"人権擁護","reading":"じんけんようご"}],"senses":[["protection of human rights"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"養護","reading":"ようご"}],"senses":[["nursing","(protective) care"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"愛護","reading":"あいご"}],"senses":[["protection","tender care"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"警護","reading":"けいご"}],"senses":[["bodyguard","escort"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"防護","reading":"ぼうご"}],"senses":[["protection"]]}]}
+{
+  "basic": ["護", "Safeguard", "756"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani23"],
+      "japanese": [{ "word": "保護", "reading": "ほご" }],
+      "senses": [
+        ["protection", "safeguard", "guardianship", "custody", "patronage"],
+        ["preservation", "conservation"],
+        ["Protection"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "看護", "reading": "かんご" }],
+      "senses": [["nursing", "(army) nurse"], ["Nursing"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "介護", "reading": "かいご" }],
+      "senses": [["nursing", "care", "caregiving", "caring"], ["Elderly care"]]
+    },
+    {
+      "jlpt": ["jlpt-n4"],
+      "tags": ["wanikani23"],
+      "japanese": [{ "word": "看護師", "reading": "かんごし" }],
+      "senses": [["(hospital) nurse", "registered nurse", "RN"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "弁護", "reading": "べんご" }],
+      "senses": [["defense", "defence", "pleading", "advocacy"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani23"],
+      "japanese": [{ "word": "弁護士", "reading": "べんごし" }],
+      "senses": [["lawyer", "attorney"], ["Lawyer"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "看護婦", "reading": "かんごふ" }],
+      "senses": [["(female) nurse"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani52"],
+      "japanese": [{ "word": "擁護", "reading": "ようご" }],
+      "senses": [
+        [
+          "protection",
+          "advocacy",
+          "support",
+          "defence",
+          "championship",
+          "vindication"
+        ],
+        [
+          "to protect (e.g. rights, etc.)",
+          "to advocate (e.g. free trade, etc.)",
+          "to support"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "保護者", "reading": "ほごしゃ" }],
+      "senses": [["guardian", "protector", "patron", "parent"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "弁護人", "reading": "べんごにん" }],
+      "senses": [["counsel", "defender", "advocate"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "援護", "reading": "えんご" },
+        { "word": "掩護", "reading": "えんご" }
+      ],
+      "senses": [["covering", "protection", "backing", "relief"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "環境保護", "reading": "かんきょうほご" }],
+      "senses": [["environmental protection"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "人権擁護", "reading": "じんけんようご" }],
+      "senses": [["protection of human rights"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "養護", "reading": "ようご" }],
+      "senses": [["nursing", "(protective) care"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "愛護", "reading": "あいご" }],
+      "senses": [["protection", "tender care"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "警護", "reading": "けいご" }],
+      "senses": [["bodyguard", "escort"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "防護", "reading": "ぼうご" }],
+      "senses": [["protection"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani23"],
+      "japanese": [{ "word": "保護", "reading": "ほご" }],
+      "senses": [
+        ["protection", "safeguard", "guardianship", "custody", "patronage"],
+        ["preservation", "conservation"],
+        ["Protection"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "看護", "reading": "かんご" }],
+      "senses": [["nursing", "(army) nurse"], ["Nursing"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "介護", "reading": "かいご" }],
+      "senses": [["nursing", "care", "caregiving", "caring"], ["Elderly care"]]
+    },
+    {
+      "jlpt": ["jlpt-n4"],
+      "tags": ["wanikani23"],
+      "japanese": [{ "word": "看護師", "reading": "かんごし" }],
+      "senses": [["(hospital) nurse", "registered nurse", "RN"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "弁護", "reading": "べんご" }],
+      "senses": [["defense", "defence", "pleading", "advocacy"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani23"],
+      "japanese": [{ "word": "弁護士", "reading": "べんごし" }],
+      "senses": [["lawyer", "attorney"], ["Lawyer"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "看護婦", "reading": "かんごふ" }],
+      "senses": [["(female) nurse"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani52"],
+      "japanese": [{ "word": "擁護", "reading": "ようご" }],
+      "senses": [
+        [
+          "protection",
+          "advocacy",
+          "support",
+          "defence",
+          "championship",
+          "vindication"
+        ],
+        [
+          "to protect (e.g. rights, etc.)",
+          "to advocate (e.g. free trade, etc.)",
+          "to support"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "保護者", "reading": "ほごしゃ" }],
+      "senses": [["guardian", "protector", "patron", "parent"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "弁護人", "reading": "べんごにん" }],
+      "senses": [["counsel", "defender", "advocate"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "援護", "reading": "えんご" },
+        { "word": "掩護", "reading": "えんご" }
+      ],
+      "senses": [["covering", "protection", "backing", "relief"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "環境保護", "reading": "かんきょうほご" }],
+      "senses": [["environmental protection"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "人権擁護", "reading": "じんけんようご" }],
+      "senses": [["protection of human rights"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "養護", "reading": "ようご" }],
+      "senses": [["nursing", "(protective) care"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "愛護", "reading": "あいご" }],
+      "senses": [["protection", "tender care"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "警護", "reading": "けいご" }],
+      "senses": [["bodyguard", "escort"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "防護", "reading": "ぼうご" }],
+      "senses": [["protection"]]
+    }
+  ]
+}

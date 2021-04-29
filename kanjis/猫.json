@@ -1,1 +1,33 @@
-{"basic":["猫","Cat","259"],"extended":[{"jlpt":[],"tags":["wanikani15"],"japanese":[{"word":"子猫","reading":"こねこ"},{"word":"仔猫","reading":"こねこ"},{"word":"小猫","reading":"こねこ"},{"word":"子ねこ","reading":"こねこ"},{"word":"子ネコ","reading":"こネコ"},{"word":"仔ネコ","reading":"こネコ"},{"reading":"コネコ"}],"senses":[["kitten"],["small cat"]]},{"jlpt":[],"tags":["wanikani15"],"japanese":[{"word":"子猫","reading":"こねこ"},{"word":"仔猫","reading":"こねこ"},{"word":"小猫","reading":"こねこ"},{"word":"子ねこ","reading":"こねこ"},{"word":"子ネコ","reading":"こネコ"},{"word":"仔ネコ","reading":"こネコ"},{"reading":"コネコ"}],"senses":[["kitten"],["small cat"]]}]}
+{
+  "basic": ["猫", "Cat", "259"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": ["wanikani15"],
+      "japanese": [
+        { "word": "子猫", "reading": "こねこ" },
+        { "word": "仔猫", "reading": "こねこ" },
+        { "word": "小猫", "reading": "こねこ" },
+        { "word": "子ねこ", "reading": "こねこ" },
+        { "word": "子ネコ", "reading": "こネコ" },
+        { "word": "仔ネコ", "reading": "こネコ" },
+        { "reading": "コネコ" }
+      ],
+      "senses": [["kitten"], ["small cat"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani15"],
+      "japanese": [
+        { "word": "子猫", "reading": "こねこ" },
+        { "word": "仔猫", "reading": "こねこ" },
+        { "word": "小猫", "reading": "こねこ" },
+        { "word": "子ねこ", "reading": "こねこ" },
+        { "word": "子ネコ", "reading": "こネコ" },
+        { "word": "仔ネコ", "reading": "こネコ" },
+        { "reading": "コネコ" }
+      ],
+      "senses": [["kitten"], ["small cat"]]
+    }
+  ]
+}

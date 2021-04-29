@@ -1,1 +1,147 @@
-{"basic":["笑","Laugh","1008"],"extended":[{"jlpt":["jlpt-n4","jlpt-n1"],"tags":[],"japanese":[{"word":"可笑しい","reading":"おかしい"},{"word":"奇怪しい","reading":"おかしい"}],"senses":[["funny","amusing","comical","laughable","ridiculous"],["strange","odd","funny","peculiar","weird","unusual","eccentric"],["improper","unsuitable","unbecoming"],["suspicious"]]},{"jlpt":["jlpt-n3"],"tags":[],"japanese":[{"word":"微笑む","reading":"ほほえむ"},{"word":"ほほ笑む","reading":"ほほえむ"},{"word":"頬笑む","reading":"ほほえむ"}],"senses":[["to smile"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"微笑","reading":"びしょう"}],"senses":[["smile"]]},{"jlpt":[],"tags":["wanikani37"],"japanese":[{"word":"爆笑","reading":"ばくしょう"}],"senses":[["roar of laughter (from multiple people)","burst of laughter","uproarious laughter"],["laughing hard (by a single person)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"可笑しな","reading":"おかしな"}],"senses":[["ridiculous","odd"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"作り笑い","reading":"つくりわらい"}],"senses":[["forced laugh","forced smile"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"苦笑い","reading":"にがわらい"}],"senses":[["bitter smile","wry smile","forced smile","strained laugh"]]},{"jlpt":["jlpt-n4","jlpt-n1"],"tags":[],"japanese":[{"word":"可笑しい","reading":"おかしい"},{"word":"奇怪しい","reading":"おかしい"}],"senses":[["funny","amusing","comical","laughable","ridiculous"],["strange","odd","funny","peculiar","weird","unusual","eccentric"],["improper","unsuitable","unbecoming"],["suspicious"]]},{"jlpt":["jlpt-n3"],"tags":[],"japanese":[{"word":"微笑む","reading":"ほほえむ"},{"word":"ほほ笑む","reading":"ほほえむ"},{"word":"頬笑む","reading":"ほほえむ"}],"senses":[["to smile"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"微笑","reading":"びしょう"}],"senses":[["smile"]]},{"jlpt":[],"tags":["wanikani37"],"japanese":[{"word":"爆笑","reading":"ばくしょう"}],"senses":[["roar of laughter (from multiple people)","burst of laughter","uproarious laughter"],["laughing hard (by a single person)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"可笑しな","reading":"おかしな"}],"senses":[["ridiculous","odd"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"作り笑い","reading":"つくりわらい"}],"senses":[["forced laugh","forced smile"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"苦笑い","reading":"にがわらい"}],"senses":[["bitter smile","wry smile","forced smile","strained laugh"]]}]}
+{
+  "basic": ["笑", "Laugh", "1008"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n4", "jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "可笑しい", "reading": "おかしい" },
+        { "word": "奇怪しい", "reading": "おかしい" }
+      ],
+      "senses": [
+        ["funny", "amusing", "comical", "laughable", "ridiculous"],
+        [
+          "strange",
+          "odd",
+          "funny",
+          "peculiar",
+          "weird",
+          "unusual",
+          "eccentric"
+        ],
+        ["improper", "unsuitable", "unbecoming"],
+        ["suspicious"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": [],
+      "japanese": [
+        { "word": "微笑む", "reading": "ほほえむ" },
+        { "word": "ほほ笑む", "reading": "ほほえむ" },
+        { "word": "頬笑む", "reading": "ほほえむ" }
+      ],
+      "senses": [["to smile"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "微笑", "reading": "びしょう" }],
+      "senses": [["smile"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani37"],
+      "japanese": [{ "word": "爆笑", "reading": "ばくしょう" }],
+      "senses": [
+        [
+          "roar of laughter (from multiple people)",
+          "burst of laughter",
+          "uproarious laughter"
+        ],
+        ["laughing hard (by a single person)"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "可笑しな", "reading": "おかしな" }],
+      "senses": [["ridiculous", "odd"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "作り笑い", "reading": "つくりわらい" }],
+      "senses": [["forced laugh", "forced smile"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "苦笑い", "reading": "にがわらい" }],
+      "senses": [
+        ["bitter smile", "wry smile", "forced smile", "strained laugh"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n4", "jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "可笑しい", "reading": "おかしい" },
+        { "word": "奇怪しい", "reading": "おかしい" }
+      ],
+      "senses": [
+        ["funny", "amusing", "comical", "laughable", "ridiculous"],
+        [
+          "strange",
+          "odd",
+          "funny",
+          "peculiar",
+          "weird",
+          "unusual",
+          "eccentric"
+        ],
+        ["improper", "unsuitable", "unbecoming"],
+        ["suspicious"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": [],
+      "japanese": [
+        { "word": "微笑む", "reading": "ほほえむ" },
+        { "word": "ほほ笑む", "reading": "ほほえむ" },
+        { "word": "頬笑む", "reading": "ほほえむ" }
+      ],
+      "senses": [["to smile"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "微笑", "reading": "びしょう" }],
+      "senses": [["smile"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani37"],
+      "japanese": [{ "word": "爆笑", "reading": "ばくしょう" }],
+      "senses": [
+        [
+          "roar of laughter (from multiple people)",
+          "burst of laughter",
+          "uproarious laughter"
+        ],
+        ["laughing hard (by a single person)"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "可笑しな", "reading": "おかしな" }],
+      "senses": [["ridiculous", "odd"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "作り笑い", "reading": "つくりわらい" }],
+      "senses": [["forced laugh", "forced smile"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "苦笑い", "reading": "にがわらい" }],
+      "senses": [
+        ["bitter smile", "wry smile", "forced smile", "strained laugh"]
+      ]
+    }
+  ]
+}

@@ -1,1 +1,79 @@
-{"basic":["駄","Burdensome","2140"],"extended":[{"jlpt":["jlpt-n2"],"tags":["wanikani50"],"japanese":[{"word":"下駄","reading":"げた"}],"senses":[["geta","Japanese wooden clogs"],["turn (in set-type proofing)","upside-down character"],["Geta (footwear)"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani50"],"japanese":[{"word":"無駄","reading":"むだ"},{"word":"徒","reading":"むだ"},{"reading":"ムダ"}],"senses":[["futility","waste","uselessness","pointlessness","idleness"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"無駄遣い","reading":"むだづかい"},{"word":"無駄使い","reading":"むだづかい"},{"word":"無駄づかい","reading":"むだづかい"},{"word":"むだ遣い","reading":"むだづかい"},{"word":"むだ使い","reading":"むだづかい"},{"word":"徒遣い","reading":"むだづかい"}],"senses":[["waste (of money, time, etc.)","squandering","frittering away"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani50"],"japanese":[{"word":"下駄","reading":"げた"}],"senses":[["geta","Japanese wooden clogs"],["turn (in set-type proofing)","upside-down character"],["Geta (footwear)"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani50"],"japanese":[{"word":"無駄","reading":"むだ"},{"word":"徒","reading":"むだ"},{"reading":"ムダ"}],"senses":[["futility","waste","uselessness","pointlessness","idleness"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"無駄遣い","reading":"むだづかい"},{"word":"無駄使い","reading":"むだづかい"},{"word":"無駄づかい","reading":"むだづかい"},{"word":"むだ遣い","reading":"むだづかい"},{"word":"むだ使い","reading":"むだづかい"},{"word":"徒遣い","reading":"むだづかい"}],"senses":[["waste (of money, time, etc.)","squandering","frittering away"]]}]}
+{
+  "basic": ["駄", "Burdensome", "2140"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani50"],
+      "japanese": [{ "word": "下駄", "reading": "げた" }],
+      "senses": [
+        ["geta", "Japanese wooden clogs"],
+        ["turn (in set-type proofing)", "upside-down character"],
+        ["Geta (footwear)"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani50"],
+      "japanese": [
+        { "word": "無駄", "reading": "むだ" },
+        { "word": "徒", "reading": "むだ" },
+        { "reading": "ムダ" }
+      ],
+      "senses": [
+        ["futility", "waste", "uselessness", "pointlessness", "idleness"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "無駄遣い", "reading": "むだづかい" },
+        { "word": "無駄使い", "reading": "むだづかい" },
+        { "word": "無駄づかい", "reading": "むだづかい" },
+        { "word": "むだ遣い", "reading": "むだづかい" },
+        { "word": "むだ使い", "reading": "むだづかい" },
+        { "word": "徒遣い", "reading": "むだづかい" }
+      ],
+      "senses": [
+        ["waste (of money, time, etc.)", "squandering", "frittering away"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani50"],
+      "japanese": [{ "word": "下駄", "reading": "げた" }],
+      "senses": [
+        ["geta", "Japanese wooden clogs"],
+        ["turn (in set-type proofing)", "upside-down character"],
+        ["Geta (footwear)"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani50"],
+      "japanese": [
+        { "word": "無駄", "reading": "むだ" },
+        { "word": "徒", "reading": "むだ" },
+        { "reading": "ムダ" }
+      ],
+      "senses": [
+        ["futility", "waste", "uselessness", "pointlessness", "idleness"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "無駄遣い", "reading": "むだづかい" },
+        { "word": "無駄使い", "reading": "むだづかい" },
+        { "word": "無駄づかい", "reading": "むだづかい" },
+        { "word": "むだ遣い", "reading": "むだづかい" },
+        { "word": "むだ使い", "reading": "むだづかい" },
+        { "word": "徒遣い", "reading": "むだづかい" }
+      ],
+      "senses": [
+        ["waste (of money, time, etc.)", "squandering", "frittering away"]
+      ]
+    }
+  ]
+}

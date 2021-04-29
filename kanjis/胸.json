@@ -1,1 +1,29 @@
-{"basic":["胸","Bosom","1604"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"度胸","reading":"どきょう"}],"senses":[["courage","bravery","pluck","nerve","grit","guts"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"豊胸","reading":"ほうきょう"}],"senses":[["full breasts","ample breasts"],["breast enlargement"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"度胸","reading":"どきょう"}],"senses":[["courage","bravery","pluck","nerve","grit","guts"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"豊胸","reading":"ほうきょう"}],"senses":[["full breasts","ample breasts"],["breast enlargement"]]}]}
+{
+  "basic": ["胸", "Bosom", "1604"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "度胸", "reading": "どきょう" }],
+      "senses": [["courage", "bravery", "pluck", "nerve", "grit", "guts"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "豊胸", "reading": "ほうきょう" }],
+      "senses": [["full breasts", "ample breasts"], ["breast enlargement"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "度胸", "reading": "どきょう" }],
+      "senses": [["courage", "bravery", "pluck", "nerve", "grit", "guts"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "豊胸", "reading": "ほうきょう" }],
+      "senses": [["full breasts", "ample breasts"], ["breast enlargement"]]
+    }
+  ]
+}

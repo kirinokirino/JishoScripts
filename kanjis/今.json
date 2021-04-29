@@ -1,1 +1,67 @@
-{"basic":["今","Now","1711"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"古今","reading":"ここん"},{"word":"古今","reading":"こきん"}],"senses":[["ancient and modern times","all ages","past and present"]]},{"jlpt":[],"tags":["wanikani15"],"japanese":[{"word":"昨今","reading":"さっこん"},{"word":"昨今","reading":"さくこん"}],"senses":[["nowadays","recently"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"ただ今","reading":"ただいま"},{"word":"唯今","reading":"ただいま"},{"word":"只今","reading":"ただいま"}],"senses":[["here I am","I'm home!"],["presently","right away","right now","just now"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"古今","reading":"ここん"},{"word":"古今","reading":"こきん"}],"senses":[["ancient and modern times","all ages","past and present"]]},{"jlpt":[],"tags":["wanikani15"],"japanese":[{"word":"昨今","reading":"さっこん"},{"word":"昨今","reading":"さくこん"}],"senses":[["nowadays","recently"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"ただ今","reading":"ただいま"},{"word":"唯今","reading":"ただいま"},{"word":"只今","reading":"ただいま"}],"senses":[["here I am","I'm home!"],["presently","right away","right now","just now"]]}]}
+{
+  "basic": ["今", "Now", "1711"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "古今", "reading": "ここん" },
+        { "word": "古今", "reading": "こきん" }
+      ],
+      "senses": [["ancient and modern times", "all ages", "past and present"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani15"],
+      "japanese": [
+        { "word": "昨今", "reading": "さっこん" },
+        { "word": "昨今", "reading": "さくこん" }
+      ],
+      "senses": [["nowadays", "recently"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "ただ今", "reading": "ただいま" },
+        { "word": "唯今", "reading": "ただいま" },
+        { "word": "只今", "reading": "ただいま" }
+      ],
+      "senses": [
+        ["here I am", "I'm home!"],
+        ["presently", "right away", "right now", "just now"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "古今", "reading": "ここん" },
+        { "word": "古今", "reading": "こきん" }
+      ],
+      "senses": [["ancient and modern times", "all ages", "past and present"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani15"],
+      "japanese": [
+        { "word": "昨今", "reading": "さっこん" },
+        { "word": "昨今", "reading": "さくこん" }
+      ],
+      "senses": [["nowadays", "recently"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "ただ今", "reading": "ただいま" },
+        { "word": "唯今", "reading": "ただいま" },
+        { "word": "只今", "reading": "ただいま" }
+      ],
+      "senses": [
+        ["here I am", "I'm home!"],
+        ["presently", "right away", "right now", "just now"]
+      ]
+    }
+  ]
+}

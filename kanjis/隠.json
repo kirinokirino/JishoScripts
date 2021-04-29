@@ -1,1 +1,57 @@
-{"basic":["隠","Conceal","1410"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"見え隠れ","reading":"みえかくれ"},{"word":"見えかくれ","reading":"みえかくれ"},{"word":"見え隠れ","reading":"みえがくれ"},{"word":"見えがくれ","reading":"みえがくれ"}],"senses":[["appearing and disappearing","slipping in and out of view"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"何を隠そう","reading":"なにをかくそう"},{"word":"何をかくそう","reading":"なにをかくそう"}],"senses":[["to be frank with you","to tell you the truth","I'm going to lay my cards on the table"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"見え隠れ","reading":"みえかくれ"},{"word":"見えかくれ","reading":"みえかくれ"},{"word":"見え隠れ","reading":"みえがくれ"},{"word":"見えがくれ","reading":"みえがくれ"}],"senses":[["appearing and disappearing","slipping in and out of view"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"何を隠そう","reading":"なにをかくそう"},{"word":"何をかくそう","reading":"なにをかくそう"}],"senses":[["to be frank with you","to tell you the truth","I'm going to lay my cards on the table"]]}]}
+{
+  "basic": ["隠", "Conceal", "1410"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "見え隠れ", "reading": "みえかくれ" },
+        { "word": "見えかくれ", "reading": "みえかくれ" },
+        { "word": "見え隠れ", "reading": "みえがくれ" },
+        { "word": "見えがくれ", "reading": "みえがくれ" }
+      ],
+      "senses": [["appearing and disappearing", "slipping in and out of view"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "何を隠そう", "reading": "なにをかくそう" },
+        { "word": "何をかくそう", "reading": "なにをかくそう" }
+      ],
+      "senses": [
+        [
+          "to be frank with you",
+          "to tell you the truth",
+          "I'm going to lay my cards on the table"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "見え隠れ", "reading": "みえかくれ" },
+        { "word": "見えかくれ", "reading": "みえかくれ" },
+        { "word": "見え隠れ", "reading": "みえがくれ" },
+        { "word": "見えがくれ", "reading": "みえがくれ" }
+      ],
+      "senses": [["appearing and disappearing", "slipping in and out of view"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "何を隠そう", "reading": "なにをかくそう" },
+        { "word": "何をかくそう", "reading": "なにをかくそう" }
+      ],
+      "senses": [
+        [
+          "to be frank with you",
+          "to tell you the truth",
+          "I'm going to lay my cards on the table"
+        ]
+      ]
+    }
+  ]
+}

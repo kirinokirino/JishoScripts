@@ -1,1 +1,29 @@
-{"basic":["舌","Tongue","41"],"extended":[{"jlpt":[],"tags":["wanikani19"],"japanese":[{"word":"猫舌","reading":"ねこじた"}],"senses":[["dislike of very hot food or drink","inability to take hot food","cat tongue"]]},{"jlpt":[],"tags":["wanikani19"],"japanese":[{"word":"猫舌","reading":"ねこじた"}],"senses":[["dislike of very hot food or drink","inability to take hot food","cat tongue"]]}]}
+{
+  "basic": ["舌", "Tongue", "41"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": ["wanikani19"],
+      "japanese": [{ "word": "猫舌", "reading": "ねこじた" }],
+      "senses": [
+        [
+          "dislike of very hot food or drink",
+          "inability to take hot food",
+          "cat tongue"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani19"],
+      "japanese": [{ "word": "猫舌", "reading": "ねこじた" }],
+      "senses": [
+        [
+          "dislike of very hot food or drink",
+          "inability to take hot food",
+          "cat tongue"
+        ]
+      ]
+    }
+  ]
+}

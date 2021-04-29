@@ -1,1 +1,71 @@
-{"basic":["抗","Confront","700"],"extended":[{"jlpt":["jlpt-n3"],"tags":["wanikani37"],"japanese":[{"word":"抵抗","reading":"ていこう"}],"senses":[["resistance","opposition","standing up to"],["reluctance","repulsion","repugnance"],["resistance","drag","friction"],["electrical resistance"],["resistor"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani37"],"japanese":[{"word":"反抗","reading":"はんこう"}],"senses":[["opposition","resistance","insubordination","defiance","hostility","rebellion"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"対抗","reading":"たいこう"}],"senses":[["opposition","rivalry","competition","antagonism"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani37"],"japanese":[{"word":"抵抗","reading":"ていこう"}],"senses":[["resistance","opposition","standing up to"],["reluctance","repulsion","repugnance"],["resistance","drag","friction"],["electrical resistance"],["resistor"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani37"],"japanese":[{"word":"反抗","reading":"はんこう"}],"senses":[["opposition","resistance","insubordination","defiance","hostility","rebellion"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"対抗","reading":"たいこう"}],"senses":[["opposition","rivalry","competition","antagonism"]]}]}
+{
+  "basic": ["抗", "Confront", "700"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani37"],
+      "japanese": [{ "word": "抵抗", "reading": "ていこう" }],
+      "senses": [
+        ["resistance", "opposition", "standing up to"],
+        ["reluctance", "repulsion", "repugnance"],
+        ["resistance", "drag", "friction"],
+        ["electrical resistance"],
+        ["resistor"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani37"],
+      "japanese": [{ "word": "反抗", "reading": "はんこう" }],
+      "senses": [
+        [
+          "opposition",
+          "resistance",
+          "insubordination",
+          "defiance",
+          "hostility",
+          "rebellion"
+        ]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "対抗", "reading": "たいこう" }],
+      "senses": [["opposition", "rivalry", "competition", "antagonism"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani37"],
+      "japanese": [{ "word": "抵抗", "reading": "ていこう" }],
+      "senses": [
+        ["resistance", "opposition", "standing up to"],
+        ["reluctance", "repulsion", "repugnance"],
+        ["resistance", "drag", "friction"],
+        ["electrical resistance"],
+        ["resistor"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani37"],
+      "japanese": [{ "word": "反抗", "reading": "はんこう" }],
+      "senses": [
+        [
+          "opposition",
+          "resistance",
+          "insubordination",
+          "defiance",
+          "hostility",
+          "rebellion"
+        ]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "対抗", "reading": "たいこう" }],
+      "senses": [["opposition", "rivalry", "competition", "antagonism"]]
+    }
+  ]
+}

@@ -1,1 +1,71 @@
-{"basic":["我","Ego","690"],"extended":[{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"自我","reading":"じが"}],"senses":[["self","the ego"],["Id, ego and super-ego"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani28"],"japanese":[{"word":"我々","reading":"われわれ"},{"word":"吾々","reading":"われわれ"},{"word":"我我","reading":"われわれ"},{"word":"吾吾","reading":"われわれ"}],"senses":[["we"]]},{"jlpt":["jlpt-n3"],"tags":[],"japanese":[{"word":"怪我","reading":"けが"},{"reading":"ケガ"}],"senses":[["injury (to animate object)","hurt"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"けが人","reading":"けがにん"},{"word":"怪我人","reading":"けがにん"},{"word":"ケガ人","reading":"ケガにん"}],"senses":[["wounded person","injured person"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"自我","reading":"じが"}],"senses":[["self","the ego"],["Id, ego and super-ego"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani28"],"japanese":[{"word":"我々","reading":"われわれ"},{"word":"吾々","reading":"われわれ"},{"word":"我我","reading":"われわれ"},{"word":"吾吾","reading":"われわれ"}],"senses":[["we"]]},{"jlpt":["jlpt-n3"],"tags":[],"japanese":[{"word":"怪我","reading":"けが"},{"reading":"ケガ"}],"senses":[["injury (to animate object)","hurt"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"けが人","reading":"けがにん"},{"word":"怪我人","reading":"けがにん"},{"word":"ケガ人","reading":"ケガにん"}],"senses":[["wounded person","injured person"]]}]}
+{
+  "basic": ["我", "Ego", "690"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "自我", "reading": "じが" }],
+      "senses": [["self", "the ego"], ["Id, ego and super-ego"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani28"],
+      "japanese": [
+        { "word": "我々", "reading": "われわれ" },
+        { "word": "吾々", "reading": "われわれ" },
+        { "word": "我我", "reading": "われわれ" },
+        { "word": "吾吾", "reading": "われわれ" }
+      ],
+      "senses": [["we"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": [],
+      "japanese": [{ "word": "怪我", "reading": "けが" }, { "reading": "ケガ" }],
+      "senses": [["injury (to animate object)", "hurt"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "けが人", "reading": "けがにん" },
+        { "word": "怪我人", "reading": "けがにん" },
+        { "word": "ケガ人", "reading": "ケガにん" }
+      ],
+      "senses": [["wounded person", "injured person"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "自我", "reading": "じが" }],
+      "senses": [["self", "the ego"], ["Id, ego and super-ego"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani28"],
+      "japanese": [
+        { "word": "我々", "reading": "われわれ" },
+        { "word": "吾々", "reading": "われわれ" },
+        { "word": "我我", "reading": "われわれ" },
+        { "word": "吾吾", "reading": "われわれ" }
+      ],
+      "senses": [["we"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": [],
+      "japanese": [{ "word": "怪我", "reading": "けが" }, { "reading": "ケガ" }],
+      "senses": [["injury (to animate object)", "hurt"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "けが人", "reading": "けがにん" },
+        { "word": "怪我人", "reading": "けがにん" },
+        { "word": "ケガ人", "reading": "ケガにん" }
+      ],
+      "senses": [["wounded person", "injured person"]]
+    }
+  ]
+}

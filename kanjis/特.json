@@ -1,1 +1,65 @@
-{"basic":["特","Special","261"],"extended":[{"jlpt":["jlpt-n3"],"tags":["wanikani26"],"japanese":[{"word":"独特","reading":"どくとく"},{"word":"独得","reading":"どくとく"}],"senses":[["peculiarity","uniqueness","characteristic"],["understood only by oneself"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"加特力","reading":"カトリック"}],"senses":[["Catholic (church)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"超特急","reading":"ちょうとっきゅう"}],"senses":[["super express"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"雪特尼","reading":"シドニー"}],"senses":[["Sydney"],["Sidney","Sydney (Australia)"],["Sydney"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani26"],"japanese":[{"word":"独特","reading":"どくとく"},{"word":"独得","reading":"どくとく"}],"senses":[["peculiarity","uniqueness","characteristic"],["understood only by oneself"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"加特力","reading":"カトリック"}],"senses":[["Catholic (church)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"超特急","reading":"ちょうとっきゅう"}],"senses":[["super express"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"雪特尼","reading":"シドニー"}],"senses":[["Sydney"],["Sidney","Sydney (Australia)"],["Sydney"]]}]}
+{
+  "basic": ["特", "Special", "261"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani26"],
+      "japanese": [
+        { "word": "独特", "reading": "どくとく" },
+        { "word": "独得", "reading": "どくとく" }
+      ],
+      "senses": [
+        ["peculiarity", "uniqueness", "characteristic"],
+        ["understood only by oneself"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "加特力", "reading": "カトリック" }],
+      "senses": [["Catholic (church)"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "超特急", "reading": "ちょうとっきゅう" }],
+      "senses": [["super express"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "雪特尼", "reading": "シドニー" }],
+      "senses": [["Sydney"], ["Sidney", "Sydney (Australia)"], ["Sydney"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani26"],
+      "japanese": [
+        { "word": "独特", "reading": "どくとく" },
+        { "word": "独得", "reading": "どくとく" }
+      ],
+      "senses": [
+        ["peculiarity", "uniqueness", "characteristic"],
+        ["understood only by oneself"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "加特力", "reading": "カトリック" }],
+      "senses": [["Catholic (church)"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "超特急", "reading": "ちょうとっきゅう" }],
+      "senses": [["super express"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "雪特尼", "reading": "シドニー" }],
+      "senses": [["Sydney"], ["Sidney", "Sydney (Australia)"], ["Sydney"]]
+    }
+  ]
+}

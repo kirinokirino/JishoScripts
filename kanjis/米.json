@@ -1,1 +1,239 @@
-{"basic":["米","Rice","987"],"extended":[{"jlpt":["jlpt-n5"],"tags":[],"japanese":[{"word":"粁","reading":"キロメートル"},{"word":"粁","reading":"キロメイトル"},{"word":"キロ米","reading":"キロメートル"},{"word":"キロ米","reading":"キロメイトル"}],"senses":[["kilometer","kilometre"]]},{"jlpt":["jlpt-n4"],"tags":[],"japanese":[{"word":"亜米利加","reading":"アメリカ"},{"word":"亜墨利加","reading":"アメリカ"}],"senses":[["America"],["United States of America"],["America"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani8"],"japanese":[{"word":"南米","reading":"なんべい"}],"senses":[["South America"],["Nanbei"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani29"],"japanese":[{"word":"欧米","reading":"おうべい"}],"senses":[["Europe and America","the West"],["Europe & America"]]},{"jlpt":[],"tags":["wanikani51"],"japanese":[{"word":"玄米","reading":"げんまい"}],"senses":[["unpolished rice","unmilled rice","brown rice"],["Brown rice"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"日米","reading":"にちべい"}],"senses":[["Japan and the United States","Japanese-American"],["Nichibei"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"新米","reading":"しんまい"}],"senses":[["new rice","first rice crop of the year"],["novice","beginner","newcomer","new hand"],["Shinmai"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"中南米","reading":"ちゅうなんべい"}],"senses":[["Central and South America"],["Chuunanbei"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"アメリカ合衆国","reading":"アメリカがっしゅうこく"},{"word":"亜米利加合衆国","reading":"アメリカがっしゅうこく"}],"senses":[["United States of America"],["United States"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"反米","reading":"はんべい"}],"senses":[["anti-American"],["Anti-Americanism"]]},{"jlpt":[],"tags":["wanikani8"],"japanese":[{"word":"全米","reading":"ぜんべい"}],"senses":[["all-America","pan-American","all of America"],["Zenbei"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"精米","reading":"せいまい"}],"senses":[["rice polishing","polished rice"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"訪米","reading":"ほうべい"}],"senses":[["visit to America"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"在米","reading":"ざいべい"}],"senses":[["being in the United States","staying in the United States","residing in the United States"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"対米","reading":"たいべい"}],"senses":[["relating to the USA","toward America","with America"]]},{"jlpt":["jlpt-n5"],"tags":[],"japanese":[{"word":"粁","reading":"キロメートル"},{"word":"粁","reading":"キロメイトル"},{"word":"キロ米","reading":"キロメートル"},{"word":"キロ米","reading":"キロメイトル"}],"senses":[["kilometer","kilometre"]]},{"jlpt":["jlpt-n4"],"tags":[],"japanese":[{"word":"亜米利加","reading":"アメリカ"},{"word":"亜墨利加","reading":"アメリカ"}],"senses":[["America"],["United States of America"],["America"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani8"],"japanese":[{"word":"南米","reading":"なんべい"}],"senses":[["South America"],["Nanbei"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani29"],"japanese":[{"word":"欧米","reading":"おうべい"}],"senses":[["Europe and America","the West"],["Europe & America"]]},{"jlpt":[],"tags":["wanikani51"],"japanese":[{"word":"玄米","reading":"げんまい"}],"senses":[["unpolished rice","unmilled rice","brown rice"],["Brown rice"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"日米","reading":"にちべい"}],"senses":[["Japan and the United States","Japanese-American"],["Nichibei"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"新米","reading":"しんまい"}],"senses":[["new rice","first rice crop of the year"],["novice","beginner","newcomer","new hand"],["Shinmai"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"中南米","reading":"ちゅうなんべい"}],"senses":[["Central and South America"],["Chuunanbei"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"アメリカ合衆国","reading":"アメリカがっしゅうこく"},{"word":"亜米利加合衆国","reading":"アメリカがっしゅうこく"}],"senses":[["United States of America"],["United States"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"反米","reading":"はんべい"}],"senses":[["anti-American"],["Anti-Americanism"]]},{"jlpt":[],"tags":["wanikani8"],"japanese":[{"word":"全米","reading":"ぜんべい"}],"senses":[["all-America","pan-American","all of America"],["Zenbei"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"精米","reading":"せいまい"}],"senses":[["rice polishing","polished rice"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"訪米","reading":"ほうべい"}],"senses":[["visit to America"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"在米","reading":"ざいべい"}],"senses":[["being in the United States","staying in the United States","residing in the United States"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"対米","reading":"たいべい"}],"senses":[["relating to the USA","toward America","with America"]]}]}
+{
+  "basic": ["米", "Rice", "987"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n5"],
+      "tags": [],
+      "japanese": [
+        { "word": "粁", "reading": "キロメートル" },
+        { "word": "粁", "reading": "キロメイトル" },
+        { "word": "キロ米", "reading": "キロメートル" },
+        { "word": "キロ米", "reading": "キロメイトル" }
+      ],
+      "senses": [["kilometer", "kilometre"]]
+    },
+    {
+      "jlpt": ["jlpt-n4"],
+      "tags": [],
+      "japanese": [
+        { "word": "亜米利加", "reading": "アメリカ" },
+        { "word": "亜墨利加", "reading": "アメリカ" }
+      ],
+      "senses": [["America"], ["United States of America"], ["America"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani8"],
+      "japanese": [{ "word": "南米", "reading": "なんべい" }],
+      "senses": [["South America"], ["Nanbei"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani29"],
+      "japanese": [{ "word": "欧米", "reading": "おうべい" }],
+      "senses": [["Europe and America", "the West"], ["Europe & America"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani51"],
+      "japanese": [{ "word": "玄米", "reading": "げんまい" }],
+      "senses": [
+        ["unpolished rice", "unmilled rice", "brown rice"],
+        ["Brown rice"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "日米", "reading": "にちべい" }],
+      "senses": [
+        ["Japan and the United States", "Japanese-American"],
+        ["Nichibei"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "新米", "reading": "しんまい" }],
+      "senses": [
+        ["new rice", "first rice crop of the year"],
+        ["novice", "beginner", "newcomer", "new hand"],
+        ["Shinmai"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "中南米", "reading": "ちゅうなんべい" }],
+      "senses": [["Central and South America"], ["Chuunanbei"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "アメリカ合衆国", "reading": "アメリカがっしゅうこく" },
+        { "word": "亜米利加合衆国", "reading": "アメリカがっしゅうこく" }
+      ],
+      "senses": [["United States of America"], ["United States"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "反米", "reading": "はんべい" }],
+      "senses": [["anti-American"], ["Anti-Americanism"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani8"],
+      "japanese": [{ "word": "全米", "reading": "ぜんべい" }],
+      "senses": [["all-America", "pan-American", "all of America"], ["Zenbei"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "精米", "reading": "せいまい" }],
+      "senses": [["rice polishing", "polished rice"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "訪米", "reading": "ほうべい" }],
+      "senses": [["visit to America"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "在米", "reading": "ざいべい" }],
+      "senses": [
+        [
+          "being in the United States",
+          "staying in the United States",
+          "residing in the United States"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "対米", "reading": "たいべい" }],
+      "senses": [["relating to the USA", "toward America", "with America"]]
+    },
+    {
+      "jlpt": ["jlpt-n5"],
+      "tags": [],
+      "japanese": [
+        { "word": "粁", "reading": "キロメートル" },
+        { "word": "粁", "reading": "キロメイトル" },
+        { "word": "キロ米", "reading": "キロメートル" },
+        { "word": "キロ米", "reading": "キロメイトル" }
+      ],
+      "senses": [["kilometer", "kilometre"]]
+    },
+    {
+      "jlpt": ["jlpt-n4"],
+      "tags": [],
+      "japanese": [
+        { "word": "亜米利加", "reading": "アメリカ" },
+        { "word": "亜墨利加", "reading": "アメリカ" }
+      ],
+      "senses": [["America"], ["United States of America"], ["America"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani8"],
+      "japanese": [{ "word": "南米", "reading": "なんべい" }],
+      "senses": [["South America"], ["Nanbei"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani29"],
+      "japanese": [{ "word": "欧米", "reading": "おうべい" }],
+      "senses": [["Europe and America", "the West"], ["Europe & America"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani51"],
+      "japanese": [{ "word": "玄米", "reading": "げんまい" }],
+      "senses": [
+        ["unpolished rice", "unmilled rice", "brown rice"],
+        ["Brown rice"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "日米", "reading": "にちべい" }],
+      "senses": [
+        ["Japan and the United States", "Japanese-American"],
+        ["Nichibei"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "新米", "reading": "しんまい" }],
+      "senses": [
+        ["new rice", "first rice crop of the year"],
+        ["novice", "beginner", "newcomer", "new hand"],
+        ["Shinmai"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "中南米", "reading": "ちゅうなんべい" }],
+      "senses": [["Central and South America"], ["Chuunanbei"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "アメリカ合衆国", "reading": "アメリカがっしゅうこく" },
+        { "word": "亜米利加合衆国", "reading": "アメリカがっしゅうこく" }
+      ],
+      "senses": [["United States of America"], ["United States"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "反米", "reading": "はんべい" }],
+      "senses": [["anti-American"], ["Anti-Americanism"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani8"],
+      "japanese": [{ "word": "全米", "reading": "ぜんべい" }],
+      "senses": [["all-America", "pan-American", "all of America"], ["Zenbei"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "精米", "reading": "せいまい" }],
+      "senses": [["rice polishing", "polished rice"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "訪米", "reading": "ほうべい" }],
+      "senses": [["visit to America"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "在米", "reading": "ざいべい" }],
+      "senses": [
+        [
+          "being in the United States",
+          "staying in the United States",
+          "residing in the United States"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "対米", "reading": "たいべい" }],
+      "senses": [["relating to the USA", "toward America", "with America"]]
+    }
+  ]
+}

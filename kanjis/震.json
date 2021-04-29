@@ -1,1 +1,81 @@
-{"basic":["震","Quake","2166"],"extended":[{"jlpt":["jlpt-n4"],"tags":["wanikani20"],"japanese":[{"word":"地震","reading":"じしん"},{"word":"地震","reading":"ない"},{"word":"地震","reading":"なえ"},{"word":"地震","reading":"じぶるい"}],"senses":[["earthquake"],["Earthquake"]]},{"jlpt":[],"tags":["wanikani20"],"japanese":[{"word":"余震","reading":"よしん"}],"senses":[["aftershock"],["Aftershock"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"軽震","reading":"けいしん"}],"senses":[["weak earthquake"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"微震","reading":"びしん"}],"senses":[["slight earthquake"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"大震災","reading":"だいしんさい"}],"senses":[["great earthquake (disaster)"],["Great Kanto earthquake of 1923"]]},{"jlpt":["jlpt-n4"],"tags":["wanikani20"],"japanese":[{"word":"地震","reading":"じしん"},{"word":"地震","reading":"ない"},{"word":"地震","reading":"なえ"},{"word":"地震","reading":"じぶるい"}],"senses":[["earthquake"],["Earthquake"]]},{"jlpt":[],"tags":["wanikani20"],"japanese":[{"word":"余震","reading":"よしん"}],"senses":[["aftershock"],["Aftershock"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"微震","reading":"びしん"}],"senses":[["slight earthquake"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"軽震","reading":"けいしん"}],"senses":[["weak earthquake"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"大震災","reading":"だいしんさい"}],"senses":[["great earthquake (disaster)"],["Great Kanto earthquake of 1923"]]}]}
+{
+  "basic": ["震", "Quake", "2166"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n4"],
+      "tags": ["wanikani20"],
+      "japanese": [
+        { "word": "地震", "reading": "じしん" },
+        { "word": "地震", "reading": "ない" },
+        { "word": "地震", "reading": "なえ" },
+        { "word": "地震", "reading": "じぶるい" }
+      ],
+      "senses": [["earthquake"], ["Earthquake"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani20"],
+      "japanese": [{ "word": "余震", "reading": "よしん" }],
+      "senses": [["aftershock"], ["Aftershock"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "軽震", "reading": "けいしん" }],
+      "senses": [["weak earthquake"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "微震", "reading": "びしん" }],
+      "senses": [["slight earthquake"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "大震災", "reading": "だいしんさい" }],
+      "senses": [
+        ["great earthquake (disaster)"],
+        ["Great Kanto earthquake of 1923"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n4"],
+      "tags": ["wanikani20"],
+      "japanese": [
+        { "word": "地震", "reading": "じしん" },
+        { "word": "地震", "reading": "ない" },
+        { "word": "地震", "reading": "なえ" },
+        { "word": "地震", "reading": "じぶるい" }
+      ],
+      "senses": [["earthquake"], ["Earthquake"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani20"],
+      "japanese": [{ "word": "余震", "reading": "よしん" }],
+      "senses": [["aftershock"], ["Aftershock"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "微震", "reading": "びしん" }],
+      "senses": [["slight earthquake"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "軽震", "reading": "けいしん" }],
+      "senses": [["weak earthquake"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "大震災", "reading": "だいしんさい" }],
+      "senses": [
+        ["great earthquake (disaster)"],
+        ["Great Kanto earthquake of 1923"]
+      ]
+    }
+  ]
+}

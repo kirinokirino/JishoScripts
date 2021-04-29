@@ -1,1 +1,17 @@
-{"basic":["捕","Catch","1978"],"extended":[{"jlpt":["jlpt-n3"],"tags":["wanikani25","wanikani27"],"japanese":[{"word":"逮捕","reading":"たいほ"}],"senses":[["arrest","apprehension","capture"],["Arrest"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani25","wanikani27"],"japanese":[{"word":"逮捕","reading":"たいほ"}],"senses":[["arrest","apprehension","capture"],["Arrest"]]}]}
+{
+  "basic": ["捕", "Catch", "1978"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani25", "wanikani27"],
+      "japanese": [{ "word": "逮捕", "reading": "たいほ" }],
+      "senses": [["arrest", "apprehension", "capture"], ["Arrest"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani25", "wanikani27"],
+      "japanese": [{ "word": "逮捕", "reading": "たいほ" }],
+      "senses": [["arrest", "apprehension", "capture"], ["Arrest"]]
+    }
+  ]
+}

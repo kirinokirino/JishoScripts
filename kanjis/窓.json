@@ -1,1 +1,57 @@
-{"basic":["窓","Window","811"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"同窓会","reading":"どうそうかい"}],"senses":[["alumni association","graduates' association","alumni meeting","class reunion"],["Alumni association"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"同窓","reading":"どうそう"}],"senses":[["being a graduate of the same school","person who went to the same school","fellow alumnus"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"同窓会","reading":"どうそうかい"}],"senses":[["alumni association","graduates' association","alumni meeting","class reunion"],["Alumni association"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"同窓","reading":"どうそう"}],"senses":[["being a graduate of the same school","person who went to the same school","fellow alumnus"]]}]}
+{
+  "basic": ["窓", "Window", "811"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "同窓会", "reading": "どうそうかい" }],
+      "senses": [
+        [
+          "alumni association",
+          "graduates' association",
+          "alumni meeting",
+          "class reunion"
+        ],
+        ["Alumni association"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "同窓", "reading": "どうそう" }],
+      "senses": [
+        [
+          "being a graduate of the same school",
+          "person who went to the same school",
+          "fellow alumnus"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "同窓会", "reading": "どうそうかい" }],
+      "senses": [
+        [
+          "alumni association",
+          "graduates' association",
+          "alumni meeting",
+          "class reunion"
+        ],
+        ["Alumni association"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "同窓", "reading": "どうそう" }],
+      "senses": [
+        [
+          "being a graduate of the same school",
+          "person who went to the same school",
+          "fellow alumnus"
+        ]
+      ]
+    }
+  ]
+}

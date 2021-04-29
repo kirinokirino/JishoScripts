@@ -1,1 +1,61 @@
-{"basic":["闇","Pitch Dark","1748"],"extended":[{"jlpt":["jlpt-n1"],"tags":["wanikani48"],"japanese":[{"word":"無闇に","reading":"むやみに"},{"word":"無暗に","reading":"むやみに"}],"senses":[["thoughtlessly","recklessly","rashly","indiscriminately","indiscreetly","at random"],["excessively","unreasonably","immoderately","absurdly"]]},{"jlpt":[],"tags":["wanikani48"],"japanese":[{"word":"暗闇","reading":"くらやみ"},{"word":"暗やみ","reading":"くらやみ"}],"senses":[["darkness","the dark"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani48"],"japanese":[{"word":"無闇に","reading":"むやみに"},{"word":"無暗に","reading":"むやみに"}],"senses":[["thoughtlessly","recklessly","rashly","indiscriminately","indiscreetly","at random"],["excessively","unreasonably","immoderately","absurdly"]]},{"jlpt":[],"tags":["wanikani48"],"japanese":[{"word":"暗闇","reading":"くらやみ"},{"word":"暗やみ","reading":"くらやみ"}],"senses":[["darkness","the dark"]]}]}
+{
+  "basic": ["闇", "Pitch Dark", "1748"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani48"],
+      "japanese": [
+        { "word": "無闇に", "reading": "むやみに" },
+        { "word": "無暗に", "reading": "むやみに" }
+      ],
+      "senses": [
+        [
+          "thoughtlessly",
+          "recklessly",
+          "rashly",
+          "indiscriminately",
+          "indiscreetly",
+          "at random"
+        ],
+        ["excessively", "unreasonably", "immoderately", "absurdly"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani48"],
+      "japanese": [
+        { "word": "暗闇", "reading": "くらやみ" },
+        { "word": "暗やみ", "reading": "くらやみ" }
+      ],
+      "senses": [["darkness", "the dark"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani48"],
+      "japanese": [
+        { "word": "無闇に", "reading": "むやみに" },
+        { "word": "無暗に", "reading": "むやみに" }
+      ],
+      "senses": [
+        [
+          "thoughtlessly",
+          "recklessly",
+          "rashly",
+          "indiscriminately",
+          "indiscreetly",
+          "at random"
+        ],
+        ["excessively", "unreasonably", "immoderately", "absurdly"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani48"],
+      "japanese": [
+        { "word": "暗闇", "reading": "くらやみ" },
+        { "word": "暗やみ", "reading": "くらやみ" }
+      ],
+      "senses": [["darkness", "the dark"]]
+    }
+  ]
+}

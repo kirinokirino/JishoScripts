@@ -1,1 +1,171 @@
-{"basic":["油","Oil","1188"],"extended":[{"jlpt":["jlpt-n3"],"tags":["wanikani35"],"japanese":[{"word":"石油","reading":"せきゆ"}],"senses":[["oil","petroleum"],["kerosene","paraffin"],["Petroleum"]]},{"jlpt":["jlpt-n2","jlpt-n5"],"tags":["wanikani35"],"japanese":[{"word":"醤油","reading":"しょうゆ"},{"word":"醤油","reading":"しょうゆう"},{"word":"しょう油","reading":"しょうゆ"},{"word":"しょう油","reading":"しょうゆう"},{"word":"醬油","reading":"しょうゆ"},{"word":"醬油","reading":"しょうゆう"},{"word":"正油","reading":"しょうゆ"},{"word":"正油","reading":"しょうゆう"},{"reading":"しょゆ"},{"reading":"しょゆう"}],"senses":[["soy sauce","shoyu"],["Soy sauce"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"灯油","reading":"とうゆ"}],"senses":[["kerosene","paraffin","lamp oil"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani35"],"japanese":[{"word":"原油","reading":"げんゆ"}],"senses":[["crude oil"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"潤滑油","reading":"じゅんかつゆ"}],"senses":[["lubricating oil","lubricant","lube"]]},{"jlpt":[],"tags":["wanikani35"],"japanese":[{"word":"給油","reading":"きゅうゆ"}],"senses":[["refueling (car, plane, etc.)"],["lubricating (a machine)","oiling"]]},{"jlpt":[],"tags":["wanikani37"],"japanese":[{"word":"給油所","reading":"きゅうゆじょ"},{"word":"給油所","reading":"きゅうゆしょ"}],"senses":[["petrol filling station","gasoline filling station"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"軽油","reading":"けいゆ"}],"senses":[["diesel oil","gas oil"],["light oil"],["Diesel fuel"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"重油","reading":"じゅうゆ"}],"senses":[["heavy oil","fuel oil"],["Fuel oil"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"製油所","reading":"せいゆじょ"}],"senses":[["oil refinery"],["Seiyujo"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"産油国","reading":"さんゆこく"}],"senses":[["oil-producing countries (nations)"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani35"],"japanese":[{"word":"石油","reading":"せきゆ"}],"senses":[["oil","petroleum"],["kerosene","paraffin"],["Petroleum"]]},{"jlpt":["jlpt-n2","jlpt-n5"],"tags":["wanikani35"],"japanese":[{"word":"醤油","reading":"しょうゆ"},{"word":"醤油","reading":"しょうゆう"},{"word":"しょう油","reading":"しょうゆ"},{"word":"しょう油","reading":"しょうゆう"},{"word":"醬油","reading":"しょうゆ"},{"word":"醬油","reading":"しょうゆう"},{"word":"正油","reading":"しょうゆ"},{"word":"正油","reading":"しょうゆう"},{"reading":"しょゆ"},{"reading":"しょゆう"}],"senses":[["soy sauce","shoyu"],["Soy sauce"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"灯油","reading":"とうゆ"}],"senses":[["kerosene","paraffin","lamp oil"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani35"],"japanese":[{"word":"原油","reading":"げんゆ"}],"senses":[["crude oil"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"潤滑油","reading":"じゅんかつゆ"}],"senses":[["lubricating oil","lubricant","lube"]]},{"jlpt":[],"tags":["wanikani35"],"japanese":[{"word":"給油","reading":"きゅうゆ"}],"senses":[["refueling (car, plane, etc.)"],["lubricating (a machine)","oiling"]]},{"jlpt":[],"tags":["wanikani37"],"japanese":[{"word":"給油所","reading":"きゅうゆじょ"},{"word":"給油所","reading":"きゅうゆしょ"}],"senses":[["petrol filling station","gasoline filling station"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"軽油","reading":"けいゆ"}],"senses":[["diesel oil","gas oil"],["light oil"],["Diesel fuel"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"重油","reading":"じゅうゆ"}],"senses":[["heavy oil","fuel oil"],["Fuel oil"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"製油所","reading":"せいゆじょ"}],"senses":[["oil refinery"],["Seiyujo"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"産油国","reading":"さんゆこく"}],"senses":[["oil-producing countries (nations)"]]}]}
+{
+  "basic": ["油", "Oil", "1188"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani35"],
+      "japanese": [{ "word": "石油", "reading": "せきゆ" }],
+      "senses": [["oil", "petroleum"], ["kerosene", "paraffin"], ["Petroleum"]]
+    },
+    {
+      "jlpt": ["jlpt-n2", "jlpt-n5"],
+      "tags": ["wanikani35"],
+      "japanese": [
+        { "word": "醤油", "reading": "しょうゆ" },
+        { "word": "醤油", "reading": "しょうゆう" },
+        { "word": "しょう油", "reading": "しょうゆ" },
+        { "word": "しょう油", "reading": "しょうゆう" },
+        { "word": "醬油", "reading": "しょうゆ" },
+        { "word": "醬油", "reading": "しょうゆう" },
+        { "word": "正油", "reading": "しょうゆ" },
+        { "word": "正油", "reading": "しょうゆう" },
+        { "reading": "しょゆ" },
+        { "reading": "しょゆう" }
+      ],
+      "senses": [["soy sauce", "shoyu"], ["Soy sauce"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "灯油", "reading": "とうゆ" }],
+      "senses": [["kerosene", "paraffin", "lamp oil"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani35"],
+      "japanese": [{ "word": "原油", "reading": "げんゆ" }],
+      "senses": [["crude oil"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "潤滑油", "reading": "じゅんかつゆ" }],
+      "senses": [["lubricating oil", "lubricant", "lube"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani35"],
+      "japanese": [{ "word": "給油", "reading": "きゅうゆ" }],
+      "senses": [
+        ["refueling (car, plane, etc.)"],
+        ["lubricating (a machine)", "oiling"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani37"],
+      "japanese": [
+        { "word": "給油所", "reading": "きゅうゆじょ" },
+        { "word": "給油所", "reading": "きゅうゆしょ" }
+      ],
+      "senses": [["petrol filling station", "gasoline filling station"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "軽油", "reading": "けいゆ" }],
+      "senses": [["diesel oil", "gas oil"], ["light oil"], ["Diesel fuel"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "重油", "reading": "じゅうゆ" }],
+      "senses": [["heavy oil", "fuel oil"], ["Fuel oil"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "製油所", "reading": "せいゆじょ" }],
+      "senses": [["oil refinery"], ["Seiyujo"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "産油国", "reading": "さんゆこく" }],
+      "senses": [["oil-producing countries (nations)"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani35"],
+      "japanese": [{ "word": "石油", "reading": "せきゆ" }],
+      "senses": [["oil", "petroleum"], ["kerosene", "paraffin"], ["Petroleum"]]
+    },
+    {
+      "jlpt": ["jlpt-n2", "jlpt-n5"],
+      "tags": ["wanikani35"],
+      "japanese": [
+        { "word": "醤油", "reading": "しょうゆ" },
+        { "word": "醤油", "reading": "しょうゆう" },
+        { "word": "しょう油", "reading": "しょうゆ" },
+        { "word": "しょう油", "reading": "しょうゆう" },
+        { "word": "醬油", "reading": "しょうゆ" },
+        { "word": "醬油", "reading": "しょうゆう" },
+        { "word": "正油", "reading": "しょうゆ" },
+        { "word": "正油", "reading": "しょうゆう" },
+        { "reading": "しょゆ" },
+        { "reading": "しょゆう" }
+      ],
+      "senses": [["soy sauce", "shoyu"], ["Soy sauce"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "灯油", "reading": "とうゆ" }],
+      "senses": [["kerosene", "paraffin", "lamp oil"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani35"],
+      "japanese": [{ "word": "原油", "reading": "げんゆ" }],
+      "senses": [["crude oil"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "潤滑油", "reading": "じゅんかつゆ" }],
+      "senses": [["lubricating oil", "lubricant", "lube"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani35"],
+      "japanese": [{ "word": "給油", "reading": "きゅうゆ" }],
+      "senses": [
+        ["refueling (car, plane, etc.)"],
+        ["lubricating (a machine)", "oiling"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani37"],
+      "japanese": [
+        { "word": "給油所", "reading": "きゅうゆじょ" },
+        { "word": "給油所", "reading": "きゅうゆしょ" }
+      ],
+      "senses": [["petrol filling station", "gasoline filling station"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "軽油", "reading": "けいゆ" }],
+      "senses": [["diesel oil", "gas oil"], ["light oil"], ["Diesel fuel"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "重油", "reading": "じゅうゆ" }],
+      "senses": [["heavy oil", "fuel oil"], ["Fuel oil"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "製油所", "reading": "せいゆじょ" }],
+      "senses": [["oil refinery"], ["Seiyujo"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "産油国", "reading": "さんゆこく" }],
+      "senses": [["oil-producing countries (nations)"]]
+    }
+  ]
+}

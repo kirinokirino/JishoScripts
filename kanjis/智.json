@@ -1,1 +1,47 @@
-{"basic":["智","Wisdom","1309"],"extended":[{"jlpt":["jlpt-n1"],"tags":["wanikani17"],"japanese":[{"word":"無知","reading":"むち"},{"word":"無智","reading":"むち"}],"senses":[["ignorance","innocence","stupidity"],["Ignorance"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"英知","reading":"えいち"},{"word":"叡智","reading":"えいち"},{"word":"叡知","reading":"えいち"},{"word":"英智","reading":"えいち"},{"word":"睿智","reading":"えいち"}],"senses":[["wisdom","intelligence","intellect"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani17"],"japanese":[{"word":"無知","reading":"むち"},{"word":"無智","reading":"むち"}],"senses":[["ignorance","innocence","stupidity"],["Ignorance"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"英知","reading":"えいち"},{"word":"叡智","reading":"えいち"},{"word":"叡知","reading":"えいち"},{"word":"英智","reading":"えいち"},{"word":"睿智","reading":"えいち"}],"senses":[["wisdom","intelligence","intellect"]]}]}
+{
+  "basic": ["智", "Wisdom", "1309"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani17"],
+      "japanese": [
+        { "word": "無知", "reading": "むち" },
+        { "word": "無智", "reading": "むち" }
+      ],
+      "senses": [["ignorance", "innocence", "stupidity"], ["Ignorance"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "英知", "reading": "えいち" },
+        { "word": "叡智", "reading": "えいち" },
+        { "word": "叡知", "reading": "えいち" },
+        { "word": "英智", "reading": "えいち" },
+        { "word": "睿智", "reading": "えいち" }
+      ],
+      "senses": [["wisdom", "intelligence", "intellect"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani17"],
+      "japanese": [
+        { "word": "無知", "reading": "むち" },
+        { "word": "無智", "reading": "むち" }
+      ],
+      "senses": [["ignorance", "innocence", "stupidity"], ["Ignorance"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "英知", "reading": "えいち" },
+        { "word": "叡智", "reading": "えいち" },
+        { "word": "叡知", "reading": "えいち" },
+        { "word": "英智", "reading": "えいち" },
+        { "word": "睿智", "reading": "えいち" }
+      ],
+      "senses": [["wisdom", "intelligence", "intellect"]]
+    }
+  ]
+}

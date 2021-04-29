@@ -1,1 +1,121 @@
-{"basic":["復","Restore","940"],"extended":[{"jlpt":["jlpt-n3"],"tags":["wanikani26","wanikani28"],"japanese":[{"word":"回復","reading":"かいふく"},{"word":"快復","reading":"かいふく"},{"word":"恢復","reading":"かいふく"}],"senses":[["restoration","rehabilitation","recovery","return","replevin","improvement"],["recovery (from an illness)","recuperation","convalescence"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani26"],"japanese":[{"word":"往復","reading":"おうふく"}],"senses":[["making a round trip","going and returning","coming and going"],["round-trip ticket","return ticket"],["correspondence","exchanging (letters)"],["socializing","visiting one another"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"報復","reading":"ほうふく"}],"senses":[["retaliation","revenge","reprisal","retribution"],["retorsion","retortion"],["Revenge"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"修復","reading":"しゅうふく"},{"word":"修復","reading":"しゅふく"},{"word":"修覆","reading":"しゅうふく"},{"word":"修覆","reading":"しゅふく"}],"senses":[["restoration","repair","mending"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"社会復帰","reading":"しゃかいふっき"}],"senses":[["rehabilitation (in society)"],["Rehabilitation (penology)"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani26","wanikani28"],"japanese":[{"word":"回復","reading":"かいふく"},{"word":"快復","reading":"かいふく"},{"word":"恢復","reading":"かいふく"}],"senses":[["restoration","rehabilitation","recovery","return","replevin","improvement"],["recovery (from an illness)","recuperation","convalescence"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani26"],"japanese":[{"word":"往復","reading":"おうふく"}],"senses":[["making a round trip","going and returning","coming and going"],["round-trip ticket","return ticket"],["correspondence","exchanging (letters)"],["socializing","visiting one another"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"報復","reading":"ほうふく"}],"senses":[["retaliation","revenge","reprisal","retribution"],["retorsion","retortion"],["Revenge"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"修復","reading":"しゅうふく"},{"word":"修復","reading":"しゅふく"},{"word":"修覆","reading":"しゅうふく"},{"word":"修覆","reading":"しゅふく"}],"senses":[["restoration","repair","mending"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"社会復帰","reading":"しゃかいふっき"}],"senses":[["rehabilitation (in society)"],["Rehabilitation (penology)"]]}]}
+{
+  "basic": ["復", "Restore", "940"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani26", "wanikani28"],
+      "japanese": [
+        { "word": "回復", "reading": "かいふく" },
+        { "word": "快復", "reading": "かいふく" },
+        { "word": "恢復", "reading": "かいふく" }
+      ],
+      "senses": [
+        [
+          "restoration",
+          "rehabilitation",
+          "recovery",
+          "return",
+          "replevin",
+          "improvement"
+        ],
+        ["recovery (from an illness)", "recuperation", "convalescence"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani26"],
+      "japanese": [{ "word": "往復", "reading": "おうふく" }],
+      "senses": [
+        ["making a round trip", "going and returning", "coming and going"],
+        ["round-trip ticket", "return ticket"],
+        ["correspondence", "exchanging (letters)"],
+        ["socializing", "visiting one another"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "報復", "reading": "ほうふく" }],
+      "senses": [
+        ["retaliation", "revenge", "reprisal", "retribution"],
+        ["retorsion", "retortion"],
+        ["Revenge"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "修復", "reading": "しゅうふく" },
+        { "word": "修復", "reading": "しゅふく" },
+        { "word": "修覆", "reading": "しゅうふく" },
+        { "word": "修覆", "reading": "しゅふく" }
+      ],
+      "senses": [["restoration", "repair", "mending"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "社会復帰", "reading": "しゃかいふっき" }],
+      "senses": [["rehabilitation (in society)"], ["Rehabilitation (penology)"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani26", "wanikani28"],
+      "japanese": [
+        { "word": "回復", "reading": "かいふく" },
+        { "word": "快復", "reading": "かいふく" },
+        { "word": "恢復", "reading": "かいふく" }
+      ],
+      "senses": [
+        [
+          "restoration",
+          "rehabilitation",
+          "recovery",
+          "return",
+          "replevin",
+          "improvement"
+        ],
+        ["recovery (from an illness)", "recuperation", "convalescence"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani26"],
+      "japanese": [{ "word": "往復", "reading": "おうふく" }],
+      "senses": [
+        ["making a round trip", "going and returning", "coming and going"],
+        ["round-trip ticket", "return ticket"],
+        ["correspondence", "exchanging (letters)"],
+        ["socializing", "visiting one another"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "報復", "reading": "ほうふく" }],
+      "senses": [
+        ["retaliation", "revenge", "reprisal", "retribution"],
+        ["retorsion", "retortion"],
+        ["Revenge"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "修復", "reading": "しゅうふく" },
+        { "word": "修復", "reading": "しゅふく" },
+        { "word": "修覆", "reading": "しゅうふく" },
+        { "word": "修覆", "reading": "しゅふく" }
+      ],
+      "senses": [["restoration", "repair", "mending"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "社会復帰", "reading": "しゃかいふっき" }],
+      "senses": [["rehabilitation (in society)"], ["Rehabilitation (penology)"]]
+    }
+  ]
+}

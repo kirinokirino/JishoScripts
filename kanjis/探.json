@@ -1,1 +1,23 @@
-{"basic":["探","Grope","1425"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"手探り","reading":"てさぐり"},{"word":"手さぐり","reading":"てさぐり"}],"senses":[["fumbling","groping"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"手探り","reading":"てさぐり"},{"word":"手さぐり","reading":"てさぐり"}],"senses":[["fumbling","groping"]]}]}
+{
+  "basic": ["探", "Grope", "1425"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "手探り", "reading": "てさぐり" },
+        { "word": "手さぐり", "reading": "てさぐり" }
+      ],
+      "senses": [["fumbling", "groping"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "手探り", "reading": "てさぐり" },
+        { "word": "手さぐり", "reading": "てさぐり" }
+      ],
+      "senses": [["fumbling", "groping"]]
+    }
+  ]
+}

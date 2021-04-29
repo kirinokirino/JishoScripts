@@ -1,1 +1,23 @@
-{"basic":["香","Incense","977"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"晩香波","reading":"バンクーバー"},{"word":"晩香坡","reading":"バンクーバー"}],"senses":[["Vancouver"],["Vancouver (Canada)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"晩香波","reading":"バンクーバー"},{"word":"晩香坡","reading":"バンクーバー"}],"senses":[["Vancouver"],["Vancouver (Canada)"]]}]}
+{
+  "basic": ["香", "Incense", "977"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "晩香波", "reading": "バンクーバー" },
+        { "word": "晩香坡", "reading": "バンクーバー" }
+      ],
+      "senses": [["Vancouver"], ["Vancouver (Canada)"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "晩香波", "reading": "バンクーバー" },
+        { "word": "晩香坡", "reading": "バンクーバー" }
+      ],
+      "senses": [["Vancouver"], ["Vancouver (Canada)"]]
+    }
+  ]
+}

@@ -1,1 +1,263 @@
-{"basic":["除","Exclude","1787"],"extended":[{"jlpt":["jlpt-n5"],"tags":["wanikani31","wanikani33"],"japanese":[{"word":"掃除","reading":"そうじ"}],"senses":[["cleaning","sweeping","dusting","scrubbing"],["Cleanliness"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"解除","reading":"かいじょ"}],"senses":[["cancellation","rescinding","release","calling off","lifting (sanctions)","delisting"],["Rescission"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani53"],"japanese":[{"word":"徐々","reading":"じょじょ"},{"word":"徐徐","reading":"じょじょ"}],"senses":[["slow","gradual","steady"],["calm","composed","relaxed"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani37","wanikani39"],"japanese":[{"word":"削除","reading":"さくじょ"}],"senses":[["deletion","elimination","erasure","striking out"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani39"],"japanese":[{"word":"免除","reading":"めんじょ"}],"senses":[["exemption","exoneration","discharge"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani40"],"japanese":[{"word":"排除","reading":"はいじょ"}],"senses":[["exclusion","removal","rejection","elimination","abatement","lifting (sanctions, etc.)"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"控除","reading":"こうじょ"},{"word":"扣除","reading":"こうじょ"}],"senses":[["subtraction","deduction (e.g. tax)","subsidy"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"取り除く","reading":"とりのぞく"},{"word":"取除く","reading":"とりのぞく"},{"word":"とり除く","reading":"とりのぞく"},{"word":"取りのぞく","reading":"とりのぞく"}],"senses":[["to remove","to deinstall","to take away","to set apart"]]},{"jlpt":[],"tags":["wanikani33"],"japanese":[{"word":"掃除機","reading":"そうじき"},{"word":"掃除器","reading":"そうじき"}],"senses":[["vacuum cleaner","vacuum","hoover"],["cleaning device"],["Vacuum cleaner"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"駆除","reading":"くじょ"}],"senses":[["extermination (esp. pests)","expulsion","destruction"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"虫除け","reading":"むしよけ"},{"word":"虫よけ","reading":"むしよけ"}],"senses":[["insecticide","insect repellent"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"徐々に","reading":"じょじょに"},{"word":"徐徐に","reading":"じょじょに"},{"word":"除々に","reading":"じょじょに"},{"word":"除除に","reading":"じょじょに"}],"senses":[["gradually","steadily","slowly","little by little","step by step","by degrees"]]},{"jlpt":["jlpt-n5"],"tags":["wanikani31","wanikani33"],"japanese":[{"word":"掃除","reading":"そうじ"}],"senses":[["cleaning","sweeping","dusting","scrubbing"],["Cleanliness"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"解除","reading":"かいじょ"}],"senses":[["cancellation","rescinding","release","calling off","lifting (sanctions)","delisting"],["Rescission"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani53"],"japanese":[{"word":"徐々","reading":"じょじょ"},{"word":"徐徐","reading":"じょじょ"}],"senses":[["slow","gradual","steady"],["calm","composed","relaxed"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani37","wanikani39"],"japanese":[{"word":"削除","reading":"さくじょ"}],"senses":[["deletion","elimination","erasure","striking out"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani39"],"japanese":[{"word":"免除","reading":"めんじょ"}],"senses":[["exemption","exoneration","discharge"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani40"],"japanese":[{"word":"排除","reading":"はいじょ"}],"senses":[["exclusion","removal","rejection","elimination","abatement","lifting (sanctions, etc.)"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"控除","reading":"こうじょ"},{"word":"扣除","reading":"こうじょ"}],"senses":[["subtraction","deduction (e.g. tax)","subsidy"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"取り除く","reading":"とりのぞく"},{"word":"取除く","reading":"とりのぞく"},{"word":"とり除く","reading":"とりのぞく"},{"word":"取りのぞく","reading":"とりのぞく"}],"senses":[["to remove","to deinstall","to take away","to set apart"]]},{"jlpt":[],"tags":["wanikani33"],"japanese":[{"word":"掃除機","reading":"そうじき"},{"word":"掃除器","reading":"そうじき"}],"senses":[["vacuum cleaner","vacuum","hoover"],["cleaning device"],["Vacuum cleaner"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"駆除","reading":"くじょ"}],"senses":[["extermination (esp. pests)","expulsion","destruction"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"虫除け","reading":"むしよけ"},{"word":"虫よけ","reading":"むしよけ"}],"senses":[["insecticide","insect repellent"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"徐々に","reading":"じょじょに"},{"word":"徐徐に","reading":"じょじょに"},{"word":"除々に","reading":"じょじょに"},{"word":"除除に","reading":"じょじょに"}],"senses":[["gradually","steadily","slowly","little by little","step by step","by degrees"]]}]}
+{
+  "basic": ["除", "Exclude", "1787"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n5"],
+      "tags": ["wanikani31", "wanikani33"],
+      "japanese": [{ "word": "掃除", "reading": "そうじ" }],
+      "senses": [
+        ["cleaning", "sweeping", "dusting", "scrubbing"],
+        ["Cleanliness"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "解除", "reading": "かいじょ" }],
+      "senses": [
+        [
+          "cancellation",
+          "rescinding",
+          "release",
+          "calling off",
+          "lifting (sanctions)",
+          "delisting"
+        ],
+        ["Rescission"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani53"],
+      "japanese": [
+        { "word": "徐々", "reading": "じょじょ" },
+        { "word": "徐徐", "reading": "じょじょ" }
+      ],
+      "senses": [["slow", "gradual", "steady"], ["calm", "composed", "relaxed"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani37", "wanikani39"],
+      "japanese": [{ "word": "削除", "reading": "さくじょ" }],
+      "senses": [["deletion", "elimination", "erasure", "striking out"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani39"],
+      "japanese": [{ "word": "免除", "reading": "めんじょ" }],
+      "senses": [["exemption", "exoneration", "discharge"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani40"],
+      "japanese": [{ "word": "排除", "reading": "はいじょ" }],
+      "senses": [
+        [
+          "exclusion",
+          "removal",
+          "rejection",
+          "elimination",
+          "abatement",
+          "lifting (sanctions, etc.)"
+        ]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "控除", "reading": "こうじょ" },
+        { "word": "扣除", "reading": "こうじょ" }
+      ],
+      "senses": [["subtraction", "deduction (e.g. tax)", "subsidy"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "取り除く", "reading": "とりのぞく" },
+        { "word": "取除く", "reading": "とりのぞく" },
+        { "word": "とり除く", "reading": "とりのぞく" },
+        { "word": "取りのぞく", "reading": "とりのぞく" }
+      ],
+      "senses": [["to remove", "to deinstall", "to take away", "to set apart"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani33"],
+      "japanese": [
+        { "word": "掃除機", "reading": "そうじき" },
+        { "word": "掃除器", "reading": "そうじき" }
+      ],
+      "senses": [
+        ["vacuum cleaner", "vacuum", "hoover"],
+        ["cleaning device"],
+        ["Vacuum cleaner"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "駆除", "reading": "くじょ" }],
+      "senses": [["extermination (esp. pests)", "expulsion", "destruction"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "虫除け", "reading": "むしよけ" },
+        { "word": "虫よけ", "reading": "むしよけ" }
+      ],
+      "senses": [["insecticide", "insect repellent"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "徐々に", "reading": "じょじょに" },
+        { "word": "徐徐に", "reading": "じょじょに" },
+        { "word": "除々に", "reading": "じょじょに" },
+        { "word": "除除に", "reading": "じょじょに" }
+      ],
+      "senses": [
+        [
+          "gradually",
+          "steadily",
+          "slowly",
+          "little by little",
+          "step by step",
+          "by degrees"
+        ]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n5"],
+      "tags": ["wanikani31", "wanikani33"],
+      "japanese": [{ "word": "掃除", "reading": "そうじ" }],
+      "senses": [
+        ["cleaning", "sweeping", "dusting", "scrubbing"],
+        ["Cleanliness"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "解除", "reading": "かいじょ" }],
+      "senses": [
+        [
+          "cancellation",
+          "rescinding",
+          "release",
+          "calling off",
+          "lifting (sanctions)",
+          "delisting"
+        ],
+        ["Rescission"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani53"],
+      "japanese": [
+        { "word": "徐々", "reading": "じょじょ" },
+        { "word": "徐徐", "reading": "じょじょ" }
+      ],
+      "senses": [["slow", "gradual", "steady"], ["calm", "composed", "relaxed"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani37", "wanikani39"],
+      "japanese": [{ "word": "削除", "reading": "さくじょ" }],
+      "senses": [["deletion", "elimination", "erasure", "striking out"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani39"],
+      "japanese": [{ "word": "免除", "reading": "めんじょ" }],
+      "senses": [["exemption", "exoneration", "discharge"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani40"],
+      "japanese": [{ "word": "排除", "reading": "はいじょ" }],
+      "senses": [
+        [
+          "exclusion",
+          "removal",
+          "rejection",
+          "elimination",
+          "abatement",
+          "lifting (sanctions, etc.)"
+        ]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "控除", "reading": "こうじょ" },
+        { "word": "扣除", "reading": "こうじょ" }
+      ],
+      "senses": [["subtraction", "deduction (e.g. tax)", "subsidy"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "取り除く", "reading": "とりのぞく" },
+        { "word": "取除く", "reading": "とりのぞく" },
+        { "word": "とり除く", "reading": "とりのぞく" },
+        { "word": "取りのぞく", "reading": "とりのぞく" }
+      ],
+      "senses": [["to remove", "to deinstall", "to take away", "to set apart"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani33"],
+      "japanese": [
+        { "word": "掃除機", "reading": "そうじき" },
+        { "word": "掃除器", "reading": "そうじき" }
+      ],
+      "senses": [
+        ["vacuum cleaner", "vacuum", "hoover"],
+        ["cleaning device"],
+        ["Vacuum cleaner"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "駆除", "reading": "くじょ" }],
+      "senses": [["extermination (esp. pests)", "expulsion", "destruction"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "虫除け", "reading": "むしよけ" },
+        { "word": "虫よけ", "reading": "むしよけ" }
+      ],
+      "senses": [["insecticide", "insect repellent"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "徐々に", "reading": "じょじょに" },
+        { "word": "徐徐に", "reading": "じょじょに" },
+        { "word": "除々に", "reading": "じょじょに" },
+        { "word": "除除に", "reading": "じょじょに" }
+      ],
+      "senses": [
+        [
+          "gradually",
+          "steadily",
+          "slowly",
+          "little by little",
+          "step by step",
+          "by degrees"
+        ]
+      ]
+    }
+  ]
+}

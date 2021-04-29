@@ -1,1 +1,63 @@
-{"basic":["充","Allot","823"],"extended":[{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"拡充","reading":"かくじゅう"}],"senses":[["expansion"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani39"],"japanese":[{"word":"補充","reading":"ほじゅう"}],"senses":[["replenishment","supplementation","supplement","replacement","refilling"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"不十分","reading":"ふじゅうぶん"},{"word":"不充分","reading":"ふじゅうぶん"}],"senses":[["insufficient","inadequate","imperfect"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"拡充","reading":"かくじゅう"}],"senses":[["expansion"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani39"],"japanese":[{"word":"補充","reading":"ほじゅう"}],"senses":[["replenishment","supplementation","supplement","replacement","refilling"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"不十分","reading":"ふじゅうぶん"},{"word":"不充分","reading":"ふじゅうぶん"}],"senses":[["insufficient","inadequate","imperfect"]]}]}
+{
+  "basic": ["充", "Allot", "823"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "拡充", "reading": "かくじゅう" }],
+      "senses": [["expansion"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani39"],
+      "japanese": [{ "word": "補充", "reading": "ほじゅう" }],
+      "senses": [
+        [
+          "replenishment",
+          "supplementation",
+          "supplement",
+          "replacement",
+          "refilling"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "不十分", "reading": "ふじゅうぶん" },
+        { "word": "不充分", "reading": "ふじゅうぶん" }
+      ],
+      "senses": [["insufficient", "inadequate", "imperfect"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "拡充", "reading": "かくじゅう" }],
+      "senses": [["expansion"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani39"],
+      "japanese": [{ "word": "補充", "reading": "ほじゅう" }],
+      "senses": [
+        [
+          "replenishment",
+          "supplementation",
+          "supplement",
+          "replacement",
+          "refilling"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "不十分", "reading": "ふじゅうぶん" },
+        { "word": "不充分", "reading": "ふじゅうぶん" }
+      ],
+      "senses": [["insufficient", "inadequate", "imperfect"]]
+    }
+  ]
+}

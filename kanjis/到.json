@@ -1,1 +1,29 @@
-{"basic":["到","Arrival","817"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"周到","reading":"しゅうとう"}],"senses":[["careful","thorough","meticulous","scrupulous"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"殺到","reading":"さっとう"}],"senses":[["rush","flood","deluge"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"周到","reading":"しゅうとう"}],"senses":[["careful","thorough","meticulous","scrupulous"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"殺到","reading":"さっとう"}],"senses":[["rush","flood","deluge"]]}]}
+{
+  "basic": ["到", "Arrival", "817"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "周到", "reading": "しゅうとう" }],
+      "senses": [["careful", "thorough", "meticulous", "scrupulous"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "殺到", "reading": "さっとう" }],
+      "senses": [["rush", "flood", "deluge"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "周到", "reading": "しゅうとう" }],
+      "senses": [["careful", "thorough", "meticulous", "scrupulous"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "殺到", "reading": "さっとう" }],
+      "senses": [["rush", "flood", "deluge"]]
+    }
+  ]
+}

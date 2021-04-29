@@ -1,1 +1,57 @@
-{"basic":["雷","Thunder","454"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"地雷","reading":"じらい"}],"senses":[["land mine"],["topic that sets someone off","sensitive topic","taboo topic","trigger"],["something that seems fine at first but turns out to be very bad (e.g. product, business)","booby trap","pitfall"],["Land mine"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"機雷","reading":"きらい"}],"senses":[["(sea) mine"],["Naval mine"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"地雷","reading":"じらい"}],"senses":[["land mine"],["topic that sets someone off","sensitive topic","taboo topic","trigger"],["something that seems fine at first but turns out to be very bad (e.g. product, business)","booby trap","pitfall"],["Land mine"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"機雷","reading":"きらい"}],"senses":[["(sea) mine"],["Naval mine"]]}]}
+{
+  "basic": ["雷", "Thunder", "454"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "地雷", "reading": "じらい" }],
+      "senses": [
+        ["land mine"],
+        [
+          "topic that sets someone off",
+          "sensitive topic",
+          "taboo topic",
+          "trigger"
+        ],
+        [
+          "something that seems fine at first but turns out to be very bad (e.g. product, business)",
+          "booby trap",
+          "pitfall"
+        ],
+        ["Land mine"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "機雷", "reading": "きらい" }],
+      "senses": [["(sea) mine"], ["Naval mine"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "地雷", "reading": "じらい" }],
+      "senses": [
+        ["land mine"],
+        [
+          "topic that sets someone off",
+          "sensitive topic",
+          "taboo topic",
+          "trigger"
+        ],
+        [
+          "something that seems fine at first but turns out to be very bad (e.g. product, business)",
+          "booby trap",
+          "pitfall"
+        ],
+        ["Land mine"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "機雷", "reading": "きらい" }],
+      "senses": [["(sea) mine"], ["Naval mine"]]
+    }
+  ]
+}

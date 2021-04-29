@@ -1,1 +1,137 @@
-{"basic":["絡","Entwine","1450"],"extended":[{"jlpt":["jlpt-n4"],"tags":["wanikani19"],"japanese":[{"word":"連絡","reading":"れんらく"},{"word":"聯絡","reading":"れんらく"}],"senses":[["contacting","(making) contact","getting in touch","communication","correspondence","call","message"],["connection (with a train, bus, etc.)","joining (a railway line, etc.)","meeting"],["connection (between matters, incidents, etc.)","relation","link"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"ご連絡","reading":"ごれんらく"},{"word":"御連絡","reading":"ごれんらく"}],"senses":[["contacting","getting in touch","communication","call","message"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"連絡先","reading":"れんらくさき"}],"senses":[["contact address"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"短絡","reading":"たんらく"}],"senses":[["short circuit","short"],["illogical jump","drawing a hasty inference (between two events)","jumping to conclusions","acting rashly"],["Short circuit"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"脈絡","reading":"みゃくらく"}],"senses":[["logical connection","chain of reasoning","coherence","context"],["blood vessel"]]},{"jlpt":["jlpt-n4"],"tags":["wanikani19"],"japanese":[{"word":"連絡","reading":"れんらく"},{"word":"聯絡","reading":"れんらく"}],"senses":[["contacting","(making) contact","getting in touch","communication","correspondence","call","message"],["connection (with a train, bus, etc.)","joining (a railway line, etc.)","meeting"],["connection (between matters, incidents, etc.)","relation","link"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"ご連絡","reading":"ごれんらく"},{"word":"御連絡","reading":"ごれんらく"}],"senses":[["contacting","getting in touch","communication","call","message"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"連絡先","reading":"れんらくさき"}],"senses":[["contact address"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"短絡","reading":"たんらく"}],"senses":[["short circuit","short"],["illogical jump","drawing a hasty inference (between two events)","jumping to conclusions","acting rashly"],["Short circuit"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"脈絡","reading":"みゃくらく"}],"senses":[["logical connection","chain of reasoning","coherence","context"],["blood vessel"]]}]}
+{
+  "basic": ["絡", "Entwine", "1450"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n4"],
+      "tags": ["wanikani19"],
+      "japanese": [
+        { "word": "連絡", "reading": "れんらく" },
+        { "word": "聯絡", "reading": "れんらく" }
+      ],
+      "senses": [
+        [
+          "contacting",
+          "(making) contact",
+          "getting in touch",
+          "communication",
+          "correspondence",
+          "call",
+          "message"
+        ],
+        [
+          "connection (with a train, bus, etc.)",
+          "joining (a railway line, etc.)",
+          "meeting"
+        ],
+        ["connection (between matters, incidents, etc.)", "relation", "link"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "ご連絡", "reading": "ごれんらく" },
+        { "word": "御連絡", "reading": "ごれんらく" }
+      ],
+      "senses": [
+        ["contacting", "getting in touch", "communication", "call", "message"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "連絡先", "reading": "れんらくさき" }],
+      "senses": [["contact address"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "短絡", "reading": "たんらく" }],
+      "senses": [
+        ["short circuit", "short"],
+        [
+          "illogical jump",
+          "drawing a hasty inference (between two events)",
+          "jumping to conclusions",
+          "acting rashly"
+        ],
+        ["Short circuit"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "脈絡", "reading": "みゃくらく" }],
+      "senses": [
+        ["logical connection", "chain of reasoning", "coherence", "context"],
+        ["blood vessel"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n4"],
+      "tags": ["wanikani19"],
+      "japanese": [
+        { "word": "連絡", "reading": "れんらく" },
+        { "word": "聯絡", "reading": "れんらく" }
+      ],
+      "senses": [
+        [
+          "contacting",
+          "(making) contact",
+          "getting in touch",
+          "communication",
+          "correspondence",
+          "call",
+          "message"
+        ],
+        [
+          "connection (with a train, bus, etc.)",
+          "joining (a railway line, etc.)",
+          "meeting"
+        ],
+        ["connection (between matters, incidents, etc.)", "relation", "link"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "ご連絡", "reading": "ごれんらく" },
+        { "word": "御連絡", "reading": "ごれんらく" }
+      ],
+      "senses": [
+        ["contacting", "getting in touch", "communication", "call", "message"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "連絡先", "reading": "れんらくさき" }],
+      "senses": [["contact address"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "短絡", "reading": "たんらく" }],
+      "senses": [
+        ["short circuit", "short"],
+        [
+          "illogical jump",
+          "drawing a hasty inference (between two events)",
+          "jumping to conclusions",
+          "acting rashly"
+        ],
+        ["Short circuit"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "脈絡", "reading": "みゃくらく" }],
+      "senses": [
+        ["logical connection", "chain of reasoning", "coherence", "context"],
+        ["blood vessel"]
+      ]
+    }
+  ]
+}

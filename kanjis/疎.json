@@ -1,1 +1,39 @@
-{"basic":["疎","Alienate","1797"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"意思疎通","reading":"いしそつう"},{"word":"意志疎通","reading":"いしそつう"}],"senses":[["(coming to a) mutual understanding","understanding each other"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani54"],"japanese":[{"word":"過疎","reading":"かそ"}],"senses":[["depopulation"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"意思疎通","reading":"いしそつう"},{"word":"意志疎通","reading":"いしそつう"}],"senses":[["(coming to a) mutual understanding","understanding each other"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani54"],"japanese":[{"word":"過疎","reading":"かそ"}],"senses":[["depopulation"]]}]}
+{
+  "basic": ["疎", "Alienate", "1797"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "意思疎通", "reading": "いしそつう" },
+        { "word": "意志疎通", "reading": "いしそつう" }
+      ],
+      "senses": [
+        ["(coming to a) mutual understanding", "understanding each other"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani54"],
+      "japanese": [{ "word": "過疎", "reading": "かそ" }],
+      "senses": [["depopulation"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "意思疎通", "reading": "いしそつう" },
+        { "word": "意志疎通", "reading": "いしそつう" }
+      ],
+      "senses": [
+        ["(coming to a) mutual understanding", "understanding each other"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani54"],
+      "japanese": [{ "word": "過疎", "reading": "かそ" }],
+      "senses": [["depopulation"]]
+    }
+  ]
+}

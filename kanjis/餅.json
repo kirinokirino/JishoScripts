@@ -1,1 +1,47 @@
-{"basic":["餅","Mochi","1590"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"煎餅","reading":"せんべい"}],"senses":[["rice cracker","senbei","Japanese cracker","rice cookie","wafer"],["Senbei"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"焼きもち","reading":"やきもち"},{"word":"焼もち","reading":"やきもち"},{"word":"焼き餠","reading":"やきもち"},{"word":"焼き餅","reading":"やきもち"},{"word":"焼餅","reading":"やきもち"}],"senses":[["jealousy"],["roasted rice cake"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"煎餅","reading":"せんべい"}],"senses":[["rice cracker","senbei","Japanese cracker","rice cookie","wafer"],["Senbei"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"焼きもち","reading":"やきもち"},{"word":"焼もち","reading":"やきもち"},{"word":"焼き餠","reading":"やきもち"},{"word":"焼き餅","reading":"やきもち"},{"word":"焼餅","reading":"やきもち"}],"senses":[["jealousy"],["roasted rice cake"]]}]}
+{
+  "basic": ["餅", "Mochi", "1590"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "煎餅", "reading": "せんべい" }],
+      "senses": [
+        ["rice cracker", "senbei", "Japanese cracker", "rice cookie", "wafer"],
+        ["Senbei"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "焼きもち", "reading": "やきもち" },
+        { "word": "焼もち", "reading": "やきもち" },
+        { "word": "焼き餠", "reading": "やきもち" },
+        { "word": "焼き餅", "reading": "やきもち" },
+        { "word": "焼餅", "reading": "やきもち" }
+      ],
+      "senses": [["jealousy"], ["roasted rice cake"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "煎餅", "reading": "せんべい" }],
+      "senses": [
+        ["rice cracker", "senbei", "Japanese cracker", "rice cookie", "wafer"],
+        ["Senbei"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "焼きもち", "reading": "やきもち" },
+        { "word": "焼もち", "reading": "やきもち" },
+        { "word": "焼き餠", "reading": "やきもち" },
+        { "word": "焼き餅", "reading": "やきもち" },
+        { "word": "焼餅", "reading": "やきもち" }
+      ],
+      "senses": [["jealousy"], ["roasted rice cake"]]
+    }
+  ]
+}

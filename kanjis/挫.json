@@ -1,1 +1,17 @@
-{"basic":["挫","Sprain","1101"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"捻挫","reading":"ねんざ"}],"senses":[["sprain","twist","wrench"],["Sprain"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"捻挫","reading":"ねんざ"}],"senses":[["sprain","twist","wrench"],["Sprain"]]}]}
+{
+  "basic": ["挫", "Sprain", "1101"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "捻挫", "reading": "ねんざ" }],
+      "senses": [["sprain", "twist", "wrench"], ["Sprain"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "捻挫", "reading": "ねんざ" }],
+      "senses": [["sprain", "twist", "wrench"], ["Sprain"]]
+    }
+  ]
+}

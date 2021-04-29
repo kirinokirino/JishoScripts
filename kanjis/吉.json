@@ -1,1 +1,55 @@
-{"basic":["吉","Good Luck","342"],"extended":[{"jlpt":["jlpt-n1"],"tags":["wanikani44"],"japanese":[{"word":"不吉","reading":"ふきつ"}],"senses":[["ominous","sinister","unlucky","inauspicious"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"英吉利","reading":"イギリス"}],"senses":[["United Kingdom","Britain","Great Britain"],["England"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"成吉思汗","reading":"ジンギスかん"},{"word":"ジンギス汗","reading":"ジンギスかん"},{"reading":"ジンギスカン"}],"senses":[["jingisukan","grilled mutton and vegetable dish"],["slotted dome cast iron grill (used for jingisukan)"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani44"],"japanese":[{"word":"不吉","reading":"ふきつ"}],"senses":[["ominous","sinister","unlucky","inauspicious"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"英吉利","reading":"イギリス"}],"senses":[["United Kingdom","Britain","Great Britain"],["England"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"成吉思汗","reading":"ジンギスかん"},{"word":"ジンギス汗","reading":"ジンギスかん"},{"reading":"ジンギスカン"}],"senses":[["jingisukan","grilled mutton and vegetable dish"],["slotted dome cast iron grill (used for jingisukan)"]]}]}
+{
+  "basic": ["吉", "Good Luck", "342"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani44"],
+      "japanese": [{ "word": "不吉", "reading": "ふきつ" }],
+      "senses": [["ominous", "sinister", "unlucky", "inauspicious"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "英吉利", "reading": "イギリス" }],
+      "senses": [["United Kingdom", "Britain", "Great Britain"], ["England"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "成吉思汗", "reading": "ジンギスかん" },
+        { "word": "ジンギス汗", "reading": "ジンギスかん" },
+        { "reading": "ジンギスカン" }
+      ],
+      "senses": [
+        ["jingisukan", "grilled mutton and vegetable dish"],
+        ["slotted dome cast iron grill (used for jingisukan)"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani44"],
+      "japanese": [{ "word": "不吉", "reading": "ふきつ" }],
+      "senses": [["ominous", "sinister", "unlucky", "inauspicious"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "英吉利", "reading": "イギリス" }],
+      "senses": [["United Kingdom", "Britain", "Great Britain"], ["England"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "成吉思汗", "reading": "ジンギスかん" },
+        { "word": "ジンギス汗", "reading": "ジンギスかん" },
+        { "reading": "ジンギスカン" }
+      ],
+      "senses": [
+        ["jingisukan", "grilled mutton and vegetable dish"],
+        ["slotted dome cast iron grill (used for jingisukan)"]
+      ]
+    }
+  ]
+}

@@ -1,1 +1,127 @@
-{"basic":["否","Negate","1303"],"extended":[{"jlpt":["jlpt-n1"],"tags":["wanikani39"],"japanese":[{"word":"拒否","reading":"きょひ"}],"senses":[["refusal","rejection","denial","veto"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"拒否権","reading":"きょひけん"}],"senses":[["right of veto"],["Veto"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"安否","reading":"あんぴ"},{"word":"安否","reading":"あんぷ"},{"word":"安否","reading":"あんぶ"},{"word":"安否","reading":"あんび"}],"senses":[["safety","welfare","well-being"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"賛否","reading":"さんぴ"}],"senses":[["yes and no","for and against"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"可否","reading":"かひ"}],"senses":[["propriety","right and wrong","advisability","possibility"],["pro and con","ayes and noes"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"合否","reading":"ごうひ"}],"senses":[["success or failure","result"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"成否","reading":"せいひ"}],"senses":[["success or failure","outcome","result"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"否々","reading":"いやいや"},{"word":"否々","reading":"いえいえ"},{"word":"否否","reading":"いやいや"},{"word":"否否","reading":"いえいえ"}],"senses":[["no!","no no!","no, not at all"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani39"],"japanese":[{"word":"拒否","reading":"きょひ"}],"senses":[["refusal","rejection","denial","veto"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"拒否権","reading":"きょひけん"}],"senses":[["right of veto"],["Veto"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"安否","reading":"あんぴ"},{"word":"安否","reading":"あんぷ"},{"word":"安否","reading":"あんぶ"},{"word":"安否","reading":"あんび"}],"senses":[["safety","welfare","well-being"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"賛否","reading":"さんぴ"}],"senses":[["yes and no","for and against"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"可否","reading":"かひ"}],"senses":[["propriety","right and wrong","advisability","possibility"],["pro and con","ayes and noes"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"合否","reading":"ごうひ"}],"senses":[["success or failure","result"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"成否","reading":"せいひ"}],"senses":[["success or failure","outcome","result"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"否々","reading":"いやいや"},{"word":"否々","reading":"いえいえ"},{"word":"否否","reading":"いやいや"},{"word":"否否","reading":"いえいえ"}],"senses":[["no!","no no!","no, not at all"]]}]}
+{
+  "basic": ["否", "Negate", "1303"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani39"],
+      "japanese": [{ "word": "拒否", "reading": "きょひ" }],
+      "senses": [["refusal", "rejection", "denial", "veto"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "拒否権", "reading": "きょひけん" }],
+      "senses": [["right of veto"], ["Veto"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "安否", "reading": "あんぴ" },
+        { "word": "安否", "reading": "あんぷ" },
+        { "word": "安否", "reading": "あんぶ" },
+        { "word": "安否", "reading": "あんび" }
+      ],
+      "senses": [["safety", "welfare", "well-being"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "賛否", "reading": "さんぴ" }],
+      "senses": [["yes and no", "for and against"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "可否", "reading": "かひ" }],
+      "senses": [
+        ["propriety", "right and wrong", "advisability", "possibility"],
+        ["pro and con", "ayes and noes"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "合否", "reading": "ごうひ" }],
+      "senses": [["success or failure", "result"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "成否", "reading": "せいひ" }],
+      "senses": [["success or failure", "outcome", "result"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "否々", "reading": "いやいや" },
+        { "word": "否々", "reading": "いえいえ" },
+        { "word": "否否", "reading": "いやいや" },
+        { "word": "否否", "reading": "いえいえ" }
+      ],
+      "senses": [["no!", "no no!", "no, not at all"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani39"],
+      "japanese": [{ "word": "拒否", "reading": "きょひ" }],
+      "senses": [["refusal", "rejection", "denial", "veto"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "拒否権", "reading": "きょひけん" }],
+      "senses": [["right of veto"], ["Veto"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "安否", "reading": "あんぴ" },
+        { "word": "安否", "reading": "あんぷ" },
+        { "word": "安否", "reading": "あんぶ" },
+        { "word": "安否", "reading": "あんび" }
+      ],
+      "senses": [["safety", "welfare", "well-being"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "賛否", "reading": "さんぴ" }],
+      "senses": [["yes and no", "for and against"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "可否", "reading": "かひ" }],
+      "senses": [
+        ["propriety", "right and wrong", "advisability", "possibility"],
+        ["pro and con", "ayes and noes"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "合否", "reading": "ごうひ" }],
+      "senses": [["success or failure", "result"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "成否", "reading": "せいひ" }],
+      "senses": [["success or failure", "outcome", "result"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "否々", "reading": "いやいや" },
+        { "word": "否々", "reading": "いえいえ" },
+        { "word": "否否", "reading": "いやいや" },
+        { "word": "否否", "reading": "いえいえ" }
+      ],
+      "senses": [["no!", "no no!", "no, not at all"]]
+    }
+  ]
+}

@@ -1,1 +1,63 @@
-{"basic":["氷","Icicle","138"],"extended":[{"jlpt":[],"tags":["wanikani4"],"japanese":[{"word":"かき氷","reading":"かきごおり"},{"word":"掻き氷","reading":"かきごおり"},{"word":"欠き氷","reading":"かきごおり"},{"word":"欠氷","reading":"かきごおり"},{"word":"カキ氷","reading":"カキごおり"}],"senses":[["shaved ice (usually served with flavored simple syrup)","Italian ice","snow cone","sno-cone"],["Kakigōri"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"南氷洋","reading":"なんひょうよう"},{"word":"南氷洋","reading":"なんぴょうよう"}],"senses":[["Antarctic Ocean"]]},{"jlpt":[],"tags":["wanikani4"],"japanese":[{"word":"かき氷","reading":"かきごおり"},{"word":"掻き氷","reading":"かきごおり"},{"word":"欠き氷","reading":"かきごおり"},{"word":"欠氷","reading":"かきごおり"},{"word":"カキ氷","reading":"カキごおり"}],"senses":[["shaved ice (usually served with flavored simple syrup)","Italian ice","snow cone","sno-cone"],["Kakigōri"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"南氷洋","reading":"なんひょうよう"},{"word":"南氷洋","reading":"なんぴょうよう"}],"senses":[["Antarctic Ocean"]]}]}
+{
+  "basic": ["氷", "Icicle", "138"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": ["wanikani4"],
+      "japanese": [
+        { "word": "かき氷", "reading": "かきごおり" },
+        { "word": "掻き氷", "reading": "かきごおり" },
+        { "word": "欠き氷", "reading": "かきごおり" },
+        { "word": "欠氷", "reading": "かきごおり" },
+        { "word": "カキ氷", "reading": "カキごおり" }
+      ],
+      "senses": [
+        [
+          "shaved ice (usually served with flavored simple syrup)",
+          "Italian ice",
+          "snow cone",
+          "sno-cone"
+        ],
+        ["Kakigōri"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "南氷洋", "reading": "なんひょうよう" },
+        { "word": "南氷洋", "reading": "なんぴょうよう" }
+      ],
+      "senses": [["Antarctic Ocean"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani4"],
+      "japanese": [
+        { "word": "かき氷", "reading": "かきごおり" },
+        { "word": "掻き氷", "reading": "かきごおり" },
+        { "word": "欠き氷", "reading": "かきごおり" },
+        { "word": "欠氷", "reading": "かきごおり" },
+        { "word": "カキ氷", "reading": "カキごおり" }
+      ],
+      "senses": [
+        [
+          "shaved ice (usually served with flavored simple syrup)",
+          "Italian ice",
+          "snow cone",
+          "sno-cone"
+        ],
+        ["Kakigōri"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "南氷洋", "reading": "なんひょうよう" },
+        { "word": "南氷洋", "reading": "なんぴょうよう" }
+      ],
+      "senses": [["Antarctic Ocean"]]
+    }
+  ]
+}

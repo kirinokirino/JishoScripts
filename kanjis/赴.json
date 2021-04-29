@@ -1,1 +1,27 @@
-{"basic":["赴","Proceed","412"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"単身赴任","reading":"たんしんふにん"}],"senses":[["job transfer away from one's home","taking up a new post leaving one's family behind"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"単身赴任","reading":"たんしんふにん"}],"senses":[["job transfer away from one's home","taking up a new post leaving one's family behind"]]}]}
+{
+  "basic": ["赴", "Proceed", "412"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "単身赴任", "reading": "たんしんふにん" }],
+      "senses": [
+        [
+          "job transfer away from one's home",
+          "taking up a new post leaving one's family behind"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "単身赴任", "reading": "たんしんふにん" }],
+      "senses": [
+        [
+          "job transfer away from one's home",
+          "taking up a new post leaving one's family behind"
+        ]
+      ]
+    }
+  ]
+}

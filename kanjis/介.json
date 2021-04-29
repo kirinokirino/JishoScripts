@@ -1,1 +1,157 @@
-{"basic":["介","Jammed In","265"],"extended":[{"jlpt":["jlpt-n4"],"tags":["wanikani35","wanikani37"],"japanese":[{"word":"紹介","reading":"しょうかい"}],"senses":[["introduction","presentation","referral","listing"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani35"],"japanese":[{"word":"厄介","reading":"やっかい"}],"senses":[["trouble","burden","nuisance","bother","worry"],["care","dependence","support","kindness","obligation","staying (with a person)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"仲介","reading":"ちゅうかい"}],"senses":[["agency","intermediation"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"お節介","reading":"おせっかい"},{"word":"御節介","reading":"おせっかい"}],"senses":[["meddling","meddlesomeness","nosiness","interference","officiousness"],["meddler","buttinsky","busybody"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"一介","reading":"いっかい"}],"senses":[["mere","only a ..."]]},{"jlpt":[],"tags":[],"japanese":[{"word":"紹介者","reading":"しょうかいしゃ"}],"senses":[["person who introduces someone","introducer"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"魚介類","reading":"ぎょかいるい"},{"word":"魚貝類","reading":"ぎょかいるい"}],"senses":[["marine products","seafood","fish and shellfish"],["Seafood"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"紹介文","reading":"しょうかいぶん"}],"senses":[["introductory essay"]]},{"jlpt":["jlpt-n4"],"tags":["wanikani35","wanikani37"],"japanese":[{"word":"紹介","reading":"しょうかい"}],"senses":[["introduction","presentation","referral","listing"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani35"],"japanese":[{"word":"厄介","reading":"やっかい"}],"senses":[["trouble","burden","nuisance","bother","worry"],["care","dependence","support","kindness","obligation","staying (with a person)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"仲介","reading":"ちゅうかい"}],"senses":[["agency","intermediation"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"お節介","reading":"おせっかい"},{"word":"御節介","reading":"おせっかい"}],"senses":[["meddling","meddlesomeness","nosiness","interference","officiousness"],["meddler","buttinsky","busybody"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"一介","reading":"いっかい"}],"senses":[["mere","only a ..."]]},{"jlpt":[],"tags":[],"japanese":[{"word":"紹介者","reading":"しょうかいしゃ"}],"senses":[["person who introduces someone","introducer"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"魚介類","reading":"ぎょかいるい"},{"word":"魚貝類","reading":"ぎょかいるい"}],"senses":[["marine products","seafood","fish and shellfish"],["Seafood"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"紹介文","reading":"しょうかいぶん"}],"senses":[["introductory essay"]]}]}
+{
+  "basic": ["介", "Jammed In", "265"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n4"],
+      "tags": ["wanikani35", "wanikani37"],
+      "japanese": [{ "word": "紹介", "reading": "しょうかい" }],
+      "senses": [["introduction", "presentation", "referral", "listing"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani35"],
+      "japanese": [{ "word": "厄介", "reading": "やっかい" }],
+      "senses": [
+        ["trouble", "burden", "nuisance", "bother", "worry"],
+        [
+          "care",
+          "dependence",
+          "support",
+          "kindness",
+          "obligation",
+          "staying (with a person)"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "仲介", "reading": "ちゅうかい" }],
+      "senses": [["agency", "intermediation"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "お節介", "reading": "おせっかい" },
+        { "word": "御節介", "reading": "おせっかい" }
+      ],
+      "senses": [
+        [
+          "meddling",
+          "meddlesomeness",
+          "nosiness",
+          "interference",
+          "officiousness"
+        ],
+        ["meddler", "buttinsky", "busybody"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "一介", "reading": "いっかい" }],
+      "senses": [["mere", "only a ..."]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "紹介者", "reading": "しょうかいしゃ" }],
+      "senses": [["person who introduces someone", "introducer"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "魚介類", "reading": "ぎょかいるい" },
+        { "word": "魚貝類", "reading": "ぎょかいるい" }
+      ],
+      "senses": [
+        ["marine products", "seafood", "fish and shellfish"],
+        ["Seafood"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "紹介文", "reading": "しょうかいぶん" }],
+      "senses": [["introductory essay"]]
+    },
+    {
+      "jlpt": ["jlpt-n4"],
+      "tags": ["wanikani35", "wanikani37"],
+      "japanese": [{ "word": "紹介", "reading": "しょうかい" }],
+      "senses": [["introduction", "presentation", "referral", "listing"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani35"],
+      "japanese": [{ "word": "厄介", "reading": "やっかい" }],
+      "senses": [
+        ["trouble", "burden", "nuisance", "bother", "worry"],
+        [
+          "care",
+          "dependence",
+          "support",
+          "kindness",
+          "obligation",
+          "staying (with a person)"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "仲介", "reading": "ちゅうかい" }],
+      "senses": [["agency", "intermediation"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "お節介", "reading": "おせっかい" },
+        { "word": "御節介", "reading": "おせっかい" }
+      ],
+      "senses": [
+        [
+          "meddling",
+          "meddlesomeness",
+          "nosiness",
+          "interference",
+          "officiousness"
+        ],
+        ["meddler", "buttinsky", "busybody"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "一介", "reading": "いっかい" }],
+      "senses": [["mere", "only a ..."]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "紹介者", "reading": "しょうかいしゃ" }],
+      "senses": [["person who introduces someone", "introducer"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "魚介類", "reading": "ぎょかいるい" },
+        { "word": "魚貝類", "reading": "ぎょかいるい" }
+      ],
+      "senses": [
+        ["marine products", "seafood", "fish and shellfish"],
+        ["Seafood"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "紹介文", "reading": "しょうかいぶん" }],
+      "senses": [["introductory essay"]]
+    }
+  ]
+}

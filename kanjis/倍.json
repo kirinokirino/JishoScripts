@@ -1,1 +1,21 @@
-{"basic":["倍","Double","1067"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"人一倍","reading":"ひといちばい"}],"senses":[["(much) more than others","exceedingly","extremely","unusually"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"人一倍","reading":"ひといちばい"}],"senses":[["(much) more than others","exceedingly","extremely","unusually"]]}]}
+{
+  "basic": ["倍", "Double", "1067"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "人一倍", "reading": "ひといちばい" }],
+      "senses": [
+        ["(much) more than others", "exceedingly", "extremely", "unusually"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "人一倍", "reading": "ひといちばい" }],
+      "senses": [
+        ["(much) more than others", "exceedingly", "extremely", "unusually"]
+      ]
+    }
+  ]
+}

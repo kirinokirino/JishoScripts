@@ -1,1 +1,33 @@
-{"basic":["冷","Cool","1506"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"寒冷","reading":"かんれい"}],"senses":[["cold","coldness","chilliness"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"寝冷え","reading":"ねびえ"}],"senses":[["indisposition (e.g. a cold) caused by getting chilled while sleeping"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"寒冷","reading":"かんれい"}],"senses":[["cold","coldness","chilliness"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"寝冷え","reading":"ねびえ"}],"senses":[["indisposition (e.g. a cold) caused by getting chilled while sleeping"]]}]}
+{
+  "basic": ["冷", "Cool", "1506"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "寒冷", "reading": "かんれい" }],
+      "senses": [["cold", "coldness", "chilliness"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "寝冷え", "reading": "ねびえ" }],
+      "senses": [
+        ["indisposition (e.g. a cold) caused by getting chilled while sleeping"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "寒冷", "reading": "かんれい" }],
+      "senses": [["cold", "coldness", "chilliness"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "寝冷え", "reading": "ねびえ" }],
+      "senses": [
+        ["indisposition (e.g. a cold) caused by getting chilled while sleeping"]
+      ]
+    }
+  ]
+}

@@ -1,1 +1,153 @@
-{"basic":["略","Abbreviation","314"],"extended":[{"jlpt":["jlpt-n2"],"tags":["wanikani29"],"japanese":[{"word":"省略","reading":"しょうりゃく"}],"senses":[["omission","abbreviation","abridgment","abridgement"],["Ellipsis (linguistics)"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"侵略","reading":"しんりゃく"},{"word":"侵掠","reading":"しんりゃく"}],"senses":[["aggression","invasion","raid"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"戦略","reading":"せんりゃく"}],"senses":[["strategy","tactics"],["Strategy"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"策略","reading":"さくりゃく"}],"senses":[["scheme","tactic","stratagem","trick"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"攻略","reading":"こうりゃく"}],"senses":[["capture (of enemy territory)","taking (by storm)","conquest","attack","assault"],["defeating (an opponent)"],["attacking (a problem) strategically"],["Walkthrough"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"簡略","reading":"かんりゃく"}],"senses":[["simple","brief"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"中略","reading":"ちゅうりゃく"}],"senses":[["omission (of middle part of a text)","ellipsis"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"党略","reading":"とうりゃく"}],"senses":[["party politics (tactics)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"前略","reading":"ぜんりゃく"}],"senses":[["dispensing with the preliminaries ..."],["omitting the previous part"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani29"],"japanese":[{"word":"省略","reading":"しょうりゃく"}],"senses":[["omission","abbreviation","abridgment","abridgement"],["Ellipsis (linguistics)"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"侵略","reading":"しんりゃく"},{"word":"侵掠","reading":"しんりゃく"}],"senses":[["aggression","invasion","raid"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"戦略","reading":"せんりゃく"}],"senses":[["strategy","tactics"],["Strategy"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"策略","reading":"さくりゃく"}],"senses":[["scheme","tactic","stratagem","trick"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"攻略","reading":"こうりゃく"}],"senses":[["capture (of enemy territory)","taking (by storm)","conquest","attack","assault"],["defeating (an opponent)"],["attacking (a problem) strategically"],["Walkthrough"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"簡略","reading":"かんりゃく"}],"senses":[["simple","brief"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"中略","reading":"ちゅうりゃく"}],"senses":[["omission (of middle part of a text)","ellipsis"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"党略","reading":"とうりゃく"}],"senses":[["party politics (tactics)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"前略","reading":"ぜんりゃく"}],"senses":[["dispensing with the preliminaries ..."],["omitting the previous part"]]}]}
+{
+  "basic": ["略", "Abbreviation", "314"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani29"],
+      "japanese": [{ "word": "省略", "reading": "しょうりゃく" }],
+      "senses": [
+        ["omission", "abbreviation", "abridgment", "abridgement"],
+        ["Ellipsis (linguistics)"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "侵略", "reading": "しんりゃく" },
+        { "word": "侵掠", "reading": "しんりゃく" }
+      ],
+      "senses": [["aggression", "invasion", "raid"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "戦略", "reading": "せんりゃく" }],
+      "senses": [["strategy", "tactics"], ["Strategy"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "策略", "reading": "さくりゃく" }],
+      "senses": [["scheme", "tactic", "stratagem", "trick"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "攻略", "reading": "こうりゃく" }],
+      "senses": [
+        [
+          "capture (of enemy territory)",
+          "taking (by storm)",
+          "conquest",
+          "attack",
+          "assault"
+        ],
+        ["defeating (an opponent)"],
+        ["attacking (a problem) strategically"],
+        ["Walkthrough"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "簡略", "reading": "かんりゃく" }],
+      "senses": [["simple", "brief"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "中略", "reading": "ちゅうりゃく" }],
+      "senses": [["omission (of middle part of a text)", "ellipsis"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "党略", "reading": "とうりゃく" }],
+      "senses": [["party politics (tactics)"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "前略", "reading": "ぜんりゃく" }],
+      "senses": [
+        ["dispensing with the preliminaries ..."],
+        ["omitting the previous part"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani29"],
+      "japanese": [{ "word": "省略", "reading": "しょうりゃく" }],
+      "senses": [
+        ["omission", "abbreviation", "abridgment", "abridgement"],
+        ["Ellipsis (linguistics)"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "侵略", "reading": "しんりゃく" },
+        { "word": "侵掠", "reading": "しんりゃく" }
+      ],
+      "senses": [["aggression", "invasion", "raid"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "戦略", "reading": "せんりゃく" }],
+      "senses": [["strategy", "tactics"], ["Strategy"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "策略", "reading": "さくりゃく" }],
+      "senses": [["scheme", "tactic", "stratagem", "trick"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "攻略", "reading": "こうりゃく" }],
+      "senses": [
+        [
+          "capture (of enemy territory)",
+          "taking (by storm)",
+          "conquest",
+          "attack",
+          "assault"
+        ],
+        ["defeating (an opponent)"],
+        ["attacking (a problem) strategically"],
+        ["Walkthrough"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "簡略", "reading": "かんりゃく" }],
+      "senses": [["simple", "brief"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "中略", "reading": "ちゅうりゃく" }],
+      "senses": [["omission (of middle part of a text)", "ellipsis"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "党略", "reading": "とうりゃく" }],
+      "senses": [["party politics (tactics)"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "前略", "reading": "ぜんりゃく" }],
+      "senses": [
+        ["dispensing with the preliminaries ..."],
+        ["omitting the previous part"]
+      ]
+    }
+  ]
+}

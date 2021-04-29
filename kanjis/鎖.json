@@ -1,1 +1,61 @@
-{"basic":["鎖","Chain","2087"],"extended":[{"jlpt":["jlpt-n1"],"tags":["wanikani52"],"japanese":[{"word":"封鎖","reading":"ふうさ"}],"senses":[["blockade","lockdown","sealing off (an area)"],["freezing (funds)"],["Blockade"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani52"],"japanese":[{"word":"閉鎖","reading":"へいさ"}],"senses":[["closing","closure","shutdown","lockout"]]},{"jlpt":[],"tags":["wanikani52"],"japanese":[{"word":"連鎖","reading":"れんさ"}],"senses":[["chain","chaining","connection"],["(genetic) linkage"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"経済封鎖","reading":"けいざいふうさ"}],"senses":[["economic blockade","embargo"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani52"],"japanese":[{"word":"封鎖","reading":"ふうさ"}],"senses":[["blockade","lockdown","sealing off (an area)"],["freezing (funds)"],["Blockade"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani52"],"japanese":[{"word":"閉鎖","reading":"へいさ"}],"senses":[["closing","closure","shutdown","lockout"]]},{"jlpt":[],"tags":["wanikani52"],"japanese":[{"word":"連鎖","reading":"れんさ"}],"senses":[["chain","chaining","connection"],["(genetic) linkage"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"経済封鎖","reading":"けいざいふうさ"}],"senses":[["economic blockade","embargo"]]}]}
+{
+  "basic": ["鎖", "Chain", "2087"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani52"],
+      "japanese": [{ "word": "封鎖", "reading": "ふうさ" }],
+      "senses": [
+        ["blockade", "lockdown", "sealing off (an area)"],
+        ["freezing (funds)"],
+        ["Blockade"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani52"],
+      "japanese": [{ "word": "閉鎖", "reading": "へいさ" }],
+      "senses": [["closing", "closure", "shutdown", "lockout"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani52"],
+      "japanese": [{ "word": "連鎖", "reading": "れんさ" }],
+      "senses": [["chain", "chaining", "connection"], ["(genetic) linkage"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "経済封鎖", "reading": "けいざいふうさ" }],
+      "senses": [["economic blockade", "embargo"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani52"],
+      "japanese": [{ "word": "封鎖", "reading": "ふうさ" }],
+      "senses": [
+        ["blockade", "lockdown", "sealing off (an area)"],
+        ["freezing (funds)"],
+        ["Blockade"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani52"],
+      "japanese": [{ "word": "閉鎖", "reading": "へいさ" }],
+      "senses": [["closing", "closure", "shutdown", "lockout"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani52"],
+      "japanese": [{ "word": "連鎖", "reading": "れんさ" }],
+      "senses": [["chain", "chaining", "connection"], ["(genetic) linkage"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "経済封鎖", "reading": "けいざいふうさ" }],
+      "senses": [["economic blockade", "embargo"]]
+    }
+  ]
+}

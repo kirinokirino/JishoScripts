@@ -1,1 +1,37 @@
-{"basic":["腐","Rot","1099"],"extended":[{"jlpt":[],"tags":["wanikani36"],"japanese":[{"word":"豆腐","reading":"とうふ"},{"word":"豆富","reading":"とうふ"},{"word":"豆冨","reading":"とうふ"}],"senses":[["tofu","bean curd","beancurd"],["Toufu"],["Tofu"]]},{"jlpt":[],"tags":["wanikani52"],"japanese":[{"word":"陳腐","reading":"ちんぷ"}],"senses":[["stale","hackneyed","cliched"]]},{"jlpt":[],"tags":["wanikani36"],"japanese":[{"word":"豆腐","reading":"とうふ"},{"word":"豆富","reading":"とうふ"},{"word":"豆冨","reading":"とうふ"}],"senses":[["tofu","bean curd","beancurd"],["Toufu"],["Tofu"]]},{"jlpt":[],"tags":["wanikani52"],"japanese":[{"word":"陳腐","reading":"ちんぷ"}],"senses":[["stale","hackneyed","cliched"]]}]}
+{
+  "basic": ["腐", "Rot", "1099"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": ["wanikani36"],
+      "japanese": [
+        { "word": "豆腐", "reading": "とうふ" },
+        { "word": "豆富", "reading": "とうふ" },
+        { "word": "豆冨", "reading": "とうふ" }
+      ],
+      "senses": [["tofu", "bean curd", "beancurd"], ["Toufu"], ["Tofu"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani52"],
+      "japanese": [{ "word": "陳腐", "reading": "ちんぷ" }],
+      "senses": [["stale", "hackneyed", "cliched"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani36"],
+      "japanese": [
+        { "word": "豆腐", "reading": "とうふ" },
+        { "word": "豆富", "reading": "とうふ" },
+        { "word": "豆冨", "reading": "とうふ" }
+      ],
+      "senses": [["tofu", "bean curd", "beancurd"], ["Toufu"], ["Tofu"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani52"],
+      "japanese": [{ "word": "陳腐", "reading": "ちんぷ" }],
+      "senses": [["stale", "hackneyed", "cliched"]]
+    }
+  ]
+}

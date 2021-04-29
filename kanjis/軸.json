@@ -1,1 +1,67 @@
-{"basic":["軸","Axis","1193"],"extended":[{"jlpt":[],"tags":["wanikani42"],"japanese":[{"word":"掛け軸","reading":"かけじく"},{"word":"掛軸","reading":"かけじく"}],"senses":[["hanging scroll"],["Kakemono"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"主軸","reading":"しゅじく"}],"senses":[["main spindle","main shaft"],["linchpin","pivot"],["principal axis","main axis"]]},{"jlpt":[],"tags":["wanikani42"],"japanese":[{"word":"中軸","reading":"ちゅうじく"}],"senses":[["axis","pivot","central figure","key man"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"基軸","reading":"きじく"}],"senses":[["basis","foundation","core","criterion","standard"]]},{"jlpt":[],"tags":["wanikani42"],"japanese":[{"word":"掛け軸","reading":"かけじく"},{"word":"掛軸","reading":"かけじく"}],"senses":[["hanging scroll"],["Kakemono"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"主軸","reading":"しゅじく"}],"senses":[["main spindle","main shaft"],["linchpin","pivot"],["principal axis","main axis"]]},{"jlpt":[],"tags":["wanikani42"],"japanese":[{"word":"中軸","reading":"ちゅうじく"}],"senses":[["axis","pivot","central figure","key man"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"基軸","reading":"きじく"}],"senses":[["basis","foundation","core","criterion","standard"]]}]}
+{
+  "basic": ["軸", "Axis", "1193"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": ["wanikani42"],
+      "japanese": [
+        { "word": "掛け軸", "reading": "かけじく" },
+        { "word": "掛軸", "reading": "かけじく" }
+      ],
+      "senses": [["hanging scroll"], ["Kakemono"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "主軸", "reading": "しゅじく" }],
+      "senses": [
+        ["main spindle", "main shaft"],
+        ["linchpin", "pivot"],
+        ["principal axis", "main axis"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani42"],
+      "japanese": [{ "word": "中軸", "reading": "ちゅうじく" }],
+      "senses": [["axis", "pivot", "central figure", "key man"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "基軸", "reading": "きじく" }],
+      "senses": [["basis", "foundation", "core", "criterion", "standard"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani42"],
+      "japanese": [
+        { "word": "掛け軸", "reading": "かけじく" },
+        { "word": "掛軸", "reading": "かけじく" }
+      ],
+      "senses": [["hanging scroll"], ["Kakemono"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "主軸", "reading": "しゅじく" }],
+      "senses": [
+        ["main spindle", "main shaft"],
+        ["linchpin", "pivot"],
+        ["principal axis", "main axis"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani42"],
+      "japanese": [{ "word": "中軸", "reading": "ちゅうじく" }],
+      "senses": [["axis", "pivot", "central figure", "key man"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "基軸", "reading": "きじく" }],
+      "senses": [["basis", "foundation", "core", "criterion", "standard"]]
+    }
+  ]
+}

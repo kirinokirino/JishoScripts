@@ -1,1 +1,31 @@
-{"basic":["陶","Pottery","2117"],"extended":[{"jlpt":["jlpt-n1"],"tags":["wanikani50"],"japanese":[{"word":"鬱陶しい","reading":"うっとうしい"},{"word":"鬱陶しい","reading":"うっとおしい"}],"senses":[["gloomy (e.g. mood)","depressing"],["irritating","troublesome"],["heavy (weather)","cloudy"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani50"],"japanese":[{"word":"鬱陶しい","reading":"うっとうしい"},{"word":"鬱陶しい","reading":"うっとおしい"}],"senses":[["gloomy (e.g. mood)","depressing"],["irritating","troublesome"],["heavy (weather)","cloudy"]]}]}
+{
+  "basic": ["陶", "Pottery", "2117"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani50"],
+      "japanese": [
+        { "word": "鬱陶しい", "reading": "うっとうしい" },
+        { "word": "鬱陶しい", "reading": "うっとおしい" }
+      ],
+      "senses": [
+        ["gloomy (e.g. mood)", "depressing"],
+        ["irritating", "troublesome"],
+        ["heavy (weather)", "cloudy"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani50"],
+      "japanese": [
+        { "word": "鬱陶しい", "reading": "うっとうしい" },
+        { "word": "鬱陶しい", "reading": "うっとおしい" }
+      ],
+      "senses": [
+        ["gloomy (e.g. mood)", "depressing"],
+        ["irritating", "troublesome"],
+        ["heavy (weather)", "cloudy"]
+      ]
+    }
+  ]
+}

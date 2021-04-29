@@ -1,1 +1,35 @@
-{"basic":["譲","Defer","1648"],"extended":[{"jlpt":[],"tags":["wanikani39"],"japanese":[{"word":"移譲","reading":"いじょう"},{"word":"委譲","reading":"いじょう"}],"senses":[["transfer","assignment"],["Delegation (programming)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"分譲","reading":"ぶんじょう"}],"senses":[["selling (real-estate) lots"]]},{"jlpt":[],"tags":["wanikani39"],"japanese":[{"word":"移譲","reading":"いじょう"},{"word":"委譲","reading":"いじょう"}],"senses":[["transfer","assignment"],["Delegation (programming)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"分譲","reading":"ぶんじょう"}],"senses":[["selling (real-estate) lots"]]}]}
+{
+  "basic": ["譲", "Defer", "1648"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": ["wanikani39"],
+      "japanese": [
+        { "word": "移譲", "reading": "いじょう" },
+        { "word": "委譲", "reading": "いじょう" }
+      ],
+      "senses": [["transfer", "assignment"], ["Delegation (programming)"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "分譲", "reading": "ぶんじょう" }],
+      "senses": [["selling (real-estate) lots"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani39"],
+      "japanese": [
+        { "word": "移譲", "reading": "いじょう" },
+        { "word": "委譲", "reading": "いじょう" }
+      ],
+      "senses": [["transfer", "assignment"], ["Delegation (programming)"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "分譲", "reading": "ぶんじょう" }],
+      "senses": [["selling (real-estate) lots"]]
+    }
+  ]
+}

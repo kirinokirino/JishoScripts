@@ -1,1 +1,253 @@
-{"basic":["険","Precipitous","1802"],"extended":[{"jlpt":["jlpt-n4"],"tags":["wanikani16"],"japanese":[{"word":"危険","reading":"きけん"}],"senses":[["danger","peril","hazard"],["risk"],["Danger"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani16"],"japanese":[{"word":"冒険","reading":"ぼうけん"}],"senses":[["adventure","venture"],["venture which is unlikely to succeed","risky attempt","danger","hazard","risk"],["Adventure"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani16"],"japanese":[{"word":"保険","reading":"ほけん"}],"senses":[["insurance","guarantee"],["Insurance"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"探検","reading":"たんけん"},{"word":"探険","reading":"たんけん"}],"senses":[["exploration","expedition"],["Exploration"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani35"],"japanese":[{"word":"真剣","reading":"しんけん"}],"senses":[["serious","earnest"],["real sword (as opposed to a wooden practice weapon)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"火災保険","reading":"かさいほけん"}],"senses":[["fire insurance"],["Home insurance"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"生命保険","reading":"せいめいほけん"}],"senses":[["life insurance"],["Life insurance"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"社会保険庁","reading":"しゃかいほけんちょう"}],"senses":[["Social Insurance Agency"],["Social Insurance Agency"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"保険金","reading":"ほけんきん"}],"senses":[["insurance payout","insurance money"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"危険性","reading":"きけんせい"}],"senses":[["riskiness","(level of) danger"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"探検隊","reading":"たんけんたい"},{"word":"探険隊","reading":"たんけんたい"}],"senses":[["exploration party","expedition team"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"国民健康保険","reading":"こくみんけんこうほけん"}],"senses":[["national health insurance"],["National Health Insurance (Japan)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"損害保険","reading":"そんがいほけん"}],"senses":[["damage insurance"],["General insurance"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"社会保険","reading":"しゃかいほけん"}],"senses":[["social insurance"],["Social insurance"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"健康保険","reading":"けんこうほけん"}],"senses":[["health insurance"],["Universal health care"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"簡易保険","reading":"かんいほけん"}],"senses":[["postal life insurance"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"被保険者","reading":"ひほけんしゃ"}],"senses":[["insured person"]]},{"jlpt":["jlpt-n4"],"tags":["wanikani16"],"japanese":[{"word":"危険","reading":"きけん"}],"senses":[["danger","peril","hazard"],["risk"],["Danger"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani16"],"japanese":[{"word":"冒険","reading":"ぼうけん"}],"senses":[["adventure","venture"],["venture which is unlikely to succeed","risky attempt","danger","hazard","risk"],["Adventure"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani16"],"japanese":[{"word":"保険","reading":"ほけん"}],"senses":[["insurance","guarantee"],["Insurance"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"探検","reading":"たんけん"},{"word":"探険","reading":"たんけん"}],"senses":[["exploration","expedition"],["Exploration"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani35"],"japanese":[{"word":"真剣","reading":"しんけん"}],"senses":[["serious","earnest"],["real sword (as opposed to a wooden practice weapon)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"火災保険","reading":"かさいほけん"}],"senses":[["fire insurance"],["Home insurance"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"生命保険","reading":"せいめいほけん"}],"senses":[["life insurance"],["Life insurance"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"社会保険庁","reading":"しゃかいほけんちょう"}],"senses":[["Social Insurance Agency"],["Social Insurance Agency"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"保険金","reading":"ほけんきん"}],"senses":[["insurance payout","insurance money"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"危険性","reading":"きけんせい"}],"senses":[["riskiness","(level of) danger"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"探検隊","reading":"たんけんたい"},{"word":"探険隊","reading":"たんけんたい"}],"senses":[["exploration party","expedition team"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"国民健康保険","reading":"こくみんけんこうほけん"}],"senses":[["national health insurance"],["National Health Insurance (Japan)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"損害保険","reading":"そんがいほけん"}],"senses":[["damage insurance"],["General insurance"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"社会保険","reading":"しゃかいほけん"}],"senses":[["social insurance"],["Social insurance"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"健康保険","reading":"けんこうほけん"}],"senses":[["health insurance"],["Universal health care"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"簡易保険","reading":"かんいほけん"}],"senses":[["postal life insurance"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"被保険者","reading":"ひほけんしゃ"}],"senses":[["insured person"]]}]}
+{
+  "basic": ["険", "Precipitous", "1802"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n4"],
+      "tags": ["wanikani16"],
+      "japanese": [{ "word": "危険", "reading": "きけん" }],
+      "senses": [["danger", "peril", "hazard"], ["risk"], ["Danger"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani16"],
+      "japanese": [{ "word": "冒険", "reading": "ぼうけん" }],
+      "senses": [
+        ["adventure", "venture"],
+        [
+          "venture which is unlikely to succeed",
+          "risky attempt",
+          "danger",
+          "hazard",
+          "risk"
+        ],
+        ["Adventure"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani16"],
+      "japanese": [{ "word": "保険", "reading": "ほけん" }],
+      "senses": [["insurance", "guarantee"], ["Insurance"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "探検", "reading": "たんけん" },
+        { "word": "探険", "reading": "たんけん" }
+      ],
+      "senses": [["exploration", "expedition"], ["Exploration"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani35"],
+      "japanese": [{ "word": "真剣", "reading": "しんけん" }],
+      "senses": [
+        ["serious", "earnest"],
+        ["real sword (as opposed to a wooden practice weapon)"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "火災保険", "reading": "かさいほけん" }],
+      "senses": [["fire insurance"], ["Home insurance"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "生命保険", "reading": "せいめいほけん" }],
+      "senses": [["life insurance"], ["Life insurance"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "社会保険庁", "reading": "しゃかいほけんちょう" }],
+      "senses": [["Social Insurance Agency"], ["Social Insurance Agency"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "保険金", "reading": "ほけんきん" }],
+      "senses": [["insurance payout", "insurance money"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "危険性", "reading": "きけんせい" }],
+      "senses": [["riskiness", "(level of) danger"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "探検隊", "reading": "たんけんたい" },
+        { "word": "探険隊", "reading": "たんけんたい" }
+      ],
+      "senses": [["exploration party", "expedition team"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "国民健康保険", "reading": "こくみんけんこうほけん" }],
+      "senses": [
+        ["national health insurance"],
+        ["National Health Insurance (Japan)"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "損害保険", "reading": "そんがいほけん" }],
+      "senses": [["damage insurance"], ["General insurance"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "社会保険", "reading": "しゃかいほけん" }],
+      "senses": [["social insurance"], ["Social insurance"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "健康保険", "reading": "けんこうほけん" }],
+      "senses": [["health insurance"], ["Universal health care"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "簡易保険", "reading": "かんいほけん" }],
+      "senses": [["postal life insurance"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "被保険者", "reading": "ひほけんしゃ" }],
+      "senses": [["insured person"]]
+    },
+    {
+      "jlpt": ["jlpt-n4"],
+      "tags": ["wanikani16"],
+      "japanese": [{ "word": "危険", "reading": "きけん" }],
+      "senses": [["danger", "peril", "hazard"], ["risk"], ["Danger"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani16"],
+      "japanese": [{ "word": "冒険", "reading": "ぼうけん" }],
+      "senses": [
+        ["adventure", "venture"],
+        [
+          "venture which is unlikely to succeed",
+          "risky attempt",
+          "danger",
+          "hazard",
+          "risk"
+        ],
+        ["Adventure"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani16"],
+      "japanese": [{ "word": "保険", "reading": "ほけん" }],
+      "senses": [["insurance", "guarantee"], ["Insurance"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "探検", "reading": "たんけん" },
+        { "word": "探険", "reading": "たんけん" }
+      ],
+      "senses": [["exploration", "expedition"], ["Exploration"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani35"],
+      "japanese": [{ "word": "真剣", "reading": "しんけん" }],
+      "senses": [
+        ["serious", "earnest"],
+        ["real sword (as opposed to a wooden practice weapon)"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "火災保険", "reading": "かさいほけん" }],
+      "senses": [["fire insurance"], ["Home insurance"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "生命保険", "reading": "せいめいほけん" }],
+      "senses": [["life insurance"], ["Life insurance"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "社会保険庁", "reading": "しゃかいほけんちょう" }],
+      "senses": [["Social Insurance Agency"], ["Social Insurance Agency"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "保険金", "reading": "ほけんきん" }],
+      "senses": [["insurance payout", "insurance money"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "危険性", "reading": "きけんせい" }],
+      "senses": [["riskiness", "(level of) danger"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "探検隊", "reading": "たんけんたい" },
+        { "word": "探険隊", "reading": "たんけんたい" }
+      ],
+      "senses": [["exploration party", "expedition team"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "国民健康保険", "reading": "こくみんけんこうほけん" }],
+      "senses": [
+        ["national health insurance"],
+        ["National Health Insurance (Japan)"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "損害保険", "reading": "そんがいほけん" }],
+      "senses": [["damage insurance"], ["General insurance"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "社会保険", "reading": "しゃかいほけん" }],
+      "senses": [["social insurance"], ["Social insurance"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "健康保険", "reading": "けんこうほけん" }],
+      "senses": [["health insurance"], ["Universal health care"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "簡易保険", "reading": "かんいほけん" }],
+      "senses": [["postal life insurance"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "被保険者", "reading": "ひほけんしゃ" }],
+      "senses": [["insured person"]]
+    }
+  ]
+}

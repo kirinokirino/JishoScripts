@@ -1,1 +1,65 @@
-{"basic":["緯","Horizontal","1774"],"extended":[{"jlpt":["jlpt-n1"],"tags":["wanikani53"],"japanese":[{"word":"経緯","reading":"いきさつ"},{"word":"経緯","reading":"けいい"},{"word":"経緯","reading":"たてぬき"},{"word":"経緯","reading":"たてよこ"}],"senses":[["details","particulars","whole story","sequence of events","chronology","circumstances","how it started","how things got this way"],["longitude and latitude"],["warp and weft","warp and woof"]]},{"jlpt":[],"tags":["wanikani53"],"japanese":[{"word":"北緯","reading":"ほくい"}],"senses":[["north latitude"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani53"],"japanese":[{"word":"経緯","reading":"いきさつ"},{"word":"経緯","reading":"けいい"},{"word":"経緯","reading":"たてぬき"},{"word":"経緯","reading":"たてよこ"}],"senses":[["details","particulars","whole story","sequence of events","chronology","circumstances","how it started","how things got this way"],["longitude and latitude"],["warp and weft","warp and woof"]]},{"jlpt":[],"tags":["wanikani53"],"japanese":[{"word":"北緯","reading":"ほくい"}],"senses":[["north latitude"]]}]}
+{
+  "basic": ["緯", "Horizontal", "1774"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani53"],
+      "japanese": [
+        { "word": "経緯", "reading": "いきさつ" },
+        { "word": "経緯", "reading": "けいい" },
+        { "word": "経緯", "reading": "たてぬき" },
+        { "word": "経緯", "reading": "たてよこ" }
+      ],
+      "senses": [
+        [
+          "details",
+          "particulars",
+          "whole story",
+          "sequence of events",
+          "chronology",
+          "circumstances",
+          "how it started",
+          "how things got this way"
+        ],
+        ["longitude and latitude"],
+        ["warp and weft", "warp and woof"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani53"],
+      "japanese": [{ "word": "北緯", "reading": "ほくい" }],
+      "senses": [["north latitude"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani53"],
+      "japanese": [
+        { "word": "経緯", "reading": "いきさつ" },
+        { "word": "経緯", "reading": "けいい" },
+        { "word": "経緯", "reading": "たてぬき" },
+        { "word": "経緯", "reading": "たてよこ" }
+      ],
+      "senses": [
+        [
+          "details",
+          "particulars",
+          "whole story",
+          "sequence of events",
+          "chronology",
+          "circumstances",
+          "how it started",
+          "how things got this way"
+        ],
+        ["longitude and latitude"],
+        ["warp and weft", "warp and woof"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani53"],
+      "japanese": [{ "word": "北緯", "reading": "ほくい" }],
+      "senses": [["north latitude"]]
+    }
+  ]
+}

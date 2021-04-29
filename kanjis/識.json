@@ -1,1 +1,359 @@
-{"basic":["識","Discriminating","521"],"extended":[{"jlpt":["jlpt-n3"],"tags":["wanikani17"],"japanese":[{"word":"知識","reading":"ちしき"},{"word":"智識","reading":"ちしき"}],"senses":[["knowledge","information"],["Knowledge"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani17"],"japanese":[{"word":"意識","reading":"いしき"}],"senses":[["consciousness"],["becoming aware (of)","awareness","sense"],["mano-vijnana (mental consciousness, cognizer of sensory information)"],["Consciousness"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani17"],"japanese":[{"word":"常識","reading":"じょうしき"}],"senses":[["common sense","good sense","common knowledge","general knowledge","common practice","accepted practice","social etiquette"],["Common sense"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"認識","reading":"にんしき"}],"senses":[["recognition","awareness","perception","understanding","knowledge","cognition","cognizance","cognisance"],["Cognition"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"標識","reading":"ひょうしき"}],"senses":[["sign","mark","flag"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"良識","reading":"りょうしき"}],"senses":[["good sense"]]},{"jlpt":[],"tags":["wanikani19"],"japanese":[{"word":"無意識","reading":"むいしき"}],"senses":[["unconsciousness"],["unconscious","involuntary","automatic","mechanical","unintentional","spontaneous"],["the unconscious (psychoanalysis)"],["Unconscious mind"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"知識人","reading":"ちしきじん"}],"senses":[["intellectual"],["Intellectual"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"学識","reading":"がくしき"}],"senses":[["scholarship","scientific attainments"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"面識","reading":"めんしき"}],"senses":[["acquaintance"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"意識的","reading":"いしきてき"}],"senses":[["conscious","deliberate","intentional"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"美意識","reading":"びいしき"}],"senses":[["sense of beauty","aesthetic sense"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"見識","reading":"けんしき"}],"senses":[["views","opinion","discernment"],["pride","self-respect"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"常識的","reading":"じょうしきてき"}],"senses":[["ordinary","sensible","commonplace"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"問題意識","reading":"もんだいいしき"}],"senses":[["awareness of the issues","(having a) critical mind","concerns"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"非常識","reading":"ひじょうしき"}],"senses":[["lack of common sense","thoughtlessness","senselessness","irrationality","absurdity"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"有識者","reading":"ゆうしきしゃ"}],"senses":[["expert","knowledgeable person","authority (on a subject)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"知らず知らず","reading":"しらずしらず"},{"word":"知らず識らず","reading":"しらずしらず"},{"word":"不知不識","reading":"しらずしらず"}],"senses":[["unconsciously","unwittingly","unawares"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"意識調査","reading":"いしきちょうさ"}],"senses":[["attitude survey","opinion poll"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"光学式文字認識","reading":"こうがくしきもじにんしき"}],"senses":[["optical character recognition","OCR"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani17"],"japanese":[{"word":"知識","reading":"ちしき"},{"word":"智識","reading":"ちしき"}],"senses":[["knowledge","information"],["Knowledge"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani17"],"japanese":[{"word":"意識","reading":"いしき"}],"senses":[["consciousness"],["becoming aware (of)","awareness","sense"],["mano-vijnana (mental consciousness, cognizer of sensory information)"],["Consciousness"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani17"],"japanese":[{"word":"常識","reading":"じょうしき"}],"senses":[["common sense","good sense","common knowledge","general knowledge","common practice","accepted practice","social etiquette"],["Common sense"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"認識","reading":"にんしき"}],"senses":[["recognition","awareness","perception","understanding","knowledge","cognition","cognizance","cognisance"],["Cognition"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"標識","reading":"ひょうしき"}],"senses":[["sign","mark","flag"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"良識","reading":"りょうしき"}],"senses":[["good sense"]]},{"jlpt":[],"tags":["wanikani19"],"japanese":[{"word":"無意識","reading":"むいしき"}],"senses":[["unconsciousness"],["unconscious","involuntary","automatic","mechanical","unintentional","spontaneous"],["the unconscious (psychoanalysis)"],["Unconscious mind"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"知識人","reading":"ちしきじん"}],"senses":[["intellectual"],["Intellectual"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"学識","reading":"がくしき"}],"senses":[["scholarship","scientific attainments"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"面識","reading":"めんしき"}],"senses":[["acquaintance"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"意識的","reading":"いしきてき"}],"senses":[["conscious","deliberate","intentional"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"美意識","reading":"びいしき"}],"senses":[["sense of beauty","aesthetic sense"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"見識","reading":"けんしき"}],"senses":[["views","opinion","discernment"],["pride","self-respect"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"常識的","reading":"じょうしきてき"}],"senses":[["ordinary","sensible","commonplace"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"問題意識","reading":"もんだいいしき"}],"senses":[["awareness of the issues","(having a) critical mind","concerns"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"非常識","reading":"ひじょうしき"}],"senses":[["lack of common sense","thoughtlessness","senselessness","irrationality","absurdity"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"有識者","reading":"ゆうしきしゃ"}],"senses":[["expert","knowledgeable person","authority (on a subject)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"知らず知らず","reading":"しらずしらず"},{"word":"知らず識らず","reading":"しらずしらず"},{"word":"不知不識","reading":"しらずしらず"}],"senses":[["unconsciously","unwittingly","unawares"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"意識調査","reading":"いしきちょうさ"}],"senses":[["attitude survey","opinion poll"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"光学式文字認識","reading":"こうがくしきもじにんしき"}],"senses":[["optical character recognition","OCR"]]}]}
+{
+  "basic": ["識", "Discriminating", "521"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani17"],
+      "japanese": [
+        { "word": "知識", "reading": "ちしき" },
+        { "word": "智識", "reading": "ちしき" }
+      ],
+      "senses": [["knowledge", "information"], ["Knowledge"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani17"],
+      "japanese": [{ "word": "意識", "reading": "いしき" }],
+      "senses": [
+        ["consciousness"],
+        ["becoming aware (of)", "awareness", "sense"],
+        ["mano-vijnana (mental consciousness, cognizer of sensory information)"],
+        ["Consciousness"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani17"],
+      "japanese": [{ "word": "常識", "reading": "じょうしき" }],
+      "senses": [
+        [
+          "common sense",
+          "good sense",
+          "common knowledge",
+          "general knowledge",
+          "common practice",
+          "accepted practice",
+          "social etiquette"
+        ],
+        ["Common sense"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "認識", "reading": "にんしき" }],
+      "senses": [
+        [
+          "recognition",
+          "awareness",
+          "perception",
+          "understanding",
+          "knowledge",
+          "cognition",
+          "cognizance",
+          "cognisance"
+        ],
+        ["Cognition"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "標識", "reading": "ひょうしき" }],
+      "senses": [["sign", "mark", "flag"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "良識", "reading": "りょうしき" }],
+      "senses": [["good sense"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani19"],
+      "japanese": [{ "word": "無意識", "reading": "むいしき" }],
+      "senses": [
+        ["unconsciousness"],
+        [
+          "unconscious",
+          "involuntary",
+          "automatic",
+          "mechanical",
+          "unintentional",
+          "spontaneous"
+        ],
+        ["the unconscious (psychoanalysis)"],
+        ["Unconscious mind"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "知識人", "reading": "ちしきじん" }],
+      "senses": [["intellectual"], ["Intellectual"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "学識", "reading": "がくしき" }],
+      "senses": [["scholarship", "scientific attainments"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "面識", "reading": "めんしき" }],
+      "senses": [["acquaintance"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "意識的", "reading": "いしきてき" }],
+      "senses": [["conscious", "deliberate", "intentional"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "美意識", "reading": "びいしき" }],
+      "senses": [["sense of beauty", "aesthetic sense"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "見識", "reading": "けんしき" }],
+      "senses": [["views", "opinion", "discernment"], ["pride", "self-respect"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "常識的", "reading": "じょうしきてき" }],
+      "senses": [["ordinary", "sensible", "commonplace"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "問題意識", "reading": "もんだいいしき" }],
+      "senses": [
+        ["awareness of the issues", "(having a) critical mind", "concerns"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "非常識", "reading": "ひじょうしき" }],
+      "senses": [
+        [
+          "lack of common sense",
+          "thoughtlessness",
+          "senselessness",
+          "irrationality",
+          "absurdity"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "有識者", "reading": "ゆうしきしゃ" }],
+      "senses": [["expert", "knowledgeable person", "authority (on a subject)"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "知らず知らず", "reading": "しらずしらず" },
+        { "word": "知らず識らず", "reading": "しらずしらず" },
+        { "word": "不知不識", "reading": "しらずしらず" }
+      ],
+      "senses": [["unconsciously", "unwittingly", "unawares"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "意識調査", "reading": "いしきちょうさ" }],
+      "senses": [["attitude survey", "opinion poll"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "光学式文字認識", "reading": "こうがくしきもじにんしき" }],
+      "senses": [["optical character recognition", "OCR"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani17"],
+      "japanese": [
+        { "word": "知識", "reading": "ちしき" },
+        { "word": "智識", "reading": "ちしき" }
+      ],
+      "senses": [["knowledge", "information"], ["Knowledge"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani17"],
+      "japanese": [{ "word": "意識", "reading": "いしき" }],
+      "senses": [
+        ["consciousness"],
+        ["becoming aware (of)", "awareness", "sense"],
+        ["mano-vijnana (mental consciousness, cognizer of sensory information)"],
+        ["Consciousness"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani17"],
+      "japanese": [{ "word": "常識", "reading": "じょうしき" }],
+      "senses": [
+        [
+          "common sense",
+          "good sense",
+          "common knowledge",
+          "general knowledge",
+          "common practice",
+          "accepted practice",
+          "social etiquette"
+        ],
+        ["Common sense"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "認識", "reading": "にんしき" }],
+      "senses": [
+        [
+          "recognition",
+          "awareness",
+          "perception",
+          "understanding",
+          "knowledge",
+          "cognition",
+          "cognizance",
+          "cognisance"
+        ],
+        ["Cognition"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "標識", "reading": "ひょうしき" }],
+      "senses": [["sign", "mark", "flag"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "良識", "reading": "りょうしき" }],
+      "senses": [["good sense"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani19"],
+      "japanese": [{ "word": "無意識", "reading": "むいしき" }],
+      "senses": [
+        ["unconsciousness"],
+        [
+          "unconscious",
+          "involuntary",
+          "automatic",
+          "mechanical",
+          "unintentional",
+          "spontaneous"
+        ],
+        ["the unconscious (psychoanalysis)"],
+        ["Unconscious mind"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "知識人", "reading": "ちしきじん" }],
+      "senses": [["intellectual"], ["Intellectual"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "学識", "reading": "がくしき" }],
+      "senses": [["scholarship", "scientific attainments"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "面識", "reading": "めんしき" }],
+      "senses": [["acquaintance"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "意識的", "reading": "いしきてき" }],
+      "senses": [["conscious", "deliberate", "intentional"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "美意識", "reading": "びいしき" }],
+      "senses": [["sense of beauty", "aesthetic sense"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "見識", "reading": "けんしき" }],
+      "senses": [["views", "opinion", "discernment"], ["pride", "self-respect"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "常識的", "reading": "じょうしきてき" }],
+      "senses": [["ordinary", "sensible", "commonplace"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "問題意識", "reading": "もんだいいしき" }],
+      "senses": [
+        ["awareness of the issues", "(having a) critical mind", "concerns"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "非常識", "reading": "ひじょうしき" }],
+      "senses": [
+        [
+          "lack of common sense",
+          "thoughtlessness",
+          "senselessness",
+          "irrationality",
+          "absurdity"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "有識者", "reading": "ゆうしきしゃ" }],
+      "senses": [["expert", "knowledgeable person", "authority (on a subject)"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "知らず知らず", "reading": "しらずしらず" },
+        { "word": "知らず識らず", "reading": "しらずしらず" },
+        { "word": "不知不識", "reading": "しらずしらず" }
+      ],
+      "senses": [["unconsciously", "unwittingly", "unawares"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "意識調査", "reading": "いしきちょうさ" }],
+      "senses": [["attitude survey", "opinion poll"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "光学式文字認識", "reading": "こうがくしきもじにんしき" }],
+      "senses": [["optical character recognition", "OCR"]]
+    }
+  ]
+}

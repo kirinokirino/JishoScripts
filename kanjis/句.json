@@ -1,1 +1,191 @@
-{"basic":["句","Phrase","69"],"extended":[{"jlpt":["jlpt-n2"],"tags":["wanikani23"],"japanese":[{"word":"俳句","reading":"はいく"}],"senses":[["haiku","17-mora poem, usu. in 3 lines of 5, 7 and 5 morae"],["Haiku"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani18"],"japanese":[{"word":"文句","reading":"もんく"}],"senses":[["complaint","grumbling","objection"],["phrase","words","expression"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"挙句","reading":"あげく"},{"word":"挙げ句","reading":"あげく"},{"word":"揚げ句","reading":"あげく"},{"word":"揚句","reading":"あげく"}],"senses":[["after (a long process)","at the end of"],["last line (of a renga)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"文句なし","reading":"もんくなし"},{"word":"文句無し","reading":"もんくなし"}],"senses":[["undisputed","entirely","perfect"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"絶句","reading":"ぜっく"},{"word":"絶句","reading":"ぜく"}],"senses":[["being lost for words","becoming speechless"],["jueju (Chinese quatrain with lines of either five or seven syllables)"],["Jueju"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"慣用句","reading":"かんようく"}],"senses":[["idiom","set phrase","idiomatic phrase"],["Idiom"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"異口同音","reading":"いくどうおん"},{"word":"異句同音","reading":"いくどうおん"},{"word":"異口同音","reading":"いこうどうおん"}],"senses":[["(saying) with one voice","unanimously","in chorus","in unison","as one"]]},{"jlpt":[],"tags":["wanikani18"],"japanese":[{"word":"禁句","reading":"きんく"}],"senses":[["taboo word"]]},{"jlpt":[],"tags":["wanikani19"],"japanese":[{"word":"節句","reading":"せっく"},{"word":"節供","reading":"せっく"}],"senses":[["seasonal festival"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani23"],"japanese":[{"word":"俳句","reading":"はいく"}],"senses":[["haiku","17-mora poem, usu. in 3 lines of 5, 7 and 5 morae"],["Haiku"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani18"],"japanese":[{"word":"文句","reading":"もんく"}],"senses":[["complaint","grumbling","objection"],["phrase","words","expression"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"挙句","reading":"あげく"},{"word":"挙げ句","reading":"あげく"},{"word":"揚げ句","reading":"あげく"},{"word":"揚句","reading":"あげく"}],"senses":[["after (a long process)","at the end of"],["last line (of a renga)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"文句なし","reading":"もんくなし"},{"word":"文句無し","reading":"もんくなし"}],"senses":[["undisputed","entirely","perfect"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"絶句","reading":"ぜっく"},{"word":"絶句","reading":"ぜく"}],"senses":[["being lost for words","becoming speechless"],["jueju (Chinese quatrain with lines of either five or seven syllables)"],["Jueju"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"慣用句","reading":"かんようく"}],"senses":[["idiom","set phrase","idiomatic phrase"],["Idiom"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"異口同音","reading":"いくどうおん"},{"word":"異句同音","reading":"いくどうおん"},{"word":"異口同音","reading":"いこうどうおん"}],"senses":[["(saying) with one voice","unanimously","in chorus","in unison","as one"]]},{"jlpt":[],"tags":["wanikani18"],"japanese":[{"word":"禁句","reading":"きんく"}],"senses":[["taboo word"]]},{"jlpt":[],"tags":["wanikani19"],"japanese":[{"word":"節句","reading":"せっく"},{"word":"節供","reading":"せっく"}],"senses":[["seasonal festival"]]}]}
+{
+  "basic": ["句", "Phrase", "69"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani23"],
+      "japanese": [{ "word": "俳句", "reading": "はいく" }],
+      "senses": [
+        ["haiku", "17-mora poem, usu. in 3 lines of 5, 7 and 5 morae"],
+        ["Haiku"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani18"],
+      "japanese": [{ "word": "文句", "reading": "もんく" }],
+      "senses": [
+        ["complaint", "grumbling", "objection"],
+        ["phrase", "words", "expression"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "挙句", "reading": "あげく" },
+        { "word": "挙げ句", "reading": "あげく" },
+        { "word": "揚げ句", "reading": "あげく" },
+        { "word": "揚句", "reading": "あげく" }
+      ],
+      "senses": [
+        ["after (a long process)", "at the end of"],
+        ["last line (of a renga)"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "文句なし", "reading": "もんくなし" },
+        { "word": "文句無し", "reading": "もんくなし" }
+      ],
+      "senses": [["undisputed", "entirely", "perfect"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "絶句", "reading": "ぜっく" },
+        { "word": "絶句", "reading": "ぜく" }
+      ],
+      "senses": [
+        ["being lost for words", "becoming speechless"],
+        ["jueju (Chinese quatrain with lines of either five or seven syllables)"],
+        ["Jueju"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "慣用句", "reading": "かんようく" }],
+      "senses": [["idiom", "set phrase", "idiomatic phrase"], ["Idiom"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "異口同音", "reading": "いくどうおん" },
+        { "word": "異句同音", "reading": "いくどうおん" },
+        { "word": "異口同音", "reading": "いこうどうおん" }
+      ],
+      "senses": [
+        [
+          "(saying) with one voice",
+          "unanimously",
+          "in chorus",
+          "in unison",
+          "as one"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani18"],
+      "japanese": [{ "word": "禁句", "reading": "きんく" }],
+      "senses": [["taboo word"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani19"],
+      "japanese": [
+        { "word": "節句", "reading": "せっく" },
+        { "word": "節供", "reading": "せっく" }
+      ],
+      "senses": [["seasonal festival"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani23"],
+      "japanese": [{ "word": "俳句", "reading": "はいく" }],
+      "senses": [
+        ["haiku", "17-mora poem, usu. in 3 lines of 5, 7 and 5 morae"],
+        ["Haiku"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani18"],
+      "japanese": [{ "word": "文句", "reading": "もんく" }],
+      "senses": [
+        ["complaint", "grumbling", "objection"],
+        ["phrase", "words", "expression"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "挙句", "reading": "あげく" },
+        { "word": "挙げ句", "reading": "あげく" },
+        { "word": "揚げ句", "reading": "あげく" },
+        { "word": "揚句", "reading": "あげく" }
+      ],
+      "senses": [
+        ["after (a long process)", "at the end of"],
+        ["last line (of a renga)"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "文句なし", "reading": "もんくなし" },
+        { "word": "文句無し", "reading": "もんくなし" }
+      ],
+      "senses": [["undisputed", "entirely", "perfect"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "絶句", "reading": "ぜっく" },
+        { "word": "絶句", "reading": "ぜく" }
+      ],
+      "senses": [
+        ["being lost for words", "becoming speechless"],
+        ["jueju (Chinese quatrain with lines of either five or seven syllables)"],
+        ["Jueju"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "慣用句", "reading": "かんようく" }],
+      "senses": [["idiom", "set phrase", "idiomatic phrase"], ["Idiom"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "異口同音", "reading": "いくどうおん" },
+        { "word": "異句同音", "reading": "いくどうおん" },
+        { "word": "異口同音", "reading": "いこうどうおん" }
+      ],
+      "senses": [
+        [
+          "(saying) with one voice",
+          "unanimously",
+          "in chorus",
+          "in unison",
+          "as one"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani18"],
+      "japanese": [{ "word": "禁句", "reading": "きんく" }],
+      "senses": [["taboo word"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani19"],
+      "japanese": [
+        { "word": "節句", "reading": "せっく" },
+        { "word": "節供", "reading": "せっく" }
+      ],
+      "senses": [["seasonal festival"]]
+    }
+  ]
+}

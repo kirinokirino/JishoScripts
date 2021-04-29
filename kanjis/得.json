@@ -1,1 +1,388 @@
-{"basic":["得","Gain","941"],"extended":[{"jlpt":["jlpt-n1"],"tags":["wanikani19","wanikani21"],"japanese":[{"word":"説得","reading":"せっとく"}],"senses":[["persuasion"],["Persuasion"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani35"],"japanese":[{"word":"納得","reading":"なっとく"}],"senses":[["consent","assent","agreement"],["understanding","comprehension","grasp"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani26"],"japanese":[{"word":"独特","reading":"どくとく"},{"word":"独得","reading":"どくとく"}],"senses":[["peculiarity","uniqueness","characteristic"],["understood only by oneself"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani23"],"japanese":[{"word":"心得る","reading":"こころえる"}],"senses":[["to know","to understand","to be aware of","to regard as","to take for"],["to consent","to agree"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"損得","reading":"そんとく"}],"senses":[["loss and gain","advantage and disadvantage"]]},{"jlpt":["jlpt-n2","jlpt-n1"],"tags":[],"japanese":[{"word":"やむを得ない","reading":"やむをえない"},{"word":"止むを得ない","reading":"やむをえない"},{"word":"已むを得ない","reading":"やむをえない"}],"senses":[["cannot be helped","unavoidable"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani40"],"japanese":[{"word":"獲得","reading":"かくとく"}],"senses":[["acquisition","possession"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"所得","reading":"しょとく"}],"senses":[["income","earnings"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani21"],"japanese":[{"word":"心得","reading":"こころえ"}],"senses":[["knowledge","understanding"],["rules","regulations","guideline","directions"],["deputy","acting"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"所得税","reading":"しょとくぜい"}],"senses":[["income tax"],["Income tax"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"習得","reading":"しゅうとく"},{"word":"修得","reading":"しゅうとく"}],"senses":[["learning","acquisition (of a skill, knowledge, etc.)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"取得","reading":"しゅとく"}],"senses":[["acquisition","obtaining","gaining possession","purchase"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"取り柄","reading":"とりえ"},{"word":"取柄","reading":"とりえ"},{"word":"取りえ","reading":"とりえ"},{"word":"取り得","reading":"とりえ"},{"word":"取得","reading":"とりえ"}],"senses":[["worth","merit","value","good point","redeeming feature","saving grace"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"不得意","reading":"ふとくい"}],"senses":[["one's weak point"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"あり得ない","reading":"ありえない"},{"word":"有り得ない","reading":"ありえない"},{"word":"有得ない","reading":"ありえない"}],"senses":[["impossible","unlikely","improbable"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"説得力","reading":"せっとくりょく"}],"senses":[["persuasiveness","powers of persuasion","cogency"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"買い得","reading":"かいどく"},{"word":"買得","reading":"かいどく"}],"senses":[["bargain","good buy"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"得々","reading":"とくとく"},{"word":"得得","reading":"とくとく"},{"reading":"トクトク"}],"senses":[["triumphantly","proudly"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"拾得","reading":"しゅうとく"}],"senses":[["finding (lost property)","picking up"],["Shide (monk)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"無得点","reading":"むとくてん"}],"senses":[["scoreless (game or competition)"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani19","wanikani21"],"japanese":[{"word":"説得","reading":"せっとく"}],"senses":[["persuasion"],["Persuasion"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani35"],"japanese":[{"word":"納得","reading":"なっとく"}],"senses":[["consent","assent","agreement"],["understanding","comprehension","grasp"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani26"],"japanese":[{"word":"独特","reading":"どくとく"},{"word":"独得","reading":"どくとく"}],"senses":[["peculiarity","uniqueness","characteristic"],["understood only by oneself"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani23"],"japanese":[{"word":"心得る","reading":"こころえる"}],"senses":[["to know","to understand","to be aware of","to regard as","to take for"],["to consent","to agree"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"損得","reading":"そんとく"}],"senses":[["loss and gain","advantage and disadvantage"]]},{"jlpt":["jlpt-n2","jlpt-n1"],"tags":[],"japanese":[{"word":"やむを得ない","reading":"やむをえない"},{"word":"止むを得ない","reading":"やむをえない"},{"word":"已むを得ない","reading":"やむをえない"}],"senses":[["cannot be helped","unavoidable"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani40"],"japanese":[{"word":"獲得","reading":"かくとく"}],"senses":[["acquisition","possession"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"所得","reading":"しょとく"}],"senses":[["income","earnings"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani21"],"japanese":[{"word":"心得","reading":"こころえ"}],"senses":[["knowledge","understanding"],["rules","regulations","guideline","directions"],["deputy","acting"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"所得税","reading":"しょとくぜい"}],"senses":[["income tax"],["Income tax"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"習得","reading":"しゅうとく"},{"word":"修得","reading":"しゅうとく"}],"senses":[["learning","acquisition (of a skill, knowledge, etc.)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"取得","reading":"しゅとく"}],"senses":[["acquisition","obtaining","gaining possession","purchase"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"取り柄","reading":"とりえ"},{"word":"取柄","reading":"とりえ"},{"word":"取りえ","reading":"とりえ"},{"word":"取り得","reading":"とりえ"},{"word":"取得","reading":"とりえ"}],"senses":[["worth","merit","value","good point","redeeming feature","saving grace"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"不得意","reading":"ふとくい"}],"senses":[["one's weak point"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"あり得ない","reading":"ありえない"},{"word":"有り得ない","reading":"ありえない"},{"word":"有得ない","reading":"ありえない"}],"senses":[["impossible","unlikely","improbable"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"説得力","reading":"せっとくりょく"}],"senses":[["persuasiveness","powers of persuasion","cogency"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"買い得","reading":"かいどく"},{"word":"買得","reading":"かいどく"}],"senses":[["bargain","good buy"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"得々","reading":"とくとく"},{"word":"得得","reading":"とくとく"},{"reading":"トクトク"}],"senses":[["triumphantly","proudly"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"拾得","reading":"しゅうとく"}],"senses":[["finding (lost property)","picking up"],["Shide (monk)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"無得点","reading":"むとくてん"}],"senses":[["scoreless (game or competition)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"無得点","reading":"むとくてん"}],"senses":[["scoreless (game or competition)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"体得","reading":"たいとく"}],"senses":[["mastery","learning through experience","realization","realisation","comprehension"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"お買い得","reading":"おかいどく"},{"word":"お買得","reading":"おかいどく"},{"word":"御買い得","reading":"おかいどく"},{"word":"御買得","reading":"おかいどく"},{"word":"お買い徳","reading":"おかいどく"},{"word":"お買徳","reading":"おかいどく"}],"senses":[["bargain","good buy","budget"]]}]}
+{
+  "basic": ["得", "Gain", "941"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani19", "wanikani21"],
+      "japanese": [{ "word": "説得", "reading": "せっとく" }],
+      "senses": [["persuasion"], ["Persuasion"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani35"],
+      "japanese": [{ "word": "納得", "reading": "なっとく" }],
+      "senses": [
+        ["consent", "assent", "agreement"],
+        ["understanding", "comprehension", "grasp"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani26"],
+      "japanese": [
+        { "word": "独特", "reading": "どくとく" },
+        { "word": "独得", "reading": "どくとく" }
+      ],
+      "senses": [
+        ["peculiarity", "uniqueness", "characteristic"],
+        ["understood only by oneself"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani23"],
+      "japanese": [{ "word": "心得る", "reading": "こころえる" }],
+      "senses": [
+        [
+          "to know",
+          "to understand",
+          "to be aware of",
+          "to regard as",
+          "to take for"
+        ],
+        ["to consent", "to agree"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "損得", "reading": "そんとく" }],
+      "senses": [["loss and gain", "advantage and disadvantage"]]
+    },
+    {
+      "jlpt": ["jlpt-n2", "jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "やむを得ない", "reading": "やむをえない" },
+        { "word": "止むを得ない", "reading": "やむをえない" },
+        { "word": "已むを得ない", "reading": "やむをえない" }
+      ],
+      "senses": [["cannot be helped", "unavoidable"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani40"],
+      "japanese": [{ "word": "獲得", "reading": "かくとく" }],
+      "senses": [["acquisition", "possession"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "所得", "reading": "しょとく" }],
+      "senses": [["income", "earnings"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani21"],
+      "japanese": [{ "word": "心得", "reading": "こころえ" }],
+      "senses": [
+        ["knowledge", "understanding"],
+        ["rules", "regulations", "guideline", "directions"],
+        ["deputy", "acting"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "所得税", "reading": "しょとくぜい" }],
+      "senses": [["income tax"], ["Income tax"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "習得", "reading": "しゅうとく" },
+        { "word": "修得", "reading": "しゅうとく" }
+      ],
+      "senses": [["learning", "acquisition (of a skill, knowledge, etc.)"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "取得", "reading": "しゅとく" }],
+      "senses": [["acquisition", "obtaining", "gaining possession", "purchase"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "取り柄", "reading": "とりえ" },
+        { "word": "取柄", "reading": "とりえ" },
+        { "word": "取りえ", "reading": "とりえ" },
+        { "word": "取り得", "reading": "とりえ" },
+        { "word": "取得", "reading": "とりえ" }
+      ],
+      "senses": [
+        [
+          "worth",
+          "merit",
+          "value",
+          "good point",
+          "redeeming feature",
+          "saving grace"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "不得意", "reading": "ふとくい" }],
+      "senses": [["one's weak point"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "あり得ない", "reading": "ありえない" },
+        { "word": "有り得ない", "reading": "ありえない" },
+        { "word": "有得ない", "reading": "ありえない" }
+      ],
+      "senses": [["impossible", "unlikely", "improbable"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "説得力", "reading": "せっとくりょく" }],
+      "senses": [["persuasiveness", "powers of persuasion", "cogency"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "買い得", "reading": "かいどく" },
+        { "word": "買得", "reading": "かいどく" }
+      ],
+      "senses": [["bargain", "good buy"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "得々", "reading": "とくとく" },
+        { "word": "得得", "reading": "とくとく" },
+        { "reading": "トクトク" }
+      ],
+      "senses": [["triumphantly", "proudly"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "拾得", "reading": "しゅうとく" }],
+      "senses": [["finding (lost property)", "picking up"], ["Shide (monk)"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "無得点", "reading": "むとくてん" }],
+      "senses": [["scoreless (game or competition)"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani19", "wanikani21"],
+      "japanese": [{ "word": "説得", "reading": "せっとく" }],
+      "senses": [["persuasion"], ["Persuasion"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani35"],
+      "japanese": [{ "word": "納得", "reading": "なっとく" }],
+      "senses": [
+        ["consent", "assent", "agreement"],
+        ["understanding", "comprehension", "grasp"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani26"],
+      "japanese": [
+        { "word": "独特", "reading": "どくとく" },
+        { "word": "独得", "reading": "どくとく" }
+      ],
+      "senses": [
+        ["peculiarity", "uniqueness", "characteristic"],
+        ["understood only by oneself"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani23"],
+      "japanese": [{ "word": "心得る", "reading": "こころえる" }],
+      "senses": [
+        [
+          "to know",
+          "to understand",
+          "to be aware of",
+          "to regard as",
+          "to take for"
+        ],
+        ["to consent", "to agree"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "損得", "reading": "そんとく" }],
+      "senses": [["loss and gain", "advantage and disadvantage"]]
+    },
+    {
+      "jlpt": ["jlpt-n2", "jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "やむを得ない", "reading": "やむをえない" },
+        { "word": "止むを得ない", "reading": "やむをえない" },
+        { "word": "已むを得ない", "reading": "やむをえない" }
+      ],
+      "senses": [["cannot be helped", "unavoidable"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani40"],
+      "japanese": [{ "word": "獲得", "reading": "かくとく" }],
+      "senses": [["acquisition", "possession"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "所得", "reading": "しょとく" }],
+      "senses": [["income", "earnings"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani21"],
+      "japanese": [{ "word": "心得", "reading": "こころえ" }],
+      "senses": [
+        ["knowledge", "understanding"],
+        ["rules", "regulations", "guideline", "directions"],
+        ["deputy", "acting"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "所得税", "reading": "しょとくぜい" }],
+      "senses": [["income tax"], ["Income tax"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "習得", "reading": "しゅうとく" },
+        { "word": "修得", "reading": "しゅうとく" }
+      ],
+      "senses": [["learning", "acquisition (of a skill, knowledge, etc.)"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "取得", "reading": "しゅとく" }],
+      "senses": [["acquisition", "obtaining", "gaining possession", "purchase"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "取り柄", "reading": "とりえ" },
+        { "word": "取柄", "reading": "とりえ" },
+        { "word": "取りえ", "reading": "とりえ" },
+        { "word": "取り得", "reading": "とりえ" },
+        { "word": "取得", "reading": "とりえ" }
+      ],
+      "senses": [
+        [
+          "worth",
+          "merit",
+          "value",
+          "good point",
+          "redeeming feature",
+          "saving grace"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "不得意", "reading": "ふとくい" }],
+      "senses": [["one's weak point"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "あり得ない", "reading": "ありえない" },
+        { "word": "有り得ない", "reading": "ありえない" },
+        { "word": "有得ない", "reading": "ありえない" }
+      ],
+      "senses": [["impossible", "unlikely", "improbable"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "説得力", "reading": "せっとくりょく" }],
+      "senses": [["persuasiveness", "powers of persuasion", "cogency"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "買い得", "reading": "かいどく" },
+        { "word": "買得", "reading": "かいどく" }
+      ],
+      "senses": [["bargain", "good buy"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "得々", "reading": "とくとく" },
+        { "word": "得得", "reading": "とくとく" },
+        { "reading": "トクトク" }
+      ],
+      "senses": [["triumphantly", "proudly"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "拾得", "reading": "しゅうとく" }],
+      "senses": [["finding (lost property)", "picking up"], ["Shide (monk)"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "無得点", "reading": "むとくてん" }],
+      "senses": [["scoreless (game or competition)"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "無得点", "reading": "むとくてん" }],
+      "senses": [["scoreless (game or competition)"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "体得", "reading": "たいとく" }],
+      "senses": [
+        [
+          "mastery",
+          "learning through experience",
+          "realization",
+          "realisation",
+          "comprehension"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "お買い得", "reading": "おかいどく" },
+        { "word": "お買得", "reading": "おかいどく" },
+        { "word": "御買い得", "reading": "おかいどく" },
+        { "word": "御買得", "reading": "おかいどく" },
+        { "word": "お買い徳", "reading": "おかいどく" },
+        { "word": "お買徳", "reading": "おかいどく" }
+      ],
+      "senses": [["bargain", "good buy", "budget"]]
+    }
+  ]
+}

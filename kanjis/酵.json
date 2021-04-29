@@ -1,1 +1,23 @@
-{"basic":["酵","Fermentation","1538"],"extended":[{"jlpt":[],"tags":["wanikani57"],"japanese":[{"word":"発酵","reading":"はっこう"},{"word":"醗酵","reading":"はっこう"}],"senses":[["fermentation","zymosis"],["Fermentation (biochemistry)"]]},{"jlpt":[],"tags":["wanikani57"],"japanese":[{"word":"発酵","reading":"はっこう"},{"word":"醗酵","reading":"はっこう"}],"senses":[["fermentation","zymosis"],["Fermentation (biochemistry)"]]}]}
+{
+  "basic": ["酵", "Fermentation", "1538"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": ["wanikani57"],
+      "japanese": [
+        { "word": "発酵", "reading": "はっこう" },
+        { "word": "醗酵", "reading": "はっこう" }
+      ],
+      "senses": [["fermentation", "zymosis"], ["Fermentation (biochemistry)"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani57"],
+      "japanese": [
+        { "word": "発酵", "reading": "はっこう" },
+        { "word": "醗酵", "reading": "はっこう" }
+      ],
+      "senses": [["fermentation", "zymosis"], ["Fermentation (biochemistry)"]]
+    }
+  ]
+}

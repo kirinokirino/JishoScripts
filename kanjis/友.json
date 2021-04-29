@@ -1,1 +1,99 @@
-{"basic":["友","Friend","760"],"extended":[{"jlpt":["jlpt-n3"],"tags":["wanikani10"],"japanese":[{"word":"親友","reading":"しんゆう"}],"senses":[["close friend","bosom (old, intimate) friend","buddy","crony","chum"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"交友","reading":"こうゆう"}],"senses":[["friend","companion","acquaintance"],["friendship","companionship"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"血友病","reading":"けつゆうびょう"}],"senses":[["haemophilia"],["Haemophilia"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"住友銀行","reading":"すみともぎんこう"}],"senses":[["Sumitomo Bank"],["The Sumitomo Bank"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"盟友","reading":"めいゆう"}],"senses":[["sworn friend"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"戦友","reading":"せんゆう"}],"senses":[["comrade in arms","war buddy","fellow soldier"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani10"],"japanese":[{"word":"親友","reading":"しんゆう"}],"senses":[["close friend","bosom (old, intimate) friend","buddy","crony","chum"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"交友","reading":"こうゆう"}],"senses":[["friend","companion","acquaintance"],["friendship","companionship"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"血友病","reading":"けつゆうびょう"}],"senses":[["haemophilia"],["Haemophilia"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"住友銀行","reading":"すみともぎんこう"}],"senses":[["Sumitomo Bank"],["The Sumitomo Bank"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"盟友","reading":"めいゆう"}],"senses":[["sworn friend"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"戦友","reading":"せんゆう"}],"senses":[["comrade in arms","war buddy","fellow soldier"]]}]}
+{
+  "basic": ["友", "Friend", "760"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani10"],
+      "japanese": [{ "word": "親友", "reading": "しんゆう" }],
+      "senses": [
+        [
+          "close friend",
+          "bosom (old, intimate) friend",
+          "buddy",
+          "crony",
+          "chum"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "交友", "reading": "こうゆう" }],
+      "senses": [
+        ["friend", "companion", "acquaintance"],
+        ["friendship", "companionship"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "血友病", "reading": "けつゆうびょう" }],
+      "senses": [["haemophilia"], ["Haemophilia"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "住友銀行", "reading": "すみともぎんこう" }],
+      "senses": [["Sumitomo Bank"], ["The Sumitomo Bank"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "盟友", "reading": "めいゆう" }],
+      "senses": [["sworn friend"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "戦友", "reading": "せんゆう" }],
+      "senses": [["comrade in arms", "war buddy", "fellow soldier"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani10"],
+      "japanese": [{ "word": "親友", "reading": "しんゆう" }],
+      "senses": [
+        [
+          "close friend",
+          "bosom (old, intimate) friend",
+          "buddy",
+          "crony",
+          "chum"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "交友", "reading": "こうゆう" }],
+      "senses": [
+        ["friend", "companion", "acquaintance"],
+        ["friendship", "companionship"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "血友病", "reading": "けつゆうびょう" }],
+      "senses": [["haemophilia"], ["Haemophilia"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "住友銀行", "reading": "すみともぎんこう" }],
+      "senses": [["Sumitomo Bank"], ["The Sumitomo Bank"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "盟友", "reading": "めいゆう" }],
+      "senses": [["sworn friend"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "戦友", "reading": "せんゆう" }],
+      "senses": [["comrade in arms", "war buddy", "fellow soldier"]]
+    }
+  ]
+}

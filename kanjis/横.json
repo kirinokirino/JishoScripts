@@ -1,1 +1,45 @@
-{"basic":["横","Sideways","1888"],"extended":[{"jlpt":[],"tags":["wanikani34"],"japanese":[{"word":"縦横","reading":"じゅうおう"},{"word":"縦横","reading":"たてよこ"}],"senses":[["length and width","length and breadth","lengthwise and crosswise","longitude and latitude","vertical and horizontal"],["four cardinal points","every direction"],["as one wishes","as one pleases","at will"],["warp and weft","warp and woof"]]},{"jlpt":[],"tags":["wanikani34"],"japanese":[{"word":"縦横","reading":"じゅうおう"},{"word":"縦横","reading":"たてよこ"}],"senses":[["length and width","length and breadth","lengthwise and crosswise","longitude and latitude","vertical and horizontal"],["four cardinal points","every direction"],["as one wishes","as one pleases","at will"],["warp and weft","warp and woof"]]}]}
+{
+  "basic": ["横", "Sideways", "1888"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": ["wanikani34"],
+      "japanese": [
+        { "word": "縦横", "reading": "じゅうおう" },
+        { "word": "縦横", "reading": "たてよこ" }
+      ],
+      "senses": [
+        [
+          "length and width",
+          "length and breadth",
+          "lengthwise and crosswise",
+          "longitude and latitude",
+          "vertical and horizontal"
+        ],
+        ["four cardinal points", "every direction"],
+        ["as one wishes", "as one pleases", "at will"],
+        ["warp and weft", "warp and woof"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani34"],
+      "japanese": [
+        { "word": "縦横", "reading": "じゅうおう" },
+        { "word": "縦横", "reading": "たてよこ" }
+      ],
+      "senses": [
+        [
+          "length and width",
+          "length and breadth",
+          "lengthwise and crosswise",
+          "longitude and latitude",
+          "vertical and horizontal"
+        ],
+        ["four cardinal points", "every direction"],
+        ["as one wishes", "as one pleases", "at will"],
+        ["warp and weft", "warp and woof"]
+      ]
+    }
+  ]
+}

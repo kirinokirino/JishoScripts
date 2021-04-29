@@ -1,1 +1,93 @@
-{"basic":["鹿","Deer","2154"],"extended":[{"jlpt":["jlpt-n3"],"tags":["wanikani36"],"japanese":[{"word":"馬鹿","reading":"ばか"},{"word":"莫迦","reading":"ばか"},{"word":"破家","reading":"ばか"},{"word":"馬稼","reading":"ばか"},{"reading":"バカ"}],"senses":[["idiot","moron","fool"],["trivial matter","folly","absurdity"],["stupid","foolish","dull","absurd","ridiculous"],["fervent enthusiast","nut","person singularly obsessed with something"],["Mactra chinensis (species of trough shell)"],["Baka (fool)"]]},{"jlpt":["jlpt-n2","jlpt-n1"],"tags":["wanikani38"],"japanese":[{"word":"馬鹿らしい","reading":"ばからしい"},{"reading":"バカらしい"}],"senses":[["absurd","foolish","stupid","silly","nonsense","ludicrous","preposterous","laughable","ridiculous"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani36"],"japanese":[{"word":"馬鹿","reading":"ばか"},{"word":"莫迦","reading":"ばか"},{"word":"破家","reading":"ばか"},{"word":"馬稼","reading":"ばか"},{"reading":"バカ"}],"senses":[["idiot","moron","fool"],["trivial matter","folly","absurdity"],["stupid","foolish","dull","absurd","ridiculous"],["fervent enthusiast","nut","person singularly obsessed with something"],["Mactra chinensis (species of trough shell)"],["Baka (fool)"]]},{"jlpt":["jlpt-n2","jlpt-n1"],"tags":["wanikani38"],"japanese":[{"word":"馬鹿らしい","reading":"ばからしい"},{"reading":"バカらしい"}],"senses":[["absurd","foolish","stupid","silly","nonsense","ludicrous","preposterous","laughable","ridiculous"]]}]}
+{
+  "basic": ["鹿", "Deer", "2154"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani36"],
+      "japanese": [
+        { "word": "馬鹿", "reading": "ばか" },
+        { "word": "莫迦", "reading": "ばか" },
+        { "word": "破家", "reading": "ばか" },
+        { "word": "馬稼", "reading": "ばか" },
+        { "reading": "バカ" }
+      ],
+      "senses": [
+        ["idiot", "moron", "fool"],
+        ["trivial matter", "folly", "absurdity"],
+        ["stupid", "foolish", "dull", "absurd", "ridiculous"],
+        [
+          "fervent enthusiast",
+          "nut",
+          "person singularly obsessed with something"
+        ],
+        ["Mactra chinensis (species of trough shell)"],
+        ["Baka (fool)"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2", "jlpt-n1"],
+      "tags": ["wanikani38"],
+      "japanese": [
+        { "word": "馬鹿らしい", "reading": "ばからしい" },
+        { "reading": "バカらしい" }
+      ],
+      "senses": [
+        [
+          "absurd",
+          "foolish",
+          "stupid",
+          "silly",
+          "nonsense",
+          "ludicrous",
+          "preposterous",
+          "laughable",
+          "ridiculous"
+        ]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani36"],
+      "japanese": [
+        { "word": "馬鹿", "reading": "ばか" },
+        { "word": "莫迦", "reading": "ばか" },
+        { "word": "破家", "reading": "ばか" },
+        { "word": "馬稼", "reading": "ばか" },
+        { "reading": "バカ" }
+      ],
+      "senses": [
+        ["idiot", "moron", "fool"],
+        ["trivial matter", "folly", "absurdity"],
+        ["stupid", "foolish", "dull", "absurd", "ridiculous"],
+        [
+          "fervent enthusiast",
+          "nut",
+          "person singularly obsessed with something"
+        ],
+        ["Mactra chinensis (species of trough shell)"],
+        ["Baka (fool)"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2", "jlpt-n1"],
+      "tags": ["wanikani38"],
+      "japanese": [
+        { "word": "馬鹿らしい", "reading": "ばからしい" },
+        { "reading": "バカらしい" }
+      ],
+      "senses": [
+        [
+          "absurd",
+          "foolish",
+          "stupid",
+          "silly",
+          "nonsense",
+          "ludicrous",
+          "preposterous",
+          "laughable",
+          "ridiculous"
+        ]
+      ]
+    }
+  ]
+}

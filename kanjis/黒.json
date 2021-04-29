@@ -1,1 +1,89 @@
-{"basic":["黒","Black","186"],"extended":[{"jlpt":["jlpt-n2"],"tags":["wanikani16"],"japanese":[{"word":"真っ黒","reading":"まっくろ"},{"word":"まっ黒","reading":"まっくろ"},{"word":"真黒","reading":"まっくろ"}],"senses":[["pitch black"]]},{"jlpt":[],"tags":["wanikani9"],"japanese":[{"word":"白黒","reading":"しろくろ"}],"senses":[["black and white","monochrome"],["good and evil","right and wrong","guilt and innocence"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"暗黒","reading":"あんこく"},{"word":"闇黒","reading":"あんこく"}],"senses":[["darkness"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"大黒柱","reading":"だいこくばしら"}],"senses":[["central pillar (of a building)"],["mainstay (e.g. of an economy)","backbone (e.g. of a family)","provider","main man"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani16"],"japanese":[{"word":"真っ黒","reading":"まっくろ"},{"word":"まっ黒","reading":"まっくろ"},{"word":"真黒","reading":"まっくろ"}],"senses":[["pitch black"]]},{"jlpt":[],"tags":["wanikani9"],"japanese":[{"word":"白黒","reading":"しろくろ"}],"senses":[["black and white","monochrome"],["good and evil","right and wrong","guilt and innocence"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"暗黒","reading":"あんこく"},{"word":"闇黒","reading":"あんこく"}],"senses":[["darkness"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"大黒柱","reading":"だいこくばしら"}],"senses":[["central pillar (of a building)"],["mainstay (e.g. of an economy)","backbone (e.g. of a family)","provider","main man"]]}]}
+{
+  "basic": ["黒", "Black", "186"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani16"],
+      "japanese": [
+        { "word": "真っ黒", "reading": "まっくろ" },
+        { "word": "まっ黒", "reading": "まっくろ" },
+        { "word": "真黒", "reading": "まっくろ" }
+      ],
+      "senses": [["pitch black"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani9"],
+      "japanese": [{ "word": "白黒", "reading": "しろくろ" }],
+      "senses": [
+        ["black and white", "monochrome"],
+        ["good and evil", "right and wrong", "guilt and innocence"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "暗黒", "reading": "あんこく" },
+        { "word": "闇黒", "reading": "あんこく" }
+      ],
+      "senses": [["darkness"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "大黒柱", "reading": "だいこくばしら" }],
+      "senses": [
+        ["central pillar (of a building)"],
+        [
+          "mainstay (e.g. of an economy)",
+          "backbone (e.g. of a family)",
+          "provider",
+          "main man"
+        ]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani16"],
+      "japanese": [
+        { "word": "真っ黒", "reading": "まっくろ" },
+        { "word": "まっ黒", "reading": "まっくろ" },
+        { "word": "真黒", "reading": "まっくろ" }
+      ],
+      "senses": [["pitch black"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani9"],
+      "japanese": [{ "word": "白黒", "reading": "しろくろ" }],
+      "senses": [
+        ["black and white", "monochrome"],
+        ["good and evil", "right and wrong", "guilt and innocence"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "暗黒", "reading": "あんこく" },
+        { "word": "闇黒", "reading": "あんこく" }
+      ],
+      "senses": [["darkness"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "大黒柱", "reading": "だいこくばしら" }],
+      "senses": [
+        ["central pillar (of a building)"],
+        [
+          "mainstay (e.g. of an economy)",
+          "backbone (e.g. of a family)",
+          "provider",
+          "main man"
+        ]
+      ]
+    }
+  ]
+}

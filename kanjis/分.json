@@ -1,1 +1,764 @@
-{"basic":["分","Part","844"],"extended":[{"jlpt":["jlpt-n4"],"tags":["wanikani4"],"japanese":[{"word":"気分","reading":"きぶん"}],"senses":[["feeling","mood"],["Mood (psychology)"]]},{"jlpt":["jlpt-n5"],"tags":["wanikani5"],"japanese":[{"word":"自分","reading":"じぶん"}],"senses":[["myself","yourself","oneself","himself","herself"],["I","me"],["you"]]},{"jlpt":["jlpt-n3","jlpt-n5"],"tags":["wanikani5"],"japanese":[{"word":"多分","reading":"たぶん"}],"senses":[["perhaps","probably"],["generous","many","much","great"]]},{"jlpt":["jlpt-n5"],"tags":["wanikani3"],"japanese":[{"word":"半分","reading":"はんぶん"}],"senses":[["half"]]},{"jlpt":["jlpt-n2","jlpt-n1"],"tags":["wanikani4"],"japanese":[{"word":"引き分け","reading":"ひきわけ"},{"word":"引分け","reading":"ひきわけ"}],"senses":[["draw (in competition)","tie game"],["Tie (draw)"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"水分","reading":"すいぶん"}],"senses":[["water","liquid","fluid","moisture","humidity","sap","juice"],["Moisture"]]},{"jlpt":["jlpt-n4"],"tags":[],"japanese":[{"word":"十分","reading":"じゅうぶん"},{"word":"充分","reading":"じゅうぶん"}],"senses":[["enough","sufficient","plenty","adequate","satisfactory"],["sufficiently","fully","thoroughly","well","perfectly"],["division into ten"]]},{"jlpt":["jlpt-n3"],"tags":[],"japanese":[{"word":"大部分","reading":"だいぶぶん"}],"senses":[["most part","greater part","majority"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani9"],"japanese":[{"word":"部分","reading":"ぶぶん"}],"senses":[["portion","section","part"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani53"],"japanese":[{"word":"随分","reading":"ずいぶん"},{"word":"ずい分","reading":"ずいぶん"},{"word":"隨分","reading":"ずいぶん"}],"senses":[["very","extremely","surprisingly","considerably","awfully","terribly"],["terrible","horrid","contemptible","reprehensible"],["remarkable","extraordinary"]]},{"jlpt":["jlpt-n3"],"tags":[],"japanese":[{"word":"余分","reading":"よぶん"}],"senses":[["extra","excess","surplus"]]},{"jlpt":["jlpt-n4","jlpt-n2"],"tags":[],"japanese":[{"word":"大分","reading":"だいぶ"},{"word":"大分","reading":"だいぶん"}],"senses":[["considerably","greatly","a lot"],["Daibu"],["Oita"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"身分","reading":"みぶん"}],"senses":[["(social) standing","status","position","rank"],["identity","birth","origin"],["one's circumstances","one's means"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"成分","reading":"せいぶん"}],"senses":[["ingredient","component","composition"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani15"],"japanese":[{"word":"区分","reading":"くぶん"}],"senses":[["division","section","demarcation","partition","segmentation","subdivision","(traffic) lane","compartment","classification","sorting"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"幾分","reading":"いくぶん"}],"senses":[["somewhat","to some extent","to some degree"],["some","part","portion"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"何分","reading":"なにぶん"},{"word":"何ぶん","reading":"なにぶん"}],"senses":[["some","any","(a) little","of some kind","of some sort"],["please"],["anyway","anyhow","at any rate","after all"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"等分","reading":"とうぶん"}],"senses":[["division into equal parts","equal parts"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani34"],"japanese":[{"word":"言い訳","reading":"いいわけ"},{"word":"言いわけ","reading":"いいわけ"},{"word":"言訳","reading":"いいわけ"},{"word":"言い分け","reading":"いいわけ"},{"word":"言分け","reading":"いいわけ"}],"senses":[["excuse"],["explanation"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani28"],"japanese":[{"word":"処分","reading":"しょぶん"}],"senses":[["disposal","throwing away","selling off"],["dealing with (a problem)","measure"],["punishment","penalty"],["putting down (e.g. diseased animal)"]]},{"jlpt":["jlpt-n4"],"tags":["wanikani4"],"japanese":[{"word":"気分","reading":"きぶん"}],"senses":[["feeling","mood"],["Mood (psychology)"]]},{"jlpt":["jlpt-n5"],"tags":["wanikani5"],"japanese":[{"word":"自分","reading":"じぶん"}],"senses":[["myself","yourself","oneself","himself","herself"],["I","me"],["you"]]},{"jlpt":["jlpt-n3","jlpt-n5"],"tags":["wanikani5"],"japanese":[{"word":"多分","reading":"たぶん"}],"senses":[["perhaps","probably"],["generous","many","much","great"]]},{"jlpt":["jlpt-n5"],"tags":["wanikani3"],"japanese":[{"word":"半分","reading":"はんぶん"}],"senses":[["half"]]},{"jlpt":["jlpt-n2","jlpt-n1"],"tags":["wanikani4"],"japanese":[{"word":"引き分け","reading":"ひきわけ"},{"word":"引分け","reading":"ひきわけ"}],"senses":[["draw (in competition)","tie game"],["Tie (draw)"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"水分","reading":"すいぶん"}],"senses":[["water","liquid","fluid","moisture","humidity","sap","juice"],["Moisture"]]},{"jlpt":["jlpt-n4"],"tags":[],"japanese":[{"word":"十分","reading":"じゅうぶん"},{"word":"充分","reading":"じゅうぶん"}],"senses":[["enough","sufficient","plenty","adequate","satisfactory"],["sufficiently","fully","thoroughly","well","perfectly"],["division into ten"]]},{"jlpt":["jlpt-n3"],"tags":[],"japanese":[{"word":"大部分","reading":"だいぶぶん"}],"senses":[["most part","greater part","majority"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani9"],"japanese":[{"word":"部分","reading":"ぶぶん"}],"senses":[["portion","section","part"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani53"],"japanese":[{"word":"随分","reading":"ずいぶん"},{"word":"ずい分","reading":"ずいぶん"},{"word":"隨分","reading":"ずいぶん"}],"senses":[["very","extremely","surprisingly","considerably","awfully","terribly"],["terrible","horrid","contemptible","reprehensible"],["remarkable","extraordinary"]]},{"jlpt":["jlpt-n3"],"tags":[],"japanese":[{"word":"余分","reading":"よぶん"}],"senses":[["extra","excess","surplus"]]},{"jlpt":["jlpt-n4","jlpt-n2"],"tags":[],"japanese":[{"word":"大分","reading":"だいぶ"},{"word":"大分","reading":"だいぶん"}],"senses":[["considerably","greatly","a lot"],["Daibu"],["Oita"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"身分","reading":"みぶん"}],"senses":[["(social) standing","status","position","rank"],["identity","birth","origin"],["one's circumstances","one's means"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"成分","reading":"せいぶん"}],"senses":[["ingredient","component","composition"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani15"],"japanese":[{"word":"区分","reading":"くぶん"}],"senses":[["division","section","demarcation","partition","segmentation","subdivision","(traffic) lane","compartment","classification","sorting"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"幾分","reading":"いくぶん"}],"senses":[["somewhat","to some extent","to some degree"],["some","part","portion"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"何分","reading":"なにぶん"},{"word":"何ぶん","reading":"なにぶん"}],"senses":[["some","any","(a) little","of some kind","of some sort"],["please"],["anyway","anyhow","at any rate","after all"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"等分","reading":"とうぶん"}],"senses":[["division into equal parts","equal parts"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani34"],"japanese":[{"word":"言い訳","reading":"いいわけ"},{"word":"言いわけ","reading":"いいわけ"},{"word":"言訳","reading":"いいわけ"},{"word":"言い分け","reading":"いいわけ"},{"word":"言分け","reading":"いいわけ"}],"senses":[["excuse"],["explanation"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani28"],"japanese":[{"word":"処分","reading":"しょぶん"}],"senses":[["disposal","throwing away","selling off"],["dealing with (a problem)","measure"],["punishment","penalty"],["putting down (e.g. diseased animal)"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"配分","reading":"はいぶん"}],"senses":[["distribution","allotment"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"一部分","reading":"いちぶぶん"}],"senses":[["one part","one portion","one section"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani18"],"japanese":[{"word":"取り分け","reading":"とりわけ"},{"word":"取分け","reading":"とりわけ"},{"word":"取分","reading":"とりわけ"},{"word":"取りわけ","reading":"とりわけ"}],"senses":[["especially","above all"],["inter alia","among others"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"手分け","reading":"てわけ"}],"senses":[["division of labour","division of labor","splitting into groups (e.g. to search)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"身分証明書","reading":"みぶんしょうめいしょ"}],"senses":[["identification papers","ID","piece of identification","identity document"],["Identity document"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"自分自身","reading":"じぶんじしん"}],"senses":[["oneself","myself"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"不十分","reading":"ふじゅうぶん"},{"word":"不充分","reading":"ふじゅうぶん"}],"senses":[["insufficient","inadequate","imperfect"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"言い分","reading":"いいぶん"},{"word":"言分","reading":"いいぶん"}],"senses":[["one's say","one's point"],["complaint","grievance","objection","excuse"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"当分","reading":"とうぶん"}],"senses":[["for the present","for the time being"],["for a while (from now)","for some time (to come)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"部分的","reading":"ぶぶんてき"}],"senses":[["partial"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"存分","reading":"ぞんぶん"}],"senses":[["to one's heart's content","as much as one wants"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"使い分け","reading":"つかいわけ"},{"word":"使いわけ","reading":"つかいわけ"},{"word":"使分け","reading":"つかいわけ"}],"senses":[["proper use","using (different things) for different purposes"]]},{"jlpt":[],"tags":["wanikani20"],"japanese":[{"word":"不可分","reading":"ふかぶん"}],"senses":[["atomic","indivisibility"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"大義名分","reading":"たいぎめいぶん"}],"senses":[["just cause","good reason","pretext","justification"],["duty (to one's country, sovereign, etc.)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"塩分","reading":"えんぶん"}],"senses":[["salt","salt content"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"草分け","reading":"くさわけ"}],"senses":[["pathfinder","trailblazer","early settler"],["pioneer","founder","originator","groundbreaker"]]},{"jlpt":[],"tags":["wanikani12"],"japanese":[{"word":"親分","reading":"おやぶん"}],"senses":[["boss","leader","kingpin","chief","head (e.g. of a crime syndicate)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"思う存分","reading":"おもうぞんぶん"},{"word":"思うぞんぶん","reading":"おもうぞんぶん"}],"senses":[["to one's heart's content","to one's complete satisfaction","as much as one likes","heartily","thoroughly","without restraint"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"見分け","reading":"みわけ"}],"senses":[["distinction"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"申し分無い","reading":"もうしぶんない"},{"word":"申し分ない","reading":"もうしぶんない"}],"senses":[["no objection","nothing to criticize","nothing to criticise"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"気分転換","reading":"きぶんてんかん"}],"senses":[["change of pace","change of mood","(mental) break (e.g. going for a walk)","refreshment"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"数分","reading":"すうふん"}],"senses":[["several minutes","a few minutes"]]},{"jlpt":["jlpt-n3"],"tags":[],"japanese":[{"word":"申し訳","reading":"もうしわけ"},{"word":"申しわけ","reading":"もうしわけ"},{"word":"申訳","reading":"もうしわけ"},{"word":"申し分け","reading":"もうしわけ"},{"word":"申分け","reading":"もうしわけ"},{"word":"申し訳け","reading":"もうしわけ"},{"word":"申分","reading":"もうしわけ"}],"senses":[["apology","excuse"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"二分","reading":"にぶん"}],"senses":[["halving","dividing (into two parts)","bisection"],["the two equinoxes (vernal and autumnal)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"五分","reading":"ごぶ"}],"senses":[["half","50%","tie","evenness"],["5 parts","5%"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"十二分","reading":"じゅうにぶん"}],"senses":[["more than enough","more than ample","exhaustive"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"国分寺","reading":"こくぶんじ"}],"senses":[["state-supported provincial temple (Nara period)"],["Provincial temple"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"地方分権","reading":"ちほうぶんけん"}],"senses":[["decentralization of power","decentralisation of power"],["Decentralization"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"選り分ける","reading":"よりわける"},{"word":"より分ける","reading":"よりわける"},{"word":"選り分ける","reading":"えりわける"},{"word":"えり分ける","reading":"えりわける"}],"senses":[["to classify","to sort out","to sift through"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"秋分","reading":"しゅうぶん"}],"senses":[["autumnal equinox","autumn equinox","fall equinox"],["Qiufen"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"春分","reading":"しゅんぶん"}],"senses":[["vernal equinox","spring equinox"],["Chunfen"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"自分で","reading":"じぶんで"}],"senses":[["by myself","in person","by oneself"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"応分","reading":"おうぶん"}],"senses":[["according to one's abilities","appropriate","reasonable"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"細分","reading":"さいぶん"}],"senses":[["subdivision (into small parts)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"仮処分","reading":"かりしょぶん"}],"senses":[["provisional disposition","temporary injunction"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"行政処分","reading":"ぎょうせいしょぶん"}],"senses":[["administrative measures (disposition)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"八分音符","reading":"はちぶおんぷ"}],"senses":[["8th note","eighth note","quaver"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"残った分","reading":"のこったぶん"}],"senses":[["amount left over","remaining portion"]]},{"jlpt":[],"tags":["wanikani45"],"japanese":[{"word":"核分裂","reading":"かくぶんれつ"}],"senses":[["nuclear fission"],["karyokinesis (division of a cell nucleus during mitosis or meiosis)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"分からず屋","reading":"わからずや"},{"word":"わからず屋","reading":"わからずや"},{"word":"分らず屋","reading":"わからずや"},{"word":"没分暁漢","reading":"わからずや"},{"word":"没分暁漢","reading":"ぼつぶんぎょうかん"}],"senses":[["obstinate person","blockhead"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"一分","reading":"いちぶ"},{"word":"１分","reading":"いちぶ"}],"senses":[["one tenth","one hundredth","one percent","one tenth of a sun","one quarter ryō (an old coin)"],["Ichibu"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"六十四分音符","reading":"ろくじゅうしぶおんぷ"}],"senses":[["64th note","hemidemisemiquaver","semidemisemiquaver"]]}]}
+{
+  "basic": ["分", "Part", "844"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n4"],
+      "tags": ["wanikani4"],
+      "japanese": [{ "word": "気分", "reading": "きぶん" }],
+      "senses": [["feeling", "mood"], ["Mood (psychology)"]]
+    },
+    {
+      "jlpt": ["jlpt-n5"],
+      "tags": ["wanikani5"],
+      "japanese": [{ "word": "自分", "reading": "じぶん" }],
+      "senses": [
+        ["myself", "yourself", "oneself", "himself", "herself"],
+        ["I", "me"],
+        ["you"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n3", "jlpt-n5"],
+      "tags": ["wanikani5"],
+      "japanese": [{ "word": "多分", "reading": "たぶん" }],
+      "senses": [["perhaps", "probably"], ["generous", "many", "much", "great"]]
+    },
+    {
+      "jlpt": ["jlpt-n5"],
+      "tags": ["wanikani3"],
+      "japanese": [{ "word": "半分", "reading": "はんぶん" }],
+      "senses": [["half"]]
+    },
+    {
+      "jlpt": ["jlpt-n2", "jlpt-n1"],
+      "tags": ["wanikani4"],
+      "japanese": [
+        { "word": "引き分け", "reading": "ひきわけ" },
+        { "word": "引分け", "reading": "ひきわけ" }
+      ],
+      "senses": [["draw (in competition)", "tie game"], ["Tie (draw)"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "水分", "reading": "すいぶん" }],
+      "senses": [
+        ["water", "liquid", "fluid", "moisture", "humidity", "sap", "juice"],
+        ["Moisture"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n4"],
+      "tags": [],
+      "japanese": [
+        { "word": "十分", "reading": "じゅうぶん" },
+        { "word": "充分", "reading": "じゅうぶん" }
+      ],
+      "senses": [
+        ["enough", "sufficient", "plenty", "adequate", "satisfactory"],
+        ["sufficiently", "fully", "thoroughly", "well", "perfectly"],
+        ["division into ten"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": [],
+      "japanese": [{ "word": "大部分", "reading": "だいぶぶん" }],
+      "senses": [["most part", "greater part", "majority"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani9"],
+      "japanese": [{ "word": "部分", "reading": "ぶぶん" }],
+      "senses": [["portion", "section", "part"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani53"],
+      "japanese": [
+        { "word": "随分", "reading": "ずいぶん" },
+        { "word": "ずい分", "reading": "ずいぶん" },
+        { "word": "隨分", "reading": "ずいぶん" }
+      ],
+      "senses": [
+        [
+          "very",
+          "extremely",
+          "surprisingly",
+          "considerably",
+          "awfully",
+          "terribly"
+        ],
+        ["terrible", "horrid", "contemptible", "reprehensible"],
+        ["remarkable", "extraordinary"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": [],
+      "japanese": [{ "word": "余分", "reading": "よぶん" }],
+      "senses": [["extra", "excess", "surplus"]]
+    },
+    {
+      "jlpt": ["jlpt-n4", "jlpt-n2"],
+      "tags": [],
+      "japanese": [
+        { "word": "大分", "reading": "だいぶ" },
+        { "word": "大分", "reading": "だいぶん" }
+      ],
+      "senses": [["considerably", "greatly", "a lot"], ["Daibu"], ["Oita"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "身分", "reading": "みぶん" }],
+      "senses": [
+        ["(social) standing", "status", "position", "rank"],
+        ["identity", "birth", "origin"],
+        ["one's circumstances", "one's means"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "成分", "reading": "せいぶん" }],
+      "senses": [["ingredient", "component", "composition"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani15"],
+      "japanese": [{ "word": "区分", "reading": "くぶん" }],
+      "senses": [
+        [
+          "division",
+          "section",
+          "demarcation",
+          "partition",
+          "segmentation",
+          "subdivision",
+          "(traffic) lane",
+          "compartment",
+          "classification",
+          "sorting"
+        ]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "幾分", "reading": "いくぶん" }],
+      "senses": [
+        ["somewhat", "to some extent", "to some degree"],
+        ["some", "part", "portion"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [
+        { "word": "何分", "reading": "なにぶん" },
+        { "word": "何ぶん", "reading": "なにぶん" }
+      ],
+      "senses": [
+        ["some", "any", "(a) little", "of some kind", "of some sort"],
+        ["please"],
+        ["anyway", "anyhow", "at any rate", "after all"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "等分", "reading": "とうぶん" }],
+      "senses": [["division into equal parts", "equal parts"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani34"],
+      "japanese": [
+        { "word": "言い訳", "reading": "いいわけ" },
+        { "word": "言いわけ", "reading": "いいわけ" },
+        { "word": "言訳", "reading": "いいわけ" },
+        { "word": "言い分け", "reading": "いいわけ" },
+        { "word": "言分け", "reading": "いいわけ" }
+      ],
+      "senses": [["excuse"], ["explanation"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani28"],
+      "japanese": [{ "word": "処分", "reading": "しょぶん" }],
+      "senses": [
+        ["disposal", "throwing away", "selling off"],
+        ["dealing with (a problem)", "measure"],
+        ["punishment", "penalty"],
+        ["putting down (e.g. diseased animal)"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n4"],
+      "tags": ["wanikani4"],
+      "japanese": [{ "word": "気分", "reading": "きぶん" }],
+      "senses": [["feeling", "mood"], ["Mood (psychology)"]]
+    },
+    {
+      "jlpt": ["jlpt-n5"],
+      "tags": ["wanikani5"],
+      "japanese": [{ "word": "自分", "reading": "じぶん" }],
+      "senses": [
+        ["myself", "yourself", "oneself", "himself", "herself"],
+        ["I", "me"],
+        ["you"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n3", "jlpt-n5"],
+      "tags": ["wanikani5"],
+      "japanese": [{ "word": "多分", "reading": "たぶん" }],
+      "senses": [["perhaps", "probably"], ["generous", "many", "much", "great"]]
+    },
+    {
+      "jlpt": ["jlpt-n5"],
+      "tags": ["wanikani3"],
+      "japanese": [{ "word": "半分", "reading": "はんぶん" }],
+      "senses": [["half"]]
+    },
+    {
+      "jlpt": ["jlpt-n2", "jlpt-n1"],
+      "tags": ["wanikani4"],
+      "japanese": [
+        { "word": "引き分け", "reading": "ひきわけ" },
+        { "word": "引分け", "reading": "ひきわけ" }
+      ],
+      "senses": [["draw (in competition)", "tie game"], ["Tie (draw)"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "水分", "reading": "すいぶん" }],
+      "senses": [
+        ["water", "liquid", "fluid", "moisture", "humidity", "sap", "juice"],
+        ["Moisture"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n4"],
+      "tags": [],
+      "japanese": [
+        { "word": "十分", "reading": "じゅうぶん" },
+        { "word": "充分", "reading": "じゅうぶん" }
+      ],
+      "senses": [
+        ["enough", "sufficient", "plenty", "adequate", "satisfactory"],
+        ["sufficiently", "fully", "thoroughly", "well", "perfectly"],
+        ["division into ten"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": [],
+      "japanese": [{ "word": "大部分", "reading": "だいぶぶん" }],
+      "senses": [["most part", "greater part", "majority"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani9"],
+      "japanese": [{ "word": "部分", "reading": "ぶぶん" }],
+      "senses": [["portion", "section", "part"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani53"],
+      "japanese": [
+        { "word": "随分", "reading": "ずいぶん" },
+        { "word": "ずい分", "reading": "ずいぶん" },
+        { "word": "隨分", "reading": "ずいぶん" }
+      ],
+      "senses": [
+        [
+          "very",
+          "extremely",
+          "surprisingly",
+          "considerably",
+          "awfully",
+          "terribly"
+        ],
+        ["terrible", "horrid", "contemptible", "reprehensible"],
+        ["remarkable", "extraordinary"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": [],
+      "japanese": [{ "word": "余分", "reading": "よぶん" }],
+      "senses": [["extra", "excess", "surplus"]]
+    },
+    {
+      "jlpt": ["jlpt-n4", "jlpt-n2"],
+      "tags": [],
+      "japanese": [
+        { "word": "大分", "reading": "だいぶ" },
+        { "word": "大分", "reading": "だいぶん" }
+      ],
+      "senses": [["considerably", "greatly", "a lot"], ["Daibu"], ["Oita"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "身分", "reading": "みぶん" }],
+      "senses": [
+        ["(social) standing", "status", "position", "rank"],
+        ["identity", "birth", "origin"],
+        ["one's circumstances", "one's means"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "成分", "reading": "せいぶん" }],
+      "senses": [["ingredient", "component", "composition"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani15"],
+      "japanese": [{ "word": "区分", "reading": "くぶん" }],
+      "senses": [
+        [
+          "division",
+          "section",
+          "demarcation",
+          "partition",
+          "segmentation",
+          "subdivision",
+          "(traffic) lane",
+          "compartment",
+          "classification",
+          "sorting"
+        ]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "幾分", "reading": "いくぶん" }],
+      "senses": [
+        ["somewhat", "to some extent", "to some degree"],
+        ["some", "part", "portion"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [
+        { "word": "何分", "reading": "なにぶん" },
+        { "word": "何ぶん", "reading": "なにぶん" }
+      ],
+      "senses": [
+        ["some", "any", "(a) little", "of some kind", "of some sort"],
+        ["please"],
+        ["anyway", "anyhow", "at any rate", "after all"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "等分", "reading": "とうぶん" }],
+      "senses": [["division into equal parts", "equal parts"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani34"],
+      "japanese": [
+        { "word": "言い訳", "reading": "いいわけ" },
+        { "word": "言いわけ", "reading": "いいわけ" },
+        { "word": "言訳", "reading": "いいわけ" },
+        { "word": "言い分け", "reading": "いいわけ" },
+        { "word": "言分け", "reading": "いいわけ" }
+      ],
+      "senses": [["excuse"], ["explanation"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani28"],
+      "japanese": [{ "word": "処分", "reading": "しょぶん" }],
+      "senses": [
+        ["disposal", "throwing away", "selling off"],
+        ["dealing with (a problem)", "measure"],
+        ["punishment", "penalty"],
+        ["putting down (e.g. diseased animal)"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "配分", "reading": "はいぶん" }],
+      "senses": [["distribution", "allotment"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "一部分", "reading": "いちぶぶん" }],
+      "senses": [["one part", "one portion", "one section"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani18"],
+      "japanese": [
+        { "word": "取り分け", "reading": "とりわけ" },
+        { "word": "取分け", "reading": "とりわけ" },
+        { "word": "取分", "reading": "とりわけ" },
+        { "word": "取りわけ", "reading": "とりわけ" }
+      ],
+      "senses": [["especially", "above all"], ["inter alia", "among others"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "手分け", "reading": "てわけ" }],
+      "senses": [
+        [
+          "division of labour",
+          "division of labor",
+          "splitting into groups (e.g. to search)"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "身分証明書", "reading": "みぶんしょうめいしょ" }],
+      "senses": [
+        [
+          "identification papers",
+          "ID",
+          "piece of identification",
+          "identity document"
+        ],
+        ["Identity document"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "自分自身", "reading": "じぶんじしん" }],
+      "senses": [["oneself", "myself"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "不十分", "reading": "ふじゅうぶん" },
+        { "word": "不充分", "reading": "ふじゅうぶん" }
+      ],
+      "senses": [["insufficient", "inadequate", "imperfect"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "言い分", "reading": "いいぶん" },
+        { "word": "言分", "reading": "いいぶん" }
+      ],
+      "senses": [
+        ["one's say", "one's point"],
+        ["complaint", "grievance", "objection", "excuse"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "当分", "reading": "とうぶん" }],
+      "senses": [
+        ["for the present", "for the time being"],
+        ["for a while (from now)", "for some time (to come)"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "部分的", "reading": "ぶぶんてき" }],
+      "senses": [["partial"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "存分", "reading": "ぞんぶん" }],
+      "senses": [["to one's heart's content", "as much as one wants"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "使い分け", "reading": "つかいわけ" },
+        { "word": "使いわけ", "reading": "つかいわけ" },
+        { "word": "使分け", "reading": "つかいわけ" }
+      ],
+      "senses": [
+        ["proper use", "using (different things) for different purposes"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani20"],
+      "japanese": [{ "word": "不可分", "reading": "ふかぶん" }],
+      "senses": [["atomic", "indivisibility"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "大義名分", "reading": "たいぎめいぶん" }],
+      "senses": [
+        ["just cause", "good reason", "pretext", "justification"],
+        ["duty (to one's country, sovereign, etc.)"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "塩分", "reading": "えんぶん" }],
+      "senses": [["salt", "salt content"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "草分け", "reading": "くさわけ" }],
+      "senses": [
+        ["pathfinder", "trailblazer", "early settler"],
+        ["pioneer", "founder", "originator", "groundbreaker"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani12"],
+      "japanese": [{ "word": "親分", "reading": "おやぶん" }],
+      "senses": [
+        [
+          "boss",
+          "leader",
+          "kingpin",
+          "chief",
+          "head (e.g. of a crime syndicate)"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "思う存分", "reading": "おもうぞんぶん" },
+        { "word": "思うぞんぶん", "reading": "おもうぞんぶん" }
+      ],
+      "senses": [
+        [
+          "to one's heart's content",
+          "to one's complete satisfaction",
+          "as much as one likes",
+          "heartily",
+          "thoroughly",
+          "without restraint"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "見分け", "reading": "みわけ" }],
+      "senses": [["distinction"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "申し分無い", "reading": "もうしぶんない" },
+        { "word": "申し分ない", "reading": "もうしぶんない" }
+      ],
+      "senses": [
+        ["no objection", "nothing to criticize", "nothing to criticise"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "気分転換", "reading": "きぶんてんかん" }],
+      "senses": [
+        [
+          "change of pace",
+          "change of mood",
+          "(mental) break (e.g. going for a walk)",
+          "refreshment"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "数分", "reading": "すうふん" }],
+      "senses": [["several minutes", "a few minutes"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": [],
+      "japanese": [
+        { "word": "申し訳", "reading": "もうしわけ" },
+        { "word": "申しわけ", "reading": "もうしわけ" },
+        { "word": "申訳", "reading": "もうしわけ" },
+        { "word": "申し分け", "reading": "もうしわけ" },
+        { "word": "申分け", "reading": "もうしわけ" },
+        { "word": "申し訳け", "reading": "もうしわけ" },
+        { "word": "申分", "reading": "もうしわけ" }
+      ],
+      "senses": [["apology", "excuse"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "二分", "reading": "にぶん" }],
+      "senses": [
+        ["halving", "dividing (into two parts)", "bisection"],
+        ["the two equinoxes (vernal and autumnal)"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "五分", "reading": "ごぶ" }],
+      "senses": [["half", "50%", "tie", "evenness"], ["5 parts", "5%"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "十二分", "reading": "じゅうにぶん" }],
+      "senses": [["more than enough", "more than ample", "exhaustive"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "国分寺", "reading": "こくぶんじ" }],
+      "senses": [
+        ["state-supported provincial temple (Nara period)"],
+        ["Provincial temple"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "地方分権", "reading": "ちほうぶんけん" }],
+      "senses": [
+        ["decentralization of power", "decentralisation of power"],
+        ["Decentralization"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "選り分ける", "reading": "よりわける" },
+        { "word": "より分ける", "reading": "よりわける" },
+        { "word": "選り分ける", "reading": "えりわける" },
+        { "word": "えり分ける", "reading": "えりわける" }
+      ],
+      "senses": [["to classify", "to sort out", "to sift through"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "秋分", "reading": "しゅうぶん" }],
+      "senses": [
+        ["autumnal equinox", "autumn equinox", "fall equinox"],
+        ["Qiufen"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "春分", "reading": "しゅんぶん" }],
+      "senses": [["vernal equinox", "spring equinox"], ["Chunfen"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "自分で", "reading": "じぶんで" }],
+      "senses": [["by myself", "in person", "by oneself"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "応分", "reading": "おうぶん" }],
+      "senses": [["according to one's abilities", "appropriate", "reasonable"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "細分", "reading": "さいぶん" }],
+      "senses": [["subdivision (into small parts)"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "仮処分", "reading": "かりしょぶん" }],
+      "senses": [["provisional disposition", "temporary injunction"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "行政処分", "reading": "ぎょうせいしょぶん" }],
+      "senses": [["administrative measures (disposition)"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "八分音符", "reading": "はちぶおんぷ" }],
+      "senses": [["8th note", "eighth note", "quaver"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "残った分", "reading": "のこったぶん" }],
+      "senses": [["amount left over", "remaining portion"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani45"],
+      "japanese": [{ "word": "核分裂", "reading": "かくぶんれつ" }],
+      "senses": [
+        ["nuclear fission"],
+        ["karyokinesis (division of a cell nucleus during mitosis or meiosis)"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "分からず屋", "reading": "わからずや" },
+        { "word": "わからず屋", "reading": "わからずや" },
+        { "word": "分らず屋", "reading": "わからずや" },
+        { "word": "没分暁漢", "reading": "わからずや" },
+        { "word": "没分暁漢", "reading": "ぼつぶんぎょうかん" }
+      ],
+      "senses": [["obstinate person", "blockhead"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "一分", "reading": "いちぶ" },
+        { "word": "１分", "reading": "いちぶ" }
+      ],
+      "senses": [
+        [
+          "one tenth",
+          "one hundredth",
+          "one percent",
+          "one tenth of a sun",
+          "one quarter ryō (an old coin)"
+        ],
+        ["Ichibu"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "六十四分音符", "reading": "ろくじゅうしぶおんぷ" }],
+      "senses": [["64th note", "hemidemisemiquaver", "semidemisemiquaver"]]
+    }
+  ]
+}

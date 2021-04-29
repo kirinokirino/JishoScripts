@@ -1,1 +1,47 @@
-{"basic":["携","Portable","742"],"extended":[{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"提携","reading":"ていけい"}],"senses":[["cooperation","tie-up","joint business","partnership","alliance","sponsorship"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"連携","reading":"れんけい"}],"senses":[["cooperation","coordination","link"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"提携","reading":"ていけい"}],"senses":[["cooperation","tie-up","joint business","partnership","alliance","sponsorship"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"連携","reading":"れんけい"}],"senses":[["cooperation","coordination","link"]]}]}
+{
+  "basic": ["携", "Portable", "742"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "提携", "reading": "ていけい" }],
+      "senses": [
+        [
+          "cooperation",
+          "tie-up",
+          "joint business",
+          "partnership",
+          "alliance",
+          "sponsorship"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "連携", "reading": "れんけい" }],
+      "senses": [["cooperation", "coordination", "link"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "提携", "reading": "ていけい" }],
+      "senses": [
+        [
+          "cooperation",
+          "tie-up",
+          "joint business",
+          "partnership",
+          "alliance",
+          "sponsorship"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "連携", "reading": "れんけい" }],
+      "senses": [["cooperation", "coordination", "link"]]
+    }
+  ]
+}

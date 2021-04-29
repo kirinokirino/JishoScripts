@@ -1,1 +1,53 @@
-{"basic":["丹","Cinnabar","2196"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"伊勢丹","reading":"いせたん"}],"senses":[["Isetan (department store)"],["Isetan"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"切支丹","reading":"キリシタン"},{"word":"吉利支丹","reading":"キリシタン"},{"word":"切死丹","reading":"キリシタン"},{"word":"鬼理死丹","reading":"キリシタン"},{"word":"鬼利死丹","reading":"キリシタン"}],"senses":[["early Japanese Christianity (from the later Muromachi period)","early Japanese Christian"],["Kirishitan"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"伊勢丹","reading":"いせたん"}],"senses":[["Isetan (department store)"],["Isetan"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"切支丹","reading":"キリシタン"},{"word":"吉利支丹","reading":"キリシタン"},{"word":"切死丹","reading":"キリシタン"},{"word":"鬼理死丹","reading":"キリシタン"},{"word":"鬼利死丹","reading":"キリシタン"}],"senses":[["early Japanese Christianity (from the later Muromachi period)","early Japanese Christian"],["Kirishitan"]]}]}
+{
+  "basic": ["丹", "Cinnabar", "2196"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "伊勢丹", "reading": "いせたん" }],
+      "senses": [["Isetan (department store)"], ["Isetan"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "切支丹", "reading": "キリシタン" },
+        { "word": "吉利支丹", "reading": "キリシタン" },
+        { "word": "切死丹", "reading": "キリシタン" },
+        { "word": "鬼理死丹", "reading": "キリシタン" },
+        { "word": "鬼利死丹", "reading": "キリシタン" }
+      ],
+      "senses": [
+        [
+          "early Japanese Christianity (from the later Muromachi period)",
+          "early Japanese Christian"
+        ],
+        ["Kirishitan"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "伊勢丹", "reading": "いせたん" }],
+      "senses": [["Isetan (department store)"], ["Isetan"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "切支丹", "reading": "キリシタン" },
+        { "word": "吉利支丹", "reading": "キリシタン" },
+        { "word": "切死丹", "reading": "キリシタン" },
+        { "word": "鬼理死丹", "reading": "キリシタン" },
+        { "word": "鬼利死丹", "reading": "キリシタン" }
+      ],
+      "senses": [
+        [
+          "early Japanese Christianity (from the later Muromachi period)",
+          "early Japanese Christian"
+        ],
+        ["Kirishitan"]
+      ]
+    }
+  ]
+}

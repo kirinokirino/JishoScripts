@@ -1,1 +1,71 @@
-{"basic":["威","Intimidate","389"],"extended":[{"jlpt":["jlpt-n1"],"tags":["wanikani43"],"japanese":[{"word":"権威","reading":"けんい"}],"senses":[["authority","power","influence"],["Authority"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"脅威","reading":"きょうい"}],"senses":[["threat","menace"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"猛威","reading":"もうい"}],"senses":[["fury","power","menace"]]},{"jlpt":[],"tags":["wanikani43"],"japanese":[{"word":"球威","reading":"きゅうい"}],"senses":[["(pitcher's) stuff"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"科威都","reading":"クウェート"},{"word":"科威都","reading":"クウェイト"}],"senses":[["Kuwait"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani43"],"japanese":[{"word":"権威","reading":"けんい"}],"senses":[["authority","power","influence"],["Authority"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"脅威","reading":"きょうい"}],"senses":[["threat","menace"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"猛威","reading":"もうい"}],"senses":[["fury","power","menace"]]},{"jlpt":[],"tags":["wanikani43"],"japanese":[{"word":"球威","reading":"きゅうい"}],"senses":[["(pitcher's) stuff"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"科威都","reading":"クウェート"},{"word":"科威都","reading":"クウェイト"}],"senses":[["Kuwait"]]}]}
+{
+  "basic": ["威", "Intimidate", "389"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani43"],
+      "japanese": [{ "word": "権威", "reading": "けんい" }],
+      "senses": [["authority", "power", "influence"], ["Authority"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "脅威", "reading": "きょうい" }],
+      "senses": [["threat", "menace"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "猛威", "reading": "もうい" }],
+      "senses": [["fury", "power", "menace"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani43"],
+      "japanese": [{ "word": "球威", "reading": "きゅうい" }],
+      "senses": [["(pitcher's) stuff"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "科威都", "reading": "クウェート" },
+        { "word": "科威都", "reading": "クウェイト" }
+      ],
+      "senses": [["Kuwait"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani43"],
+      "japanese": [{ "word": "権威", "reading": "けんい" }],
+      "senses": [["authority", "power", "influence"], ["Authority"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "脅威", "reading": "きょうい" }],
+      "senses": [["threat", "menace"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "猛威", "reading": "もうい" }],
+      "senses": [["fury", "power", "menace"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani43"],
+      "japanese": [{ "word": "球威", "reading": "きゅうい" }],
+      "senses": [["(pitcher's) stuff"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "科威都", "reading": "クウェート" },
+        { "word": "科威都", "reading": "クウェイト" }
+      ],
+      "senses": [["Kuwait"]]
+    }
+  ]
+}

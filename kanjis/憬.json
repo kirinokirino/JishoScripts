@@ -1,1 +1,29 @@
-{"basic":["憬","Hanker","682"],"extended":[{"jlpt":["jlpt-n2"],"tags":["wanikani59"],"japanese":[{"word":"憧れる","reading":"あこがれる"},{"word":"憬れる","reading":"あこがれる"},{"word":"憧憬れる","reading":"あこがれる"}],"senses":[["to long for","to yearn after","to admire","to be attracted by"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani59"],"japanese":[{"word":"憧れる","reading":"あこがれる"},{"word":"憬れる","reading":"あこがれる"},{"word":"憧憬れる","reading":"あこがれる"}],"senses":[["to long for","to yearn after","to admire","to be attracted by"]]}]}
+{
+  "basic": ["憬", "Hanker", "682"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani59"],
+      "japanese": [
+        { "word": "憧れる", "reading": "あこがれる" },
+        { "word": "憬れる", "reading": "あこがれる" },
+        { "word": "憧憬れる", "reading": "あこがれる" }
+      ],
+      "senses": [
+        ["to long for", "to yearn after", "to admire", "to be attracted by"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani59"],
+      "japanese": [
+        { "word": "憧れる", "reading": "あこがれる" },
+        { "word": "憬れる", "reading": "あこがれる" },
+        { "word": "憧憬れる", "reading": "あこがれる" }
+      ],
+      "senses": [
+        ["to long for", "to yearn after", "to admire", "to be attracted by"]
+      ]
+    }
+  ]
+}

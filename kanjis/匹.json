@@ -1,1 +1,25 @@
-{"basic":["匹","Equal","1830"],"extended":[{"jlpt":[],"tags":["wanikani44"],"japanese":[{"word":"一匹","reading":"いっぴき"},{"word":"１匹","reading":"いっぴき"},{"word":"一疋","reading":"いっぴき"}],"senses":[["one animal (small)"],["two-tan bolt of cloth"]]},{"jlpt":[],"tags":["wanikani44"],"japanese":[{"word":"一匹","reading":"いっぴき"},{"word":"１匹","reading":"いっぴき"},{"word":"一疋","reading":"いっぴき"}],"senses":[["one animal (small)"],["two-tan bolt of cloth"]]}]}
+{
+  "basic": ["匹", "Equal", "1830"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": ["wanikani44"],
+      "japanese": [
+        { "word": "一匹", "reading": "いっぴき" },
+        { "word": "１匹", "reading": "いっぴき" },
+        { "word": "一疋", "reading": "いっぴき" }
+      ],
+      "senses": [["one animal (small)"], ["two-tan bolt of cloth"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani44"],
+      "japanese": [
+        { "word": "一匹", "reading": "いっぴき" },
+        { "word": "１匹", "reading": "いっぴき" },
+        { "word": "一疋", "reading": "いっぴき" }
+      ],
+      "senses": [["one animal (small)"], ["two-tan bolt of cloth"]]
+    }
+  ]
+}

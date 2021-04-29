@@ -1,1 +1,45 @@
-{"basic":["苛","Bullying","240"],"extended":[{"jlpt":["jlpt-n3","jlpt-n1"],"tags":[],"japanese":[{"word":"苛々","reading":"いらいら"},{"word":"苛苛","reading":"いらいら"},{"word":"刺々","reading":"いらいら"},{"word":"刺刺","reading":"いらいら"},{"reading":"イライラ"}],"senses":[["to get irritated","to get annoyed","to be on the edge","to fret","to lose patience"]]},{"jlpt":["jlpt-n3","jlpt-n1"],"tags":[],"japanese":[{"word":"苛々","reading":"いらいら"},{"word":"苛苛","reading":"いらいら"},{"word":"刺々","reading":"いらいら"},{"word":"刺刺","reading":"いらいら"},{"reading":"イライラ"}],"senses":[["to get irritated","to get annoyed","to be on the edge","to fret","to lose patience"]]}]}
+{
+  "basic": ["苛", "Bullying", "240"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n3", "jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "苛々", "reading": "いらいら" },
+        { "word": "苛苛", "reading": "いらいら" },
+        { "word": "刺々", "reading": "いらいら" },
+        { "word": "刺刺", "reading": "いらいら" },
+        { "reading": "イライラ" }
+      ],
+      "senses": [
+        [
+          "to get irritated",
+          "to get annoyed",
+          "to be on the edge",
+          "to fret",
+          "to lose patience"
+        ]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n3", "jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "苛々", "reading": "いらいら" },
+        { "word": "苛苛", "reading": "いらいら" },
+        { "word": "刺々", "reading": "いらいら" },
+        { "word": "刺刺", "reading": "いらいら" },
+        { "reading": "イライラ" }
+      ],
+      "senses": [
+        [
+          "to get irritated",
+          "to get annoyed",
+          "to be on the edge",
+          "to fret",
+          "to lose patience"
+        ]
+      ]
+    }
+  ]
+}

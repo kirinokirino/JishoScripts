@@ -1,1 +1,157 @@
-{"basic":["血","Blood","1556"],"extended":[{"jlpt":["jlpt-n2"],"tags":["wanikani24"],"japanese":[{"word":"輸血","reading":"ゆけつ"}],"senses":[["blood transfusion"],["Blood transfusion"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani6"],"japanese":[{"word":"出血","reading":"しゅっけつ"}],"senses":[["bleeding","haemorrhage","hemorrhage"],["bleeding money","red ink","selling below cost"],["Bleeding"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani19"],"japanese":[{"word":"混血","reading":"こんけつ"}],"senses":[["mixed race","mixed parentage"],["Multiracial"]]},{"jlpt":[],"tags":["wanikani22"],"japanese":[{"word":"高血圧","reading":"こうけつあつ"}],"senses":[["high blood pressure","hypertension"],["Hypertension"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"貧血","reading":"ひんけつ"}],"senses":[["anemia","anaemia"],["Anemia"]]},{"jlpt":[],"tags":["wanikani36"],"japanese":[{"word":"献血","reading":"けんけつ"}],"senses":[["blood donation"],["Blood donation"]]},{"jlpt":[],"tags":["wanikani23"],"japanese":[{"word":"吸血鬼","reading":"きゅうけつき"}],"senses":[["vampire","bloodsucker"],["Vampire"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"流血","reading":"りゅうけつ"}],"senses":[["bloodshed"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"脳出血","reading":"のうしゅっけつ"}],"senses":[["cerebral hemorrhage","cerebral haemorrhage"],["Intracranial hemorrhage"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"白血球","reading":"はっけっきゅう"}],"senses":[["leukocyte","leucocyte","white blood cell"],["White blood cell"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"白血病","reading":"はっけつびょう"}],"senses":[["leukemia"],["Leukemia"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani24"],"japanese":[{"word":"輸血","reading":"ゆけつ"}],"senses":[["blood transfusion"],["Blood transfusion"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani6"],"japanese":[{"word":"出血","reading":"しゅっけつ"}],"senses":[["bleeding","haemorrhage","hemorrhage"],["bleeding money","red ink","selling below cost"],["Bleeding"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani19"],"japanese":[{"word":"混血","reading":"こんけつ"}],"senses":[["mixed race","mixed parentage"],["Multiracial"]]},{"jlpt":[],"tags":["wanikani22"],"japanese":[{"word":"高血圧","reading":"こうけつあつ"}],"senses":[["high blood pressure","hypertension"],["Hypertension"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"貧血","reading":"ひんけつ"}],"senses":[["anemia","anaemia"],["Anemia"]]},{"jlpt":[],"tags":["wanikani36"],"japanese":[{"word":"献血","reading":"けんけつ"}],"senses":[["blood donation"],["Blood donation"]]},{"jlpt":[],"tags":["wanikani23"],"japanese":[{"word":"吸血鬼","reading":"きゅうけつき"}],"senses":[["vampire","bloodsucker"],["Vampire"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"流血","reading":"りゅうけつ"}],"senses":[["bloodshed"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"脳出血","reading":"のうしゅっけつ"}],"senses":[["cerebral hemorrhage","cerebral haemorrhage"],["Intracranial hemorrhage"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"白血球","reading":"はっけっきゅう"}],"senses":[["leukocyte","leucocyte","white blood cell"],["White blood cell"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"白血病","reading":"はっけつびょう"}],"senses":[["leukemia"],["Leukemia"]]}]}
+{
+  "basic": ["血", "Blood", "1556"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani24"],
+      "japanese": [{ "word": "輸血", "reading": "ゆけつ" }],
+      "senses": [["blood transfusion"], ["Blood transfusion"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani6"],
+      "japanese": [{ "word": "出血", "reading": "しゅっけつ" }],
+      "senses": [
+        ["bleeding", "haemorrhage", "hemorrhage"],
+        ["bleeding money", "red ink", "selling below cost"],
+        ["Bleeding"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani19"],
+      "japanese": [{ "word": "混血", "reading": "こんけつ" }],
+      "senses": [["mixed race", "mixed parentage"], ["Multiracial"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani22"],
+      "japanese": [{ "word": "高血圧", "reading": "こうけつあつ" }],
+      "senses": [["high blood pressure", "hypertension"], ["Hypertension"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "貧血", "reading": "ひんけつ" }],
+      "senses": [["anemia", "anaemia"], ["Anemia"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani36"],
+      "japanese": [{ "word": "献血", "reading": "けんけつ" }],
+      "senses": [["blood donation"], ["Blood donation"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani23"],
+      "japanese": [{ "word": "吸血鬼", "reading": "きゅうけつき" }],
+      "senses": [["vampire", "bloodsucker"], ["Vampire"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "流血", "reading": "りゅうけつ" }],
+      "senses": [["bloodshed"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "脳出血", "reading": "のうしゅっけつ" }],
+      "senses": [
+        ["cerebral hemorrhage", "cerebral haemorrhage"],
+        ["Intracranial hemorrhage"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "白血球", "reading": "はっけっきゅう" }],
+      "senses": [
+        ["leukocyte", "leucocyte", "white blood cell"],
+        ["White blood cell"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "白血病", "reading": "はっけつびょう" }],
+      "senses": [["leukemia"], ["Leukemia"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani24"],
+      "japanese": [{ "word": "輸血", "reading": "ゆけつ" }],
+      "senses": [["blood transfusion"], ["Blood transfusion"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani6"],
+      "japanese": [{ "word": "出血", "reading": "しゅっけつ" }],
+      "senses": [
+        ["bleeding", "haemorrhage", "hemorrhage"],
+        ["bleeding money", "red ink", "selling below cost"],
+        ["Bleeding"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani19"],
+      "japanese": [{ "word": "混血", "reading": "こんけつ" }],
+      "senses": [["mixed race", "mixed parentage"], ["Multiracial"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani22"],
+      "japanese": [{ "word": "高血圧", "reading": "こうけつあつ" }],
+      "senses": [["high blood pressure", "hypertension"], ["Hypertension"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "貧血", "reading": "ひんけつ" }],
+      "senses": [["anemia", "anaemia"], ["Anemia"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani36"],
+      "japanese": [{ "word": "献血", "reading": "けんけつ" }],
+      "senses": [["blood donation"], ["Blood donation"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani23"],
+      "japanese": [{ "word": "吸血鬼", "reading": "きゅうけつき" }],
+      "senses": [["vampire", "bloodsucker"], ["Vampire"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "流血", "reading": "りゅうけつ" }],
+      "senses": [["bloodshed"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "脳出血", "reading": "のうしゅっけつ" }],
+      "senses": [
+        ["cerebral hemorrhage", "cerebral haemorrhage"],
+        ["Intracranial hemorrhage"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "白血球", "reading": "はっけっきゅう" }],
+      "senses": [
+        ["leukocyte", "leucocyte", "white blood cell"],
+        ["White blood cell"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "白血病", "reading": "はっけつびょう" }],
+      "senses": [["leukemia"], ["Leukemia"]]
+    }
+  ]
+}

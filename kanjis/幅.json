@@ -1,1 +1,65 @@
-{"basic":["幅","Hanging Scroll","435"],"extended":[{"jlpt":["jlpt-n1"],"tags":["wanikani36"],"japanese":[{"word":"大幅","reading":"おおはば"},{"word":"大巾","reading":"おおはば"}],"senses":[["big","large","drastic","substantial"],["full-width cloth (approx. 72 cm wide for traditional Japanese clothing; approx. 140 cm wide for Western clothing)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"走り幅跳び","reading":"はしりはばとび"},{"word":"走幅跳","reading":"はしりはばとび"}],"senses":[["running long jump"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"小幅","reading":"こはば"}],"senses":[["small","narrow"],["single-breadth cloth (approx. 36 cm wide)"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani36"],"japanese":[{"word":"大幅","reading":"おおはば"},{"word":"大巾","reading":"おおはば"}],"senses":[["big","large","drastic","substantial"],["full-width cloth (approx. 72 cm wide for traditional Japanese clothing; approx. 140 cm wide for Western clothing)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"走り幅跳び","reading":"はしりはばとび"},{"word":"走幅跳","reading":"はしりはばとび"}],"senses":[["running long jump"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"小幅","reading":"こはば"}],"senses":[["small","narrow"],["single-breadth cloth (approx. 36 cm wide)"]]}]}
+{
+  "basic": ["幅", "Hanging Scroll", "435"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani36"],
+      "japanese": [
+        { "word": "大幅", "reading": "おおはば" },
+        { "word": "大巾", "reading": "おおはば" }
+      ],
+      "senses": [
+        ["big", "large", "drastic", "substantial"],
+        ["full-width cloth (approx. 72 cm wide for traditional Japanese clothing; approx. 140 cm wide for Western clothing)"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "走り幅跳び", "reading": "はしりはばとび" },
+        { "word": "走幅跳", "reading": "はしりはばとび" }
+      ],
+      "senses": [["running long jump"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "小幅", "reading": "こはば" }],
+      "senses": [
+        ["small", "narrow"],
+        ["single-breadth cloth (approx. 36 cm wide)"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani36"],
+      "japanese": [
+        { "word": "大幅", "reading": "おおはば" },
+        { "word": "大巾", "reading": "おおはば" }
+      ],
+      "senses": [
+        ["big", "large", "drastic", "substantial"],
+        ["full-width cloth (approx. 72 cm wide for traditional Japanese clothing; approx. 140 cm wide for Western clothing)"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "走り幅跳び", "reading": "はしりはばとび" },
+        { "word": "走幅跳", "reading": "はしりはばとび" }
+      ],
+      "senses": [["running long jump"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "小幅", "reading": "こはば" }],
+      "senses": [
+        ["small", "narrow"],
+        ["single-breadth cloth (approx. 36 cm wide)"]
+      ]
+    }
+  ]
+}

@@ -1,1 +1,17 @@
-{"basic":["寒","Cold","1645"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"悪寒","reading":"おかん"}],"senses":[["chill","shakes","ague"],["Chills"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"悪寒","reading":"おかん"}],"senses":[["chill","shakes","ague"],["Chills"]]}]}
+{
+  "basic": ["寒", "Cold", "1645"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "悪寒", "reading": "おかん" }],
+      "senses": [["chill", "shakes", "ague"], ["Chills"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "悪寒", "reading": "おかん" }],
+      "senses": [["chill", "shakes", "ague"], ["Chills"]]
+    }
+  ]
+}

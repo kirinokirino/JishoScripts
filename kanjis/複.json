@@ -1,1 +1,39 @@
-{"basic":["複","Duplicate","504"],"extended":[{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"重複","reading":"ちょうふく"},{"word":"重複","reading":"じゅうふく"}],"senses":[["duplication","repetition","overlapping","redundancy","restoration"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"重複","reading":"ちょうふく"},{"word":"重複","reading":"じゅうふく"}],"senses":[["duplication","repetition","overlapping","redundancy","restoration"]]}]}
+{
+  "basic": ["複", "Duplicate", "504"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "重複", "reading": "ちょうふく" },
+        { "word": "重複", "reading": "じゅうふく" }
+      ],
+      "senses": [
+        [
+          "duplication",
+          "repetition",
+          "overlapping",
+          "redundancy",
+          "restoration"
+        ]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "重複", "reading": "ちょうふく" },
+        { "word": "重複", "reading": "じゅうふく" }
+      ],
+      "senses": [
+        [
+          "duplication",
+          "repetition",
+          "overlapping",
+          "redundancy",
+          "restoration"
+        ]
+      ]
+    }
+  ]
+}

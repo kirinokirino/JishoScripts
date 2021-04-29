@@ -1,1 +1,119 @@
-{"basic":["増","Increase","541"],"extended":[{"jlpt":["jlpt-n3","jlpt-n1"],"tags":[],"japanese":[{"word":"益々","reading":"ますます"},{"word":"増々","reading":"ますます"},{"word":"益益","reading":"ますます"},{"word":"増す増す","reading":"ますます"},{"word":"増増","reading":"ますます"},{"word":"益","reading":"ますます"}],"senses":[["increasingly","more and more","decreasingly (when declining)","less and less"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"日増しに","reading":"ひましに"}],"senses":[["day by day"]]},{"jlpt":[],"tags":["wanikani21"],"japanese":[{"word":"急増","reading":"きゅうぞう"}],"senses":[["rapid increase","proliferation","surge","explosion"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"水増し","reading":"みずまし"}],"senses":[["dilution","watering down"],["inflation (of budget, claim, etc.)","padding"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"倍増","reading":"ばいぞう"}],"senses":[["double"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"方がマシ","reading":"ほうがマシ"},{"word":"方がまし","reading":"ほうがまし"},{"word":"方が増し","reading":"ほうがまし"}],"senses":[["I would rather","I would as lief do","strong preference"]]},{"jlpt":["jlpt-n3","jlpt-n1"],"tags":[],"japanese":[{"word":"益々","reading":"ますます"},{"word":"増々","reading":"ますます"},{"word":"益益","reading":"ますます"},{"word":"増す増す","reading":"ますます"},{"word":"増増","reading":"ますます"},{"word":"益","reading":"ますます"}],"senses":[["increasingly","more and more","decreasingly (when declining)","less and less"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"日増しに","reading":"ひましに"}],"senses":[["day by day"]]},{"jlpt":[],"tags":["wanikani21"],"japanese":[{"word":"急増","reading":"きゅうぞう"}],"senses":[["rapid increase","proliferation","surge","explosion"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"水増し","reading":"みずまし"}],"senses":[["dilution","watering down"],["inflation (of budget, claim, etc.)","padding"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"倍増","reading":"ばいぞう"}],"senses":[["double"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"方がマシ","reading":"ほうがマシ"},{"word":"方がまし","reading":"ほうがまし"},{"word":"方が増し","reading":"ほうがまし"}],"senses":[["I would rather","I would as lief do","strong preference"]]}]}
+{
+  "basic": ["増", "Increase", "541"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n3", "jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "益々", "reading": "ますます" },
+        { "word": "増々", "reading": "ますます" },
+        { "word": "益益", "reading": "ますます" },
+        { "word": "増す増す", "reading": "ますます" },
+        { "word": "増増", "reading": "ますます" },
+        { "word": "益", "reading": "ますます" }
+      ],
+      "senses": [
+        [
+          "increasingly",
+          "more and more",
+          "decreasingly (when declining)",
+          "less and less"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "日増しに", "reading": "ひましに" }],
+      "senses": [["day by day"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani21"],
+      "japanese": [{ "word": "急増", "reading": "きゅうぞう" }],
+      "senses": [["rapid increase", "proliferation", "surge", "explosion"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "水増し", "reading": "みずまし" }],
+      "senses": [
+        ["dilution", "watering down"],
+        ["inflation (of budget, claim, etc.)", "padding"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "倍増", "reading": "ばいぞう" }],
+      "senses": [["double"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "方がマシ", "reading": "ほうがマシ" },
+        { "word": "方がまし", "reading": "ほうがまし" },
+        { "word": "方が増し", "reading": "ほうがまし" }
+      ],
+      "senses": [["I would rather", "I would as lief do", "strong preference"]]
+    },
+    {
+      "jlpt": ["jlpt-n3", "jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "益々", "reading": "ますます" },
+        { "word": "増々", "reading": "ますます" },
+        { "word": "益益", "reading": "ますます" },
+        { "word": "増す増す", "reading": "ますます" },
+        { "word": "増増", "reading": "ますます" },
+        { "word": "益", "reading": "ますます" }
+      ],
+      "senses": [
+        [
+          "increasingly",
+          "more and more",
+          "decreasingly (when declining)",
+          "less and less"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "日増しに", "reading": "ひましに" }],
+      "senses": [["day by day"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani21"],
+      "japanese": [{ "word": "急増", "reading": "きゅうぞう" }],
+      "senses": [["rapid increase", "proliferation", "surge", "explosion"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "水増し", "reading": "みずまし" }],
+      "senses": [
+        ["dilution", "watering down"],
+        ["inflation (of budget, claim, etc.)", "padding"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "倍増", "reading": "ばいぞう" }],
+      "senses": [["double"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "方がマシ", "reading": "ほうがマシ" },
+        { "word": "方がまし", "reading": "ほうがまし" },
+        { "word": "方が増し", "reading": "ほうがまし" }
+      ],
+      "senses": [["I would rather", "I would as lief do", "strong preference"]]
+    }
+  ]
+}

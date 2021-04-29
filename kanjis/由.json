@@ -1,1 +1,127 @@
-{"basic":["由","Wherefore","1186"],"extended":[{"jlpt":["jlpt-n4"],"tags":["wanikani7"],"japanese":[{"word":"自由","reading":"じゆう"}],"senses":[["freedom","liberty"],["Liberty"]]},{"jlpt":["jlpt-n4"],"tags":["wanikani7"],"japanese":[{"word":"理由","reading":"りゆう"},{"word":"理由","reading":"わけ"}],"senses":[["reason","pretext","motive"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani9"],"japanese":[{"word":"不自由","reading":"ふじゆう"}],"senses":[["discomfort","inconvenience"],["poverty","want","destitution"],["disability","impairment (physical, mental, etc.)"]]},{"jlpt":["jlpt-n3"],"tags":[],"japanese":[{"word":"経由","reading":"けいゆ"},{"word":"経由","reading":"けいゆう"}],"senses":[["going through","going via","going by way of"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"自由化","reading":"じゆうか"}],"senses":[["liberalization","liberalisation","freeing"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"自由主義","reading":"じゆうしゅぎ"}],"senses":[["liberalism"],["Liberalism"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"自由形","reading":"じゆうがた"},{"word":"自由型","reading":"じゆうがた"}],"senses":[["freestyle (e.g. swimming event)"],["Freestyle swimming"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"自由経済","reading":"じゆうけいざい"}],"senses":[["free economy"]]},{"jlpt":["jlpt-n4"],"tags":["wanikani7"],"japanese":[{"word":"自由","reading":"じゆう"}],"senses":[["freedom","liberty"],["Liberty"]]},{"jlpt":["jlpt-n4"],"tags":["wanikani7"],"japanese":[{"word":"理由","reading":"りゆう"},{"word":"理由","reading":"わけ"}],"senses":[["reason","pretext","motive"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani9"],"japanese":[{"word":"不自由","reading":"ふじゆう"}],"senses":[["discomfort","inconvenience"],["poverty","want","destitution"],["disability","impairment (physical, mental, etc.)"]]},{"jlpt":["jlpt-n3"],"tags":[],"japanese":[{"word":"経由","reading":"けいゆ"},{"word":"経由","reading":"けいゆう"}],"senses":[["going through","going via","going by way of"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"自由化","reading":"じゆうか"}],"senses":[["liberalization","liberalisation","freeing"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"自由主義","reading":"じゆうしゅぎ"}],"senses":[["liberalism"],["Liberalism"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"自由形","reading":"じゆうがた"},{"word":"自由型","reading":"じゆうがた"}],"senses":[["freestyle (e.g. swimming event)"],["Freestyle swimming"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"自由経済","reading":"じゆうけいざい"}],"senses":[["free economy"]]}]}
+{
+  "basic": ["由", "Wherefore", "1186"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n4"],
+      "tags": ["wanikani7"],
+      "japanese": [{ "word": "自由", "reading": "じゆう" }],
+      "senses": [["freedom", "liberty"], ["Liberty"]]
+    },
+    {
+      "jlpt": ["jlpt-n4"],
+      "tags": ["wanikani7"],
+      "japanese": [
+        { "word": "理由", "reading": "りゆう" },
+        { "word": "理由", "reading": "わけ" }
+      ],
+      "senses": [["reason", "pretext", "motive"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani9"],
+      "japanese": [{ "word": "不自由", "reading": "ふじゆう" }],
+      "senses": [
+        ["discomfort", "inconvenience"],
+        ["poverty", "want", "destitution"],
+        ["disability", "impairment (physical, mental, etc.)"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": [],
+      "japanese": [
+        { "word": "経由", "reading": "けいゆ" },
+        { "word": "経由", "reading": "けいゆう" }
+      ],
+      "senses": [["going through", "going via", "going by way of"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "自由化", "reading": "じゆうか" }],
+      "senses": [["liberalization", "liberalisation", "freeing"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "自由主義", "reading": "じゆうしゅぎ" }],
+      "senses": [["liberalism"], ["Liberalism"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "自由形", "reading": "じゆうがた" },
+        { "word": "自由型", "reading": "じゆうがた" }
+      ],
+      "senses": [["freestyle (e.g. swimming event)"], ["Freestyle swimming"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "自由経済", "reading": "じゆうけいざい" }],
+      "senses": [["free economy"]]
+    },
+    {
+      "jlpt": ["jlpt-n4"],
+      "tags": ["wanikani7"],
+      "japanese": [{ "word": "自由", "reading": "じゆう" }],
+      "senses": [["freedom", "liberty"], ["Liberty"]]
+    },
+    {
+      "jlpt": ["jlpt-n4"],
+      "tags": ["wanikani7"],
+      "japanese": [
+        { "word": "理由", "reading": "りゆう" },
+        { "word": "理由", "reading": "わけ" }
+      ],
+      "senses": [["reason", "pretext", "motive"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani9"],
+      "japanese": [{ "word": "不自由", "reading": "ふじゆう" }],
+      "senses": [
+        ["discomfort", "inconvenience"],
+        ["poverty", "want", "destitution"],
+        ["disability", "impairment (physical, mental, etc.)"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": [],
+      "japanese": [
+        { "word": "経由", "reading": "けいゆ" },
+        { "word": "経由", "reading": "けいゆう" }
+      ],
+      "senses": [["going through", "going via", "going by way of"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "自由化", "reading": "じゆうか" }],
+      "senses": [["liberalization", "liberalisation", "freeing"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "自由主義", "reading": "じゆうしゅぎ" }],
+      "senses": [["liberalism"], ["Liberalism"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "自由形", "reading": "じゆうがた" },
+        { "word": "自由型", "reading": "じゆうがた" }
+      ],
+      "senses": [["freestyle (e.g. swimming event)"], ["Freestyle swimming"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "自由経済", "reading": "じゆうけいざい" }],
+      "senses": [["free economy"]]
+    }
+  ]
+}

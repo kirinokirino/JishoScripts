@@ -1,1 +1,75 @@
-{"basic":["踏","Step","1381"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"足踏み","reading":"あしぶみ"},{"word":"足ぶみ","reading":"あしぶみ"}],"senses":[["stepping (in place)","stamping (up and down)","stomping","marking time (for a soldier)"],["standstill","stalemate"]]},{"jlpt":[],"tags":["wanikani36"],"japanese":[{"word":"舞踏","reading":"ぶとう"}],"senses":[["dance (esp. Western style)","dancing"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"雑踏","reading":"ざっとう"},{"word":"雑沓","reading":"ざっとう"},{"word":"雑鬧","reading":"ざっとう"}],"senses":[["hustle and bustle","throng","crowd","congestion","traffic jam"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"足踏み","reading":"あしぶみ"},{"word":"足ぶみ","reading":"あしぶみ"}],"senses":[["stepping (in place)","stamping (up and down)","stomping","marking time (for a soldier)"],["standstill","stalemate"]]},{"jlpt":[],"tags":["wanikani36"],"japanese":[{"word":"舞踏","reading":"ぶとう"}],"senses":[["dance (esp. Western style)","dancing"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"雑踏","reading":"ざっとう"},{"word":"雑沓","reading":"ざっとう"},{"word":"雑鬧","reading":"ざっとう"}],"senses":[["hustle and bustle","throng","crowd","congestion","traffic jam"]]}]}
+{
+  "basic": ["踏", "Step", "1381"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "足踏み", "reading": "あしぶみ" },
+        { "word": "足ぶみ", "reading": "あしぶみ" }
+      ],
+      "senses": [
+        [
+          "stepping (in place)",
+          "stamping (up and down)",
+          "stomping",
+          "marking time (for a soldier)"
+        ],
+        ["standstill", "stalemate"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani36"],
+      "japanese": [{ "word": "舞踏", "reading": "ぶとう" }],
+      "senses": [["dance (esp. Western style)", "dancing"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "雑踏", "reading": "ざっとう" },
+        { "word": "雑沓", "reading": "ざっとう" },
+        { "word": "雑鬧", "reading": "ざっとう" }
+      ],
+      "senses": [
+        ["hustle and bustle", "throng", "crowd", "congestion", "traffic jam"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "足踏み", "reading": "あしぶみ" },
+        { "word": "足ぶみ", "reading": "あしぶみ" }
+      ],
+      "senses": [
+        [
+          "stepping (in place)",
+          "stamping (up and down)",
+          "stomping",
+          "marking time (for a soldier)"
+        ],
+        ["standstill", "stalemate"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani36"],
+      "japanese": [{ "word": "舞踏", "reading": "ぶとう" }],
+      "senses": [["dance (esp. Western style)", "dancing"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "雑踏", "reading": "ざっとう" },
+        { "word": "雑沓", "reading": "ざっとう" },
+        { "word": "雑鬧", "reading": "ざっとう" }
+      ],
+      "senses": [
+        ["hustle and bustle", "throng", "crowd", "congestion", "traffic jam"]
+      ]
+    }
+  ]
+}

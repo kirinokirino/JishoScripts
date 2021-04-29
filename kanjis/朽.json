@@ -1,1 +1,17 @@
-{"basic":["朽","Decay","1331"],"extended":[{"jlpt":[],"tags":["wanikani58"],"japanese":[{"word":"老朽","reading":"ろうきゅう"}],"senses":[["decrepitude","senescence","superannuation"]]},{"jlpt":[],"tags":["wanikani58"],"japanese":[{"word":"老朽","reading":"ろうきゅう"}],"senses":[["decrepitude","senescence","superannuation"]]}]}
+{
+  "basic": ["朽", "Decay", "1331"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": ["wanikani58"],
+      "japanese": [{ "word": "老朽", "reading": "ろうきゅう" }],
+      "senses": [["decrepitude", "senescence", "superannuation"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani58"],
+      "japanese": [{ "word": "老朽", "reading": "ろうきゅう" }],
+      "senses": [["decrepitude", "senescence", "superannuation"]]
+    }
+  ]
+}

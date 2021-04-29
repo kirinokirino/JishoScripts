@@ -1,1 +1,49 @@
-{"basic":["克","Overcome","109"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"紐育","reading":"ニューヨーク"},{"word":"紐約","reading":"ニューヨーク"},{"word":"新約克","reading":"ニューヨーク"}],"senses":[["New York"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"烏克蘭","reading":"ウクライナ"}],"senses":[["Ukraine"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"馬克","reading":"マルク"}],"senses":[["mark (currency)"],["Mark"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"紐育","reading":"ニューヨーク"},{"word":"紐約","reading":"ニューヨーク"},{"word":"新約克","reading":"ニューヨーク"}],"senses":[["New York"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"烏克蘭","reading":"ウクライナ"}],"senses":[["Ukraine"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"馬克","reading":"マルク"}],"senses":[["mark (currency)"],["Mark"]]}]}
+{
+  "basic": ["克", "Overcome", "109"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "紐育", "reading": "ニューヨーク" },
+        { "word": "紐約", "reading": "ニューヨーク" },
+        { "word": "新約克", "reading": "ニューヨーク" }
+      ],
+      "senses": [["New York"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "烏克蘭", "reading": "ウクライナ" }],
+      "senses": [["Ukraine"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "馬克", "reading": "マルク" }],
+      "senses": [["mark (currency)"], ["Mark"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "紐育", "reading": "ニューヨーク" },
+        { "word": "紐約", "reading": "ニューヨーク" },
+        { "word": "新約克", "reading": "ニューヨーク" }
+      ],
+      "senses": [["New York"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "烏克蘭", "reading": "ウクライナ" }],
+      "senses": [["Ukraine"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "馬克", "reading": "マルク" }],
+      "senses": [["mark (currency)"], ["Mark"]]
+    }
+  ]
+}

@@ -1,1 +1,23 @@
-{"basic":["虐","Tyrannize","2153"],"extended":[{"jlpt":[],"tags":["wanikani53"],"japanese":[{"word":"残虐","reading":"ざんぎゃく"},{"word":"惨虐","reading":"ざんぎゃく"}],"senses":[["cruel","brutal","savage","barbarous"]]},{"jlpt":[],"tags":["wanikani53"],"japanese":[{"word":"残虐","reading":"ざんぎゃく"},{"word":"惨虐","reading":"ざんぎゃく"}],"senses":[["cruel","brutal","savage","barbarous"]]}]}
+{
+  "basic": ["虐", "Tyrannize", "2153"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": ["wanikani53"],
+      "japanese": [
+        { "word": "残虐", "reading": "ざんぎゃく" },
+        { "word": "惨虐", "reading": "ざんぎゃく" }
+      ],
+      "senses": [["cruel", "brutal", "savage", "barbarous"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani53"],
+      "japanese": [
+        { "word": "残虐", "reading": "ざんぎゃく" },
+        { "word": "惨虐", "reading": "ざんぎゃく" }
+      ],
+      "senses": [["cruel", "brutal", "savage", "barbarous"]]
+    }
+  ]
+}

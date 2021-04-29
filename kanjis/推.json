@@ -1,1 +1,27 @@
-{"basic":["推","Conjecture","716"],"extended":[{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"類推","reading":"るいすい"}],"senses":[["analogy"],["analogical reasoning","analogical inference"],["analogy"],["Analogy"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"類推","reading":"るいすい"}],"senses":[["analogy"],["analogical reasoning","analogical inference"],["analogy"],["Analogy"]]}]}
+{
+  "basic": ["推", "Conjecture", "716"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "類推", "reading": "るいすい" }],
+      "senses": [
+        ["analogy"],
+        ["analogical reasoning", "analogical inference"],
+        ["analogy"],
+        ["Analogy"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "類推", "reading": "るいすい" }],
+      "senses": [
+        ["analogy"],
+        ["analogical reasoning", "analogical inference"],
+        ["analogy"],
+        ["Analogy"]
+      ]
+    }
+  ]
+}

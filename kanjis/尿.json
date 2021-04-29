@@ -1,1 +1,17 @@
-{"basic":["尿","Urine","1132"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"糖尿病","reading":"とうにょうびょう"}],"senses":[["diabetes","diabetes mellitus"],["Diabetes mellitus"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"糖尿病","reading":"とうにょうびょう"}],"senses":[["diabetes","diabetes mellitus"],["Diabetes mellitus"]]}]}
+{
+  "basic": ["尿", "Urine", "1132"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "糖尿病", "reading": "とうにょうびょう" }],
+      "senses": [["diabetes", "diabetes mellitus"], ["Diabetes mellitus"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "糖尿病", "reading": "とうにょうびょう" }],
+      "senses": [["diabetes", "diabetes mellitus"], ["Diabetes mellitus"]]
+    }
+  ]
+}

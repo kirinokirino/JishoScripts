@@ -1,1 +1,183 @@
-{"basic":["共","Together","1934"],"extended":[{"jlpt":["jlpt-n2"],"tags":["wanikani11"],"japanese":[{"word":"公共","reading":"こうきょう"}],"senses":[["public (facilities, service, etc.)","communal"],["Public"]]},{"jlpt":["jlpt-n2","jlpt-n1"],"tags":[],"japanese":[{"word":"是非とも","reading":"ぜひとも"},{"word":"是非共","reading":"ぜひとも"}],"senses":[["by all means","at all costs","absolutely"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"公共料金","reading":"こうきょうりょうきん"}],"senses":[["public utilities charge"],["Cost of living"]]},{"jlpt":["jlpt-n3","jlpt-n1"],"tags":[],"japanese":[{"word":"其れ共","reading":"それとも"}],"senses":[["or","or else"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"共々","reading":"ともども"},{"word":"共共","reading":"ともども"}],"senses":[["together","in company"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"二人とも","reading":"ふたりとも"},{"word":"２人とも","reading":"ふたりとも"},{"word":"二人共","reading":"ふたりとも"},{"word":"２人共","reading":"ふたりとも"}],"senses":[["both (people)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"朝鮮民主主義人民共和国","reading":"ちょうせんみんしゅしゅぎじんみんきょうわこく"}],"senses":[["Democratic People's Republic of Korea (North Korea)","DPRK"],["Democratic People's Republic of Korea (North Korea)","DPRK"],["North Korea"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"地方公共団体","reading":"ちほうこうきょうだんたい"}],"senses":[["local public body","local government"],["Local government"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"公共放送","reading":"こうきょうほうそう"}],"senses":[["public broadcasting (e.g. NHK, BBC)"],["Public broadcasting"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"反共","reading":"はんきょう"}],"senses":[["anticommunist"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"グアテマラ共和国","reading":"グアテマラきょうわこく"}],"senses":[["Republic of Guatemala"],["Republic of Guatemala"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani11"],"japanese":[{"word":"公共","reading":"こうきょう"}],"senses":[["public (facilities, service, etc.)","communal"],["Public"]]},{"jlpt":["jlpt-n2","jlpt-n1"],"tags":[],"japanese":[{"word":"是非とも","reading":"ぜひとも"},{"word":"是非共","reading":"ぜひとも"}],"senses":[["by all means","at all costs","absolutely"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"公共料金","reading":"こうきょうりょうきん"}],"senses":[["public utilities charge"],["Cost of living"]]},{"jlpt":["jlpt-n3","jlpt-n1"],"tags":[],"japanese":[{"word":"其れ共","reading":"それとも"}],"senses":[["or","or else"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"共々","reading":"ともども"},{"word":"共共","reading":"ともども"}],"senses":[["together","in company"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"二人とも","reading":"ふたりとも"},{"word":"２人とも","reading":"ふたりとも"},{"word":"二人共","reading":"ふたりとも"},{"word":"２人共","reading":"ふたりとも"}],"senses":[["both (people)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"朝鮮民主主義人民共和国","reading":"ちょうせんみんしゅしゅぎじんみんきょうわこく"}],"senses":[["Democratic People's Republic of Korea (North Korea)","DPRK"],["Democratic People's Republic of Korea (North Korea)","DPRK"],["North Korea"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"地方公共団体","reading":"ちほうこうきょうだんたい"}],"senses":[["local public body","local government"],["Local government"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"公共放送","reading":"こうきょうほうそう"}],"senses":[["public broadcasting (e.g. NHK, BBC)"],["Public broadcasting"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"反共","reading":"はんきょう"}],"senses":[["anticommunist"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"グアテマラ共和国","reading":"グアテマラきょうわこく"}],"senses":[["Republic of Guatemala"],["Republic of Guatemala"]]}]}
+{
+  "basic": ["共", "Together", "1934"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani11"],
+      "japanese": [{ "word": "公共", "reading": "こうきょう" }],
+      "senses": [["public (facilities, service, etc.)", "communal"], ["Public"]]
+    },
+    {
+      "jlpt": ["jlpt-n2", "jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "是非とも", "reading": "ぜひとも" },
+        { "word": "是非共", "reading": "ぜひとも" }
+      ],
+      "senses": [["by all means", "at all costs", "absolutely"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "公共料金", "reading": "こうきょうりょうきん" }],
+      "senses": [["public utilities charge"], ["Cost of living"]]
+    },
+    {
+      "jlpt": ["jlpt-n3", "jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "其れ共", "reading": "それとも" }],
+      "senses": [["or", "or else"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "共々", "reading": "ともども" },
+        { "word": "共共", "reading": "ともども" }
+      ],
+      "senses": [["together", "in company"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "二人とも", "reading": "ふたりとも" },
+        { "word": "２人とも", "reading": "ふたりとも" },
+        { "word": "二人共", "reading": "ふたりとも" },
+        { "word": "２人共", "reading": "ふたりとも" }
+      ],
+      "senses": [["both (people)"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "朝鮮民主主義人民共和国", "reading": "ちょうせんみんしゅしゅぎじんみんきょうわこく" }
+      ],
+      "senses": [
+        ["Democratic People's Republic of Korea (North Korea)", "DPRK"],
+        ["Democratic People's Republic of Korea (North Korea)", "DPRK"],
+        ["North Korea"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "地方公共団体", "reading": "ちほうこうきょうだんたい" }],
+      "senses": [
+        ["local public body", "local government"],
+        ["Local government"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "公共放送", "reading": "こうきょうほうそう" }],
+      "senses": [
+        ["public broadcasting (e.g. NHK, BBC)"],
+        ["Public broadcasting"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "反共", "reading": "はんきょう" }],
+      "senses": [["anticommunist"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "グアテマラ共和国", "reading": "グアテマラきょうわこく" }],
+      "senses": [["Republic of Guatemala"], ["Republic of Guatemala"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani11"],
+      "japanese": [{ "word": "公共", "reading": "こうきょう" }],
+      "senses": [["public (facilities, service, etc.)", "communal"], ["Public"]]
+    },
+    {
+      "jlpt": ["jlpt-n2", "jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "是非とも", "reading": "ぜひとも" },
+        { "word": "是非共", "reading": "ぜひとも" }
+      ],
+      "senses": [["by all means", "at all costs", "absolutely"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "公共料金", "reading": "こうきょうりょうきん" }],
+      "senses": [["public utilities charge"], ["Cost of living"]]
+    },
+    {
+      "jlpt": ["jlpt-n3", "jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "其れ共", "reading": "それとも" }],
+      "senses": [["or", "or else"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "共々", "reading": "ともども" },
+        { "word": "共共", "reading": "ともども" }
+      ],
+      "senses": [["together", "in company"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "二人とも", "reading": "ふたりとも" },
+        { "word": "２人とも", "reading": "ふたりとも" },
+        { "word": "二人共", "reading": "ふたりとも" },
+        { "word": "２人共", "reading": "ふたりとも" }
+      ],
+      "senses": [["both (people)"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "朝鮮民主主義人民共和国", "reading": "ちょうせんみんしゅしゅぎじんみんきょうわこく" }
+      ],
+      "senses": [
+        ["Democratic People's Republic of Korea (North Korea)", "DPRK"],
+        ["Democratic People's Republic of Korea (North Korea)", "DPRK"],
+        ["North Korea"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "地方公共団体", "reading": "ちほうこうきょうだんたい" }],
+      "senses": [
+        ["local public body", "local government"],
+        ["Local government"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "公共放送", "reading": "こうきょうほうそう" }],
+      "senses": [
+        ["public broadcasting (e.g. NHK, BBC)"],
+        ["Public broadcasting"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "反共", "reading": "はんきょう" }],
+      "senses": [["anticommunist"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "グアテマラ共和国", "reading": "グアテマラきょうわこく" }],
+      "senses": [["Republic of Guatemala"], ["Republic of Guatemala"]]
+    }
+  ]
+}

@@ -1,1 +1,53 @@
-{"basic":["虚","Void","2148"],"extended":[{"jlpt":["jlpt-n2"],"tags":["wanikani39"],"japanese":[{"word":"謙虚","reading":"けんきょ"}],"senses":[["modest","humble"]]},{"jlpt":[],"tags":["wanikani41"],"japanese":[{"word":"廃墟","reading":"はいきょ"},{"word":"廃虚","reading":"はいきょ"}],"senses":[["ruins (of a building, town, etc.)","remains"],["Ruins"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"空虚","reading":"くうきょ"}],"senses":[["emptiness","hollowness","vacancy","void"],["inanity","pointlessness","meaninglessness"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani39"],"japanese":[{"word":"謙虚","reading":"けんきょ"}],"senses":[["modest","humble"]]},{"jlpt":[],"tags":["wanikani41"],"japanese":[{"word":"廃墟","reading":"はいきょ"},{"word":"廃虚","reading":"はいきょ"}],"senses":[["ruins (of a building, town, etc.)","remains"],["Ruins"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"空虚","reading":"くうきょ"}],"senses":[["emptiness","hollowness","vacancy","void"],["inanity","pointlessness","meaninglessness"]]}]}
+{
+  "basic": ["虚", "Void", "2148"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani39"],
+      "japanese": [{ "word": "謙虚", "reading": "けんきょ" }],
+      "senses": [["modest", "humble"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani41"],
+      "japanese": [
+        { "word": "廃墟", "reading": "はいきょ" },
+        { "word": "廃虚", "reading": "はいきょ" }
+      ],
+      "senses": [["ruins (of a building, town, etc.)", "remains"], ["Ruins"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "空虚", "reading": "くうきょ" }],
+      "senses": [
+        ["emptiness", "hollowness", "vacancy", "void"],
+        ["inanity", "pointlessness", "meaninglessness"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani39"],
+      "japanese": [{ "word": "謙虚", "reading": "けんきょ" }],
+      "senses": [["modest", "humble"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani41"],
+      "japanese": [
+        { "word": "廃墟", "reading": "はいきょ" },
+        { "word": "廃虚", "reading": "はいきょ" }
+      ],
+      "senses": [["ruins (of a building, town, etc.)", "remains"], ["Ruins"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "空虚", "reading": "くうきょ" }],
+      "senses": [
+        ["emptiness", "hollowness", "vacancy", "void"],
+        ["inanity", "pointlessness", "meaninglessness"]
+      ]
+    }
+  ]
+}

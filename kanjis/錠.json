@@ -1,1 +1,17 @@
-{"basic":["錠","Lock","409"],"extended":[{"jlpt":["jlpt-n1"],"tags":["wanikani58"],"japanese":[{"word":"手錠","reading":"てじょう"}],"senses":[["handcuffs","manacles"],["Handcuffs"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani58"],"japanese":[{"word":"手錠","reading":"てじょう"}],"senses":[["handcuffs","manacles"],["Handcuffs"]]}]}
+{
+  "basic": ["錠", "Lock", "409"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani58"],
+      "japanese": [{ "word": "手錠", "reading": "てじょう" }],
+      "senses": [["handcuffs", "manacles"], ["Handcuffs"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani58"],
+      "japanese": [{ "word": "手錠", "reading": "てじょう" }],
+      "senses": [["handcuffs", "manacles"], ["Handcuffs"]]
+    }
+  ]
+}

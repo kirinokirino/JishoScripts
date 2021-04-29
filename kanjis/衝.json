@@ -1,1 +1,29 @@
-{"basic":["衝","Collide","1811"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"折衝","reading":"せっしょう"}],"senses":[["negotiation"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"要衝","reading":"ようしょう"}],"senses":[["important point","strategic position","key point"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"折衝","reading":"せっしょう"}],"senses":[["negotiation"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"要衝","reading":"ようしょう"}],"senses":[["important point","strategic position","key point"]]}]}
+{
+  "basic": ["衝", "Collide", "1811"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "折衝", "reading": "せっしょう" }],
+      "senses": [["negotiation"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "要衝", "reading": "ようしょう" }],
+      "senses": [["important point", "strategic position", "key point"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "折衝", "reading": "せっしょう" }],
+      "senses": [["negotiation"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "要衝", "reading": "ようしょう" }],
+      "senses": [["important point", "strategic position", "key point"]]
+    }
+  ]
+}

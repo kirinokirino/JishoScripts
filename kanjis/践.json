@@ -1,1 +1,25 @@
-{"basic":["践","Tread","1380"],"extended":[{"jlpt":["jlpt-n1"],"tags":["wanikani54"],"japanese":[{"word":"実践","reading":"じっせん"}],"senses":[["practice","putting into practice","implementation"],["praxis (philosophy)"],["Praxis (process)"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani54"],"japanese":[{"word":"実践","reading":"じっせん"}],"senses":[["practice","putting into practice","implementation"],["praxis (philosophy)"],["Praxis (process)"]]}]}
+{
+  "basic": ["践", "Tread", "1380"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani54"],
+      "japanese": [{ "word": "実践", "reading": "じっせん" }],
+      "senses": [
+        ["practice", "putting into practice", "implementation"],
+        ["praxis (philosophy)"],
+        ["Praxis (process)"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani54"],
+      "japanese": [{ "word": "実践", "reading": "じっせん" }],
+      "senses": [
+        ["practice", "putting into practice", "implementation"],
+        ["praxis (philosophy)"],
+        ["Praxis (process)"]
+      ]
+    }
+  ]
+}

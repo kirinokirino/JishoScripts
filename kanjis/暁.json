@@ -1,1 +1,29 @@
-{"basic":["暁","Daybreak","1285"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"分からず屋","reading":"わからずや"},{"word":"わからず屋","reading":"わからずや"},{"word":"分らず屋","reading":"わからずや"},{"word":"没分暁漢","reading":"わからずや"},{"word":"没分暁漢","reading":"ぼつぶんぎょうかん"}],"senses":[["obstinate person","blockhead"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"分からず屋","reading":"わからずや"},{"word":"わからず屋","reading":"わからずや"},{"word":"分らず屋","reading":"わからずや"},{"word":"没分暁漢","reading":"わからずや"},{"word":"没分暁漢","reading":"ぼつぶんぎょうかん"}],"senses":[["obstinate person","blockhead"]]}]}
+{
+  "basic": ["暁", "Daybreak", "1285"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "分からず屋", "reading": "わからずや" },
+        { "word": "わからず屋", "reading": "わからずや" },
+        { "word": "分らず屋", "reading": "わからずや" },
+        { "word": "没分暁漢", "reading": "わからずや" },
+        { "word": "没分暁漢", "reading": "ぼつぶんぎょうかん" }
+      ],
+      "senses": [["obstinate person", "blockhead"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "分からず屋", "reading": "わからずや" },
+        { "word": "わからず屋", "reading": "わからずや" },
+        { "word": "分らず屋", "reading": "わからずや" },
+        { "word": "没分暁漢", "reading": "わからずや" },
+        { "word": "没分暁漢", "reading": "ぼつぶんぎょうかん" }
+      ],
+      "senses": [["obstinate person", "blockhead"]]
+    }
+  ]
+}

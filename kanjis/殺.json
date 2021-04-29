@@ -1,1 +1,125 @@
-{"basic":["殺","Kill","1607"],"extended":[{"jlpt":["jlpt-n3"],"tags":["wanikani13"],"japanese":[{"word":"自殺","reading":"じさつ"}],"senses":[["suicide"],["Suicide"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani13"],"japanese":[{"word":"暗殺","reading":"あんさつ"}],"senses":[["assassination"],["Assassination"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"射殺","reading":"しゃさつ"}],"senses":[["shooting to death"]]},{"jlpt":[],"tags":["wanikani53"],"japanese":[{"word":"虐殺","reading":"ぎゃくさつ"}],"senses":[["slaughter","massacre"]]},{"jlpt":[],"tags":["wanikani15"],"japanese":[{"word":"人殺し","reading":"ひとごろし"}],"senses":[["murder","murderer"]]},{"jlpt":[],"tags":["wanikani38"],"japanese":[{"word":"併殺","reading":"へいさつ"}],"senses":[["double play"],["Double play"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"相殺","reading":"そうさい"},{"word":"相殺","reading":"そうさつ"}],"senses":[["offset","offsetting each other","cancelling each other out","counterbalancing"],["set-off","setoff"],["Set-off (law)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"他殺","reading":"たさつ"}],"senses":[["murder"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani13"],"japanese":[{"word":"自殺","reading":"じさつ"}],"senses":[["suicide"],["Suicide"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani13"],"japanese":[{"word":"暗殺","reading":"あんさつ"}],"senses":[["assassination"],["Assassination"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"射殺","reading":"しゃさつ"}],"senses":[["shooting to death"]]},{"jlpt":[],"tags":["wanikani53"],"japanese":[{"word":"虐殺","reading":"ぎゃくさつ"}],"senses":[["slaughter","massacre"]]},{"jlpt":[],"tags":["wanikani15"],"japanese":[{"word":"人殺し","reading":"ひとごろし"}],"senses":[["murder","murderer"]]},{"jlpt":[],"tags":["wanikani38"],"japanese":[{"word":"併殺","reading":"へいさつ"}],"senses":[["double play"],["Double play"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"相殺","reading":"そうさい"},{"word":"相殺","reading":"そうさつ"}],"senses":[["offset","offsetting each other","cancelling each other out","counterbalancing"],["set-off","setoff"],["Set-off (law)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"他殺","reading":"たさつ"}],"senses":[["murder"]]}]}
+{
+  "basic": ["殺", "Kill", "1607"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani13"],
+      "japanese": [{ "word": "自殺", "reading": "じさつ" }],
+      "senses": [["suicide"], ["Suicide"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani13"],
+      "japanese": [{ "word": "暗殺", "reading": "あんさつ" }],
+      "senses": [["assassination"], ["Assassination"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "射殺", "reading": "しゃさつ" }],
+      "senses": [["shooting to death"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani53"],
+      "japanese": [{ "word": "虐殺", "reading": "ぎゃくさつ" }],
+      "senses": [["slaughter", "massacre"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani15"],
+      "japanese": [{ "word": "人殺し", "reading": "ひとごろし" }],
+      "senses": [["murder", "murderer"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani38"],
+      "japanese": [{ "word": "併殺", "reading": "へいさつ" }],
+      "senses": [["double play"], ["Double play"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "相殺", "reading": "そうさい" },
+        { "word": "相殺", "reading": "そうさつ" }
+      ],
+      "senses": [
+        [
+          "offset",
+          "offsetting each other",
+          "cancelling each other out",
+          "counterbalancing"
+        ],
+        ["set-off", "setoff"],
+        ["Set-off (law)"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "他殺", "reading": "たさつ" }],
+      "senses": [["murder"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani13"],
+      "japanese": [{ "word": "自殺", "reading": "じさつ" }],
+      "senses": [["suicide"], ["Suicide"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani13"],
+      "japanese": [{ "word": "暗殺", "reading": "あんさつ" }],
+      "senses": [["assassination"], ["Assassination"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "射殺", "reading": "しゃさつ" }],
+      "senses": [["shooting to death"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani53"],
+      "japanese": [{ "word": "虐殺", "reading": "ぎゃくさつ" }],
+      "senses": [["slaughter", "massacre"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani15"],
+      "japanese": [{ "word": "人殺し", "reading": "ひとごろし" }],
+      "senses": [["murder", "murderer"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani38"],
+      "japanese": [{ "word": "併殺", "reading": "へいさつ" }],
+      "senses": [["double play"], ["Double play"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "相殺", "reading": "そうさい" },
+        { "word": "相殺", "reading": "そうさつ" }
+      ],
+      "senses": [
+        [
+          "offset",
+          "offsetting each other",
+          "cancelling each other out",
+          "counterbalancing"
+        ],
+        ["set-off", "setoff"],
+        ["Set-off (law)"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "他殺", "reading": "たさつ" }],
+      "senses": [["murder"]]
+    }
+  ]
+}

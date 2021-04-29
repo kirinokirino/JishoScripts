@@ -1,1 +1,155 @@
-{"basic":["橋","Bridge","460"],"extended":[{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"鉄橋","reading":"てっきょう"}],"senses":[["railway bridge","iron bridge"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani60"],"japanese":[{"word":"桟橋","reading":"さんばし"},{"word":"桟橋","reading":"さんきょう"},{"word":"棧橋","reading":"さんばし"},{"word":"棧橋","reading":"さんきょう"}],"senses":[["wharf","bridge","jetty","pier"],["Pier"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"石橋","reading":"いしばし"},{"word":"石橋","reading":"せっきょう"}],"senses":[["stone bridge"],["Ishibashi"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"架橋","reading":"かきょう"}],"senses":[["bridge building","bridge"],["cross-linking"],["Cross-link"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"新橋","reading":"しんばし"}],"senses":[["Shinbashi (section of Tokyo)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"船橋","reading":"ふなばし"},{"word":"船橋","reading":"せんきょう"}],"senses":[["pontoon bridge","temporary bridge made using ships"],["bridge (of a ship)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"陸橋","reading":"りっきょう"},{"word":"陸橋","reading":"りくきょう"}],"senses":[["viaduct","overhead bridge","overpass"],["land bridge (biogeography)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"土橋","reading":"どばし"},{"word":"土橋","reading":"つちばし"}],"senses":[["earthen bridge"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"鉄橋","reading":"てっきょう"}],"senses":[["railway bridge","iron bridge"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani60"],"japanese":[{"word":"桟橋","reading":"さんばし"},{"word":"桟橋","reading":"さんきょう"},{"word":"棧橋","reading":"さんばし"},{"word":"棧橋","reading":"さんきょう"}],"senses":[["wharf","bridge","jetty","pier"],["Pier"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"石橋","reading":"いしばし"},{"word":"石橋","reading":"せっきょう"}],"senses":[["stone bridge"],["Ishibashi"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"架橋","reading":"かきょう"}],"senses":[["bridge building","bridge"],["cross-linking"],["Cross-link"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"新橋","reading":"しんばし"}],"senses":[["Shinbashi (section of Tokyo)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"船橋","reading":"ふなばし"},{"word":"船橋","reading":"せんきょう"}],"senses":[["pontoon bridge","temporary bridge made using ships"],["bridge (of a ship)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"陸橋","reading":"りっきょう"},{"word":"陸橋","reading":"りくきょう"}],"senses":[["viaduct","overhead bridge","overpass"],["land bridge (biogeography)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"土橋","reading":"どばし"},{"word":"土橋","reading":"つちばし"}],"senses":[["earthen bridge"]]}]}
+{
+  "basic": ["橋", "Bridge", "460"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "鉄橋", "reading": "てっきょう" }],
+      "senses": [["railway bridge", "iron bridge"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani60"],
+      "japanese": [
+        { "word": "桟橋", "reading": "さんばし" },
+        { "word": "桟橋", "reading": "さんきょう" },
+        { "word": "棧橋", "reading": "さんばし" },
+        { "word": "棧橋", "reading": "さんきょう" }
+      ],
+      "senses": [["wharf", "bridge", "jetty", "pier"], ["Pier"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "石橋", "reading": "いしばし" },
+        { "word": "石橋", "reading": "せっきょう" }
+      ],
+      "senses": [["stone bridge"], ["Ishibashi"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "架橋", "reading": "かきょう" }],
+      "senses": [
+        ["bridge building", "bridge"],
+        ["cross-linking"],
+        ["Cross-link"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "新橋", "reading": "しんばし" }],
+      "senses": [["Shinbashi (section of Tokyo)"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "船橋", "reading": "ふなばし" },
+        { "word": "船橋", "reading": "せんきょう" }
+      ],
+      "senses": [
+        ["pontoon bridge", "temporary bridge made using ships"],
+        ["bridge (of a ship)"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "陸橋", "reading": "りっきょう" },
+        { "word": "陸橋", "reading": "りくきょう" }
+      ],
+      "senses": [
+        ["viaduct", "overhead bridge", "overpass"],
+        ["land bridge (biogeography)"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "土橋", "reading": "どばし" },
+        { "word": "土橋", "reading": "つちばし" }
+      ],
+      "senses": [["earthen bridge"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "鉄橋", "reading": "てっきょう" }],
+      "senses": [["railway bridge", "iron bridge"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani60"],
+      "japanese": [
+        { "word": "桟橋", "reading": "さんばし" },
+        { "word": "桟橋", "reading": "さんきょう" },
+        { "word": "棧橋", "reading": "さんばし" },
+        { "word": "棧橋", "reading": "さんきょう" }
+      ],
+      "senses": [["wharf", "bridge", "jetty", "pier"], ["Pier"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "石橋", "reading": "いしばし" },
+        { "word": "石橋", "reading": "せっきょう" }
+      ],
+      "senses": [["stone bridge"], ["Ishibashi"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "架橋", "reading": "かきょう" }],
+      "senses": [
+        ["bridge building", "bridge"],
+        ["cross-linking"],
+        ["Cross-link"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "新橋", "reading": "しんばし" }],
+      "senses": [["Shinbashi (section of Tokyo)"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "船橋", "reading": "ふなばし" },
+        { "word": "船橋", "reading": "せんきょう" }
+      ],
+      "senses": [
+        ["pontoon bridge", "temporary bridge made using ships"],
+        ["bridge (of a ship)"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "陸橋", "reading": "りっきょう" },
+        { "word": "陸橋", "reading": "りくきょう" }
+      ],
+      "senses": [
+        ["viaduct", "overhead bridge", "overpass"],
+        ["land bridge (biogeography)"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "土橋", "reading": "どばし" },
+        { "word": "土橋", "reading": "つちばし" }
+      ],
+      "senses": [["earthen bridge"]]
+    }
+  ]
+}

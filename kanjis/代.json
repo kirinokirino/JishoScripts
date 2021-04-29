@@ -1,1 +1,517 @@
-{"basic":["代","Substitute","1080"],"extended":[{"jlpt":["jlpt-n4"],"tags":["wanikani7"],"japanese":[{"word":"時代","reading":"じだい"}],"senses":[["period","epoch","era","age"],["the times","those days"],["oldness","ancientness","antiquity"],["antique","period piece"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"世代","reading":"せだい"}],"senses":[["generation","the world","the age"],["Generation"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"古代","reading":"こだい"}],"senses":[["ancient times","distant past","antiquity"],["Ancient history"]]},{"jlpt":["jlpt-n3"],"tags":[],"japanese":[{"word":"現代","reading":"げんだい"}],"senses":[["nowadays","modern era","modern times","present-day"]]},{"jlpt":["jlpt-n3"],"tags":[],"japanese":[{"word":"年代","reading":"ねんだい"}],"senses":[["age","era","period","date"]]},{"jlpt":["jlpt-n3"],"tags":[],"japanese":[{"word":"近代","reading":"きんだい"}],"senses":[["present day","modern times","recent times"],["early modern period (in Japan, usu. from the Meiji Restoration until the end of World War II)"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"交代","reading":"こうたい"},{"word":"交替","reading":"こうたい"}],"senses":[["alternation","change","relief","relay","shift","substitution (sports, etc.)","taking turns"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"お代わり","reading":"おかわり"},{"word":"お替り","reading":"おかわり"},{"word":"お替わり","reading":"おかわり"},{"word":"御代わり","reading":"おかわり"},{"word":"お代り","reading":"おかわり"},{"word":"御代り","reading":"おかわり"}],"senses":[["another helping","second helping","seconds","refill"],["command to have dog place its second paw in one's hand"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"代わる代わる","reading":"かわるがわる"},{"word":"代る代る","reading":"かわるがわる"}],"senses":[["alternately","by turns"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"時代劇","reading":"じだいげき"}],"senses":[["historical play","period drama"],["Jidaigeki"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"江戸時代","reading":"えどじだい"}],"senses":[["Edo period (1603-1868 CE)"],["Edo period"]]},{"jlpt":[],"tags":["wanikani3"],"japanese":[{"word":"１０代","reading":"じゅうだい"},{"word":"十代","reading":"じゅうだい"}],"senses":[["the teens (10-19)","teenage"],["the tenth generation"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"同時代","reading":"どうじだい"}],"senses":[["the same age","same period"]]},{"jlpt":[],"tags":["wanikani14"],"japanese":[{"word":"近代的","reading":"きんだいてき"}],"senses":[["modern"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"代々","reading":"だいだい"},{"word":"代々","reading":"よよ"},{"word":"代代","reading":"だいだい"},{"word":"代代","reading":"よよ"}],"senses":[["for generations","hereditary","generation after generation"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"現代的","reading":"げんだいてき"}],"senses":[["modernistic"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"身代わり","reading":"みがわり"},{"word":"身代り","reading":"みがわり"},{"word":"身替わり","reading":"みがわり"},{"word":"身替り","reading":"みがわり"}],"senses":[["substitution (for someone else)","substitute","stand-in","scapegoat","sacrifice"]]},{"jlpt":[],"tags":["wanikani4"],"japanese":[{"word":"一代","reading":"いちだい"}],"senses":[["generation","lifetime","age"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"初代","reading":"しょだい"}],"senses":[["first generation","founder"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"前代未聞","reading":"ぜんだいみもん"}],"senses":[["unheard-of","unprecedented","unparalleled in history (unparallelled)","record-breaking"]]},{"jlpt":["jlpt-n4"],"tags":["wanikani7"],"japanese":[{"word":"時代","reading":"じだい"}],"senses":[["period","epoch","era","age"],["the times","those days"],["oldness","ancientness","antiquity"],["antique","period piece"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"世代","reading":"せだい"}],"senses":[["generation","the world","the age"],["Generation"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"古代","reading":"こだい"}],"senses":[["ancient times","distant past","antiquity"],["Ancient history"]]},{"jlpt":["jlpt-n3"],"tags":[],"japanese":[{"word":"現代","reading":"げんだい"}],"senses":[["nowadays","modern era","modern times","present-day"]]},{"jlpt":["jlpt-n3"],"tags":[],"japanese":[{"word":"年代","reading":"ねんだい"}],"senses":[["age","era","period","date"]]},{"jlpt":["jlpt-n3"],"tags":[],"japanese":[{"word":"近代","reading":"きんだい"}],"senses":[["present day","modern times","recent times"],["early modern period (in Japan, usu. from the Meiji Restoration until the end of World War II)"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"交代","reading":"こうたい"},{"word":"交替","reading":"こうたい"}],"senses":[["alternation","change","relief","relay","shift","substitution (sports, etc.)","taking turns"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"お代わり","reading":"おかわり"},{"word":"お替り","reading":"おかわり"},{"word":"お替わり","reading":"おかわり"},{"word":"御代わり","reading":"おかわり"},{"word":"お代り","reading":"おかわり"},{"word":"御代り","reading":"おかわり"}],"senses":[["another helping","second helping","seconds","refill"],["command to have dog place its second paw in one's hand"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"代わる代わる","reading":"かわるがわる"},{"word":"代る代る","reading":"かわるがわる"}],"senses":[["alternately","by turns"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"時代劇","reading":"じだいげき"}],"senses":[["historical play","period drama"],["Jidaigeki"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"江戸時代","reading":"えどじだい"}],"senses":[["Edo period (1603-1868 CE)"],["Edo period"]]},{"jlpt":[],"tags":["wanikani3"],"japanese":[{"word":"１０代","reading":"じゅうだい"},{"word":"十代","reading":"じゅうだい"}],"senses":[["the teens (10-19)","teenage"],["the tenth generation"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"同時代","reading":"どうじだい"}],"senses":[["the same age","same period"]]},{"jlpt":[],"tags":["wanikani14"],"japanese":[{"word":"近代的","reading":"きんだいてき"}],"senses":[["modern"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"代々","reading":"だいだい"},{"word":"代々","reading":"よよ"},{"word":"代代","reading":"だいだい"},{"word":"代代","reading":"よよ"}],"senses":[["for generations","hereditary","generation after generation"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"現代的","reading":"げんだいてき"}],"senses":[["modernistic"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"身代わり","reading":"みがわり"},{"word":"身代り","reading":"みがわり"},{"word":"身替わり","reading":"みがわり"},{"word":"身替り","reading":"みがわり"}],"senses":[["substitution (for someone else)","substitute","stand-in","scapegoat","sacrifice"]]},{"jlpt":[],"tags":["wanikani4"],"japanese":[{"word":"一代","reading":"いちだい"}],"senses":[["generation","lifetime","age"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"初代","reading":"しょだい"}],"senses":[["first generation","founder"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"前代未聞","reading":"ぜんだいみもん"}],"senses":[["unheard-of","unprecedented","unparalleled in history (unparallelled)","record-breaking"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"前代未聞","reading":"ぜんだいみもん"}],"senses":[["unheard-of","unprecedented","unparalleled in history (unparallelled)","record-breaking"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"学生時代","reading":"がくせいじだい"}],"senses":[["student days"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"先代","reading":"せんだい"}],"senses":[["previous generation (e.g. one's parents)","family predecessor"],["predecessor"],["previous age"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"時代錯誤","reading":"じだいさくご"}],"senses":[["anachronism"],["Anachronism"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"君が代","reading":"きみがよ"},{"word":"君が世","reading":"きみがよ"}],"senses":[["Imperial reign"],["Kimigayo (Japanese national anthem)"],["Kimigayo"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"黄金時代","reading":"おうごんじだい"}],"senses":[["Golden Age"],["Golden Age"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"大時代","reading":"おおじだい"},{"word":"大時代","reading":"だいじだい"}],"senses":[["old-fashioned","antiquated","anachronistic"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"千九百年代","reading":"せんきゅうひゃくねんだい"}],"senses":[["the 1900s"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"近代詩","reading":"きんだいし"}],"senses":[["modern poetry","modern-style poetry"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"身代金要求","reading":"みのしろきんようきゅう"}],"senses":[["ransom demand"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"次代","reading":"じだい"}],"senses":[["the next era"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"肩代わり","reading":"かたがわり"},{"word":"肩がわり","reading":"かたがわり"},{"word":"肩代り","reading":"かたがわり"},{"word":"肩替り","reading":"かたがわり"},{"word":"肩替わり","reading":"かたがわり"}],"senses":[["taking over another's debt","shouldering someone else's burden","subrogation"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"三代","reading":"さんだい"}],"senses":[["three generations","three periods"],["third generation"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"現代社会","reading":"げんだいしゃかい"}],"senses":[["modern society"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"永代","reading":"えいたい"}],"senses":[["permanence","eternity"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"八千代","reading":"やちよ"}],"senses":[["very long period","forever"],["eight thousand years"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"千代","reading":"ちよ"},{"word":"千世","reading":"ちよ"}],"senses":[["thousand years"],["very long period","forever"]]}]}
+{
+  "basic": ["代", "Substitute", "1080"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n4"],
+      "tags": ["wanikani7"],
+      "japanese": [{ "word": "時代", "reading": "じだい" }],
+      "senses": [
+        ["period", "epoch", "era", "age"],
+        ["the times", "those days"],
+        ["oldness", "ancientness", "antiquity"],
+        ["antique", "period piece"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "世代", "reading": "せだい" }],
+      "senses": [["generation", "the world", "the age"], ["Generation"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "古代", "reading": "こだい" }],
+      "senses": [
+        ["ancient times", "distant past", "antiquity"],
+        ["Ancient history"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": [],
+      "japanese": [{ "word": "現代", "reading": "げんだい" }],
+      "senses": [["nowadays", "modern era", "modern times", "present-day"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": [],
+      "japanese": [{ "word": "年代", "reading": "ねんだい" }],
+      "senses": [["age", "era", "period", "date"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": [],
+      "japanese": [{ "word": "近代", "reading": "きんだい" }],
+      "senses": [
+        ["present day", "modern times", "recent times"],
+        ["early modern period (in Japan, usu. from the Meiji Restoration until the end of World War II)"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [
+        { "word": "交代", "reading": "こうたい" },
+        { "word": "交替", "reading": "こうたい" }
+      ],
+      "senses": [
+        [
+          "alternation",
+          "change",
+          "relief",
+          "relay",
+          "shift",
+          "substitution (sports, etc.)",
+          "taking turns"
+        ]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [
+        { "word": "お代わり", "reading": "おかわり" },
+        { "word": "お替り", "reading": "おかわり" },
+        { "word": "お替わり", "reading": "おかわり" },
+        { "word": "御代わり", "reading": "おかわり" },
+        { "word": "お代り", "reading": "おかわり" },
+        { "word": "御代り", "reading": "おかわり" }
+      ],
+      "senses": [
+        ["another helping", "second helping", "seconds", "refill"],
+        ["command to have dog place its second paw in one's hand"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "代わる代わる", "reading": "かわるがわる" },
+        { "word": "代る代る", "reading": "かわるがわる" }
+      ],
+      "senses": [["alternately", "by turns"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "時代劇", "reading": "じだいげき" }],
+      "senses": [["historical play", "period drama"], ["Jidaigeki"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "江戸時代", "reading": "えどじだい" }],
+      "senses": [["Edo period (1603-1868 CE)"], ["Edo period"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani3"],
+      "japanese": [
+        { "word": "１０代", "reading": "じゅうだい" },
+        { "word": "十代", "reading": "じゅうだい" }
+      ],
+      "senses": [["the teens (10-19)", "teenage"], ["the tenth generation"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "同時代", "reading": "どうじだい" }],
+      "senses": [["the same age", "same period"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani14"],
+      "japanese": [{ "word": "近代的", "reading": "きんだいてき" }],
+      "senses": [["modern"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "代々", "reading": "だいだい" },
+        { "word": "代々", "reading": "よよ" },
+        { "word": "代代", "reading": "だいだい" },
+        { "word": "代代", "reading": "よよ" }
+      ],
+      "senses": [
+        ["for generations", "hereditary", "generation after generation"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "現代的", "reading": "げんだいてき" }],
+      "senses": [["modernistic"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "身代わり", "reading": "みがわり" },
+        { "word": "身代り", "reading": "みがわり" },
+        { "word": "身替わり", "reading": "みがわり" },
+        { "word": "身替り", "reading": "みがわり" }
+      ],
+      "senses": [
+        [
+          "substitution (for someone else)",
+          "substitute",
+          "stand-in",
+          "scapegoat",
+          "sacrifice"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani4"],
+      "japanese": [{ "word": "一代", "reading": "いちだい" }],
+      "senses": [["generation", "lifetime", "age"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "初代", "reading": "しょだい" }],
+      "senses": [["first generation", "founder"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "前代未聞", "reading": "ぜんだいみもん" }],
+      "senses": [
+        [
+          "unheard-of",
+          "unprecedented",
+          "unparalleled in history (unparallelled)",
+          "record-breaking"
+        ]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n4"],
+      "tags": ["wanikani7"],
+      "japanese": [{ "word": "時代", "reading": "じだい" }],
+      "senses": [
+        ["period", "epoch", "era", "age"],
+        ["the times", "those days"],
+        ["oldness", "ancientness", "antiquity"],
+        ["antique", "period piece"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "世代", "reading": "せだい" }],
+      "senses": [["generation", "the world", "the age"], ["Generation"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "古代", "reading": "こだい" }],
+      "senses": [
+        ["ancient times", "distant past", "antiquity"],
+        ["Ancient history"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": [],
+      "japanese": [{ "word": "現代", "reading": "げんだい" }],
+      "senses": [["nowadays", "modern era", "modern times", "present-day"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": [],
+      "japanese": [{ "word": "年代", "reading": "ねんだい" }],
+      "senses": [["age", "era", "period", "date"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": [],
+      "japanese": [{ "word": "近代", "reading": "きんだい" }],
+      "senses": [
+        ["present day", "modern times", "recent times"],
+        ["early modern period (in Japan, usu. from the Meiji Restoration until the end of World War II)"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [
+        { "word": "交代", "reading": "こうたい" },
+        { "word": "交替", "reading": "こうたい" }
+      ],
+      "senses": [
+        [
+          "alternation",
+          "change",
+          "relief",
+          "relay",
+          "shift",
+          "substitution (sports, etc.)",
+          "taking turns"
+        ]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [
+        { "word": "お代わり", "reading": "おかわり" },
+        { "word": "お替り", "reading": "おかわり" },
+        { "word": "お替わり", "reading": "おかわり" },
+        { "word": "御代わり", "reading": "おかわり" },
+        { "word": "お代り", "reading": "おかわり" },
+        { "word": "御代り", "reading": "おかわり" }
+      ],
+      "senses": [
+        ["another helping", "second helping", "seconds", "refill"],
+        ["command to have dog place its second paw in one's hand"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "代わる代わる", "reading": "かわるがわる" },
+        { "word": "代る代る", "reading": "かわるがわる" }
+      ],
+      "senses": [["alternately", "by turns"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "時代劇", "reading": "じだいげき" }],
+      "senses": [["historical play", "period drama"], ["Jidaigeki"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "江戸時代", "reading": "えどじだい" }],
+      "senses": [["Edo period (1603-1868 CE)"], ["Edo period"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani3"],
+      "japanese": [
+        { "word": "１０代", "reading": "じゅうだい" },
+        { "word": "十代", "reading": "じゅうだい" }
+      ],
+      "senses": [["the teens (10-19)", "teenage"], ["the tenth generation"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "同時代", "reading": "どうじだい" }],
+      "senses": [["the same age", "same period"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani14"],
+      "japanese": [{ "word": "近代的", "reading": "きんだいてき" }],
+      "senses": [["modern"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "代々", "reading": "だいだい" },
+        { "word": "代々", "reading": "よよ" },
+        { "word": "代代", "reading": "だいだい" },
+        { "word": "代代", "reading": "よよ" }
+      ],
+      "senses": [
+        ["for generations", "hereditary", "generation after generation"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "現代的", "reading": "げんだいてき" }],
+      "senses": [["modernistic"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "身代わり", "reading": "みがわり" },
+        { "word": "身代り", "reading": "みがわり" },
+        { "word": "身替わり", "reading": "みがわり" },
+        { "word": "身替り", "reading": "みがわり" }
+      ],
+      "senses": [
+        [
+          "substitution (for someone else)",
+          "substitute",
+          "stand-in",
+          "scapegoat",
+          "sacrifice"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani4"],
+      "japanese": [{ "word": "一代", "reading": "いちだい" }],
+      "senses": [["generation", "lifetime", "age"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "初代", "reading": "しょだい" }],
+      "senses": [["first generation", "founder"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "前代未聞", "reading": "ぜんだいみもん" }],
+      "senses": [
+        [
+          "unheard-of",
+          "unprecedented",
+          "unparalleled in history (unparallelled)",
+          "record-breaking"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "前代未聞", "reading": "ぜんだいみもん" }],
+      "senses": [
+        [
+          "unheard-of",
+          "unprecedented",
+          "unparalleled in history (unparallelled)",
+          "record-breaking"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "学生時代", "reading": "がくせいじだい" }],
+      "senses": [["student days"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "先代", "reading": "せんだい" }],
+      "senses": [
+        ["previous generation (e.g. one's parents)", "family predecessor"],
+        ["predecessor"],
+        ["previous age"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "時代錯誤", "reading": "じだいさくご" }],
+      "senses": [["anachronism"], ["Anachronism"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "君が代", "reading": "きみがよ" },
+        { "word": "君が世", "reading": "きみがよ" }
+      ],
+      "senses": [
+        ["Imperial reign"],
+        ["Kimigayo (Japanese national anthem)"],
+        ["Kimigayo"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "黄金時代", "reading": "おうごんじだい" }],
+      "senses": [["Golden Age"], ["Golden Age"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "大時代", "reading": "おおじだい" },
+        { "word": "大時代", "reading": "だいじだい" }
+      ],
+      "senses": [["old-fashioned", "antiquated", "anachronistic"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "千九百年代", "reading": "せんきゅうひゃくねんだい" }],
+      "senses": [["the 1900s"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "近代詩", "reading": "きんだいし" }],
+      "senses": [["modern poetry", "modern-style poetry"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "身代金要求", "reading": "みのしろきんようきゅう" }],
+      "senses": [["ransom demand"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "次代", "reading": "じだい" }],
+      "senses": [["the next era"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "肩代わり", "reading": "かたがわり" },
+        { "word": "肩がわり", "reading": "かたがわり" },
+        { "word": "肩代り", "reading": "かたがわり" },
+        { "word": "肩替り", "reading": "かたがわり" },
+        { "word": "肩替わり", "reading": "かたがわり" }
+      ],
+      "senses": [
+        [
+          "taking over another's debt",
+          "shouldering someone else's burden",
+          "subrogation"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "三代", "reading": "さんだい" }],
+      "senses": [["three generations", "three periods"], ["third generation"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "現代社会", "reading": "げんだいしゃかい" }],
+      "senses": [["modern society"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "永代", "reading": "えいたい" }],
+      "senses": [["permanence", "eternity"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "八千代", "reading": "やちよ" }],
+      "senses": [["very long period", "forever"], ["eight thousand years"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "千代", "reading": "ちよ" },
+        { "word": "千世", "reading": "ちよ" }
+      ],
+      "senses": [["thousand years"], ["very long period", "forever"]]
+    }
+  ]
+}

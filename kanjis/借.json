@@ -1,1 +1,93 @@
-{"basic":["借","Borrow","1270"],"extended":[{"jlpt":["jlpt-n5"],"tags":["wanikani20"],"japanese":[{"word":"難しい","reading":"むずかしい"},{"word":"難しい","reading":"むつかしい"},{"word":"六借しい","reading":"むずかしい"},{"word":"六借しい","reading":"むつかしい"},{"word":"六ヶ敷い","reading":"むずかしい"},{"word":"六ヶ敷い","reading":"むつかしい"}],"senses":[["difficult","hard","troublesome","complicated","serious (disease, problem, etc.)"],["impossible","unfeasible"],["fussy","particular","fastidious","hard to please","displeased"],["gloomy","glum","sullen","serious (look)"],["dirty","unclean","filthy","detestable"],["unpleasant","uncomfortable","creepy","spooky"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"貸借","reading":"たいしゃく"}],"senses":[["loan","debit and credit","lending and borrowing"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"前借り","reading":"まえがり"}],"senses":[["getting an advance (on one's salary)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"間借り","reading":"まがり"}],"senses":[["renting a room"]]},{"jlpt":["jlpt-n5"],"tags":["wanikani20"],"japanese":[{"word":"難しい","reading":"むずかしい"},{"word":"難しい","reading":"むつかしい"},{"word":"六借しい","reading":"むずかしい"},{"word":"六借しい","reading":"むつかしい"},{"word":"六ヶ敷い","reading":"むずかしい"},{"word":"六ヶ敷い","reading":"むつかしい"}],"senses":[["difficult","hard","troublesome","complicated","serious (disease, problem, etc.)"],["impossible","unfeasible"],["fussy","particular","fastidious","hard to please","displeased"],["gloomy","glum","sullen","serious (look)"],["dirty","unclean","filthy","detestable"],["unpleasant","uncomfortable","creepy","spooky"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"貸借","reading":"たいしゃく"}],"senses":[["loan","debit and credit","lending and borrowing"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"前借り","reading":"まえがり"}],"senses":[["getting an advance (on one's salary)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"間借り","reading":"まがり"}],"senses":[["renting a room"]]}]}
+{
+  "basic": ["借", "Borrow", "1270"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n5"],
+      "tags": ["wanikani20"],
+      "japanese": [
+        { "word": "難しい", "reading": "むずかしい" },
+        { "word": "難しい", "reading": "むつかしい" },
+        { "word": "六借しい", "reading": "むずかしい" },
+        { "word": "六借しい", "reading": "むつかしい" },
+        { "word": "六ヶ敷い", "reading": "むずかしい" },
+        { "word": "六ヶ敷い", "reading": "むつかしい" }
+      ],
+      "senses": [
+        [
+          "difficult",
+          "hard",
+          "troublesome",
+          "complicated",
+          "serious (disease, problem, etc.)"
+        ],
+        ["impossible", "unfeasible"],
+        ["fussy", "particular", "fastidious", "hard to please", "displeased"],
+        ["gloomy", "glum", "sullen", "serious (look)"],
+        ["dirty", "unclean", "filthy", "detestable"],
+        ["unpleasant", "uncomfortable", "creepy", "spooky"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "貸借", "reading": "たいしゃく" }],
+      "senses": [["loan", "debit and credit", "lending and borrowing"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "前借り", "reading": "まえがり" }],
+      "senses": [["getting an advance (on one's salary)"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "間借り", "reading": "まがり" }],
+      "senses": [["renting a room"]]
+    },
+    {
+      "jlpt": ["jlpt-n5"],
+      "tags": ["wanikani20"],
+      "japanese": [
+        { "word": "難しい", "reading": "むずかしい" },
+        { "word": "難しい", "reading": "むつかしい" },
+        { "word": "六借しい", "reading": "むずかしい" },
+        { "word": "六借しい", "reading": "むつかしい" },
+        { "word": "六ヶ敷い", "reading": "むずかしい" },
+        { "word": "六ヶ敷い", "reading": "むつかしい" }
+      ],
+      "senses": [
+        [
+          "difficult",
+          "hard",
+          "troublesome",
+          "complicated",
+          "serious (disease, problem, etc.)"
+        ],
+        ["impossible", "unfeasible"],
+        ["fussy", "particular", "fastidious", "hard to please", "displeased"],
+        ["gloomy", "glum", "sullen", "serious (look)"],
+        ["dirty", "unclean", "filthy", "detestable"],
+        ["unpleasant", "uncomfortable", "creepy", "spooky"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "貸借", "reading": "たいしゃく" }],
+      "senses": [["loan", "debit and credit", "lending and borrowing"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "前借り", "reading": "まえがり" }],
+      "senses": [["getting an advance (on one's salary)"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "間借り", "reading": "まがり" }],
+      "senses": [["renting a room"]]
+    }
+  ]
+}

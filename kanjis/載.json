@@ -1,1 +1,133 @@
-{"basic":["載","Load","383"],"extended":[{"jlpt":["jlpt-n3"],"tags":["wanikani53"],"japanese":[{"word":"頂戴","reading":"ちょうだい"},{"word":"頂だい","reading":"ちょうだい"},{"word":"頂載","reading":"ちょうだい"}],"senses":[["receiving","reception","getting","being given"],["eating","drinking","having"],["please","please do for me"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani24"],"japanese":[{"word":"記載","reading":"きさい"}],"senses":[["mention (in a document)","record","entry","statement","listing"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani37","wanikani39"],"japanese":[{"word":"掲載","reading":"けいさい"}],"senses":[["publication (e.g. of an article in a newspaper)","carrying (e.g. a story)","running (e.g. a serial)","insertion (e.g. of an advertisement)","printing","posting (e.g. on the web)"]]},{"jlpt":[],"tags":["wanikani53"],"japanese":[{"word":"搭載","reading":"とうさい"}],"senses":[["loading (on board)","equipping"],["equipped (with)","built-in"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"連載","reading":"れんさい"}],"senses":[["serialization","serialisation","serial story"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"積載","reading":"せきさい"}],"senses":[["lading","loading","carrying"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"登載","reading":"とうさい"}],"senses":[["register","record","printing"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani53"],"japanese":[{"word":"頂戴","reading":"ちょうだい"},{"word":"頂だい","reading":"ちょうだい"},{"word":"頂載","reading":"ちょうだい"}],"senses":[["receiving","reception","getting","being given"],["eating","drinking","having"],["please","please do for me"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani24"],"japanese":[{"word":"記載","reading":"きさい"}],"senses":[["mention (in a document)","record","entry","statement","listing"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani37","wanikani39"],"japanese":[{"word":"掲載","reading":"けいさい"}],"senses":[["publication (e.g. of an article in a newspaper)","carrying (e.g. a story)","running (e.g. a serial)","insertion (e.g. of an advertisement)","printing","posting (e.g. on the web)"]]},{"jlpt":[],"tags":["wanikani53"],"japanese":[{"word":"搭載","reading":"とうさい"}],"senses":[["loading (on board)","equipping"],["equipped (with)","built-in"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"連載","reading":"れんさい"}],"senses":[["serialization","serialisation","serial story"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"積載","reading":"せきさい"}],"senses":[["lading","loading","carrying"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"登載","reading":"とうさい"}],"senses":[["register","record","printing"]]}]}
+{
+  "basic": ["載", "Load", "383"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani53"],
+      "japanese": [
+        { "word": "頂戴", "reading": "ちょうだい" },
+        { "word": "頂だい", "reading": "ちょうだい" },
+        { "word": "頂載", "reading": "ちょうだい" }
+      ],
+      "senses": [
+        ["receiving", "reception", "getting", "being given"],
+        ["eating", "drinking", "having"],
+        ["please", "please do for me"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani24"],
+      "japanese": [{ "word": "記載", "reading": "きさい" }],
+      "senses": [
+        ["mention (in a document)", "record", "entry", "statement", "listing"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani37", "wanikani39"],
+      "japanese": [{ "word": "掲載", "reading": "けいさい" }],
+      "senses": [
+        [
+          "publication (e.g. of an article in a newspaper)",
+          "carrying (e.g. a story)",
+          "running (e.g. a serial)",
+          "insertion (e.g. of an advertisement)",
+          "printing",
+          "posting (e.g. on the web)"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani53"],
+      "japanese": [{ "word": "搭載", "reading": "とうさい" }],
+      "senses": [
+        ["loading (on board)", "equipping"],
+        ["equipped (with)", "built-in"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "連載", "reading": "れんさい" }],
+      "senses": [["serialization", "serialisation", "serial story"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "積載", "reading": "せきさい" }],
+      "senses": [["lading", "loading", "carrying"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "登載", "reading": "とうさい" }],
+      "senses": [["register", "record", "printing"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani53"],
+      "japanese": [
+        { "word": "頂戴", "reading": "ちょうだい" },
+        { "word": "頂だい", "reading": "ちょうだい" },
+        { "word": "頂載", "reading": "ちょうだい" }
+      ],
+      "senses": [
+        ["receiving", "reception", "getting", "being given"],
+        ["eating", "drinking", "having"],
+        ["please", "please do for me"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani24"],
+      "japanese": [{ "word": "記載", "reading": "きさい" }],
+      "senses": [
+        ["mention (in a document)", "record", "entry", "statement", "listing"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani37", "wanikani39"],
+      "japanese": [{ "word": "掲載", "reading": "けいさい" }],
+      "senses": [
+        [
+          "publication (e.g. of an article in a newspaper)",
+          "carrying (e.g. a story)",
+          "running (e.g. a serial)",
+          "insertion (e.g. of an advertisement)",
+          "printing",
+          "posting (e.g. on the web)"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani53"],
+      "japanese": [{ "word": "搭載", "reading": "とうさい" }],
+      "senses": [
+        ["loading (on board)", "equipping"],
+        ["equipped (with)", "built-in"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "連載", "reading": "れんさい" }],
+      "senses": [["serialization", "serialisation", "serial story"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "積載", "reading": "せきさい" }],
+      "senses": [["lading", "loading", "carrying"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "登載", "reading": "とうさい" }],
+      "senses": [["register", "record", "printing"]]
+    }
+  ]
+}

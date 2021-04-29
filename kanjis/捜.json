@@ -1,1 +1,17 @@
-{"basic":["捜","Search","1201"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"特捜","reading":"とくそう"}],"senses":[["special investigation"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"特捜","reading":"とくそう"}],"senses":[["special investigation"]]}]}
+{
+  "basic": ["捜", "Search", "1201"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "特捜", "reading": "とくそう" }],
+      "senses": [["special investigation"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "特捜", "reading": "とくそう" }],
+      "senses": [["special investigation"]]
+    }
+  ]
+}

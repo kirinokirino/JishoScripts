@@ -1,1 +1,29 @@
-{"basic":["腰","Loins","1731"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"足腰","reading":"あしこし"}],"senses":[["legs and loins"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"本腰","reading":"ほんごし"}],"senses":[["strenuous effort","earnestness","seriousness"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"足腰","reading":"あしこし"}],"senses":[["legs and loins"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"本腰","reading":"ほんごし"}],"senses":[["strenuous effort","earnestness","seriousness"]]}]}
+{
+  "basic": ["腰", "Loins", "1731"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "足腰", "reading": "あしこし" }],
+      "senses": [["legs and loins"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "本腰", "reading": "ほんごし" }],
+      "senses": [["strenuous effort", "earnestness", "seriousness"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "足腰", "reading": "あしこし" }],
+      "senses": [["legs and loins"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "本腰", "reading": "ほんごし" }],
+      "senses": [["strenuous effort", "earnestness", "seriousness"]]
+    }
+  ]
+}

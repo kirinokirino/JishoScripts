@@ -1,1 +1,143 @@
-{"basic":["託","Consign","2066"],"extended":[{"jlpt":["jlpt-n1"],"tags":["wanikani38"],"japanese":[{"word":"委託","reading":"いたく"},{"word":"委托","reading":"いたく"}],"senses":[["entrusting (something to a person)","consignment (of goods)","putting in someone's charge","trust","commission"]]},{"jlpt":[],"tags":["wanikani38"],"japanese":[{"word":"受託","reading":"じゅたく"}],"senses":[["being entrusted with","taking charge of"]]},{"jlpt":[],"tags":["wanikani38"],"japanese":[{"word":"信託","reading":"しんたく"}],"senses":[["trust","entrusting"],["Trust law"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"投資信託","reading":"とうししんたく"}],"senses":[["investment trust"],["Collective investment scheme"]]},{"jlpt":[],"tags":["wanikani58"],"japanese":[{"word":"嘱託","reading":"しょくたく"},{"word":"属託","reading":"しょくたく"},{"word":"囑託","reading":"しょくたく"}],"senses":[["commission","entrusting with (work)"],["part-time employee","temporary work"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"請託","reading":"せいたく"}],"senses":[["solicitation"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"預託","reading":"よたく"}],"senses":[["depositing (of money, valuables, etc.)","deposition"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"屈託","reading":"くったく"},{"word":"屈托","reading":"くったく"}],"senses":[["worry","care","concern"],["ennui","boredom"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani38"],"japanese":[{"word":"委託","reading":"いたく"},{"word":"委托","reading":"いたく"}],"senses":[["entrusting (something to a person)","consignment (of goods)","putting in someone's charge","trust","commission"]]},{"jlpt":[],"tags":["wanikani38"],"japanese":[{"word":"受託","reading":"じゅたく"}],"senses":[["being entrusted with","taking charge of"]]},{"jlpt":[],"tags":["wanikani38"],"japanese":[{"word":"信託","reading":"しんたく"}],"senses":[["trust","entrusting"],["Trust law"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"投資信託","reading":"とうししんたく"}],"senses":[["investment trust"],["Collective investment scheme"]]},{"jlpt":[],"tags":["wanikani58"],"japanese":[{"word":"嘱託","reading":"しょくたく"},{"word":"属託","reading":"しょくたく"},{"word":"囑託","reading":"しょくたく"}],"senses":[["commission","entrusting with (work)"],["part-time employee","temporary work"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"請託","reading":"せいたく"}],"senses":[["solicitation"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"預託","reading":"よたく"}],"senses":[["depositing (of money, valuables, etc.)","deposition"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"屈託","reading":"くったく"},{"word":"屈托","reading":"くったく"}],"senses":[["worry","care","concern"],["ennui","boredom"]]}]}
+{
+  "basic": ["託", "Consign", "2066"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani38"],
+      "japanese": [
+        { "word": "委託", "reading": "いたく" },
+        { "word": "委托", "reading": "いたく" }
+      ],
+      "senses": [
+        [
+          "entrusting (something to a person)",
+          "consignment (of goods)",
+          "putting in someone's charge",
+          "trust",
+          "commission"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani38"],
+      "japanese": [{ "word": "受託", "reading": "じゅたく" }],
+      "senses": [["being entrusted with", "taking charge of"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani38"],
+      "japanese": [{ "word": "信託", "reading": "しんたく" }],
+      "senses": [["trust", "entrusting"], ["Trust law"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "投資信託", "reading": "とうししんたく" }],
+      "senses": [["investment trust"], ["Collective investment scheme"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani58"],
+      "japanese": [
+        { "word": "嘱託", "reading": "しょくたく" },
+        { "word": "属託", "reading": "しょくたく" },
+        { "word": "囑託", "reading": "しょくたく" }
+      ],
+      "senses": [
+        ["commission", "entrusting with (work)"],
+        ["part-time employee", "temporary work"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "請託", "reading": "せいたく" }],
+      "senses": [["solicitation"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "預託", "reading": "よたく" }],
+      "senses": [["depositing (of money, valuables, etc.)", "deposition"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "屈託", "reading": "くったく" },
+        { "word": "屈托", "reading": "くったく" }
+      ],
+      "senses": [["worry", "care", "concern"], ["ennui", "boredom"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani38"],
+      "japanese": [
+        { "word": "委託", "reading": "いたく" },
+        { "word": "委托", "reading": "いたく" }
+      ],
+      "senses": [
+        [
+          "entrusting (something to a person)",
+          "consignment (of goods)",
+          "putting in someone's charge",
+          "trust",
+          "commission"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani38"],
+      "japanese": [{ "word": "受託", "reading": "じゅたく" }],
+      "senses": [["being entrusted with", "taking charge of"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani38"],
+      "japanese": [{ "word": "信託", "reading": "しんたく" }],
+      "senses": [["trust", "entrusting"], ["Trust law"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "投資信託", "reading": "とうししんたく" }],
+      "senses": [["investment trust"], ["Collective investment scheme"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani58"],
+      "japanese": [
+        { "word": "嘱託", "reading": "しょくたく" },
+        { "word": "属託", "reading": "しょくたく" },
+        { "word": "囑託", "reading": "しょくたく" }
+      ],
+      "senses": [
+        ["commission", "entrusting with (work)"],
+        ["part-time employee", "temporary work"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "請託", "reading": "せいたく" }],
+      "senses": [["solicitation"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "預託", "reading": "よたく" }],
+      "senses": [["depositing (of money, valuables, etc.)", "deposition"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "屈託", "reading": "くったく" },
+        { "word": "屈托", "reading": "くったく" }
+      ],
+      "senses": [["worry", "care", "concern"], ["ennui", "boredom"]]
+    }
+  ]
+}

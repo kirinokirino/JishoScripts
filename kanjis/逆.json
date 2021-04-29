@@ -1,1 +1,79 @@
-{"basic":["逆","Inverted","2109"],"extended":[{"jlpt":["jlpt-n3"],"tags":[],"japanese":[{"word":"真逆","reading":"まさか"}],"senses":[["by no means","never!","well, I never!","you don't say!","certainly (not)"],["something unexpected","emergency"],["currently","for the time being","presently","for now"],["indeed","really","truly","unexpectedly"]]},{"jlpt":["jlpt-n2","jlpt-n1"],"tags":[],"japanese":[{"word":"吃逆","reading":"しゃっくり"},{"word":"噦","reading":"しゃっくり"}],"senses":[["hiccup","hiccough"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"反逆","reading":"はんぎゃく"},{"word":"叛逆","reading":"はんぎゃく"}],"senses":[["treason","treachery","mutiny","rebellion","insurrection"]]},{"jlpt":["jlpt-n3"],"tags":[],"japanese":[{"word":"真逆","reading":"まさか"}],"senses":[["by no means","never!","well, I never!","you don't say!","certainly (not)"],["something unexpected","emergency"],["currently","for the time being","presently","for now"],["indeed","really","truly","unexpectedly"]]},{"jlpt":["jlpt-n2","jlpt-n1"],"tags":[],"japanese":[{"word":"吃逆","reading":"しゃっくり"},{"word":"噦","reading":"しゃっくり"}],"senses":[["hiccup","hiccough"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"反逆","reading":"はんぎゃく"},{"word":"叛逆","reading":"はんぎゃく"}],"senses":[["treason","treachery","mutiny","rebellion","insurrection"]]}]}
+{
+  "basic": ["逆", "Inverted", "2109"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": [],
+      "japanese": [{ "word": "真逆", "reading": "まさか" }],
+      "senses": [
+        [
+          "by no means",
+          "never!",
+          "well, I never!",
+          "you don't say!",
+          "certainly (not)"
+        ],
+        ["something unexpected", "emergency"],
+        ["currently", "for the time being", "presently", "for now"],
+        ["indeed", "really", "truly", "unexpectedly"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2", "jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "吃逆", "reading": "しゃっくり" },
+        { "word": "噦", "reading": "しゃっくり" }
+      ],
+      "senses": [["hiccup", "hiccough"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "反逆", "reading": "はんぎゃく" },
+        { "word": "叛逆", "reading": "はんぎゃく" }
+      ],
+      "senses": [
+        ["treason", "treachery", "mutiny", "rebellion", "insurrection"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": [],
+      "japanese": [{ "word": "真逆", "reading": "まさか" }],
+      "senses": [
+        [
+          "by no means",
+          "never!",
+          "well, I never!",
+          "you don't say!",
+          "certainly (not)"
+        ],
+        ["something unexpected", "emergency"],
+        ["currently", "for the time being", "presently", "for now"],
+        ["indeed", "really", "truly", "unexpectedly"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2", "jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "吃逆", "reading": "しゃっくり" },
+        { "word": "噦", "reading": "しゃっくり" }
+      ],
+      "senses": [["hiccup", "hiccough"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "反逆", "reading": "はんぎゃく" },
+        { "word": "叛逆", "reading": "はんぎゃく" }
+      ],
+      "senses": [
+        ["treason", "treachery", "mutiny", "rebellion", "insurrection"]
+      ]
+    }
+  ]
+}

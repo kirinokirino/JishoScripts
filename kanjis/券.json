@@ -1,1 +1,243 @@
-{"basic":["券","Ticket","1291"],"extended":[{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"定期券","reading":"ていきけん"}],"senses":[["commuter pass","season ticket"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani28"],"japanese":[{"word":"回数券","reading":"かいすうけん"}],"senses":[["coupon tickets","discount tickets","book of tickets"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani28"],"japanese":[{"word":"旅券","reading":"りょけん"}],"senses":[["passport"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"入場券","reading":"にゅうじょうけん"}],"senses":[["admission ticket","entrance ticket"],["platform ticket","ticket allowing a non-traveller access to a railway station platform"],["Ticket (admission)"]]},{"jlpt":[],"tags":["wanikani36"],"japanese":[{"word":"債券","reading":"さいけん"}],"senses":[["bond","debenture"],["Bond (finance)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"株券","reading":"かぶけん"}],"senses":[["stock certificate"],["Stock certificate"]]},{"jlpt":[],"tags":["wanikani31"],"japanese":[{"word":"航空券","reading":"こうくうけん"}],"senses":[["airline ticket","plane ticket","air ticket"],["Airline ticket"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"乗車券","reading":"じょうしゃけん"}],"senses":[["ticket (for bus, train, etc.)","passenger ticket"],["basic fare ticket (not valid on limited express trains without a supplemental express ticket)"],["Train ticket"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"証券","reading":"しょうけん"},{"word":"證券","reading":"しょうけん"}],"senses":[["bond","bill","certificate","security"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"馬券","reading":"ばけん"}],"senses":[["(horse racing) betting ticket"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"商品券","reading":"しょうひんけん"}],"senses":[["gift certificate"]]},{"jlpt":[],"tags":["wanikani28"],"japanese":[{"word":"前売り券","reading":"まえうりけん"},{"word":"前売券","reading":"まえうりけん"}],"senses":[["ticket sold in advance","advance ticket"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"格安航空券","reading":"かくやすこうくうけん"}],"senses":[["discount airline ticket"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"東京証券取引所","reading":"とうきょうしょうけんとりひきじょ"}],"senses":[["Tokyo Stock Exchange","TSE"],["Tokyo Stock Exchange"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"有価証券","reading":"ゆうかしょうけん"}],"senses":[["marketable securities","stocks and bonds"],["Security (finance)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"旅行券","reading":"りょこうけん"}],"senses":[["travel voucher","travel coupon"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"定期券","reading":"ていきけん"}],"senses":[["commuter pass","season ticket"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani28"],"japanese":[{"word":"回数券","reading":"かいすうけん"}],"senses":[["coupon tickets","discount tickets","book of tickets"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani28"],"japanese":[{"word":"旅券","reading":"りょけん"}],"senses":[["passport"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"入場券","reading":"にゅうじょうけん"}],"senses":[["admission ticket","entrance ticket"],["platform ticket","ticket allowing a non-traveller access to a railway station platform"],["Ticket (admission)"]]},{"jlpt":[],"tags":["wanikani36"],"japanese":[{"word":"債券","reading":"さいけん"}],"senses":[["bond","debenture"],["Bond (finance)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"株券","reading":"かぶけん"}],"senses":[["stock certificate"],["Stock certificate"]]},{"jlpt":[],"tags":["wanikani31"],"japanese":[{"word":"航空券","reading":"こうくうけん"}],"senses":[["airline ticket","plane ticket","air ticket"],["Airline ticket"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"乗車券","reading":"じょうしゃけん"}],"senses":[["ticket (for bus, train, etc.)","passenger ticket"],["basic fare ticket (not valid on limited express trains without a supplemental express ticket)"],["Train ticket"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"証券","reading":"しょうけん"},{"word":"證券","reading":"しょうけん"}],"senses":[["bond","bill","certificate","security"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"馬券","reading":"ばけん"}],"senses":[["(horse racing) betting ticket"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"商品券","reading":"しょうひんけん"}],"senses":[["gift certificate"]]},{"jlpt":[],"tags":["wanikani28"],"japanese":[{"word":"前売り券","reading":"まえうりけん"},{"word":"前売券","reading":"まえうりけん"}],"senses":[["ticket sold in advance","advance ticket"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"格安航空券","reading":"かくやすこうくうけん"}],"senses":[["discount airline ticket"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"東京証券取引所","reading":"とうきょうしょうけんとりひきじょ"}],"senses":[["Tokyo Stock Exchange","TSE"],["Tokyo Stock Exchange"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"有価証券","reading":"ゆうかしょうけん"}],"senses":[["marketable securities","stocks and bonds"],["Security (finance)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"旅行券","reading":"りょこうけん"}],"senses":[["travel voucher","travel coupon"]]}]}
+{
+  "basic": ["券", "Ticket", "1291"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "定期券", "reading": "ていきけん" }],
+      "senses": [["commuter pass", "season ticket"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani28"],
+      "japanese": [{ "word": "回数券", "reading": "かいすうけん" }],
+      "senses": [["coupon tickets", "discount tickets", "book of tickets"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani28"],
+      "japanese": [{ "word": "旅券", "reading": "りょけん" }],
+      "senses": [["passport"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "入場券", "reading": "にゅうじょうけん" }],
+      "senses": [
+        ["admission ticket", "entrance ticket"],
+        [
+          "platform ticket",
+          "ticket allowing a non-traveller access to a railway station platform"
+        ],
+        ["Ticket (admission)"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani36"],
+      "japanese": [{ "word": "債券", "reading": "さいけん" }],
+      "senses": [["bond", "debenture"], ["Bond (finance)"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "株券", "reading": "かぶけん" }],
+      "senses": [["stock certificate"], ["Stock certificate"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani31"],
+      "japanese": [{ "word": "航空券", "reading": "こうくうけん" }],
+      "senses": [
+        ["airline ticket", "plane ticket", "air ticket"],
+        ["Airline ticket"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "乗車券", "reading": "じょうしゃけん" }],
+      "senses": [
+        ["ticket (for bus, train, etc.)", "passenger ticket"],
+        ["basic fare ticket (not valid on limited express trains without a supplemental express ticket)"],
+        ["Train ticket"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "証券", "reading": "しょうけん" },
+        { "word": "證券", "reading": "しょうけん" }
+      ],
+      "senses": [["bond", "bill", "certificate", "security"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "馬券", "reading": "ばけん" }],
+      "senses": [["(horse racing) betting ticket"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "商品券", "reading": "しょうひんけん" }],
+      "senses": [["gift certificate"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani28"],
+      "japanese": [
+        { "word": "前売り券", "reading": "まえうりけん" },
+        { "word": "前売券", "reading": "まえうりけん" }
+      ],
+      "senses": [["ticket sold in advance", "advance ticket"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "格安航空券", "reading": "かくやすこうくうけん" }],
+      "senses": [["discount airline ticket"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "東京証券取引所", "reading": "とうきょうしょうけんとりひきじょ" }],
+      "senses": [["Tokyo Stock Exchange", "TSE"], ["Tokyo Stock Exchange"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "有価証券", "reading": "ゆうかしょうけん" }],
+      "senses": [
+        ["marketable securities", "stocks and bonds"],
+        ["Security (finance)"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "旅行券", "reading": "りょこうけん" }],
+      "senses": [["travel voucher", "travel coupon"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "定期券", "reading": "ていきけん" }],
+      "senses": [["commuter pass", "season ticket"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani28"],
+      "japanese": [{ "word": "回数券", "reading": "かいすうけん" }],
+      "senses": [["coupon tickets", "discount tickets", "book of tickets"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani28"],
+      "japanese": [{ "word": "旅券", "reading": "りょけん" }],
+      "senses": [["passport"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "入場券", "reading": "にゅうじょうけん" }],
+      "senses": [
+        ["admission ticket", "entrance ticket"],
+        [
+          "platform ticket",
+          "ticket allowing a non-traveller access to a railway station platform"
+        ],
+        ["Ticket (admission)"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani36"],
+      "japanese": [{ "word": "債券", "reading": "さいけん" }],
+      "senses": [["bond", "debenture"], ["Bond (finance)"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "株券", "reading": "かぶけん" }],
+      "senses": [["stock certificate"], ["Stock certificate"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani31"],
+      "japanese": [{ "word": "航空券", "reading": "こうくうけん" }],
+      "senses": [
+        ["airline ticket", "plane ticket", "air ticket"],
+        ["Airline ticket"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "乗車券", "reading": "じょうしゃけん" }],
+      "senses": [
+        ["ticket (for bus, train, etc.)", "passenger ticket"],
+        ["basic fare ticket (not valid on limited express trains without a supplemental express ticket)"],
+        ["Train ticket"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "証券", "reading": "しょうけん" },
+        { "word": "證券", "reading": "しょうけん" }
+      ],
+      "senses": [["bond", "bill", "certificate", "security"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "馬券", "reading": "ばけん" }],
+      "senses": [["(horse racing) betting ticket"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "商品券", "reading": "しょうひんけん" }],
+      "senses": [["gift certificate"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani28"],
+      "japanese": [
+        { "word": "前売り券", "reading": "まえうりけん" },
+        { "word": "前売券", "reading": "まえうりけん" }
+      ],
+      "senses": [["ticket sold in advance", "advance ticket"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "格安航空券", "reading": "かくやすこうくうけん" }],
+      "senses": [["discount airline ticket"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "東京証券取引所", "reading": "とうきょうしょうけんとりひきじょ" }],
+      "senses": [["Tokyo Stock Exchange", "TSE"], ["Tokyo Stock Exchange"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "有価証券", "reading": "ゆうかしょうけん" }],
+      "senses": [
+        ["marketable securities", "stocks and bonds"],
+        ["Security (finance)"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "旅行券", "reading": "りょこうけん" }],
+      "senses": [["travel voucher", "travel coupon"]]
+    }
+  ]
+}

@@ -1,1 +1,233 @@
-{"basic":["況","But of Course","156"],"extended":[{"jlpt":["jlpt-n3"],"tags":["wanikani25"],"japanese":[{"word":"状況","reading":"じょうきょう"},{"word":"情況","reading":"じょうきょう"}],"senses":[["state of affairs (around you)","situation","circumstances"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani25"],"japanese":[{"word":"不況","reading":"ふきょう"}],"senses":[["depression","recession","slump"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"好況","reading":"こうきょう"}],"senses":[["prosperous conditions","healthy economy"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"苦境","reading":"くきょう"},{"word":"苦況","reading":"くきょう"}],"senses":[["difficult situation","adverse circumstances","predicament","trouble","dilemma","distress"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"戦況","reading":"せんきょう"}],"senses":[["war situation","progress of a battle"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"盛況","reading":"せいきょう"}],"senses":[["success","prosperity","boom"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"活況","reading":"かっきょう"}],"senses":[["activity","briskness","prosperity"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"状況報告","reading":"じょうきょうほうこく"}],"senses":[["situation report","status report","progress report"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"近況","reading":"きんきょう"}],"senses":[["recent state","present state","present condition","current status","current circumstances"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"市況","reading":"しきょう"}],"senses":[["market conditions"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"実況","reading":"じっきょう"}],"senses":[["actual state (of things)","real state","actual condition","real condition","actual scene"],["live","on-the-scene"],["reporting live","live coverage","live broadcasting"],["Let's Play"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"現況","reading":"げんきょう"}],"senses":[["present condition"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"作況指数","reading":"さっきょうしすう"}],"senses":[["rice-crop index"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani25"],"japanese":[{"word":"状況","reading":"じょうきょう"},{"word":"情況","reading":"じょうきょう"}],"senses":[["state of affairs (around you)","situation","circumstances"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani25"],"japanese":[{"word":"不況","reading":"ふきょう"}],"senses":[["depression","recession","slump"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"好況","reading":"こうきょう"}],"senses":[["prosperous conditions","healthy economy"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"苦境","reading":"くきょう"},{"word":"苦況","reading":"くきょう"}],"senses":[["difficult situation","adverse circumstances","predicament","trouble","dilemma","distress"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"戦況","reading":"せんきょう"}],"senses":[["war situation","progress of a battle"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"盛況","reading":"せいきょう"}],"senses":[["success","prosperity","boom"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"活況","reading":"かっきょう"}],"senses":[["activity","briskness","prosperity"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"状況報告","reading":"じょうきょうほうこく"}],"senses":[["situation report","status report","progress report"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"近況","reading":"きんきょう"}],"senses":[["recent state","present state","present condition","current status","current circumstances"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"市況","reading":"しきょう"}],"senses":[["market conditions"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"実況","reading":"じっきょう"}],"senses":[["actual state (of things)","real state","actual condition","real condition","actual scene"],["live","on-the-scene"],["reporting live","live coverage","live broadcasting"],["Let's Play"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"現況","reading":"げんきょう"}],"senses":[["present condition"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"作況指数","reading":"さっきょうしすう"}],"senses":[["rice-crop index"]]}]}
+{
+  "basic": ["況", "But of Course", "156"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani25"],
+      "japanese": [
+        { "word": "状況", "reading": "じょうきょう" },
+        { "word": "情況", "reading": "じょうきょう" }
+      ],
+      "senses": [
+        ["state of affairs (around you)", "situation", "circumstances"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani25"],
+      "japanese": [{ "word": "不況", "reading": "ふきょう" }],
+      "senses": [["depression", "recession", "slump"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "好況", "reading": "こうきょう" }],
+      "senses": [["prosperous conditions", "healthy economy"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "苦境", "reading": "くきょう" },
+        { "word": "苦況", "reading": "くきょう" }
+      ],
+      "senses": [
+        [
+          "difficult situation",
+          "adverse circumstances",
+          "predicament",
+          "trouble",
+          "dilemma",
+          "distress"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "戦況", "reading": "せんきょう" }],
+      "senses": [["war situation", "progress of a battle"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "盛況", "reading": "せいきょう" }],
+      "senses": [["success", "prosperity", "boom"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "活況", "reading": "かっきょう" }],
+      "senses": [["activity", "briskness", "prosperity"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "状況報告", "reading": "じょうきょうほうこく" }],
+      "senses": [["situation report", "status report", "progress report"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "近況", "reading": "きんきょう" }],
+      "senses": [
+        [
+          "recent state",
+          "present state",
+          "present condition",
+          "current status",
+          "current circumstances"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "市況", "reading": "しきょう" }],
+      "senses": [["market conditions"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "実況", "reading": "じっきょう" }],
+      "senses": [
+        [
+          "actual state (of things)",
+          "real state",
+          "actual condition",
+          "real condition",
+          "actual scene"
+        ],
+        ["live", "on-the-scene"],
+        ["reporting live", "live coverage", "live broadcasting"],
+        ["Let's Play"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "現況", "reading": "げんきょう" }],
+      "senses": [["present condition"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "作況指数", "reading": "さっきょうしすう" }],
+      "senses": [["rice-crop index"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani25"],
+      "japanese": [
+        { "word": "状況", "reading": "じょうきょう" },
+        { "word": "情況", "reading": "じょうきょう" }
+      ],
+      "senses": [
+        ["state of affairs (around you)", "situation", "circumstances"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani25"],
+      "japanese": [{ "word": "不況", "reading": "ふきょう" }],
+      "senses": [["depression", "recession", "slump"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "好況", "reading": "こうきょう" }],
+      "senses": [["prosperous conditions", "healthy economy"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "苦境", "reading": "くきょう" },
+        { "word": "苦況", "reading": "くきょう" }
+      ],
+      "senses": [
+        [
+          "difficult situation",
+          "adverse circumstances",
+          "predicament",
+          "trouble",
+          "dilemma",
+          "distress"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "戦況", "reading": "せんきょう" }],
+      "senses": [["war situation", "progress of a battle"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "盛況", "reading": "せいきょう" }],
+      "senses": [["success", "prosperity", "boom"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "活況", "reading": "かっきょう" }],
+      "senses": [["activity", "briskness", "prosperity"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "状況報告", "reading": "じょうきょうほうこく" }],
+      "senses": [["situation report", "status report", "progress report"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "近況", "reading": "きんきょう" }],
+      "senses": [
+        [
+          "recent state",
+          "present state",
+          "present condition",
+          "current status",
+          "current circumstances"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "市況", "reading": "しきょう" }],
+      "senses": [["market conditions"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "実況", "reading": "じっきょう" }],
+      "senses": [
+        [
+          "actual state (of things)",
+          "real state",
+          "actual condition",
+          "real condition",
+          "actual scene"
+        ],
+        ["live", "on-the-scene"],
+        ["reporting live", "live coverage", "live broadcasting"],
+        ["Let's Play"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "現況", "reading": "げんきょう" }],
+      "senses": [["present condition"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "作況指数", "reading": "さっきょうしすう" }],
+      "senses": [["rice-crop index"]]
+    }
+  ]
+}

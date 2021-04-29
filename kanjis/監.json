@@ -1,1 +1,17 @@
-{"basic":["監","Oversee","1562"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"総監","reading":"そうかん"}],"senses":[["inspector general","commissioner"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"総監","reading":"そうかん"}],"senses":[["inspector general","commissioner"]]}]}
+{
+  "basic": ["監", "Oversee", "1562"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "総監", "reading": "そうかん" }],
+      "senses": [["inspector general", "commissioner"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "総監", "reading": "そうかん" }],
+      "senses": [["inspector general", "commissioner"]]
+    }
+  ]
+}

@@ -1,1 +1,77 @@
-{"basic":["潰","Defile","1911"],"extended":[{"jlpt":["jlpt-n1"],"tags":["wanikani37"],"japanese":[{"word":"崩壊","reading":"ほうかい"},{"word":"崩潰","reading":"ほうかい"}],"senses":[["collapse","crumbling","breaking down","caving in"],["(radioactive) decay","disintegration"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"暇つぶし","reading":"ひまつぶし"},{"word":"暇潰し","reading":"ひまつぶし"}],"senses":[["waste of time","killing time"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"顔を潰す","reading":"かおをつぶす"},{"word":"顔をつぶす","reading":"かおをつぶす"}],"senses":[["to make somebody lose face","to embarrass someone","to make someone look foolish"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani37"],"japanese":[{"word":"崩壊","reading":"ほうかい"},{"word":"崩潰","reading":"ほうかい"}],"senses":[["collapse","crumbling","breaking down","caving in"],["(radioactive) decay","disintegration"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"暇つぶし","reading":"ひまつぶし"},{"word":"暇潰し","reading":"ひまつぶし"}],"senses":[["waste of time","killing time"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"顔を潰す","reading":"かおをつぶす"},{"word":"顔をつぶす","reading":"かおをつぶす"}],"senses":[["to make somebody lose face","to embarrass someone","to make someone look foolish"]]}]}
+{
+  "basic": ["潰", "Defile", "1911"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani37"],
+      "japanese": [
+        { "word": "崩壊", "reading": "ほうかい" },
+        { "word": "崩潰", "reading": "ほうかい" }
+      ],
+      "senses": [
+        ["collapse", "crumbling", "breaking down", "caving in"],
+        ["(radioactive) decay", "disintegration"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "暇つぶし", "reading": "ひまつぶし" },
+        { "word": "暇潰し", "reading": "ひまつぶし" }
+      ],
+      "senses": [["waste of time", "killing time"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "顔を潰す", "reading": "かおをつぶす" },
+        { "word": "顔をつぶす", "reading": "かおをつぶす" }
+      ],
+      "senses": [
+        [
+          "to make somebody lose face",
+          "to embarrass someone",
+          "to make someone look foolish"
+        ]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani37"],
+      "japanese": [
+        { "word": "崩壊", "reading": "ほうかい" },
+        { "word": "崩潰", "reading": "ほうかい" }
+      ],
+      "senses": [
+        ["collapse", "crumbling", "breaking down", "caving in"],
+        ["(radioactive) decay", "disintegration"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "暇つぶし", "reading": "ひまつぶし" },
+        { "word": "暇潰し", "reading": "ひまつぶし" }
+      ],
+      "senses": [["waste of time", "killing time"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "顔を潰す", "reading": "かおをつぶす" },
+        { "word": "顔をつぶす", "reading": "かおをつぶす" }
+      ],
+      "senses": [
+        [
+          "to make somebody lose face",
+          "to embarrass someone",
+          "to make someone look foolish"
+        ]
+      ]
+    }
+  ]
+}

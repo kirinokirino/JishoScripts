@@ -1,1 +1,33 @@
-{"basic":["祝","Celebrate","1170"],"extended":[{"jlpt":["jlpt-n4"],"tags":["wanikani26"],"japanese":[{"word":"お祝い","reading":"おいわい"},{"word":"御祝い","reading":"おいわい"},{"word":"お祝","reading":"おいわい"},{"word":"御祝","reading":"おいわい"}],"senses":[["congratulation","congratulations","celebration","festival"],["congratulatory gift","present"]]},{"jlpt":["jlpt-n4"],"tags":["wanikani26"],"japanese":[{"word":"お祝い","reading":"おいわい"},{"word":"御祝い","reading":"おいわい"},{"word":"お祝","reading":"おいわい"},{"word":"御祝","reading":"おいわい"}],"senses":[["congratulation","congratulations","celebration","festival"],["congratulatory gift","present"]]}]}
+{
+  "basic": ["祝", "Celebrate", "1170"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n4"],
+      "tags": ["wanikani26"],
+      "japanese": [
+        { "word": "お祝い", "reading": "おいわい" },
+        { "word": "御祝い", "reading": "おいわい" },
+        { "word": "お祝", "reading": "おいわい" },
+        { "word": "御祝", "reading": "おいわい" }
+      ],
+      "senses": [
+        ["congratulation", "congratulations", "celebration", "festival"],
+        ["congratulatory gift", "present"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n4"],
+      "tags": ["wanikani26"],
+      "japanese": [
+        { "word": "お祝い", "reading": "おいわい" },
+        { "word": "御祝い", "reading": "おいわい" },
+        { "word": "お祝", "reading": "おいわい" },
+        { "word": "御祝", "reading": "おいわい" }
+      ],
+      "senses": [
+        ["congratulation", "congratulations", "celebration", "festival"],
+        ["congratulatory gift", "present"]
+      ]
+    }
+  ]
+}

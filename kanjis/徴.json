@@ -1,1 +1,107 @@
-{"basic":["徴","Indications","952"],"extended":[{"jlpt":["jlpt-n3"],"tags":["wanikani26"],"japanese":[{"word":"特徴","reading":"とくちょう"}],"senses":[["feature","trait","characteristic","peculiarity","distinction"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani26"],"japanese":[{"word":"象徴","reading":"しょうちょう"}],"senses":[["(abstract) symbol","emblem","representation"]]},{"jlpt":[],"tags":["wanikani37"],"japanese":[{"word":"前兆","reading":"ぜんちょう"},{"word":"前徴","reading":"ぜんちょう"}],"senses":[["omen","portent","sign","premonition","harbinger","precursor","presentiment"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"象徴的","reading":"しょうちょうてき"}],"senses":[["symbolic"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"追徴","reading":"ついちょう"}],"senses":[["supplementary charge","additional collection"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"課徴金","reading":"かちょうきん"}],"senses":[["charges (i.e. fees)"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani26"],"japanese":[{"word":"特徴","reading":"とくちょう"}],"senses":[["feature","trait","characteristic","peculiarity","distinction"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani26"],"japanese":[{"word":"象徴","reading":"しょうちょう"}],"senses":[["(abstract) symbol","emblem","representation"]]},{"jlpt":[],"tags":["wanikani37"],"japanese":[{"word":"前兆","reading":"ぜんちょう"},{"word":"前徴","reading":"ぜんちょう"}],"senses":[["omen","portent","sign","premonition","harbinger","precursor","presentiment"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"象徴的","reading":"しょうちょうてき"}],"senses":[["symbolic"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"追徴","reading":"ついちょう"}],"senses":[["supplementary charge","additional collection"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"課徴金","reading":"かちょうきん"}],"senses":[["charges (i.e. fees)"]]}]}
+{
+  "basic": ["徴", "Indications", "952"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani26"],
+      "japanese": [{ "word": "特徴", "reading": "とくちょう" }],
+      "senses": [
+        ["feature", "trait", "characteristic", "peculiarity", "distinction"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani26"],
+      "japanese": [{ "word": "象徴", "reading": "しょうちょう" }],
+      "senses": [["(abstract) symbol", "emblem", "representation"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani37"],
+      "japanese": [
+        { "word": "前兆", "reading": "ぜんちょう" },
+        { "word": "前徴", "reading": "ぜんちょう" }
+      ],
+      "senses": [
+        [
+          "omen",
+          "portent",
+          "sign",
+          "premonition",
+          "harbinger",
+          "precursor",
+          "presentiment"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "象徴的", "reading": "しょうちょうてき" }],
+      "senses": [["symbolic"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "追徴", "reading": "ついちょう" }],
+      "senses": [["supplementary charge", "additional collection"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "課徴金", "reading": "かちょうきん" }],
+      "senses": [["charges (i.e. fees)"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani26"],
+      "japanese": [{ "word": "特徴", "reading": "とくちょう" }],
+      "senses": [
+        ["feature", "trait", "characteristic", "peculiarity", "distinction"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani26"],
+      "japanese": [{ "word": "象徴", "reading": "しょうちょう" }],
+      "senses": [["(abstract) symbol", "emblem", "representation"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani37"],
+      "japanese": [
+        { "word": "前兆", "reading": "ぜんちょう" },
+        { "word": "前徴", "reading": "ぜんちょう" }
+      ],
+      "senses": [
+        [
+          "omen",
+          "portent",
+          "sign",
+          "premonition",
+          "harbinger",
+          "precursor",
+          "presentiment"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "象徴的", "reading": "しょうちょうてき" }],
+      "senses": [["symbolic"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "追徴", "reading": "ついちょう" }],
+      "senses": [["supplementary charge", "additional collection"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "課徴金", "reading": "かちょうきん" }],
+      "senses": [["charges (i.e. fees)"]]
+    }
+  ]
+}

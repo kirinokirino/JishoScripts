@@ -1,1 +1,55 @@
-{"basic":["圏","Sphere","1293"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"北極圏","reading":"ほっきょくけん"}],"senses":[["Arctic Circle","the Arctic"],["Hokkyokuken"],["Arctic Circle"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"首都圏","reading":"しゅとけん"}],"senses":[["the capital city (often Tokyo) area (typically within 50 km of city's centre) (center)"],["Capital region"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"成層圏","reading":"せいそうけん"}],"senses":[["stratosphere"],["Stratosphere"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"北極圏","reading":"ほっきょくけん"}],"senses":[["Arctic Circle","the Arctic"],["Hokkyokuken"],["Arctic Circle"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"首都圏","reading":"しゅとけん"}],"senses":[["the capital city (often Tokyo) area (typically within 50 km of city's centre) (center)"],["Capital region"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"成層圏","reading":"せいそうけん"}],"senses":[["stratosphere"],["Stratosphere"]]}]}
+{
+  "basic": ["圏", "Sphere", "1293"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "北極圏", "reading": "ほっきょくけん" }],
+      "senses": [
+        ["Arctic Circle", "the Arctic"],
+        ["Hokkyokuken"],
+        ["Arctic Circle"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "首都圏", "reading": "しゅとけん" }],
+      "senses": [
+        ["the capital city (often Tokyo) area (typically within 50 km of city's centre) (center)"],
+        ["Capital region"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "成層圏", "reading": "せいそうけん" }],
+      "senses": [["stratosphere"], ["Stratosphere"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "北極圏", "reading": "ほっきょくけん" }],
+      "senses": [
+        ["Arctic Circle", "the Arctic"],
+        ["Hokkyokuken"],
+        ["Arctic Circle"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "首都圏", "reading": "しゅとけん" }],
+      "senses": [
+        ["the capital city (often Tokyo) area (typically within 50 km of city's centre) (center)"],
+        ["Capital region"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "成層圏", "reading": "せいそうけん" }],
+      "senses": [["stratosphere"], ["Stratosphere"]]
+    }
+  ]
+}

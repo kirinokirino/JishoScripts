@@ -1,1 +1,45 @@
-{"basic":["瓶","Flower Pot","1109"],"extended":[{"jlpt":["jlpt-n5"],"tags":["wanikani51"],"japanese":[{"word":"花瓶","reading":"かびん"},{"word":"花びん","reading":"かびん"},{"word":"花瓶","reading":"はながめ"},{"word":"花瓶","reading":"かへい"}],"senses":[["(flower) vase"],["Vase"]]},{"jlpt":[],"tags":["wanikani51"],"japanese":[{"word":"火炎瓶","reading":"かえんびん"}],"senses":[["Molotov cocktail","petrol bomb","gasoline bomb"],["Molotov cocktail"]]},{"jlpt":["jlpt-n5"],"tags":["wanikani51"],"japanese":[{"word":"花瓶","reading":"かびん"},{"word":"花びん","reading":"かびん"},{"word":"花瓶","reading":"はながめ"},{"word":"花瓶","reading":"かへい"}],"senses":[["(flower) vase"],["Vase"]]},{"jlpt":[],"tags":["wanikani51"],"japanese":[{"word":"火炎瓶","reading":"かえんびん"}],"senses":[["Molotov cocktail","petrol bomb","gasoline bomb"],["Molotov cocktail"]]}]}
+{
+  "basic": ["瓶", "Flower Pot", "1109"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n5"],
+      "tags": ["wanikani51"],
+      "japanese": [
+        { "word": "花瓶", "reading": "かびん" },
+        { "word": "花びん", "reading": "かびん" },
+        { "word": "花瓶", "reading": "はながめ" },
+        { "word": "花瓶", "reading": "かへい" }
+      ],
+      "senses": [["(flower) vase"], ["Vase"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani51"],
+      "japanese": [{ "word": "火炎瓶", "reading": "かえんびん" }],
+      "senses": [
+        ["Molotov cocktail", "petrol bomb", "gasoline bomb"],
+        ["Molotov cocktail"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n5"],
+      "tags": ["wanikani51"],
+      "japanese": [
+        { "word": "花瓶", "reading": "かびん" },
+        { "word": "花びん", "reading": "かびん" },
+        { "word": "花瓶", "reading": "はながめ" },
+        { "word": "花瓶", "reading": "かへい" }
+      ],
+      "senses": [["(flower) vase"], ["Vase"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani51"],
+      "japanese": [{ "word": "火炎瓶", "reading": "かえんびん" }],
+      "senses": [
+        ["Molotov cocktail", "petrol bomb", "gasoline bomb"],
+        ["Molotov cocktail"]
+      ]
+    }
+  ]
+}

@@ -1,1 +1,111 @@
-{"basic":["残","Remainder","871"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"取り残す","reading":"とりのこす"},{"word":"取残す","reading":"とりのこす"},{"word":"とり残す","reading":"とりのこす"}],"senses":[["to leave behind"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"無残","reading":"むざん"},{"word":"無惨","reading":"むざん"},{"word":"無慚","reading":"むざん"},{"word":"無慙","reading":"むざん"}],"senses":[["cruel","merciless","atrocious","ruthless","cold-blooded"],["pitiful","tragic","horrible","miserable"],["breaking a religious precept without shame"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"生き残り","reading":"いきのこり"}],"senses":[["survival"],["survivor","relic"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"名残","reading":"なごり"},{"word":"名残り","reading":"なごり"}],"senses":[["remains","traces","vestiges","relics"],["(the sorrow of) parting"],["end"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"名残惜しい","reading":"なごりおしい"},{"word":"名残り惜しい","reading":"なごりおしい"}],"senses":[["reluctant (to part)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"取り残す","reading":"とりのこす"},{"word":"取残す","reading":"とりのこす"},{"word":"とり残す","reading":"とりのこす"}],"senses":[["to leave behind"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"無残","reading":"むざん"},{"word":"無惨","reading":"むざん"},{"word":"無慚","reading":"むざん"},{"word":"無慙","reading":"むざん"}],"senses":[["cruel","merciless","atrocious","ruthless","cold-blooded"],["pitiful","tragic","horrible","miserable"],["breaking a religious precept without shame"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"生き残り","reading":"いきのこり"}],"senses":[["survival"],["survivor","relic"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"名残","reading":"なごり"},{"word":"名残り","reading":"なごり"}],"senses":[["remains","traces","vestiges","relics"],["(the sorrow of) parting"],["end"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"名残惜しい","reading":"なごりおしい"},{"word":"名残り惜しい","reading":"なごりおしい"}],"senses":[["reluctant (to part)"]]}]}
+{
+  "basic": ["残", "Remainder", "871"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "取り残す", "reading": "とりのこす" },
+        { "word": "取残す", "reading": "とりのこす" },
+        { "word": "とり残す", "reading": "とりのこす" }
+      ],
+      "senses": [["to leave behind"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "無残", "reading": "むざん" },
+        { "word": "無惨", "reading": "むざん" },
+        { "word": "無慚", "reading": "むざん" },
+        { "word": "無慙", "reading": "むざん" }
+      ],
+      "senses": [
+        ["cruel", "merciless", "atrocious", "ruthless", "cold-blooded"],
+        ["pitiful", "tragic", "horrible", "miserable"],
+        ["breaking a religious precept without shame"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "生き残り", "reading": "いきのこり" }],
+      "senses": [["survival"], ["survivor", "relic"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "名残", "reading": "なごり" },
+        { "word": "名残り", "reading": "なごり" }
+      ],
+      "senses": [
+        ["remains", "traces", "vestiges", "relics"],
+        ["(the sorrow of) parting"],
+        ["end"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "名残惜しい", "reading": "なごりおしい" },
+        { "word": "名残り惜しい", "reading": "なごりおしい" }
+      ],
+      "senses": [["reluctant (to part)"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "取り残す", "reading": "とりのこす" },
+        { "word": "取残す", "reading": "とりのこす" },
+        { "word": "とり残す", "reading": "とりのこす" }
+      ],
+      "senses": [["to leave behind"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "無残", "reading": "むざん" },
+        { "word": "無惨", "reading": "むざん" },
+        { "word": "無慚", "reading": "むざん" },
+        { "word": "無慙", "reading": "むざん" }
+      ],
+      "senses": [
+        ["cruel", "merciless", "atrocious", "ruthless", "cold-blooded"],
+        ["pitiful", "tragic", "horrible", "miserable"],
+        ["breaking a religious precept without shame"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "生き残り", "reading": "いきのこり" }],
+      "senses": [["survival"], ["survivor", "relic"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "名残", "reading": "なごり" },
+        { "word": "名残り", "reading": "なごり" }
+      ],
+      "senses": [
+        ["remains", "traces", "vestiges", "relics"],
+        ["(the sorrow of) parting"],
+        ["end"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "名残惜しい", "reading": "なごりおしい" },
+        { "word": "名残り惜しい", "reading": "なごりおしい" }
+      ],
+      "senses": [["reluctant (to part)"]]
+    }
+  ]
+}

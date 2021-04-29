@@ -1,1 +1,17 @@
-{"basic":["嚇","Upbraid","2182"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"威嚇","reading":"いかく"}],"senses":[["threat","intimidation","menace"],["Mobbing"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"威嚇","reading":"いかく"}],"senses":[["threat","intimidation","menace"],["Mobbing"]]}]}
+{
+  "basic": ["嚇", "Upbraid", "2182"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "威嚇", "reading": "いかく" }],
+      "senses": [["threat", "intimidation", "menace"], ["Mobbing"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "威嚇", "reading": "いかく" }],
+      "senses": [["threat", "intimidation", "menace"], ["Mobbing"]]
+    }
+  ]
+}

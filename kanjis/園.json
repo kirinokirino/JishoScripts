@@ -1,1 +1,239 @@
-{"basic":["園","Park","629"],"extended":[{"jlpt":["jlpt-n5"],"tags":["wanikani16"],"japanese":[{"word":"公園","reading":"こうえん"}],"senses":[["(public) park"],["Park"]]},{"jlpt":["jlpt-n4"],"tags":["wanikani16"],"japanese":[{"word":"動物園","reading":"どうぶつえん"}],"senses":[["zoo","zoological gardens"],["Doubutsuen"],["Zoo"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani30"],"japanese":[{"word":"遊園地","reading":"ゆうえんち"}],"senses":[["amusement park"],["Yuuenchi"],["Amusement park"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani30"],"japanese":[{"word":"幼稚園","reading":"ようちえん"}],"senses":[["kindergarten"],["Kindergarten"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"田園","reading":"でんえん"},{"word":"田園","reading":"でんおん"},{"word":"田苑","reading":"でんえん"},{"word":"田苑","reading":"でんおん"}],"senses":[["the country","countryside","rural districts"],["cultivated land","fields"],["Den'en"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"植物園","reading":"しょくぶつえん"}],"senses":[["botanical garden"],["Shokubutsuen"],["Botanical garden"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"庭園","reading":"ていえん"}],"senses":[["garden","park"],["Garden"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"菜園","reading":"さいえん"}],"senses":[["vegetable garden"],["Saien"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"楽園","reading":"らくえん"}],"senses":[["paradise","Eden","Elysium"],["Rakuen"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"農園","reading":"のうえん"}],"senses":[["plantation"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"学園","reading":"がくえん"}],"senses":[["educational institution","school","academy","campus"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"入園","reading":"にゅうえん"},{"word":"入苑","reading":"にゅうえん"}],"senses":[["enrollment in kindergarten","enrolment in nursery school"],["entering a park, garden, zoo, etc."]]},{"jlpt":[],"tags":[],"japanese":[{"word":"保育園","reading":"ほいくえん"}],"senses":[["nursery school","day nursery","preschool"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"花園","reading":"はなぞの"},{"word":"花園","reading":"かえん"}],"senses":[["flower garden"],["Hanazono"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"自然公園","reading":"しぜんこうえん"}],"senses":[["nature park","natural park"],["Shizen Park"]]},{"jlpt":[],"tags":["wanikani45"],"japanese":[{"word":"霊園","reading":"れいえん"},{"word":"霊苑","reading":"れいえん"}],"senses":[["(garden) cemetery","park-style cemetery","memorial park"]]},{"jlpt":["jlpt-n5"],"tags":["wanikani16"],"japanese":[{"word":"公園","reading":"こうえん"}],"senses":[["(public) park"],["Park"]]},{"jlpt":["jlpt-n4"],"tags":["wanikani16"],"japanese":[{"word":"動物園","reading":"どうぶつえん"}],"senses":[["zoo","zoological gardens"],["Doubutsuen"],["Zoo"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani30"],"japanese":[{"word":"遊園地","reading":"ゆうえんち"}],"senses":[["amusement park"],["Yuuenchi"],["Amusement park"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani30"],"japanese":[{"word":"幼稚園","reading":"ようちえん"}],"senses":[["kindergarten"],["Kindergarten"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"田園","reading":"でんえん"},{"word":"田園","reading":"でんおん"},{"word":"田苑","reading":"でんえん"},{"word":"田苑","reading":"でんおん"}],"senses":[["the country","countryside","rural districts"],["cultivated land","fields"],["Den'en"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"植物園","reading":"しょくぶつえん"}],"senses":[["botanical garden"],["Shokubutsuen"],["Botanical garden"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"庭園","reading":"ていえん"}],"senses":[["garden","park"],["Garden"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"菜園","reading":"さいえん"}],"senses":[["vegetable garden"],["Saien"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"楽園","reading":"らくえん"}],"senses":[["paradise","Eden","Elysium"],["Rakuen"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"農園","reading":"のうえん"}],"senses":[["plantation"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"学園","reading":"がくえん"}],"senses":[["educational institution","school","academy","campus"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"入園","reading":"にゅうえん"},{"word":"入苑","reading":"にゅうえん"}],"senses":[["enrollment in kindergarten","enrolment in nursery school"],["entering a park, garden, zoo, etc."]]},{"jlpt":[],"tags":[],"japanese":[{"word":"保育園","reading":"ほいくえん"}],"senses":[["nursery school","day nursery","preschool"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"花園","reading":"はなぞの"},{"word":"花園","reading":"かえん"}],"senses":[["flower garden"],["Hanazono"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"自然公園","reading":"しぜんこうえん"}],"senses":[["nature park","natural park"],["Shizen Park"]]},{"jlpt":[],"tags":["wanikani45"],"japanese":[{"word":"霊園","reading":"れいえん"},{"word":"霊苑","reading":"れいえん"}],"senses":[["(garden) cemetery","park-style cemetery","memorial park"]]}]}
+{
+  "basic": ["園", "Park", "629"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n5"],
+      "tags": ["wanikani16"],
+      "japanese": [{ "word": "公園", "reading": "こうえん" }],
+      "senses": [["(public) park"], ["Park"]]
+    },
+    {
+      "jlpt": ["jlpt-n4"],
+      "tags": ["wanikani16"],
+      "japanese": [{ "word": "動物園", "reading": "どうぶつえん" }],
+      "senses": [["zoo", "zoological gardens"], ["Doubutsuen"], ["Zoo"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani30"],
+      "japanese": [{ "word": "遊園地", "reading": "ゆうえんち" }],
+      "senses": [["amusement park"], ["Yuuenchi"], ["Amusement park"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani30"],
+      "japanese": [{ "word": "幼稚園", "reading": "ようちえん" }],
+      "senses": [["kindergarten"], ["Kindergarten"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "田園", "reading": "でんえん" },
+        { "word": "田園", "reading": "でんおん" },
+        { "word": "田苑", "reading": "でんえん" },
+        { "word": "田苑", "reading": "でんおん" }
+      ],
+      "senses": [
+        ["the country", "countryside", "rural districts"],
+        ["cultivated land", "fields"],
+        ["Den'en"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "植物園", "reading": "しょくぶつえん" }],
+      "senses": [["botanical garden"], ["Shokubutsuen"], ["Botanical garden"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "庭園", "reading": "ていえん" }],
+      "senses": [["garden", "park"], ["Garden"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "菜園", "reading": "さいえん" }],
+      "senses": [["vegetable garden"], ["Saien"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "楽園", "reading": "らくえん" }],
+      "senses": [["paradise", "Eden", "Elysium"], ["Rakuen"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "農園", "reading": "のうえん" }],
+      "senses": [["plantation"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "学園", "reading": "がくえん" }],
+      "senses": [["educational institution", "school", "academy", "campus"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "入園", "reading": "にゅうえん" },
+        { "word": "入苑", "reading": "にゅうえん" }
+      ],
+      "senses": [
+        ["enrollment in kindergarten", "enrolment in nursery school"],
+        ["entering a park, garden, zoo, etc."]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "保育園", "reading": "ほいくえん" }],
+      "senses": [["nursery school", "day nursery", "preschool"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "花園", "reading": "はなぞの" },
+        { "word": "花園", "reading": "かえん" }
+      ],
+      "senses": [["flower garden"], ["Hanazono"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "自然公園", "reading": "しぜんこうえん" }],
+      "senses": [["nature park", "natural park"], ["Shizen Park"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani45"],
+      "japanese": [
+        { "word": "霊園", "reading": "れいえん" },
+        { "word": "霊苑", "reading": "れいえん" }
+      ],
+      "senses": [["(garden) cemetery", "park-style cemetery", "memorial park"]]
+    },
+    {
+      "jlpt": ["jlpt-n5"],
+      "tags": ["wanikani16"],
+      "japanese": [{ "word": "公園", "reading": "こうえん" }],
+      "senses": [["(public) park"], ["Park"]]
+    },
+    {
+      "jlpt": ["jlpt-n4"],
+      "tags": ["wanikani16"],
+      "japanese": [{ "word": "動物園", "reading": "どうぶつえん" }],
+      "senses": [["zoo", "zoological gardens"], ["Doubutsuen"], ["Zoo"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani30"],
+      "japanese": [{ "word": "遊園地", "reading": "ゆうえんち" }],
+      "senses": [["amusement park"], ["Yuuenchi"], ["Amusement park"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani30"],
+      "japanese": [{ "word": "幼稚園", "reading": "ようちえん" }],
+      "senses": [["kindergarten"], ["Kindergarten"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "田園", "reading": "でんえん" },
+        { "word": "田園", "reading": "でんおん" },
+        { "word": "田苑", "reading": "でんえん" },
+        { "word": "田苑", "reading": "でんおん" }
+      ],
+      "senses": [
+        ["the country", "countryside", "rural districts"],
+        ["cultivated land", "fields"],
+        ["Den'en"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "植物園", "reading": "しょくぶつえん" }],
+      "senses": [["botanical garden"], ["Shokubutsuen"], ["Botanical garden"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "庭園", "reading": "ていえん" }],
+      "senses": [["garden", "park"], ["Garden"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "菜園", "reading": "さいえん" }],
+      "senses": [["vegetable garden"], ["Saien"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "楽園", "reading": "らくえん" }],
+      "senses": [["paradise", "Eden", "Elysium"], ["Rakuen"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "農園", "reading": "のうえん" }],
+      "senses": [["plantation"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "学園", "reading": "がくえん" }],
+      "senses": [["educational institution", "school", "academy", "campus"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "入園", "reading": "にゅうえん" },
+        { "word": "入苑", "reading": "にゅうえん" }
+      ],
+      "senses": [
+        ["enrollment in kindergarten", "enrolment in nursery school"],
+        ["entering a park, garden, zoo, etc."]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "保育園", "reading": "ほいくえん" }],
+      "senses": [["nursery school", "day nursery", "preschool"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "花園", "reading": "はなぞの" },
+        { "word": "花園", "reading": "かえん" }
+      ],
+      "senses": [["flower garden"], ["Hanazono"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "自然公園", "reading": "しぜんこうえん" }],
+      "senses": [["nature park", "natural park"], ["Shizen Park"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani45"],
+      "japanese": [
+        { "word": "霊園", "reading": "れいえん" },
+        { "word": "霊苑", "reading": "れいえん" }
+      ],
+      "senses": [["(garden) cemetery", "park-style cemetery", "memorial park"]]
+    }
+  ]
+}

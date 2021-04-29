@@ -1,1 +1,23 @@
-{"basic":["伎","Performing Artist","1040"],"extended":[{"jlpt":[],"tags":["wanikani36"],"japanese":[{"word":"歌舞伎","reading":"かぶき"},{"word":"歌舞妓","reading":"かぶき"}],"senses":[["kabuki","Japanese classical drama"],["Kabuki"],["Kabuki"]]},{"jlpt":[],"tags":["wanikani36"],"japanese":[{"word":"歌舞伎","reading":"かぶき"},{"word":"歌舞妓","reading":"かぶき"}],"senses":[["kabuki","Japanese classical drama"],["Kabuki"],["Kabuki"]]}]}
+{
+  "basic": ["伎", "Performing Artist", "1040"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": ["wanikani36"],
+      "japanese": [
+        { "word": "歌舞伎", "reading": "かぶき" },
+        { "word": "歌舞妓", "reading": "かぶき" }
+      ],
+      "senses": [["kabuki", "Japanese classical drama"], ["Kabuki"], ["Kabuki"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani36"],
+      "japanese": [
+        { "word": "歌舞伎", "reading": "かぶき" },
+        { "word": "歌舞妓", "reading": "かぶき" }
+      ],
+      "senses": [["kabuki", "Japanese classical drama"], ["Kabuki"], ["Kabuki"]]
+    }
+  ]
+}

@@ -1,1 +1,103 @@
-{"basic":["陸","Land","1631"],"extended":[{"jlpt":["jlpt-n3"],"tags":["wanikani31"],"japanese":[{"word":"大陸","reading":"たいりく"}],"senses":[["continent"],["continental Asia (esp. mainland China)"],["continental Europe"],["Continent"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"着陸","reading":"ちゃくりく"}],"senses":[["landing","alighting","touch down"],["Landing"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"上陸","reading":"じょうりく"}],"senses":[["landing","disembarkation","landfall"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"離陸","reading":"りりく"}],"senses":[["takeoff"],["Takeoff"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"離着陸","reading":"りちゃくりく"}],"senses":[["takeoff and landing"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"内陸","reading":"ないりく"}],"senses":[["inland"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"北陸","reading":"ほくりく"}],"senses":[["Hokuriku region of Honshu (incl. Niigata, Toyama, Ishikawa and Fukui prefectures)"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani31"],"japanese":[{"word":"大陸","reading":"たいりく"}],"senses":[["continent"],["continental Asia (esp. mainland China)"],["continental Europe"],["Continent"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"着陸","reading":"ちゃくりく"}],"senses":[["landing","alighting","touch down"],["Landing"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"上陸","reading":"じょうりく"}],"senses":[["landing","disembarkation","landfall"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"離陸","reading":"りりく"}],"senses":[["takeoff"],["Takeoff"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"離着陸","reading":"りちゃくりく"}],"senses":[["takeoff and landing"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"内陸","reading":"ないりく"}],"senses":[["inland"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"北陸","reading":"ほくりく"}],"senses":[["Hokuriku region of Honshu (incl. Niigata, Toyama, Ishikawa and Fukui prefectures)"]]}]}
+{
+  "basic": ["陸", "Land", "1631"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani31"],
+      "japanese": [{ "word": "大陸", "reading": "たいりく" }],
+      "senses": [
+        ["continent"],
+        ["continental Asia (esp. mainland China)"],
+        ["continental Europe"],
+        ["Continent"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "着陸", "reading": "ちゃくりく" }],
+      "senses": [["landing", "alighting", "touch down"], ["Landing"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "上陸", "reading": "じょうりく" }],
+      "senses": [["landing", "disembarkation", "landfall"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "離陸", "reading": "りりく" }],
+      "senses": [["takeoff"], ["Takeoff"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "離着陸", "reading": "りちゃくりく" }],
+      "senses": [["takeoff and landing"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "内陸", "reading": "ないりく" }],
+      "senses": [["inland"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "北陸", "reading": "ほくりく" }],
+      "senses": [
+        ["Hokuriku region of Honshu (incl. Niigata, Toyama, Ishikawa and Fukui prefectures)"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani31"],
+      "japanese": [{ "word": "大陸", "reading": "たいりく" }],
+      "senses": [
+        ["continent"],
+        ["continental Asia (esp. mainland China)"],
+        ["continental Europe"],
+        ["Continent"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "着陸", "reading": "ちゃくりく" }],
+      "senses": [["landing", "alighting", "touch down"], ["Landing"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "上陸", "reading": "じょうりく" }],
+      "senses": [["landing", "disembarkation", "landfall"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "離陸", "reading": "りりく" }],
+      "senses": [["takeoff"], ["Takeoff"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "離着陸", "reading": "りちゃくりく" }],
+      "senses": [["takeoff and landing"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "内陸", "reading": "ないりく" }],
+      "senses": [["inland"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "北陸", "reading": "ほくりく" }],
+      "senses": [
+        ["Hokuriku region of Honshu (incl. Niigata, Toyama, Ishikawa and Fukui prefectures)"]
+      ]
+    }
+  ]
+}

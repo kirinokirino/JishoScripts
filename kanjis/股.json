@@ -1,1 +1,35 @@
-{"basic":["股","Thigh","764"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"太もも","reading":"ふともも"},{"word":"太股","reading":"ふともも"},{"word":"太腿","reading":"ふともも"},{"reading":"フトモモ"}],"senses":[["thigh"],["buttocks","arse","ass","butt"],["Syzygium jambos"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"太もも","reading":"ふともも"},{"word":"太股","reading":"ふともも"},{"word":"太腿","reading":"ふともも"},{"reading":"フトモモ"}],"senses":[["thigh"],["buttocks","arse","ass","butt"],["Syzygium jambos"]]}]}
+{
+  "basic": ["股", "Thigh", "764"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "太もも", "reading": "ふともも" },
+        { "word": "太股", "reading": "ふともも" },
+        { "word": "太腿", "reading": "ふともも" },
+        { "reading": "フトモモ" }
+      ],
+      "senses": [
+        ["thigh"],
+        ["buttocks", "arse", "ass", "butt"],
+        ["Syzygium jambos"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "太もも", "reading": "ふともも" },
+        { "word": "太股", "reading": "ふともも" },
+        { "word": "太腿", "reading": "ふともも" },
+        { "reading": "フトモモ" }
+      ],
+      "senses": [
+        ["thigh"],
+        ["buttocks", "arse", "ass", "butt"],
+        ["Syzygium jambos"]
+      ]
+    }
+  ]
+}

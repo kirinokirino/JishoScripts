@@ -1,1 +1,145 @@
-{"basic":["系","Lineage","1492"],"extended":[{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"体系","reading":"たいけい"}],"senses":[["system","organization","organisation","architecture"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"生態系","reading":"せいたいけい"}],"senses":[["ecosystem"],["Ecosystem"]]},{"jlpt":[],"tags":["wanikani30"],"japanese":[{"word":"太陽系","reading":"たいようけい"}],"senses":[["solar system"],["Solar System"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"家系","reading":"かけい"}],"senses":[["family lineage"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"水系","reading":"すいけい"}],"senses":[["water system","river system","drainage system"],["Drainage system (geomorphology)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"直系","reading":"ちょっけい"}],"senses":[["direct descent","direct line"]]},{"jlpt":[],"tags":["wanikani30"],"japanese":[{"word":"日系","reading":"にっけい"}],"senses":[["(of) Japanese descent"],["non-Japanese of Japanese descent","nikkeijin"],["company, etc. set up with Japanese capital","company managed by Japanese or non-Japanese of Japanese descent"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"山系","reading":"さんけい"}],"senses":[["mountain range","mountain system"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"文系","reading":"ぶんけい"}],"senses":[["humanities, social sciences, and fine arts","liberal arts"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"理系","reading":"りけい"}],"senses":[["science"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"体系","reading":"たいけい"}],"senses":[["system","organization","organisation","architecture"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"生態系","reading":"せいたいけい"}],"senses":[["ecosystem"],["Ecosystem"]]},{"jlpt":[],"tags":["wanikani30"],"japanese":[{"word":"太陽系","reading":"たいようけい"}],"senses":[["solar system"],["Solar System"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"家系","reading":"かけい"}],"senses":[["family lineage"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"水系","reading":"すいけい"}],"senses":[["water system","river system","drainage system"],["Drainage system (geomorphology)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"直系","reading":"ちょっけい"}],"senses":[["direct descent","direct line"]]},{"jlpt":[],"tags":["wanikani30"],"japanese":[{"word":"日系","reading":"にっけい"}],"senses":[["(of) Japanese descent"],["non-Japanese of Japanese descent","nikkeijin"],["company, etc. set up with Japanese capital","company managed by Japanese or non-Japanese of Japanese descent"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"山系","reading":"さんけい"}],"senses":[["mountain range","mountain system"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"文系","reading":"ぶんけい"}],"senses":[["humanities, social sciences, and fine arts","liberal arts"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"理系","reading":"りけい"}],"senses":[["science"]]}]}
+{
+  "basic": ["系", "Lineage", "1492"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "体系", "reading": "たいけい" }],
+      "senses": [["system", "organization", "organisation", "architecture"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "生態系", "reading": "せいたいけい" }],
+      "senses": [["ecosystem"], ["Ecosystem"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani30"],
+      "japanese": [{ "word": "太陽系", "reading": "たいようけい" }],
+      "senses": [["solar system"], ["Solar System"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "家系", "reading": "かけい" }],
+      "senses": [["family lineage"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "水系", "reading": "すいけい" }],
+      "senses": [
+        ["water system", "river system", "drainage system"],
+        ["Drainage system (geomorphology)"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "直系", "reading": "ちょっけい" }],
+      "senses": [["direct descent", "direct line"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani30"],
+      "japanese": [{ "word": "日系", "reading": "にっけい" }],
+      "senses": [
+        ["(of) Japanese descent"],
+        ["non-Japanese of Japanese descent", "nikkeijin"],
+        [
+          "company, etc. set up with Japanese capital",
+          "company managed by Japanese or non-Japanese of Japanese descent"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "山系", "reading": "さんけい" }],
+      "senses": [["mountain range", "mountain system"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "文系", "reading": "ぶんけい" }],
+      "senses": [["humanities, social sciences, and fine arts", "liberal arts"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "理系", "reading": "りけい" }],
+      "senses": [["science"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "体系", "reading": "たいけい" }],
+      "senses": [["system", "organization", "organisation", "architecture"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "生態系", "reading": "せいたいけい" }],
+      "senses": [["ecosystem"], ["Ecosystem"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani30"],
+      "japanese": [{ "word": "太陽系", "reading": "たいようけい" }],
+      "senses": [["solar system"], ["Solar System"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "家系", "reading": "かけい" }],
+      "senses": [["family lineage"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "水系", "reading": "すいけい" }],
+      "senses": [
+        ["water system", "river system", "drainage system"],
+        ["Drainage system (geomorphology)"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "直系", "reading": "ちょっけい" }],
+      "senses": [["direct descent", "direct line"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani30"],
+      "japanese": [{ "word": "日系", "reading": "にっけい" }],
+      "senses": [
+        ["(of) Japanese descent"],
+        ["non-Japanese of Japanese descent", "nikkeijin"],
+        [
+          "company, etc. set up with Japanese capital",
+          "company managed by Japanese or non-Japanese of Japanese descent"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "山系", "reading": "さんけい" }],
+      "senses": [["mountain range", "mountain system"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "文系", "reading": "ぶんけい" }],
+      "senses": [["humanities, social sciences, and fine arts", "liberal arts"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "理系", "reading": "りけい" }],
+      "senses": [["science"]]
+    }
+  ]
+}

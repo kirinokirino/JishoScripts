@@ -1,1 +1,41 @@
-{"basic":["封","Seal","168"],"extended":[{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"同封","reading":"どうふう"}],"senses":[["enclosing (e.g. with a letter)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"完封","reading":"かんぷう"}],"senses":[["complete blockade (seal)","baseball shutout"],["Shutout"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"経済封鎖","reading":"けいざいふうさ"}],"senses":[["economic blockade","embargo"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"同封","reading":"どうふう"}],"senses":[["enclosing (e.g. with a letter)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"完封","reading":"かんぷう"}],"senses":[["complete blockade (seal)","baseball shutout"],["Shutout"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"経済封鎖","reading":"けいざいふうさ"}],"senses":[["economic blockade","embargo"]]}]}
+{
+  "basic": ["封", "Seal", "168"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "同封", "reading": "どうふう" }],
+      "senses": [["enclosing (e.g. with a letter)"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "完封", "reading": "かんぷう" }],
+      "senses": [["complete blockade (seal)", "baseball shutout"], ["Shutout"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "経済封鎖", "reading": "けいざいふうさ" }],
+      "senses": [["economic blockade", "embargo"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "同封", "reading": "どうふう" }],
+      "senses": [["enclosing (e.g. with a letter)"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "完封", "reading": "かんぷう" }],
+      "senses": [["complete blockade (seal)", "baseball shutout"], ["Shutout"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "経済封鎖", "reading": "けいざいふうさ" }],
+      "senses": [["economic blockade", "embargo"]]
+    }
+  ]
+}

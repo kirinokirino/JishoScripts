@@ -1,1 +1,155 @@
-{"basic":["印","Stamp","1530"],"extended":[{"jlpt":["jlpt-n2"],"tags":["wanikani28"],"japanese":[{"word":"矢印","reading":"やじるし"}],"senses":[["arrow (symbol)"],["(romantic) interest (for a certain person)","direction (of one's attention, etc.)"],["Arrow (symbol)"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"目印","reading":"めじるし"},{"word":"目標","reading":"めじるし"},{"word":"目じるし","reading":"めじるし"}],"senses":[["mark (for quick identification or recognition)","sign"],["landmark","guide"],["trademark"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"調印","reading":"ちょういん"}],"senses":[["signature","signing","sealing"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"旗印","reading":"はたじるし"},{"word":"旗標","reading":"はたじるし"},{"word":"旗じるし","reading":"はたじるし"}],"senses":[["design (on a banner)","emblem (on a flag)","insignia"],["banner (e.g. of democracy)","slogan","cause","objective"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"消印","reading":"けしいん"},{"word":"消し印","reading":"けしいん"}],"senses":[["postmark","(postal) cancellation mark"],["Cancellation (mail)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"認め印","reading":"みとめいん"},{"word":"認印","reading":"みとめいん"}],"senses":[["private seal","personal seal","unregistered seal","informal seal","signet"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani28"],"japanese":[{"word":"矢印","reading":"やじるし"}],"senses":[["arrow (symbol)"],["(romantic) interest (for a certain person)","direction (of one's attention, etc.)"],["Arrow (symbol)"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"目印","reading":"めじるし"},{"word":"目標","reading":"めじるし"},{"word":"目じるし","reading":"めじるし"}],"senses":[["mark (for quick identification or recognition)","sign"],["landmark","guide"],["trademark"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"調印","reading":"ちょういん"}],"senses":[["signature","signing","sealing"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"旗印","reading":"はたじるし"},{"word":"旗標","reading":"はたじるし"},{"word":"旗じるし","reading":"はたじるし"}],"senses":[["design (on a banner)","emblem (on a flag)","insignia"],["banner (e.g. of democracy)","slogan","cause","objective"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"消印","reading":"けしいん"},{"word":"消し印","reading":"けしいん"}],"senses":[["postmark","(postal) cancellation mark"],["Cancellation (mail)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"認め印","reading":"みとめいん"},{"word":"認印","reading":"みとめいん"}],"senses":[["private seal","personal seal","unregistered seal","informal seal","signet"]]}]}
+{
+  "basic": ["印", "Stamp", "1530"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani28"],
+      "japanese": [{ "word": "矢印", "reading": "やじるし" }],
+      "senses": [
+        ["arrow (symbol)"],
+        [
+          "(romantic) interest (for a certain person)",
+          "direction (of one's attention, etc.)"
+        ],
+        ["Arrow (symbol)"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [
+        { "word": "目印", "reading": "めじるし" },
+        { "word": "目標", "reading": "めじるし" },
+        { "word": "目じるし", "reading": "めじるし" }
+      ],
+      "senses": [
+        ["mark (for quick identification or recognition)", "sign"],
+        ["landmark", "guide"],
+        ["trademark"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "調印", "reading": "ちょういん" }],
+      "senses": [["signature", "signing", "sealing"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "旗印", "reading": "はたじるし" },
+        { "word": "旗標", "reading": "はたじるし" },
+        { "word": "旗じるし", "reading": "はたじるし" }
+      ],
+      "senses": [
+        ["design (on a banner)", "emblem (on a flag)", "insignia"],
+        ["banner (e.g. of democracy)", "slogan", "cause", "objective"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "消印", "reading": "けしいん" },
+        { "word": "消し印", "reading": "けしいん" }
+      ],
+      "senses": [
+        ["postmark", "(postal) cancellation mark"],
+        ["Cancellation (mail)"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "認め印", "reading": "みとめいん" },
+        { "word": "認印", "reading": "みとめいん" }
+      ],
+      "senses": [
+        [
+          "private seal",
+          "personal seal",
+          "unregistered seal",
+          "informal seal",
+          "signet"
+        ]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani28"],
+      "japanese": [{ "word": "矢印", "reading": "やじるし" }],
+      "senses": [
+        ["arrow (symbol)"],
+        [
+          "(romantic) interest (for a certain person)",
+          "direction (of one's attention, etc.)"
+        ],
+        ["Arrow (symbol)"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [
+        { "word": "目印", "reading": "めじるし" },
+        { "word": "目標", "reading": "めじるし" },
+        { "word": "目じるし", "reading": "めじるし" }
+      ],
+      "senses": [
+        ["mark (for quick identification or recognition)", "sign"],
+        ["landmark", "guide"],
+        ["trademark"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "調印", "reading": "ちょういん" }],
+      "senses": [["signature", "signing", "sealing"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "旗印", "reading": "はたじるし" },
+        { "word": "旗標", "reading": "はたじるし" },
+        { "word": "旗じるし", "reading": "はたじるし" }
+      ],
+      "senses": [
+        ["design (on a banner)", "emblem (on a flag)", "insignia"],
+        ["banner (e.g. of democracy)", "slogan", "cause", "objective"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "消印", "reading": "けしいん" },
+        { "word": "消し印", "reading": "けしいん" }
+      ],
+      "senses": [
+        ["postmark", "(postal) cancellation mark"],
+        ["Cancellation (mail)"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "認め印", "reading": "みとめいん" },
+        { "word": "認印", "reading": "みとめいん" }
+      ],
+      "senses": [
+        [
+          "private seal",
+          "personal seal",
+          "unregistered seal",
+          "informal seal",
+          "signet"
+        ]
+      ]
+    }
+  ]
+}

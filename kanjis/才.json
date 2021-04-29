@@ -1,1 +1,99 @@
-{"basic":["才","Genius","736"],"extended":[{"jlpt":["jlpt-n1"],"tags":["wanikani2"],"japanese":[{"word":"天才","reading":"てんさい"}],"senses":[["genius","prodigy","natural gift"],["Genius"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani46"],"japanese":[{"word":"万歳","reading":"ばんざい"},{"word":"万歳","reading":"ばんぜい"},{"word":"万才","reading":"ばんざい"},{"word":"万才","reading":"ばんぜい"},{"reading":"バンザイ"}],"senses":[["crying \"banzai\" (or raising one's hands in the banzai gesture)"],["something worthy of celebration"],["giving up"],["long time"],["eternal life (and prosperity)"],["banzai (a celebratory cheer)","hurrah (hooray, hurray)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"秀才","reading":"しゅうさい"}],"senses":[["bright person","talented student","prodigy"]]},{"jlpt":[],"tags":["wanikani50"],"japanese":[{"word":"漫才","reading":"まんざい"},{"word":"万才","reading":"まんざい"}],"senses":[["manzai","comic dialogue","two-person comedy act (usu. presented as a fast-paced dialogue, occ. presented as a skit)"],["Manzai"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani2"],"japanese":[{"word":"天才","reading":"てんさい"}],"senses":[["genius","prodigy","natural gift"],["Genius"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani46"],"japanese":[{"word":"万歳","reading":"ばんざい"},{"word":"万歳","reading":"ばんぜい"},{"word":"万才","reading":"ばんざい"},{"word":"万才","reading":"ばんぜい"},{"reading":"バンザイ"}],"senses":[["crying \"banzai\" (or raising one's hands in the banzai gesture)"],["something worthy of celebration"],["giving up"],["long time"],["eternal life (and prosperity)"],["banzai (a celebratory cheer)","hurrah (hooray, hurray)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"秀才","reading":"しゅうさい"}],"senses":[["bright person","talented student","prodigy"]]},{"jlpt":[],"tags":["wanikani50"],"japanese":[{"word":"漫才","reading":"まんざい"},{"word":"万才","reading":"まんざい"}],"senses":[["manzai","comic dialogue","two-person comedy act (usu. presented as a fast-paced dialogue, occ. presented as a skit)"],["Manzai"]]}]}
+{
+  "basic": ["才", "Genius", "736"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani2"],
+      "japanese": [{ "word": "天才", "reading": "てんさい" }],
+      "senses": [["genius", "prodigy", "natural gift"], ["Genius"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani46"],
+      "japanese": [
+        { "word": "万歳", "reading": "ばんざい" },
+        { "word": "万歳", "reading": "ばんぜい" },
+        { "word": "万才", "reading": "ばんざい" },
+        { "word": "万才", "reading": "ばんぜい" },
+        { "reading": "バンザイ" }
+      ],
+      "senses": [
+        ["crying \"banzai\" (or raising one's hands in the banzai gesture)"],
+        ["something worthy of celebration"],
+        ["giving up"],
+        ["long time"],
+        ["eternal life (and prosperity)"],
+        ["banzai (a celebratory cheer)", "hurrah (hooray, hurray)"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "秀才", "reading": "しゅうさい" }],
+      "senses": [["bright person", "talented student", "prodigy"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani50"],
+      "japanese": [
+        { "word": "漫才", "reading": "まんざい" },
+        { "word": "万才", "reading": "まんざい" }
+      ],
+      "senses": [
+        [
+          "manzai",
+          "comic dialogue",
+          "two-person comedy act (usu. presented as a fast-paced dialogue, occ. presented as a skit)"
+        ],
+        ["Manzai"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani2"],
+      "japanese": [{ "word": "天才", "reading": "てんさい" }],
+      "senses": [["genius", "prodigy", "natural gift"], ["Genius"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani46"],
+      "japanese": [
+        { "word": "万歳", "reading": "ばんざい" },
+        { "word": "万歳", "reading": "ばんぜい" },
+        { "word": "万才", "reading": "ばんざい" },
+        { "word": "万才", "reading": "ばんぜい" },
+        { "reading": "バンザイ" }
+      ],
+      "senses": [
+        ["crying \"banzai\" (or raising one's hands in the banzai gesture)"],
+        ["something worthy of celebration"],
+        ["giving up"],
+        ["long time"],
+        ["eternal life (and prosperity)"],
+        ["banzai (a celebratory cheer)", "hurrah (hooray, hurray)"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "秀才", "reading": "しゅうさい" }],
+      "senses": [["bright person", "talented student", "prodigy"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani50"],
+      "japanese": [
+        { "word": "漫才", "reading": "まんざい" },
+        { "word": "万才", "reading": "まんざい" }
+      ],
+      "senses": [
+        [
+          "manzai",
+          "comic dialogue",
+          "two-person comedy act (usu. presented as a fast-paced dialogue, occ. presented as a skit)"
+        ],
+        ["Manzai"]
+      ]
+    }
+  ]
+}

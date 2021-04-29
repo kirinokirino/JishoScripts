@@ -1,1 +1,41 @@
-{"basic":["訪","Call On","534"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"来訪","reading":"らいほう"}],"senses":[["visit","call"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"戸別訪問","reading":"こべつほうもん"}],"senses":[["door-to-door visit","door-to-door canvassing (canvasing)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"歴訪","reading":"れきほう"}],"senses":[["round of calls","tour of visitation"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"来訪","reading":"らいほう"}],"senses":[["visit","call"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"戸別訪問","reading":"こべつほうもん"}],"senses":[["door-to-door visit","door-to-door canvassing (canvasing)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"歴訪","reading":"れきほう"}],"senses":[["round of calls","tour of visitation"]]}]}
+{
+  "basic": ["訪", "Call On", "534"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "来訪", "reading": "らいほう" }],
+      "senses": [["visit", "call"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "戸別訪問", "reading": "こべつほうもん" }],
+      "senses": [["door-to-door visit", "door-to-door canvassing (canvasing)"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "歴訪", "reading": "れきほう" }],
+      "senses": [["round of calls", "tour of visitation"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "来訪", "reading": "らいほう" }],
+      "senses": [["visit", "call"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "戸別訪問", "reading": "こべつほうもん" }],
+      "senses": [["door-to-door visit", "door-to-door canvassing (canvasing)"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "歴訪", "reading": "れきほう" }],
+      "senses": [["round of calls", "tour of visitation"]]
+    }
+  ]
+}

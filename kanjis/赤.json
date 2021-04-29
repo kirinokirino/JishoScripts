@@ -1,1 +1,31 @@
-{"basic":["赤","Red","1880"],"extended":[{"jlpt":["jlpt-n3"],"tags":[],"japanese":[{"word":"真っ赤","reading":"まっか"},{"word":"まっ赤","reading":"まっか"},{"word":"真赤","reading":"まっか"}],"senses":[["bright red","deep red","flushed (of face)"],["downright (e.g. lie)","complete","utter"]]},{"jlpt":["jlpt-n3"],"tags":[],"japanese":[{"word":"真っ赤","reading":"まっか"},{"word":"まっ赤","reading":"まっか"},{"word":"真赤","reading":"まっか"}],"senses":[["bright red","deep red","flushed (of face)"],["downright (e.g. lie)","complete","utter"]]}]}
+{
+  "basic": ["赤", "Red", "1880"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": [],
+      "japanese": [
+        { "word": "真っ赤", "reading": "まっか" },
+        { "word": "まっ赤", "reading": "まっか" },
+        { "word": "真赤", "reading": "まっか" }
+      ],
+      "senses": [
+        ["bright red", "deep red", "flushed (of face)"],
+        ["downright (e.g. lie)", "complete", "utter"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": [],
+      "japanese": [
+        { "word": "真っ赤", "reading": "まっか" },
+        { "word": "まっ赤", "reading": "まっか" },
+        { "word": "真赤", "reading": "まっか" }
+      ],
+      "senses": [
+        ["bright red", "deep red", "flushed (of face)"],
+        ["downright (e.g. lie)", "complete", "utter"]
+      ]
+    }
+  ]
+}

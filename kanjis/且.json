@@ -1,1 +1,31 @@
-{"basic":["且","Moreover","2190"],"extended":[{"jlpt":[],"tags":["wanikani56"],"japanese":[{"word":"尚且つ","reading":"なおかつ"},{"word":"尚かつ","reading":"なおかつ"},{"word":"なお且つ","reading":"なおかつ"}],"senses":[["besides","furthermore","on top of that"],["and yet","nevertheless","even so"]]},{"jlpt":[],"tags":["wanikani56"],"japanese":[{"word":"尚且つ","reading":"なおかつ"},{"word":"尚かつ","reading":"なおかつ"},{"word":"なお且つ","reading":"なおかつ"}],"senses":[["besides","furthermore","on top of that"],["and yet","nevertheless","even so"]]}]}
+{
+  "basic": ["且", "Moreover", "2190"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": ["wanikani56"],
+      "japanese": [
+        { "word": "尚且つ", "reading": "なおかつ" },
+        { "word": "尚かつ", "reading": "なおかつ" },
+        { "word": "なお且つ", "reading": "なおかつ" }
+      ],
+      "senses": [
+        ["besides", "furthermore", "on top of that"],
+        ["and yet", "nevertheless", "even so"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani56"],
+      "japanese": [
+        { "word": "尚且つ", "reading": "なおかつ" },
+        { "word": "尚かつ", "reading": "なおかつ" },
+        { "word": "なお且つ", "reading": "なおかつ" }
+      ],
+      "senses": [
+        ["besides", "furthermore", "on top of that"],
+        ["and yet", "nevertheless", "even so"]
+      ]
+    }
+  ]
+}

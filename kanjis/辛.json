@@ -1,1 +1,81 @@
-{"basic":["辛","Spicy","1612"],"extended":[{"jlpt":["jlpt-n1"],"tags":["wanikani44"],"japanese":[{"word":"香辛料","reading":"こうしんりょう"}],"senses":[["spice","spices","condiment"],["Spice"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"塩辛い","reading":"しおからい"},{"word":"鹹い","reading":"しおからい"},{"word":"鹹い","reading":"からい"}],"senses":[["salty (taste)","briny"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"唐辛子","reading":"とうがらし"},{"word":"唐芥子","reading":"とうがらし"},{"word":"蕃椒","reading":"とうがらし"},{"word":"唐辛子","reading":"とんがらし"},{"word":"蕃椒","reading":"ばんしょう"},{"reading":"トウガラシ"}],"senses":[["capsicum (Capsicum annuum, esp. the cultivated chili peppers)","chili pepper (chile, chilli)","cayenne","red pepper"],["shichimi pepper"],["Capsicum annuum"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani44"],"japanese":[{"word":"香辛料","reading":"こうしんりょう"}],"senses":[["spice","spices","condiment"],["Spice"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"塩辛い","reading":"しおからい"},{"word":"鹹い","reading":"しおからい"},{"word":"鹹い","reading":"からい"}],"senses":[["salty (taste)","briny"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"唐辛子","reading":"とうがらし"},{"word":"唐芥子","reading":"とうがらし"},{"word":"蕃椒","reading":"とうがらし"},{"word":"唐辛子","reading":"とんがらし"},{"word":"蕃椒","reading":"ばんしょう"},{"reading":"トウガラシ"}],"senses":[["capsicum (Capsicum annuum, esp. the cultivated chili peppers)","chili pepper (chile, chilli)","cayenne","red pepper"],["shichimi pepper"],["Capsicum annuum"]]}]}
+{
+  "basic": ["辛", "Spicy", "1612"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani44"],
+      "japanese": [{ "word": "香辛料", "reading": "こうしんりょう" }],
+      "senses": [["spice", "spices", "condiment"], ["Spice"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [
+        { "word": "塩辛い", "reading": "しおからい" },
+        { "word": "鹹い", "reading": "しおからい" },
+        { "word": "鹹い", "reading": "からい" }
+      ],
+      "senses": [["salty (taste)", "briny"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "唐辛子", "reading": "とうがらし" },
+        { "word": "唐芥子", "reading": "とうがらし" },
+        { "word": "蕃椒", "reading": "とうがらし" },
+        { "word": "唐辛子", "reading": "とんがらし" },
+        { "word": "蕃椒", "reading": "ばんしょう" },
+        { "reading": "トウガラシ" }
+      ],
+      "senses": [
+        [
+          "capsicum (Capsicum annuum, esp. the cultivated chili peppers)",
+          "chili pepper (chile, chilli)",
+          "cayenne",
+          "red pepper"
+        ],
+        ["shichimi pepper"],
+        ["Capsicum annuum"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani44"],
+      "japanese": [{ "word": "香辛料", "reading": "こうしんりょう" }],
+      "senses": [["spice", "spices", "condiment"], ["Spice"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [
+        { "word": "塩辛い", "reading": "しおからい" },
+        { "word": "鹹い", "reading": "しおからい" },
+        { "word": "鹹い", "reading": "からい" }
+      ],
+      "senses": [["salty (taste)", "briny"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "唐辛子", "reading": "とうがらし" },
+        { "word": "唐芥子", "reading": "とうがらし" },
+        { "word": "蕃椒", "reading": "とうがらし" },
+        { "word": "唐辛子", "reading": "とんがらし" },
+        { "word": "蕃椒", "reading": "ばんしょう" },
+        { "reading": "トウガラシ" }
+      ],
+      "senses": [
+        [
+          "capsicum (Capsicum annuum, esp. the cultivated chili peppers)",
+          "chili pepper (chile, chilli)",
+          "cayenne",
+          "red pepper"
+        ],
+        ["shichimi pepper"],
+        ["Capsicum annuum"]
+      ]
+    }
+  ]
+}

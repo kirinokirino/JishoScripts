@@ -1,1 +1,53 @@
-{"basic":["欠","Lack","505"],"extended":[{"jlpt":["jlpt-n1"],"tags":["wanikani18"],"japanese":[{"word":"不可欠","reading":"ふかけつ"}],"senses":[["indispensable","essential"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"補欠","reading":"ほけつ"},{"word":"補闕","reading":"ほけつ"}],"senses":[["filling a vacancy","supplementation"],["substitute","deputy","alternate","spare"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"出欠","reading":"しゅっけつ"}],"senses":[["attendance or absence"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani18"],"japanese":[{"word":"不可欠","reading":"ふかけつ"}],"senses":[["indispensable","essential"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"補欠","reading":"ほけつ"},{"word":"補闕","reading":"ほけつ"}],"senses":[["filling a vacancy","supplementation"],["substitute","deputy","alternate","spare"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"出欠","reading":"しゅっけつ"}],"senses":[["attendance or absence"]]}]}
+{
+  "basic": ["欠", "Lack", "505"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani18"],
+      "japanese": [{ "word": "不可欠", "reading": "ふかけつ" }],
+      "senses": [["indispensable", "essential"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "補欠", "reading": "ほけつ" },
+        { "word": "補闕", "reading": "ほけつ" }
+      ],
+      "senses": [
+        ["filling a vacancy", "supplementation"],
+        ["substitute", "deputy", "alternate", "spare"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "出欠", "reading": "しゅっけつ" }],
+      "senses": [["attendance or absence"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani18"],
+      "japanese": [{ "word": "不可欠", "reading": "ふかけつ" }],
+      "senses": [["indispensable", "essential"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "補欠", "reading": "ほけつ" },
+        { "word": "補闕", "reading": "ほけつ" }
+      ],
+      "senses": [
+        ["filling a vacancy", "supplementation"],
+        ["substitute", "deputy", "alternate", "spare"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "出欠", "reading": "しゅっけつ" }],
+      "senses": [["attendance or absence"]]
+    }
+  ]
+}

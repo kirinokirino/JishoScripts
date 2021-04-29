@@ -1,1 +1,119 @@
-{"basic":["景","Scenery","336"],"extended":[{"jlpt":["jlpt-n3"],"tags":["wanikani25"],"japanese":[{"word":"光景","reading":"こうけい"}],"senses":[["scene","spectacle","sight","view"]]},{"jlpt":["jlpt-n3"],"tags":[],"japanese":[{"word":"風景","reading":"ふうけい"}],"senses":[["scenery","scene","landscape","view","sight"],["scene (e.g. of a crime)"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani30"],"japanese":[{"word":"背景","reading":"はいけい"}],"senses":[["background","scenery","backdrop","setting"],["background (of an incident, situation, etc.)","circumstances","context"],["backing","support (from behind the scenes)"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"不景気","reading":"ふけいき"}],"senses":[["economic slump","hard times","depression","recession"],["poor (business)","dull","slack","inactive"],["gloomy","cheerless","dismal"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"夜景","reading":"やけい"}],"senses":[["night view","night skyline","nightscape"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"好景気","reading":"こうけいき"}],"senses":[["good times","boom","(wave of) prosperity"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"情景","reading":"じょうけい"}],"senses":[["spectacle","sight","scene"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani25"],"japanese":[{"word":"光景","reading":"こうけい"}],"senses":[["scene","spectacle","sight","view"]]},{"jlpt":["jlpt-n3"],"tags":[],"japanese":[{"word":"風景","reading":"ふうけい"}],"senses":[["scenery","scene","landscape","view","sight"],["scene (e.g. of a crime)"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani30"],"japanese":[{"word":"背景","reading":"はいけい"}],"senses":[["background","scenery","backdrop","setting"],["background (of an incident, situation, etc.)","circumstances","context"],["backing","support (from behind the scenes)"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"不景気","reading":"ふけいき"}],"senses":[["economic slump","hard times","depression","recession"],["poor (business)","dull","slack","inactive"],["gloomy","cheerless","dismal"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"夜景","reading":"やけい"}],"senses":[["night view","night skyline","nightscape"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"好景気","reading":"こうけいき"}],"senses":[["good times","boom","(wave of) prosperity"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"情景","reading":"じょうけい"}],"senses":[["spectacle","sight","scene"]]}]}
+{
+  "basic": ["景", "Scenery", "336"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani25"],
+      "japanese": [{ "word": "光景", "reading": "こうけい" }],
+      "senses": [["scene", "spectacle", "sight", "view"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": [],
+      "japanese": [{ "word": "風景", "reading": "ふうけい" }],
+      "senses": [
+        ["scenery", "scene", "landscape", "view", "sight"],
+        ["scene (e.g. of a crime)"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani30"],
+      "japanese": [{ "word": "背景", "reading": "はいけい" }],
+      "senses": [
+        ["background", "scenery", "backdrop", "setting"],
+        [
+          "background (of an incident, situation, etc.)",
+          "circumstances",
+          "context"
+        ],
+        ["backing", "support (from behind the scenes)"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "不景気", "reading": "ふけいき" }],
+      "senses": [
+        ["economic slump", "hard times", "depression", "recession"],
+        ["poor (business)", "dull", "slack", "inactive"],
+        ["gloomy", "cheerless", "dismal"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "夜景", "reading": "やけい" }],
+      "senses": [["night view", "night skyline", "nightscape"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "好景気", "reading": "こうけいき" }],
+      "senses": [["good times", "boom", "(wave of) prosperity"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "情景", "reading": "じょうけい" }],
+      "senses": [["spectacle", "sight", "scene"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani25"],
+      "japanese": [{ "word": "光景", "reading": "こうけい" }],
+      "senses": [["scene", "spectacle", "sight", "view"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": [],
+      "japanese": [{ "word": "風景", "reading": "ふうけい" }],
+      "senses": [
+        ["scenery", "scene", "landscape", "view", "sight"],
+        ["scene (e.g. of a crime)"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani30"],
+      "japanese": [{ "word": "背景", "reading": "はいけい" }],
+      "senses": [
+        ["background", "scenery", "backdrop", "setting"],
+        [
+          "background (of an incident, situation, etc.)",
+          "circumstances",
+          "context"
+        ],
+        ["backing", "support (from behind the scenes)"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "不景気", "reading": "ふけいき" }],
+      "senses": [
+        ["economic slump", "hard times", "depression", "recession"],
+        ["poor (business)", "dull", "slack", "inactive"],
+        ["gloomy", "cheerless", "dismal"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "夜景", "reading": "やけい" }],
+      "senses": [["night view", "night skyline", "nightscape"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "好景気", "reading": "こうけいき" }],
+      "senses": [["good times", "boom", "(wave of) prosperity"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "情景", "reading": "じょうけい" }],
+      "senses": [["spectacle", "sight", "scene"]]
+    }
+  ]
+}

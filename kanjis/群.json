@@ -1,1 +1,57 @@
-{"basic":["群","Flock","1247"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"抜群","reading":"ばつぐん"},{"word":"抜群","reading":"ばっくん"},{"reading":"バツグン"}],"senses":[["outstanding","excellent","exceptional","surpassing","extraordinary","distinguished"],["preeminence","distinction","extraordinariness"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"症候群","reading":"しょうこうぐん"}],"senses":[["syndrome"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"抜群","reading":"ばつぐん"},{"word":"抜群","reading":"ばっくん"},{"reading":"バツグン"}],"senses":[["outstanding","excellent","exceptional","surpassing","extraordinary","distinguished"],["preeminence","distinction","extraordinariness"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"症候群","reading":"しょうこうぐん"}],"senses":[["syndrome"]]}]}
+{
+  "basic": ["群", "Flock", "1247"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "抜群", "reading": "ばつぐん" },
+        { "word": "抜群", "reading": "ばっくん" },
+        { "reading": "バツグン" }
+      ],
+      "senses": [
+        [
+          "outstanding",
+          "excellent",
+          "exceptional",
+          "surpassing",
+          "extraordinary",
+          "distinguished"
+        ],
+        ["preeminence", "distinction", "extraordinariness"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "症候群", "reading": "しょうこうぐん" }],
+      "senses": [["syndrome"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "抜群", "reading": "ばつぐん" },
+        { "word": "抜群", "reading": "ばっくん" },
+        { "reading": "バツグン" }
+      ],
+      "senses": [
+        [
+          "outstanding",
+          "excellent",
+          "exceptional",
+          "surpassing",
+          "extraordinary",
+          "distinguished"
+        ],
+        ["preeminence", "distinction", "extraordinariness"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "症候群", "reading": "しょうこうぐん" }],
+      "senses": [["syndrome"]]
+    }
+  ]
+}

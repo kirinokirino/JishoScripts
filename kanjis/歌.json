@@ -1,1 +1,147 @@
-{"basic":["歌","Song","508"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"国歌","reading":"こっか"}],"senses":[["national anthem"],["National anthem"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"校歌","reading":"こうか"}],"senses":[["school song"],["School song"]]},{"jlpt":[],"tags":["wanikani14"],"japanese":[{"word":"流行歌","reading":"りゅうこうか"}],"senses":[["popular song","hit song"],["Ryūkōka"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"短歌","reading":"たんか"},{"word":"短歌","reading":"みじかうた"}],"senses":[["tanka","31-mora Japanese poem"]]},{"jlpt":[],"tags":["wanikani13"],"japanese":[{"word":"詩歌","reading":"しいか"},{"word":"詩哥","reading":"しいか"},{"word":"詩歌","reading":"しか"}],"senses":[["Japanese and Chinese poetry"],["poetry","poems"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"演歌","reading":"えんか"},{"word":"艶歌","reading":"えんか"}],"senses":[["enka","traditional-style Japanese popular ballad"],["troubadour"],["Enka"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"賛歌","reading":"さんか"},{"word":"讃歌","reading":"さんか"},{"word":"讚歌","reading":"さんか"}],"senses":[["song of praise","eulogy","paean","hymn"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"和歌","reading":"わか"},{"word":"倭歌","reading":"わか"}],"senses":[["waka","classic Japanese poem, esp. a tanka, often 31 morae"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"国歌","reading":"こっか"}],"senses":[["national anthem"],["National anthem"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"校歌","reading":"こうか"}],"senses":[["school song"],["School song"]]},{"jlpt":[],"tags":["wanikani14"],"japanese":[{"word":"流行歌","reading":"りゅうこうか"}],"senses":[["popular song","hit song"],["Ryūkōka"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"短歌","reading":"たんか"},{"word":"短歌","reading":"みじかうた"}],"senses":[["tanka","31-mora Japanese poem"]]},{"jlpt":[],"tags":["wanikani13"],"japanese":[{"word":"詩歌","reading":"しいか"},{"word":"詩哥","reading":"しいか"},{"word":"詩歌","reading":"しか"}],"senses":[["Japanese and Chinese poetry"],["poetry","poems"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"演歌","reading":"えんか"},{"word":"艶歌","reading":"えんか"}],"senses":[["enka","traditional-style Japanese popular ballad"],["troubadour"],["Enka"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"賛歌","reading":"さんか"},{"word":"讃歌","reading":"さんか"},{"word":"讚歌","reading":"さんか"}],"senses":[["song of praise","eulogy","paean","hymn"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"和歌","reading":"わか"},{"word":"倭歌","reading":"わか"}],"senses":[["waka","classic Japanese poem, esp. a tanka, often 31 morae"]]}]}
+{
+  "basic": ["歌", "Song", "508"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "国歌", "reading": "こっか" }],
+      "senses": [["national anthem"], ["National anthem"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "校歌", "reading": "こうか" }],
+      "senses": [["school song"], ["School song"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani14"],
+      "japanese": [{ "word": "流行歌", "reading": "りゅうこうか" }],
+      "senses": [["popular song", "hit song"], ["Ryūkōka"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "短歌", "reading": "たんか" },
+        { "word": "短歌", "reading": "みじかうた" }
+      ],
+      "senses": [["tanka", "31-mora Japanese poem"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani13"],
+      "japanese": [
+        { "word": "詩歌", "reading": "しいか" },
+        { "word": "詩哥", "reading": "しいか" },
+        { "word": "詩歌", "reading": "しか" }
+      ],
+      "senses": [["Japanese and Chinese poetry"], ["poetry", "poems"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "演歌", "reading": "えんか" },
+        { "word": "艶歌", "reading": "えんか" }
+      ],
+      "senses": [
+        ["enka", "traditional-style Japanese popular ballad"],
+        ["troubadour"],
+        ["Enka"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "賛歌", "reading": "さんか" },
+        { "word": "讃歌", "reading": "さんか" },
+        { "word": "讚歌", "reading": "さんか" }
+      ],
+      "senses": [["song of praise", "eulogy", "paean", "hymn"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "和歌", "reading": "わか" },
+        { "word": "倭歌", "reading": "わか" }
+      ],
+      "senses": [
+        ["waka", "classic Japanese poem, esp. a tanka, often 31 morae"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "国歌", "reading": "こっか" }],
+      "senses": [["national anthem"], ["National anthem"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "校歌", "reading": "こうか" }],
+      "senses": [["school song"], ["School song"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani14"],
+      "japanese": [{ "word": "流行歌", "reading": "りゅうこうか" }],
+      "senses": [["popular song", "hit song"], ["Ryūkōka"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [
+        { "word": "短歌", "reading": "たんか" },
+        { "word": "短歌", "reading": "みじかうた" }
+      ],
+      "senses": [["tanka", "31-mora Japanese poem"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani13"],
+      "japanese": [
+        { "word": "詩歌", "reading": "しいか" },
+        { "word": "詩哥", "reading": "しいか" },
+        { "word": "詩歌", "reading": "しか" }
+      ],
+      "senses": [["Japanese and Chinese poetry"], ["poetry", "poems"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "演歌", "reading": "えんか" },
+        { "word": "艶歌", "reading": "えんか" }
+      ],
+      "senses": [
+        ["enka", "traditional-style Japanese popular ballad"],
+        ["troubadour"],
+        ["Enka"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "賛歌", "reading": "さんか" },
+        { "word": "讃歌", "reading": "さんか" },
+        { "word": "讚歌", "reading": "さんか" }
+      ],
+      "senses": [["song of praise", "eulogy", "paean", "hymn"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "和歌", "reading": "わか" },
+        { "word": "倭歌", "reading": "わか" }
+      ],
+      "senses": [
+        ["waka", "classic Japanese poem, esp. a tanka, often 31 morae"]
+      ]
+    }
+  ]
+}

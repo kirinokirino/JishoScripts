@@ -1,1 +1,29 @@
-{"basic":["誉","Reputation","2089"],"extended":[{"jlpt":["jlpt-n1"],"tags":["wanikani40"],"japanese":[{"word":"名誉","reading":"めいよ"}],"senses":[["honor","honour","credit","prestige"],["Honour"]]},{"jlpt":[],"tags":["wanikani40"],"japanese":[{"word":"栄誉","reading":"えいよ"}],"senses":[["honour","honor"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani40"],"japanese":[{"word":"名誉","reading":"めいよ"}],"senses":[["honor","honour","credit","prestige"],["Honour"]]},{"jlpt":[],"tags":["wanikani40"],"japanese":[{"word":"栄誉","reading":"えいよ"}],"senses":[["honour","honor"]]}]}
+{
+  "basic": ["誉", "Reputation", "2089"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani40"],
+      "japanese": [{ "word": "名誉", "reading": "めいよ" }],
+      "senses": [["honor", "honour", "credit", "prestige"], ["Honour"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani40"],
+      "japanese": [{ "word": "栄誉", "reading": "えいよ" }],
+      "senses": [["honour", "honor"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani40"],
+      "japanese": [{ "word": "名誉", "reading": "めいよ" }],
+      "senses": [["honor", "honour", "credit", "prestige"], ["Honour"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani40"],
+      "japanese": [{ "word": "栄誉", "reading": "えいよ" }],
+      "senses": [["honour", "honor"]]
+    }
+  ]
+}

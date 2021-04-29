@@ -1,1 +1,29 @@
-{"basic":["瀬","Rapids","1795"],"extended":[{"jlpt":[],"tags":["wanikani41"],"japanese":[{"word":"早瀬","reading":"はやせ"}],"senses":[["swift current","rapids"]]},{"jlpt":[],"tags":["wanikani41"],"japanese":[{"word":"高瀬","reading":"たかせ"}],"senses":[["shallow river","shallows"],["flatboat","river boat"]]},{"jlpt":[],"tags":["wanikani41"],"japanese":[{"word":"早瀬","reading":"はやせ"}],"senses":[["swift current","rapids"]]},{"jlpt":[],"tags":["wanikani41"],"japanese":[{"word":"高瀬","reading":"たかせ"}],"senses":[["shallow river","shallows"],["flatboat","river boat"]]}]}
+{
+  "basic": ["瀬", "Rapids", "1795"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": ["wanikani41"],
+      "japanese": [{ "word": "早瀬", "reading": "はやせ" }],
+      "senses": [["swift current", "rapids"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani41"],
+      "japanese": [{ "word": "高瀬", "reading": "たかせ" }],
+      "senses": [["shallow river", "shallows"], ["flatboat", "river boat"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani41"],
+      "japanese": [{ "word": "早瀬", "reading": "はやせ" }],
+      "senses": [["swift current", "rapids"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani41"],
+      "japanese": [{ "word": "高瀬", "reading": "たかせ" }],
+      "senses": [["shallow river", "shallows"], ["flatboat", "river boat"]]
+    }
+  ]
+}

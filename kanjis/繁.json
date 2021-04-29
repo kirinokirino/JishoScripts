@@ -1,1 +1,17 @@
-{"basic":["繁","Luxuriant","1435"],"extended":[{"jlpt":["jlpt-n1"],"tags":["wanikani40"],"japanese":[{"word":"頻繁","reading":"ひんぱん"}],"senses":[["frequent","incessant"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani40"],"japanese":[{"word":"頻繁","reading":"ひんぱん"}],"senses":[["frequent","incessant"]]}]}
+{
+  "basic": ["繁", "Luxuriant", "1435"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani40"],
+      "japanese": [{ "word": "頻繁", "reading": "ひんぱん" }],
+      "senses": [["frequent", "incessant"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani40"],
+      "japanese": [{ "word": "頻繁", "reading": "ひんぱん" }],
+      "senses": [["frequent", "incessant"]]
+    }
+  ]
+}

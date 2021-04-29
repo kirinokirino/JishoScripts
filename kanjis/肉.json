@@ -1,1 +1,203 @@
-{"basic":["肉","Meat","1098"],"extended":[{"jlpt":["jlpt-n5"],"tags":["wanikani5"],"japanese":[{"word":"牛肉","reading":"ぎゅうにく"}],"senses":[["beef"],["Beef"]]},{"jlpt":["jlpt-n5"],"tags":["wanikani26"],"japanese":[{"word":"豚肉","reading":"ぶたにく"},{"word":"ぶた肉","reading":"ぶたにく"},{"word":"豚肉","reading":"とんにく"}],"senses":[["pork"],["Pork"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani33"],"japanese":[{"word":"筋肉","reading":"きんにく"}],"senses":[["muscle"],["Muscle"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani5"],"japanese":[{"word":"皮肉","reading":"ひにく"}],"senses":[["irony","sarcasm","cynicism","satire"],["unexpected","different from what one expected","not as one had planned"],["(only) surface","something superficial"],["skin and bone","body"]]},{"jlpt":[],"tags":["wanikani58"],"japanese":[{"word":"鶏肉","reading":"とりにく"},{"word":"鳥肉","reading":"とりにく"},{"word":"とり肉","reading":"とりにく"},{"word":"鶏肉","reading":"けいにく"},{"word":"鳥肉","reading":"ちょうにく"}],"senses":[["chicken meat"],["fowl","poultry","bird meat"],["Chicken (food)"]]},{"jlpt":[],"tags":["wanikani18"],"japanese":[{"word":"焼肉","reading":"やきにく"},{"word":"焼き肉","reading":"やきにく"}],"senses":[["yakiniku","Japanese dish of grilled meat similar to Korean barbecue"],["roasted meat","grill"],["Yakiniku"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"ひき肉","reading":"ひきにく"},{"word":"挽肉","reading":"ひきにく"},{"word":"挽き肉","reading":"ひきにく"}],"senses":[["minced meat","ground meat"],["Ground meat"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"苦肉の策","reading":"くにくのさく"}],"senses":[["last resort","desperate measure taken under pressure of necessity"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"食肉","reading":"しょくにく"}],"senses":[["meat (for consumption)"],["Meat"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"太り肉","reading":"ふとりじし"}],"senses":[["corpulent","fat","chubby"]]},{"jlpt":["jlpt-n5"],"tags":["wanikani5"],"japanese":[{"word":"牛肉","reading":"ぎゅうにく"}],"senses":[["beef"],["Beef"]]},{"jlpt":["jlpt-n5"],"tags":["wanikani26"],"japanese":[{"word":"豚肉","reading":"ぶたにく"},{"word":"ぶた肉","reading":"ぶたにく"},{"word":"豚肉","reading":"とんにく"}],"senses":[["pork"],["Pork"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani33"],"japanese":[{"word":"筋肉","reading":"きんにく"}],"senses":[["muscle"],["Muscle"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani5"],"japanese":[{"word":"皮肉","reading":"ひにく"}],"senses":[["irony","sarcasm","cynicism","satire"],["unexpected","different from what one expected","not as one had planned"],["(only) surface","something superficial"],["skin and bone","body"]]},{"jlpt":[],"tags":["wanikani58"],"japanese":[{"word":"鶏肉","reading":"とりにく"},{"word":"鳥肉","reading":"とりにく"},{"word":"とり肉","reading":"とりにく"},{"word":"鶏肉","reading":"けいにく"},{"word":"鳥肉","reading":"ちょうにく"}],"senses":[["chicken meat"],["fowl","poultry","bird meat"],["Chicken (food)"]]},{"jlpt":[],"tags":["wanikani18"],"japanese":[{"word":"焼肉","reading":"やきにく"},{"word":"焼き肉","reading":"やきにく"}],"senses":[["yakiniku","Japanese dish of grilled meat similar to Korean barbecue"],["roasted meat","grill"],["Yakiniku"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"ひき肉","reading":"ひきにく"},{"word":"挽肉","reading":"ひきにく"},{"word":"挽き肉","reading":"ひきにく"}],"senses":[["minced meat","ground meat"],["Ground meat"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"苦肉の策","reading":"くにくのさく"}],"senses":[["last resort","desperate measure taken under pressure of necessity"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"食肉","reading":"しょくにく"}],"senses":[["meat (for consumption)"],["Meat"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"太り肉","reading":"ふとりじし"}],"senses":[["corpulent","fat","chubby"]]}]}
+{
+  "basic": ["肉", "Meat", "1098"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n5"],
+      "tags": ["wanikani5"],
+      "japanese": [{ "word": "牛肉", "reading": "ぎゅうにく" }],
+      "senses": [["beef"], ["Beef"]]
+    },
+    {
+      "jlpt": ["jlpt-n5"],
+      "tags": ["wanikani26"],
+      "japanese": [
+        { "word": "豚肉", "reading": "ぶたにく" },
+        { "word": "ぶた肉", "reading": "ぶたにく" },
+        { "word": "豚肉", "reading": "とんにく" }
+      ],
+      "senses": [["pork"], ["Pork"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani33"],
+      "japanese": [{ "word": "筋肉", "reading": "きんにく" }],
+      "senses": [["muscle"], ["Muscle"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani5"],
+      "japanese": [{ "word": "皮肉", "reading": "ひにく" }],
+      "senses": [
+        ["irony", "sarcasm", "cynicism", "satire"],
+        [
+          "unexpected",
+          "different from what one expected",
+          "not as one had planned"
+        ],
+        ["(only) surface", "something superficial"],
+        ["skin and bone", "body"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani58"],
+      "japanese": [
+        { "word": "鶏肉", "reading": "とりにく" },
+        { "word": "鳥肉", "reading": "とりにく" },
+        { "word": "とり肉", "reading": "とりにく" },
+        { "word": "鶏肉", "reading": "けいにく" },
+        { "word": "鳥肉", "reading": "ちょうにく" }
+      ],
+      "senses": [
+        ["chicken meat"],
+        ["fowl", "poultry", "bird meat"],
+        ["Chicken (food)"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani18"],
+      "japanese": [
+        { "word": "焼肉", "reading": "やきにく" },
+        { "word": "焼き肉", "reading": "やきにく" }
+      ],
+      "senses": [
+        [
+          "yakiniku",
+          "Japanese dish of grilled meat similar to Korean barbecue"
+        ],
+        ["roasted meat", "grill"],
+        ["Yakiniku"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "ひき肉", "reading": "ひきにく" },
+        { "word": "挽肉", "reading": "ひきにく" },
+        { "word": "挽き肉", "reading": "ひきにく" }
+      ],
+      "senses": [["minced meat", "ground meat"], ["Ground meat"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "苦肉の策", "reading": "くにくのさく" }],
+      "senses": [
+        ["last resort", "desperate measure taken under pressure of necessity"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "食肉", "reading": "しょくにく" }],
+      "senses": [["meat (for consumption)"], ["Meat"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "太り肉", "reading": "ふとりじし" }],
+      "senses": [["corpulent", "fat", "chubby"]]
+    },
+    {
+      "jlpt": ["jlpt-n5"],
+      "tags": ["wanikani5"],
+      "japanese": [{ "word": "牛肉", "reading": "ぎゅうにく" }],
+      "senses": [["beef"], ["Beef"]]
+    },
+    {
+      "jlpt": ["jlpt-n5"],
+      "tags": ["wanikani26"],
+      "japanese": [
+        { "word": "豚肉", "reading": "ぶたにく" },
+        { "word": "ぶた肉", "reading": "ぶたにく" },
+        { "word": "豚肉", "reading": "とんにく" }
+      ],
+      "senses": [["pork"], ["Pork"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani33"],
+      "japanese": [{ "word": "筋肉", "reading": "きんにく" }],
+      "senses": [["muscle"], ["Muscle"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani5"],
+      "japanese": [{ "word": "皮肉", "reading": "ひにく" }],
+      "senses": [
+        ["irony", "sarcasm", "cynicism", "satire"],
+        [
+          "unexpected",
+          "different from what one expected",
+          "not as one had planned"
+        ],
+        ["(only) surface", "something superficial"],
+        ["skin and bone", "body"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani58"],
+      "japanese": [
+        { "word": "鶏肉", "reading": "とりにく" },
+        { "word": "鳥肉", "reading": "とりにく" },
+        { "word": "とり肉", "reading": "とりにく" },
+        { "word": "鶏肉", "reading": "けいにく" },
+        { "word": "鳥肉", "reading": "ちょうにく" }
+      ],
+      "senses": [
+        ["chicken meat"],
+        ["fowl", "poultry", "bird meat"],
+        ["Chicken (food)"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani18"],
+      "japanese": [
+        { "word": "焼肉", "reading": "やきにく" },
+        { "word": "焼き肉", "reading": "やきにく" }
+      ],
+      "senses": [
+        [
+          "yakiniku",
+          "Japanese dish of grilled meat similar to Korean barbecue"
+        ],
+        ["roasted meat", "grill"],
+        ["Yakiniku"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "ひき肉", "reading": "ひきにく" },
+        { "word": "挽肉", "reading": "ひきにく" },
+        { "word": "挽き肉", "reading": "ひきにく" }
+      ],
+      "senses": [["minced meat", "ground meat"], ["Ground meat"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "苦肉の策", "reading": "くにくのさく" }],
+      "senses": [
+        ["last resort", "desperate measure taken under pressure of necessity"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "食肉", "reading": "しょくにく" }],
+      "senses": [["meat (for consumption)"], ["Meat"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "太り肉", "reading": "ふとりじし" }],
+      "senses": [["corpulent", "fat", "chubby"]]
+    }
+  ]
+}

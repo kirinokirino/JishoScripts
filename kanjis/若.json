@@ -1,1 +1,59 @@
-{"basic":["若","Young","237"],"extended":[{"jlpt":["jlpt-n2"],"tags":["wanikani19"],"japanese":[{"word":"若々しい","reading":"わかわかしい"},{"word":"若若しい","reading":"わかわかしい"}],"senses":[["youthful","young","young-looking"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"老若","reading":"ろうにゃく"},{"word":"老若","reading":"ろうじゃく"}],"senses":[["young and old","all ages"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"老若男女","reading":"ろうにゃくなんにょ"},{"word":"老若男女","reading":"ろうじゃくだんじょ"}],"senses":[["men and women of all ages"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani19"],"japanese":[{"word":"若々しい","reading":"わかわかしい"},{"word":"若若しい","reading":"わかわかしい"}],"senses":[["youthful","young","young-looking"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"老若","reading":"ろうにゃく"},{"word":"老若","reading":"ろうじゃく"}],"senses":[["young and old","all ages"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"老若男女","reading":"ろうにゃくなんにょ"},{"word":"老若男女","reading":"ろうじゃくだんじょ"}],"senses":[["men and women of all ages"]]}]}
+{
+  "basic": ["若", "Young", "237"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani19"],
+      "japanese": [
+        { "word": "若々しい", "reading": "わかわかしい" },
+        { "word": "若若しい", "reading": "わかわかしい" }
+      ],
+      "senses": [["youthful", "young", "young-looking"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "老若", "reading": "ろうにゃく" },
+        { "word": "老若", "reading": "ろうじゃく" }
+      ],
+      "senses": [["young and old", "all ages"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "老若男女", "reading": "ろうにゃくなんにょ" },
+        { "word": "老若男女", "reading": "ろうじゃくだんじょ" }
+      ],
+      "senses": [["men and women of all ages"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani19"],
+      "japanese": [
+        { "word": "若々しい", "reading": "わかわかしい" },
+        { "word": "若若しい", "reading": "わかわかしい" }
+      ],
+      "senses": [["youthful", "young", "young-looking"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "老若", "reading": "ろうにゃく" },
+        { "word": "老若", "reading": "ろうじゃく" }
+      ],
+      "senses": [["young and old", "all ages"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "老若男女", "reading": "ろうにゃくなんにょ" },
+        { "word": "老若男女", "reading": "ろうじゃくだんじょ" }
+      ],
+      "senses": [["men and women of all ages"]]
+    }
+  ]
+}

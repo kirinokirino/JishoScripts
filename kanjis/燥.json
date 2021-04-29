@@ -1,1 +1,37 @@
-{"basic":["燥","Parch","228"],"extended":[{"jlpt":["jlpt-n2"],"tags":["wanikani51"],"japanese":[{"word":"乾燥","reading":"かんそう"}],"senses":[["dryness","aridity","drying (e.g. clothes)","dehydration","desiccation"],["insipidity"],["Desiccation"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani51"],"japanese":[{"word":"乾燥","reading":"かんそう"}],"senses":[["dryness","aridity","drying (e.g. clothes)","dehydration","desiccation"],["insipidity"],["Desiccation"]]}]}
+{
+  "basic": ["燥", "Parch", "228"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani51"],
+      "japanese": [{ "word": "乾燥", "reading": "かんそう" }],
+      "senses": [
+        [
+          "dryness",
+          "aridity",
+          "drying (e.g. clothes)",
+          "dehydration",
+          "desiccation"
+        ],
+        ["insipidity"],
+        ["Desiccation"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani51"],
+      "japanese": [{ "word": "乾燥", "reading": "かんそう" }],
+      "senses": [
+        [
+          "dryness",
+          "aridity",
+          "drying (e.g. clothes)",
+          "dehydration",
+          "desiccation"
+        ],
+        ["insipidity"],
+        ["Desiccation"]
+      ]
+    }
+  ]
+}

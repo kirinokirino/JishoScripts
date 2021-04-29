@@ -1,1 +1,197 @@
-{"basic":["草","Grass","238"],"extended":[{"jlpt":["jlpt-n1","jlpt-n5"],"tags":[],"japanese":[{"word":"煙草","reading":"たばこ"},{"word":"莨","reading":"たばこ"},{"word":"烟草","reading":"たばこ"},{"word":"煙草","reading":"えんそう"},{"word":"煙草","reading":"けぶりぐさ"},{"word":"煙草","reading":"けむりぐさ"},{"word":"烟草","reading":"えんそう"},{"word":"烟草","reading":"けぶりぐさ"},{"word":"烟草","reading":"けむりぐさ"},{"reading":"タバコ"}],"senses":[["tobacco","cigarette","cigaret","cigar"],["tobacco plant (Nicotiana tabacum)"],["Tabaco"],["Tobacco"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"雑草","reading":"ざっそう"}],"senses":[["weed"],["Weed"]]},{"jlpt":[],"tags":["wanikani43"],"japanese":[{"word":"牧草","reading":"ぼくそう"}],"senses":[["pasture","grass"],["Pasture"]]},{"jlpt":[],"tags":["wanikani5"],"japanese":[{"word":"仕草","reading":"しぐさ"},{"word":"仕種","reading":"しぐさ"},{"word":"為種","reading":"しぐさ"}],"senses":[["gesture","movement","action","behavior","behaviour","bearing","mannerism"],["acting","performance"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"ほうれん草","reading":"ほうれんそう"},{"word":"法蓮草","reading":"ほうれんそう"},{"word":"菠薐草","reading":"ほうれんそう"},{"word":"鳳蓮草","reading":"ほうれんそう"},{"word":"ホウレン草","reading":"ホウレンそう"},{"reading":"ホウレンソウ"}],"senses":[["spinach"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"道草","reading":"みちくさ"}],"senses":[["loitering on the way"],["wayside grass"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"除草","reading":"じょそう"}],"senses":[["weeding"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"起草","reading":"きそう"}],"senses":[["drafting (e.g. a bill)","drawing up"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"タバコ屋","reading":"タバコや"},{"word":"たばこ屋","reading":"たばこや"},{"word":"煙草屋","reading":"たばこや"}],"senses":[["tobacconist"]]},{"jlpt":["jlpt-n1","jlpt-n5"],"tags":[],"japanese":[{"word":"煙草","reading":"たばこ"},{"word":"莨","reading":"たばこ"},{"word":"烟草","reading":"たばこ"},{"word":"煙草","reading":"えんそう"},{"word":"煙草","reading":"けぶりぐさ"},{"word":"煙草","reading":"けむりぐさ"},{"word":"烟草","reading":"えんそう"},{"word":"烟草","reading":"けぶりぐさ"},{"word":"烟草","reading":"けむりぐさ"},{"reading":"タバコ"}],"senses":[["tobacco","cigarette","cigaret","cigar"],["tobacco plant (Nicotiana tabacum)"],["Tabaco"],["Tobacco"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"雑草","reading":"ざっそう"}],"senses":[["weed"],["Weed"]]},{"jlpt":[],"tags":["wanikani43"],"japanese":[{"word":"牧草","reading":"ぼくそう"}],"senses":[["pasture","grass"],["Pasture"]]},{"jlpt":[],"tags":["wanikani5"],"japanese":[{"word":"仕草","reading":"しぐさ"},{"word":"仕種","reading":"しぐさ"},{"word":"為種","reading":"しぐさ"}],"senses":[["gesture","movement","action","behavior","behaviour","bearing","mannerism"],["acting","performance"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"ほうれん草","reading":"ほうれんそう"},{"word":"法蓮草","reading":"ほうれんそう"},{"word":"菠薐草","reading":"ほうれんそう"},{"word":"鳳蓮草","reading":"ほうれんそう"},{"word":"ホウレン草","reading":"ホウレンそう"},{"reading":"ホウレンソウ"}],"senses":[["spinach"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"道草","reading":"みちくさ"}],"senses":[["loitering on the way"],["wayside grass"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"除草","reading":"じょそう"}],"senses":[["weeding"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"起草","reading":"きそう"}],"senses":[["drafting (e.g. a bill)","drawing up"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"タバコ屋","reading":"タバコや"},{"word":"たばこ屋","reading":"たばこや"},{"word":"煙草屋","reading":"たばこや"}],"senses":[["tobacconist"]]}]}
+{
+  "basic": ["草", "Grass", "238"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n1", "jlpt-n5"],
+      "tags": [],
+      "japanese": [
+        { "word": "煙草", "reading": "たばこ" },
+        { "word": "莨", "reading": "たばこ" },
+        { "word": "烟草", "reading": "たばこ" },
+        { "word": "煙草", "reading": "えんそう" },
+        { "word": "煙草", "reading": "けぶりぐさ" },
+        { "word": "煙草", "reading": "けむりぐさ" },
+        { "word": "烟草", "reading": "えんそう" },
+        { "word": "烟草", "reading": "けぶりぐさ" },
+        { "word": "烟草", "reading": "けむりぐさ" },
+        { "reading": "タバコ" }
+      ],
+      "senses": [
+        ["tobacco", "cigarette", "cigaret", "cigar"],
+        ["tobacco plant (Nicotiana tabacum)"],
+        ["Tabaco"],
+        ["Tobacco"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "雑草", "reading": "ざっそう" }],
+      "senses": [["weed"], ["Weed"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani43"],
+      "japanese": [{ "word": "牧草", "reading": "ぼくそう" }],
+      "senses": [["pasture", "grass"], ["Pasture"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani5"],
+      "japanese": [
+        { "word": "仕草", "reading": "しぐさ" },
+        { "word": "仕種", "reading": "しぐさ" },
+        { "word": "為種", "reading": "しぐさ" }
+      ],
+      "senses": [
+        [
+          "gesture",
+          "movement",
+          "action",
+          "behavior",
+          "behaviour",
+          "bearing",
+          "mannerism"
+        ],
+        ["acting", "performance"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "ほうれん草", "reading": "ほうれんそう" },
+        { "word": "法蓮草", "reading": "ほうれんそう" },
+        { "word": "菠薐草", "reading": "ほうれんそう" },
+        { "word": "鳳蓮草", "reading": "ほうれんそう" },
+        { "word": "ホウレン草", "reading": "ホウレンそう" },
+        { "reading": "ホウレンソウ" }
+      ],
+      "senses": [["spinach"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "道草", "reading": "みちくさ" }],
+      "senses": [["loitering on the way"], ["wayside grass"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "除草", "reading": "じょそう" }],
+      "senses": [["weeding"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "起草", "reading": "きそう" }],
+      "senses": [["drafting (e.g. a bill)", "drawing up"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "タバコ屋", "reading": "タバコや" },
+        { "word": "たばこ屋", "reading": "たばこや" },
+        { "word": "煙草屋", "reading": "たばこや" }
+      ],
+      "senses": [["tobacconist"]]
+    },
+    {
+      "jlpt": ["jlpt-n1", "jlpt-n5"],
+      "tags": [],
+      "japanese": [
+        { "word": "煙草", "reading": "たばこ" },
+        { "word": "莨", "reading": "たばこ" },
+        { "word": "烟草", "reading": "たばこ" },
+        { "word": "煙草", "reading": "えんそう" },
+        { "word": "煙草", "reading": "けぶりぐさ" },
+        { "word": "煙草", "reading": "けむりぐさ" },
+        { "word": "烟草", "reading": "えんそう" },
+        { "word": "烟草", "reading": "けぶりぐさ" },
+        { "word": "烟草", "reading": "けむりぐさ" },
+        { "reading": "タバコ" }
+      ],
+      "senses": [
+        ["tobacco", "cigarette", "cigaret", "cigar"],
+        ["tobacco plant (Nicotiana tabacum)"],
+        ["Tabaco"],
+        ["Tobacco"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "雑草", "reading": "ざっそう" }],
+      "senses": [["weed"], ["Weed"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani43"],
+      "japanese": [{ "word": "牧草", "reading": "ぼくそう" }],
+      "senses": [["pasture", "grass"], ["Pasture"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani5"],
+      "japanese": [
+        { "word": "仕草", "reading": "しぐさ" },
+        { "word": "仕種", "reading": "しぐさ" },
+        { "word": "為種", "reading": "しぐさ" }
+      ],
+      "senses": [
+        [
+          "gesture",
+          "movement",
+          "action",
+          "behavior",
+          "behaviour",
+          "bearing",
+          "mannerism"
+        ],
+        ["acting", "performance"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "ほうれん草", "reading": "ほうれんそう" },
+        { "word": "法蓮草", "reading": "ほうれんそう" },
+        { "word": "菠薐草", "reading": "ほうれんそう" },
+        { "word": "鳳蓮草", "reading": "ほうれんそう" },
+        { "word": "ホウレン草", "reading": "ホウレンそう" },
+        { "reading": "ホウレンソウ" }
+      ],
+      "senses": [["spinach"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "道草", "reading": "みちくさ" }],
+      "senses": [["loitering on the way"], ["wayside grass"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "除草", "reading": "じょそう" }],
+      "senses": [["weeding"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "起草", "reading": "きそう" }],
+      "senses": [["drafting (e.g. a bill)", "drawing up"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "タバコ屋", "reading": "タバコや" },
+        { "word": "たばこ屋", "reading": "たばこや" },
+        { "word": "煙草屋", "reading": "たばこや" }
+      ],
+      "senses": [["tobacconist"]]
+    }
+  ]
+}

@@ -1,1 +1,47 @@
-{"basic":["藻","Seaweed","2191"],"extended":[{"jlpt":[],"tags":["wanikani60"],"japanese":[{"word":"海藻","reading":"かいそう"}],"senses":[["seaweed"],["Seaweed"]]},{"jlpt":[],"tags":["wanikani19"],"japanese":[{"word":"若布","reading":"わかめ"},{"word":"和布","reading":"わかめ"},{"word":"稚海藻","reading":"わかめ"},{"word":"裙蔕菜","reading":"わかめ"},{"reading":"ワカメ"}],"senses":[["wakame (species of edible brown seaweed, Undaria pinnatifida)"],["Wakame"]]},{"jlpt":[],"tags":["wanikani60"],"japanese":[{"word":"海藻","reading":"かいそう"}],"senses":[["seaweed"],["Seaweed"]]},{"jlpt":[],"tags":["wanikani19"],"japanese":[{"word":"若布","reading":"わかめ"},{"word":"和布","reading":"わかめ"},{"word":"稚海藻","reading":"わかめ"},{"word":"裙蔕菜","reading":"わかめ"},{"reading":"ワカメ"}],"senses":[["wakame (species of edible brown seaweed, Undaria pinnatifida)"],["Wakame"]]}]}
+{
+  "basic": ["藻", "Seaweed", "2191"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": ["wanikani60"],
+      "japanese": [{ "word": "海藻", "reading": "かいそう" }],
+      "senses": [["seaweed"], ["Seaweed"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani19"],
+      "japanese": [
+        { "word": "若布", "reading": "わかめ" },
+        { "word": "和布", "reading": "わかめ" },
+        { "word": "稚海藻", "reading": "わかめ" },
+        { "word": "裙蔕菜", "reading": "わかめ" },
+        { "reading": "ワカメ" }
+      ],
+      "senses": [
+        ["wakame (species of edible brown seaweed, Undaria pinnatifida)"],
+        ["Wakame"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani60"],
+      "japanese": [{ "word": "海藻", "reading": "かいそう" }],
+      "senses": [["seaweed"], ["Seaweed"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani19"],
+      "japanese": [
+        { "word": "若布", "reading": "わかめ" },
+        { "word": "和布", "reading": "わかめ" },
+        { "word": "稚海藻", "reading": "わかめ" },
+        { "word": "裙蔕菜", "reading": "わかめ" },
+        { "reading": "ワカメ" }
+      ],
+      "senses": [
+        ["wakame (species of edible brown seaweed, Undaria pinnatifida)"],
+        ["Wakame"]
+      ]
+    }
+  ]
+}

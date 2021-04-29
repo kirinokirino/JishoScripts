@@ -1,1 +1,17 @@
-{"basic":["昇","Rise Up","43"],"extended":[{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"上昇","reading":"じょうしょう"}],"senses":[["rising","ascending","climbing"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"上昇","reading":"じょうしょう"}],"senses":[["rising","ascending","climbing"]]}]}
+{
+  "basic": ["昇", "Rise Up", "43"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "上昇", "reading": "じょうしょう" }],
+      "senses": [["rising", "ascending", "climbing"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "上昇", "reading": "じょうしょう" }],
+      "senses": [["rising", "ascending", "climbing"]]
+    }
+  ]
+}

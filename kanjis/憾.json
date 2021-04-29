@@ -1,1 +1,17 @@
-{"basic":["憾","Remorse","678"],"extended":[{"jlpt":[],"tags":["wanikani55"],"japanese":[{"word":"遺憾","reading":"いかん"}],"senses":[["regrettable","unsatisfactory","deplorable","lamentable"]]},{"jlpt":[],"tags":["wanikani55"],"japanese":[{"word":"遺憾","reading":"いかん"}],"senses":[["regrettable","unsatisfactory","deplorable","lamentable"]]}]}
+{
+  "basic": ["憾", "Remorse", "678"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": ["wanikani55"],
+      "japanese": [{ "word": "遺憾", "reading": "いかん" }],
+      "senses": [["regrettable", "unsatisfactory", "deplorable", "lamentable"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani55"],
+      "japanese": [{ "word": "遺憾", "reading": "いかん" }],
+      "senses": [["regrettable", "unsatisfactory", "deplorable", "lamentable"]]
+    }
+  ]
+}

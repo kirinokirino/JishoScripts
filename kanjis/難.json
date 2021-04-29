@@ -1,1 +1,397 @@
-{"basic":["難","Difficult","1703"],"extended":[{"jlpt":["jlpt-n3"],"tags":["wanikani20"],"japanese":[{"word":"困難","reading":"こんなん"}],"senses":[["difficulty","hardship","trouble","distress"],["infeasibility","inability (to carry out)"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"盗難","reading":"とうなん"}],"senses":[["theft","robbery"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"有難い","reading":"ありがたい"},{"word":"有り難い","reading":"ありがたい"}],"senses":[["grateful","thankful","welcome","appreciated","evoking gratitude"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani20"],"japanese":[{"word":"災難","reading":"さいなん"}],"senses":[["calamity","misfortune","disaster"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani20","wanikani22"],"japanese":[{"word":"非難","reading":"ひなん"},{"word":"批難","reading":"ひなん"}],"senses":[["criticism","blame","censure","attack","reproach"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani38","wanikani40"],"japanese":[{"word":"避難","reading":"ひなん"}],"senses":[["taking refuge","finding shelter","evacuation","escape","seeking safe haven"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"無難","reading":"ぶなん"}],"senses":[["safe (e.g. choice)","secure","innocuous","inoffensive"],["acceptable","passable","satisfactory","adequate","faultless","without flaw"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani52"],"japanese":[{"word":"遭難","reading":"そうなん"}],"senses":[["disaster","accident","shipwreck","distress"]]},{"jlpt":["jlpt-n3","jlpt-n1"],"tags":["wanikani22"],"japanese":[{"word":"有り難う","reading":"ありがとう"},{"word":"有難う","reading":"ありがとう"},{"reading":"ありがと"}],"senses":[["thank you","thanks"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"苦難","reading":"くなん"}],"senses":[["suffering","distress","hardship","trial"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"避難民","reading":"ひなんみん"}],"senses":[["evacuees","displaced persons","refugees"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"多難","reading":"たなん"}],"senses":[["full of troubles, difficulties"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"財政難","reading":"ざいせいなん"}],"senses":[["economic difficulties","financial difficulties","fiscal difficulties"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"気難しい","reading":"きむずかしい"},{"word":"気むずかしい","reading":"きむずかしい"},{"word":"気難しい","reading":"きむづかしい"}],"senses":[["hard to please","moody","crusty","fastidious"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"読みにくい","reading":"よみにくい"},{"word":"読み悪い","reading":"よみにくい"},{"word":"読み難い","reading":"よみにくい"}],"senses":[["hard to read","illegible"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"受難","reading":"じゅなん"}],"senses":[["sufferings","ordeals","agony"],["Passion (of Christ)","crucifixion"],["Passion (Christianity)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"どうも有難う","reading":"どうもありがとう"},{"word":"どうも有り難う","reading":"どうもありがとう"}],"senses":[["thank you very much"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"有難うございます","reading":"ありがとうございます"},{"word":"有り難うございます","reading":"ありがとうございます"},{"word":"有難う御座います","reading":"ありがとうございます"},{"word":"有り難う御座います","reading":"ありがとうございます"}],"senses":[["thank you"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"至難","reading":"しなん"}],"senses":[["most difficult","next to impossible"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"海難","reading":"かいなん"}],"senses":[["accident at sea","sea disaster","shipwreck"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani20"],"japanese":[{"word":"困難","reading":"こんなん"}],"senses":[["difficulty","hardship","trouble","distress"],["infeasibility","inability (to carry out)"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"盗難","reading":"とうなん"}],"senses":[["theft","robbery"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"有難い","reading":"ありがたい"},{"word":"有り難い","reading":"ありがたい"}],"senses":[["grateful","thankful","welcome","appreciated","evoking gratitude"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani20"],"japanese":[{"word":"災難","reading":"さいなん"}],"senses":[["calamity","misfortune","disaster"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani20","wanikani22"],"japanese":[{"word":"非難","reading":"ひなん"},{"word":"批難","reading":"ひなん"}],"senses":[["criticism","blame","censure","attack","reproach"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani38","wanikani40"],"japanese":[{"word":"避難","reading":"ひなん"}],"senses":[["taking refuge","finding shelter","evacuation","escape","seeking safe haven"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"無難","reading":"ぶなん"}],"senses":[["safe (e.g. choice)","secure","innocuous","inoffensive"],["acceptable","passable","satisfactory","adequate","faultless","without flaw"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani52"],"japanese":[{"word":"遭難","reading":"そうなん"}],"senses":[["disaster","accident","shipwreck","distress"]]},{"jlpt":["jlpt-n3","jlpt-n1"],"tags":["wanikani22"],"japanese":[{"word":"有り難う","reading":"ありがとう"},{"word":"有難う","reading":"ありがとう"},{"reading":"ありがと"}],"senses":[["thank you","thanks"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"苦難","reading":"くなん"}],"senses":[["suffering","distress","hardship","trial"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"避難民","reading":"ひなんみん"}],"senses":[["evacuees","displaced persons","refugees"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"多難","reading":"たなん"}],"senses":[["full of troubles, difficulties"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"財政難","reading":"ざいせいなん"}],"senses":[["economic difficulties","financial difficulties","fiscal difficulties"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"気難しい","reading":"きむずかしい"},{"word":"気むずかしい","reading":"きむずかしい"},{"word":"気難しい","reading":"きむづかしい"}],"senses":[["hard to please","moody","crusty","fastidious"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"読みにくい","reading":"よみにくい"},{"word":"読み悪い","reading":"よみにくい"},{"word":"読み難い","reading":"よみにくい"}],"senses":[["hard to read","illegible"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"受難","reading":"じゅなん"}],"senses":[["sufferings","ordeals","agony"],["Passion (of Christ)","crucifixion"],["Passion (Christianity)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"どうも有難う","reading":"どうもありがとう"},{"word":"どうも有り難う","reading":"どうもありがとう"}],"senses":[["thank you very much"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"有難うございます","reading":"ありがとうございます"},{"word":"有り難うございます","reading":"ありがとうございます"},{"word":"有難う御座います","reading":"ありがとうございます"},{"word":"有り難う御座います","reading":"ありがとうございます"}],"senses":[["thank you"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"至難","reading":"しなん"}],"senses":[["most difficult","next to impossible"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"海難","reading":"かいなん"}],"senses":[["accident at sea","sea disaster","shipwreck"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"分かりにくい","reading":"わかりにくい"},{"word":"分かり難い","reading":"わかりにくい"},{"word":"判りにくい","reading":"わかりにくい"},{"word":"解りにくい","reading":"わかりにくい"},{"word":"判り難い","reading":"わかりにくい"},{"word":"解り難い","reading":"わかりにくい"},{"word":"分かり悪い","reading":"わかりにくい"}],"senses":[["hard to understand","incomprehensible","unintelligible"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"有難うございました","reading":"ありがとうございました"},{"word":"有り難うございました","reading":"ありがとうございました"}],"senses":[["thank you"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"誠にありがとうございます","reading":"まことにありがとうございます"},{"word":"誠に有難うございます","reading":"まことにありがとうございます"},{"word":"誠に有難う御座います","reading":"まことにありがとうございます"},{"word":"誠にありがとう御座います","reading":"まことにありがとうございます"}],"senses":[["thank you very much"]]}]}
+{
+  "basic": ["難", "Difficult", "1703"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani20"],
+      "japanese": [{ "word": "困難", "reading": "こんなん" }],
+      "senses": [
+        ["difficulty", "hardship", "trouble", "distress"],
+        ["infeasibility", "inability (to carry out)"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "盗難", "reading": "とうなん" }],
+      "senses": [["theft", "robbery"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [
+        { "word": "有難い", "reading": "ありがたい" },
+        { "word": "有り難い", "reading": "ありがたい" }
+      ],
+      "senses": [
+        ["grateful", "thankful", "welcome", "appreciated", "evoking gratitude"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani20"],
+      "japanese": [{ "word": "災難", "reading": "さいなん" }],
+      "senses": [["calamity", "misfortune", "disaster"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani20", "wanikani22"],
+      "japanese": [
+        { "word": "非難", "reading": "ひなん" },
+        { "word": "批難", "reading": "ひなん" }
+      ],
+      "senses": [["criticism", "blame", "censure", "attack", "reproach"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani38", "wanikani40"],
+      "japanese": [{ "word": "避難", "reading": "ひなん" }],
+      "senses": [
+        [
+          "taking refuge",
+          "finding shelter",
+          "evacuation",
+          "escape",
+          "seeking safe haven"
+        ]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "無難", "reading": "ぶなん" }],
+      "senses": [
+        ["safe (e.g. choice)", "secure", "innocuous", "inoffensive"],
+        [
+          "acceptable",
+          "passable",
+          "satisfactory",
+          "adequate",
+          "faultless",
+          "without flaw"
+        ]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani52"],
+      "japanese": [{ "word": "遭難", "reading": "そうなん" }],
+      "senses": [["disaster", "accident", "shipwreck", "distress"]]
+    },
+    {
+      "jlpt": ["jlpt-n3", "jlpt-n1"],
+      "tags": ["wanikani22"],
+      "japanese": [
+        { "word": "有り難う", "reading": "ありがとう" },
+        { "word": "有難う", "reading": "ありがとう" },
+        { "reading": "ありがと" }
+      ],
+      "senses": [["thank you", "thanks"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "苦難", "reading": "くなん" }],
+      "senses": [["suffering", "distress", "hardship", "trial"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "避難民", "reading": "ひなんみん" }],
+      "senses": [["evacuees", "displaced persons", "refugees"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "多難", "reading": "たなん" }],
+      "senses": [["full of troubles, difficulties"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "財政難", "reading": "ざいせいなん" }],
+      "senses": [
+        [
+          "economic difficulties",
+          "financial difficulties",
+          "fiscal difficulties"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "気難しい", "reading": "きむずかしい" },
+        { "word": "気むずかしい", "reading": "きむずかしい" },
+        { "word": "気難しい", "reading": "きむづかしい" }
+      ],
+      "senses": [["hard to please", "moody", "crusty", "fastidious"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "読みにくい", "reading": "よみにくい" },
+        { "word": "読み悪い", "reading": "よみにくい" },
+        { "word": "読み難い", "reading": "よみにくい" }
+      ],
+      "senses": [["hard to read", "illegible"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "受難", "reading": "じゅなん" }],
+      "senses": [
+        ["sufferings", "ordeals", "agony"],
+        ["Passion (of Christ)", "crucifixion"],
+        ["Passion (Christianity)"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "どうも有難う", "reading": "どうもありがとう" },
+        { "word": "どうも有り難う", "reading": "どうもありがとう" }
+      ],
+      "senses": [["thank you very much"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "有難うございます", "reading": "ありがとうございます" },
+        { "word": "有り難うございます", "reading": "ありがとうございます" },
+        { "word": "有難う御座います", "reading": "ありがとうございます" },
+        { "word": "有り難う御座います", "reading": "ありがとうございます" }
+      ],
+      "senses": [["thank you"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "至難", "reading": "しなん" }],
+      "senses": [["most difficult", "next to impossible"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "海難", "reading": "かいなん" }],
+      "senses": [["accident at sea", "sea disaster", "shipwreck"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani20"],
+      "japanese": [{ "word": "困難", "reading": "こんなん" }],
+      "senses": [
+        ["difficulty", "hardship", "trouble", "distress"],
+        ["infeasibility", "inability (to carry out)"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "盗難", "reading": "とうなん" }],
+      "senses": [["theft", "robbery"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [
+        { "word": "有難い", "reading": "ありがたい" },
+        { "word": "有り難い", "reading": "ありがたい" }
+      ],
+      "senses": [
+        ["grateful", "thankful", "welcome", "appreciated", "evoking gratitude"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani20"],
+      "japanese": [{ "word": "災難", "reading": "さいなん" }],
+      "senses": [["calamity", "misfortune", "disaster"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani20", "wanikani22"],
+      "japanese": [
+        { "word": "非難", "reading": "ひなん" },
+        { "word": "批難", "reading": "ひなん" }
+      ],
+      "senses": [["criticism", "blame", "censure", "attack", "reproach"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani38", "wanikani40"],
+      "japanese": [{ "word": "避難", "reading": "ひなん" }],
+      "senses": [
+        [
+          "taking refuge",
+          "finding shelter",
+          "evacuation",
+          "escape",
+          "seeking safe haven"
+        ]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "無難", "reading": "ぶなん" }],
+      "senses": [
+        ["safe (e.g. choice)", "secure", "innocuous", "inoffensive"],
+        [
+          "acceptable",
+          "passable",
+          "satisfactory",
+          "adequate",
+          "faultless",
+          "without flaw"
+        ]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani52"],
+      "japanese": [{ "word": "遭難", "reading": "そうなん" }],
+      "senses": [["disaster", "accident", "shipwreck", "distress"]]
+    },
+    {
+      "jlpt": ["jlpt-n3", "jlpt-n1"],
+      "tags": ["wanikani22"],
+      "japanese": [
+        { "word": "有り難う", "reading": "ありがとう" },
+        { "word": "有難う", "reading": "ありがとう" },
+        { "reading": "ありがと" }
+      ],
+      "senses": [["thank you", "thanks"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "苦難", "reading": "くなん" }],
+      "senses": [["suffering", "distress", "hardship", "trial"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "避難民", "reading": "ひなんみん" }],
+      "senses": [["evacuees", "displaced persons", "refugees"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "多難", "reading": "たなん" }],
+      "senses": [["full of troubles, difficulties"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "財政難", "reading": "ざいせいなん" }],
+      "senses": [
+        [
+          "economic difficulties",
+          "financial difficulties",
+          "fiscal difficulties"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "気難しい", "reading": "きむずかしい" },
+        { "word": "気むずかしい", "reading": "きむずかしい" },
+        { "word": "気難しい", "reading": "きむづかしい" }
+      ],
+      "senses": [["hard to please", "moody", "crusty", "fastidious"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "読みにくい", "reading": "よみにくい" },
+        { "word": "読み悪い", "reading": "よみにくい" },
+        { "word": "読み難い", "reading": "よみにくい" }
+      ],
+      "senses": [["hard to read", "illegible"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "受難", "reading": "じゅなん" }],
+      "senses": [
+        ["sufferings", "ordeals", "agony"],
+        ["Passion (of Christ)", "crucifixion"],
+        ["Passion (Christianity)"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "どうも有難う", "reading": "どうもありがとう" },
+        { "word": "どうも有り難う", "reading": "どうもありがとう" }
+      ],
+      "senses": [["thank you very much"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "有難うございます", "reading": "ありがとうございます" },
+        { "word": "有り難うございます", "reading": "ありがとうございます" },
+        { "word": "有難う御座います", "reading": "ありがとうございます" },
+        { "word": "有り難う御座います", "reading": "ありがとうございます" }
+      ],
+      "senses": [["thank you"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "至難", "reading": "しなん" }],
+      "senses": [["most difficult", "next to impossible"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "海難", "reading": "かいなん" }],
+      "senses": [["accident at sea", "sea disaster", "shipwreck"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "分かりにくい", "reading": "わかりにくい" },
+        { "word": "分かり難い", "reading": "わかりにくい" },
+        { "word": "判りにくい", "reading": "わかりにくい" },
+        { "word": "解りにくい", "reading": "わかりにくい" },
+        { "word": "判り難い", "reading": "わかりにくい" },
+        { "word": "解り難い", "reading": "わかりにくい" },
+        { "word": "分かり悪い", "reading": "わかりにくい" }
+      ],
+      "senses": [["hard to understand", "incomprehensible", "unintelligible"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "有難うございました", "reading": "ありがとうございました" },
+        { "word": "有り難うございました", "reading": "ありがとうございました" }
+      ],
+      "senses": [["thank you"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "誠にありがとうございます", "reading": "まことにありがとうございます" },
+        { "word": "誠に有難うございます", "reading": "まことにありがとうございます" },
+        { "word": "誠に有難う御座います", "reading": "まことにありがとうございます" },
+        { "word": "誠にありがとう御座います", "reading": "まことにありがとうございます" }
+      ],
+      "senses": [["thank you very much"]]
+    }
+  ]
+}

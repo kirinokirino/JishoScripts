@@ -1,1 +1,253 @@
-{"basic":["常","Usual","862"],"extended":[{"jlpt":["jlpt-n3"],"tags":["wanikani33"],"japanese":[{"word":"異常","reading":"いじょう"}],"senses":[["strangeness","abnormality","disorder"],["Abnormality (behavior)"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani17"],"japanese":[{"word":"非常","reading":"ひじょう"}],"senses":[["emergency"],["extraordinary","unusual"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani17"],"japanese":[{"word":"日常","reading":"にちじょう"}],"senses":[["everyday","daily","ordinary","usual","routine","regular"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"通常","reading":"つうじょう"}],"senses":[["usual","ordinary","normal","regular","general","common"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"正常","reading":"せいじょう"}],"senses":[["normalcy","normality","normal"]]},{"jlpt":["jlpt-n4"],"tags":["wanikani19"],"japanese":[{"word":"非常に","reading":"ひじょうに"}],"senses":[["very","extremely","exceedingly"]]},{"jlpt":[],"tags":["wanikani19"],"japanese":[{"word":"非常口","reading":"ひじょうぐち"}],"senses":[["emergency exit"],["Emergency exit"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"日常生活","reading":"にちじょうせいかつ"}],"senses":[["everyday life","daily life"],["Everyday life"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"非常識","reading":"ひじょうしき"}],"senses":[["lack of common sense","thoughtlessness","senselessness","irrationality","absurdity"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"平常","reading":"へいじょう"}],"senses":[["normal","usual","ordinary","everyday"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"経常利益","reading":"けいじょうりえき"}],"senses":[["current profits","ordinary profit","income before income taxes","ordinary income","operating income"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"非常勤","reading":"ひじょうきん"}],"senses":[["part-time work"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"正常化","reading":"せいじょうか"}],"senses":[["normalization","normalisation"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"経常","reading":"けいじょう"},{"word":"経常","reading":"けいつね"}],"senses":[["ordinary"]]},{"jlpt":[],"tags":["wanikani52"],"japanese":[{"word":"恒常","reading":"こうじょう"}],"senses":[["constancy","permanence"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"健常者","reading":"けんじょうしゃ"}],"senses":[["person with no physical or mental disability","able-bodied person"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani33"],"japanese":[{"word":"異常","reading":"いじょう"}],"senses":[["strangeness","abnormality","disorder"],["Abnormality (behavior)"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani17"],"japanese":[{"word":"非常","reading":"ひじょう"}],"senses":[["emergency"],["extraordinary","unusual"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani17"],"japanese":[{"word":"日常","reading":"にちじょう"}],"senses":[["everyday","daily","ordinary","usual","routine","regular"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"通常","reading":"つうじょう"}],"senses":[["usual","ordinary","normal","regular","general","common"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"正常","reading":"せいじょう"}],"senses":[["normalcy","normality","normal"]]},{"jlpt":["jlpt-n4"],"tags":["wanikani19"],"japanese":[{"word":"非常に","reading":"ひじょうに"}],"senses":[["very","extremely","exceedingly"]]},{"jlpt":[],"tags":["wanikani19"],"japanese":[{"word":"非常口","reading":"ひじょうぐち"}],"senses":[["emergency exit"],["Emergency exit"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"日常生活","reading":"にちじょうせいかつ"}],"senses":[["everyday life","daily life"],["Everyday life"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"非常識","reading":"ひじょうしき"}],"senses":[["lack of common sense","thoughtlessness","senselessness","irrationality","absurdity"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"平常","reading":"へいじょう"}],"senses":[["normal","usual","ordinary","everyday"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"経常利益","reading":"けいじょうりえき"}],"senses":[["current profits","ordinary profit","income before income taxes","ordinary income","operating income"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"非常勤","reading":"ひじょうきん"}],"senses":[["part-time work"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"正常化","reading":"せいじょうか"}],"senses":[["normalization","normalisation"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"経常","reading":"けいじょう"},{"word":"経常","reading":"けいつね"}],"senses":[["ordinary"]]},{"jlpt":[],"tags":["wanikani52"],"japanese":[{"word":"恒常","reading":"こうじょう"}],"senses":[["constancy","permanence"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"健常者","reading":"けんじょうしゃ"}],"senses":[["person with no physical or mental disability","able-bodied person"]]}]}
+{
+  "basic": ["常", "Usual", "862"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani33"],
+      "japanese": [{ "word": "異常", "reading": "いじょう" }],
+      "senses": [
+        ["strangeness", "abnormality", "disorder"],
+        ["Abnormality (behavior)"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani17"],
+      "japanese": [{ "word": "非常", "reading": "ひじょう" }],
+      "senses": [["emergency"], ["extraordinary", "unusual"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani17"],
+      "japanese": [{ "word": "日常", "reading": "にちじょう" }],
+      "senses": [
+        ["everyday", "daily", "ordinary", "usual", "routine", "regular"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "通常", "reading": "つうじょう" }],
+      "senses": [
+        ["usual", "ordinary", "normal", "regular", "general", "common"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "正常", "reading": "せいじょう" }],
+      "senses": [["normalcy", "normality", "normal"]]
+    },
+    {
+      "jlpt": ["jlpt-n4"],
+      "tags": ["wanikani19"],
+      "japanese": [{ "word": "非常に", "reading": "ひじょうに" }],
+      "senses": [["very", "extremely", "exceedingly"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani19"],
+      "japanese": [{ "word": "非常口", "reading": "ひじょうぐち" }],
+      "senses": [["emergency exit"], ["Emergency exit"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "日常生活", "reading": "にちじょうせいかつ" }],
+      "senses": [["everyday life", "daily life"], ["Everyday life"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "非常識", "reading": "ひじょうしき" }],
+      "senses": [
+        [
+          "lack of common sense",
+          "thoughtlessness",
+          "senselessness",
+          "irrationality",
+          "absurdity"
+        ]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "平常", "reading": "へいじょう" }],
+      "senses": [["normal", "usual", "ordinary", "everyday"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "経常利益", "reading": "けいじょうりえき" }],
+      "senses": [
+        [
+          "current profits",
+          "ordinary profit",
+          "income before income taxes",
+          "ordinary income",
+          "operating income"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "非常勤", "reading": "ひじょうきん" }],
+      "senses": [["part-time work"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "正常化", "reading": "せいじょうか" }],
+      "senses": [["normalization", "normalisation"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "経常", "reading": "けいじょう" },
+        { "word": "経常", "reading": "けいつね" }
+      ],
+      "senses": [["ordinary"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani52"],
+      "japanese": [{ "word": "恒常", "reading": "こうじょう" }],
+      "senses": [["constancy", "permanence"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "健常者", "reading": "けんじょうしゃ" }],
+      "senses": [
+        ["person with no physical or mental disability", "able-bodied person"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani33"],
+      "japanese": [{ "word": "異常", "reading": "いじょう" }],
+      "senses": [
+        ["strangeness", "abnormality", "disorder"],
+        ["Abnormality (behavior)"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani17"],
+      "japanese": [{ "word": "非常", "reading": "ひじょう" }],
+      "senses": [["emergency"], ["extraordinary", "unusual"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani17"],
+      "japanese": [{ "word": "日常", "reading": "にちじょう" }],
+      "senses": [
+        ["everyday", "daily", "ordinary", "usual", "routine", "regular"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "通常", "reading": "つうじょう" }],
+      "senses": [
+        ["usual", "ordinary", "normal", "regular", "general", "common"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "正常", "reading": "せいじょう" }],
+      "senses": [["normalcy", "normality", "normal"]]
+    },
+    {
+      "jlpt": ["jlpt-n4"],
+      "tags": ["wanikani19"],
+      "japanese": [{ "word": "非常に", "reading": "ひじょうに" }],
+      "senses": [["very", "extremely", "exceedingly"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani19"],
+      "japanese": [{ "word": "非常口", "reading": "ひじょうぐち" }],
+      "senses": [["emergency exit"], ["Emergency exit"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "日常生活", "reading": "にちじょうせいかつ" }],
+      "senses": [["everyday life", "daily life"], ["Everyday life"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "非常識", "reading": "ひじょうしき" }],
+      "senses": [
+        [
+          "lack of common sense",
+          "thoughtlessness",
+          "senselessness",
+          "irrationality",
+          "absurdity"
+        ]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "平常", "reading": "へいじょう" }],
+      "senses": [["normal", "usual", "ordinary", "everyday"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "経常利益", "reading": "けいじょうりえき" }],
+      "senses": [
+        [
+          "current profits",
+          "ordinary profit",
+          "income before income taxes",
+          "ordinary income",
+          "operating income"
+        ]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "非常勤", "reading": "ひじょうきん" }],
+      "senses": [["part-time work"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "正常化", "reading": "せいじょうか" }],
+      "senses": [["normalization", "normalisation"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "経常", "reading": "けいじょう" },
+        { "word": "経常", "reading": "けいつね" }
+      ],
+      "senses": [["ordinary"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani52"],
+      "japanese": [{ "word": "恒常", "reading": "こうじょう" }],
+      "senses": [["constancy", "permanence"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "健常者", "reading": "けんじょうしゃ" }],
+      "senses": [
+        ["person with no physical or mental disability", "able-bodied person"]
+      ]
+    }
+  ]
+}

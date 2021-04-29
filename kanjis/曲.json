@@ -1,1 +1,191 @@
-{"basic":["曲","Bend","1256"],"extended":[{"jlpt":["jlpt-n3"],"tags":[],"japanese":[{"word":"作曲","reading":"さっきょく"}],"senses":[["composition","setting (of music)"],["Musical composition"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani58"],"japanese":[{"word":"戯曲","reading":"ぎきょく"}],"senses":[["drama","play"],["Chinese opera"],["Play (theatre)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"交響曲","reading":"こうきょうきょく"}],"senses":[["symphony"],["Symphony"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"協奏曲","reading":"きょうそうきょく"}],"senses":[["concerto"],["Concerto"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"作曲家","reading":"さっきょくか"}],"senses":[["composer"],["Composer"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"一曲","reading":"いっきょく"}],"senses":[["tune (melody, piece of music)"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"婉曲","reading":"えんきょく"}],"senses":[["euphemistic","circumlocutory","roundabout","indirect"]]},{"jlpt":[],"tags":["wanikani56"],"japanese":[{"word":"歌謡曲","reading":"かようきょく"}],"senses":[["kayōkyoku","form of Japanese popular music that developed during the Showa era"],["(Western) pop song"],["Kayōkyoku"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"歌曲","reading":"かきょく"}],"senses":[["melody","tune","song"],["Lied"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"組曲","reading":"くみきょく"}],"senses":[["suite"],["Suite (music)"]]},{"jlpt":[],"tags":["wanikani6"],"japanese":[{"word":"名曲","reading":"めいきょく"}],"senses":[["famous piece of music","excellent song","(musical) masterpiece"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"新曲","reading":"しんきょく"}],"senses":[["new (musical) composition","new piece","new song"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"楽曲","reading":"がっきょく"}],"senses":[["musical composition","tune"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"全曲","reading":"ぜんきょく"}],"senses":[["all compositions","the entire composition"]]},{"jlpt":["jlpt-n3"],"tags":[],"japanese":[{"word":"作曲","reading":"さっきょく"}],"senses":[["composition","setting (of music)"],["Musical composition"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani58"],"japanese":[{"word":"戯曲","reading":"ぎきょく"}],"senses":[["drama","play"],["Chinese opera"],["Play (theatre)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"交響曲","reading":"こうきょうきょく"}],"senses":[["symphony"],["Symphony"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"協奏曲","reading":"きょうそうきょく"}],"senses":[["concerto"],["Concerto"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"作曲家","reading":"さっきょくか"}],"senses":[["composer"],["Composer"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"一曲","reading":"いっきょく"}],"senses":[["tune (melody, piece of music)"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"婉曲","reading":"えんきょく"}],"senses":[["euphemistic","circumlocutory","roundabout","indirect"]]},{"jlpt":[],"tags":["wanikani56"],"japanese":[{"word":"歌謡曲","reading":"かようきょく"}],"senses":[["kayōkyoku","form of Japanese popular music that developed during the Showa era"],["(Western) pop song"],["Kayōkyoku"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"歌曲","reading":"かきょく"}],"senses":[["melody","tune","song"],["Lied"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"組曲","reading":"くみきょく"}],"senses":[["suite"],["Suite (music)"]]},{"jlpt":[],"tags":["wanikani6"],"japanese":[{"word":"名曲","reading":"めいきょく"}],"senses":[["famous piece of music","excellent song","(musical) masterpiece"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"新曲","reading":"しんきょく"}],"senses":[["new (musical) composition","new piece","new song"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"楽曲","reading":"がっきょく"}],"senses":[["musical composition","tune"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"全曲","reading":"ぜんきょく"}],"senses":[["all compositions","the entire composition"]]}]}
+{
+  "basic": ["曲", "Bend", "1256"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": [],
+      "japanese": [{ "word": "作曲", "reading": "さっきょく" }],
+      "senses": [["composition", "setting (of music)"], ["Musical composition"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani58"],
+      "japanese": [{ "word": "戯曲", "reading": "ぎきょく" }],
+      "senses": [["drama", "play"], ["Chinese opera"], ["Play (theatre)"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "交響曲", "reading": "こうきょうきょく" }],
+      "senses": [["symphony"], ["Symphony"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "協奏曲", "reading": "きょうそうきょく" }],
+      "senses": [["concerto"], ["Concerto"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "作曲家", "reading": "さっきょくか" }],
+      "senses": [["composer"], ["Composer"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "一曲", "reading": "いっきょく" }],
+      "senses": [["tune (melody, piece of music)"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "婉曲", "reading": "えんきょく" }],
+      "senses": [["euphemistic", "circumlocutory", "roundabout", "indirect"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani56"],
+      "japanese": [{ "word": "歌謡曲", "reading": "かようきょく" }],
+      "senses": [
+        [
+          "kayōkyoku",
+          "form of Japanese popular music that developed during the Showa era"
+        ],
+        ["(Western) pop song"],
+        ["Kayōkyoku"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "歌曲", "reading": "かきょく" }],
+      "senses": [["melody", "tune", "song"], ["Lied"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "組曲", "reading": "くみきょく" }],
+      "senses": [["suite"], ["Suite (music)"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani6"],
+      "japanese": [{ "word": "名曲", "reading": "めいきょく" }],
+      "senses": [
+        ["famous piece of music", "excellent song", "(musical) masterpiece"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "新曲", "reading": "しんきょく" }],
+      "senses": [["new (musical) composition", "new piece", "new song"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "楽曲", "reading": "がっきょく" }],
+      "senses": [["musical composition", "tune"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "全曲", "reading": "ぜんきょく" }],
+      "senses": [["all compositions", "the entire composition"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": [],
+      "japanese": [{ "word": "作曲", "reading": "さっきょく" }],
+      "senses": [["composition", "setting (of music)"], ["Musical composition"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani58"],
+      "japanese": [{ "word": "戯曲", "reading": "ぎきょく" }],
+      "senses": [["drama", "play"], ["Chinese opera"], ["Play (theatre)"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "交響曲", "reading": "こうきょうきょく" }],
+      "senses": [["symphony"], ["Symphony"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "協奏曲", "reading": "きょうそうきょく" }],
+      "senses": [["concerto"], ["Concerto"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "作曲家", "reading": "さっきょくか" }],
+      "senses": [["composer"], ["Composer"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "一曲", "reading": "いっきょく" }],
+      "senses": [["tune (melody, piece of music)"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "婉曲", "reading": "えんきょく" }],
+      "senses": [["euphemistic", "circumlocutory", "roundabout", "indirect"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani56"],
+      "japanese": [{ "word": "歌謡曲", "reading": "かようきょく" }],
+      "senses": [
+        [
+          "kayōkyoku",
+          "form of Japanese popular music that developed during the Showa era"
+        ],
+        ["(Western) pop song"],
+        ["Kayōkyoku"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "歌曲", "reading": "かきょく" }],
+      "senses": [["melody", "tune", "song"], ["Lied"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "組曲", "reading": "くみきょく" }],
+      "senses": [["suite"], ["Suite (music)"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani6"],
+      "japanese": [{ "word": "名曲", "reading": "めいきょく" }],
+      "senses": [
+        ["famous piece of music", "excellent song", "(musical) masterpiece"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "新曲", "reading": "しんきょく" }],
+      "senses": [["new (musical) composition", "new piece", "new song"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "楽曲", "reading": "がっきょく" }],
+      "senses": [["musical composition", "tune"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "全曲", "reading": "ぜんきょく" }],
+      "senses": [["all compositions", "the entire composition"]]
+    }
+  ]
+}

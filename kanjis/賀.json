@@ -1,1 +1,53 @@
-{"basic":["賀","Congratulations","933"],"extended":[{"jlpt":[],"tags":["wanikani22"],"japanese":[{"word":"年賀状","reading":"ねんがじょう"}],"senses":[["New Year's card"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"祝賀","reading":"しゅくが"}],"senses":[["celebration","congratulations"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"年賀","reading":"ねんが"}],"senses":[["New Year's greetings","New Year's call","New Year's gift"]]},{"jlpt":[],"tags":["wanikani60"],"japanese":[{"word":"謹賀新年","reading":"きんがしんねん"}],"senses":[["Happy New Year"]]},{"jlpt":[],"tags":["wanikani22"],"japanese":[{"word":"年賀状","reading":"ねんがじょう"}],"senses":[["New Year's card"]]},{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"祝賀","reading":"しゅくが"}],"senses":[["celebration","congratulations"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"年賀","reading":"ねんが"}],"senses":[["New Year's greetings","New Year's call","New Year's gift"]]},{"jlpt":[],"tags":["wanikani60"],"japanese":[{"word":"謹賀新年","reading":"きんがしんねん"}],"senses":[["Happy New Year"]]}]}
+{
+  "basic": ["賀", "Congratulations", "933"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": ["wanikani22"],
+      "japanese": [{ "word": "年賀状", "reading": "ねんがじょう" }],
+      "senses": [["New Year's card"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "祝賀", "reading": "しゅくが" }],
+      "senses": [["celebration", "congratulations"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "年賀", "reading": "ねんが" }],
+      "senses": [["New Year's greetings", "New Year's call", "New Year's gift"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani60"],
+      "japanese": [{ "word": "謹賀新年", "reading": "きんがしんねん" }],
+      "senses": [["Happy New Year"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani22"],
+      "japanese": [{ "word": "年賀状", "reading": "ねんがじょう" }],
+      "senses": [["New Year's card"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": [],
+      "japanese": [{ "word": "祝賀", "reading": "しゅくが" }],
+      "senses": [["celebration", "congratulations"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "年賀", "reading": "ねんが" }],
+      "senses": [["New Year's greetings", "New Year's call", "New Year's gift"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani60"],
+      "japanese": [{ "word": "謹賀新年", "reading": "きんがしんねん" }],
+      "senses": [["Happy New Year"]]
+    }
+  ]
+}

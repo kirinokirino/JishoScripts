@@ -1,1 +1,25 @@
-{"basic":["毎","Every","497"],"extended":[{"jlpt":["jlpt-n1"],"tags":["wanikani4"],"japanese":[{"word":"丸ごと","reading":"まるごと"},{"word":"丸事","reading":"まるごと"},{"word":"丸毎","reading":"まるごと"}],"senses":[["in its entirety","whole","wholly"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani4"],"japanese":[{"word":"丸ごと","reading":"まるごと"},{"word":"丸事","reading":"まるごと"},{"word":"丸毎","reading":"まるごと"}],"senses":[["in its entirety","whole","wholly"]]}]}
+{
+  "basic": ["毎", "Every", "497"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani4"],
+      "japanese": [
+        { "word": "丸ごと", "reading": "まるごと" },
+        { "word": "丸事", "reading": "まるごと" },
+        { "word": "丸毎", "reading": "まるごと" }
+      ],
+      "senses": [["in its entirety", "whole", "wholly"]]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani4"],
+      "japanese": [
+        { "word": "丸ごと", "reading": "まるごと" },
+        { "word": "丸事", "reading": "まるごと" },
+        { "word": "丸毎", "reading": "まるごと" }
+      ],
+      "senses": [["in its entirety", "whole", "wholly"]]
+    }
+  ]
+}

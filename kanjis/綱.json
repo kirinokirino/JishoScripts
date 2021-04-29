@@ -1,1 +1,57 @@
-{"basic":["綱","Hawser","2114"],"extended":[{"jlpt":["jlpt-n1"],"tags":["wanikani42"],"japanese":[{"word":"横綱","reading":"よこづな"}],"senses":[["yokozuna (highest rank in sumo)","grand champion"],["best in its field","crème de la crème","cream of the crop"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"大綱","reading":"たいこう"}],"senses":[["fundamental principles","main lines"],["outline","summary","general features"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"要綱","reading":"ようこう"}],"senses":[["main principle","gist","general plan","guidelines","outline"]]},{"jlpt":["jlpt-n1"],"tags":["wanikani42"],"japanese":[{"word":"横綱","reading":"よこづな"}],"senses":[["yokozuna (highest rank in sumo)","grand champion"],["best in its field","crème de la crème","cream of the crop"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"大綱","reading":"たいこう"}],"senses":[["fundamental principles","main lines"],["outline","summary","general features"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"要綱","reading":"ようこう"}],"senses":[["main principle","gist","general plan","guidelines","outline"]]}]}
+{
+  "basic": ["綱", "Hawser", "2114"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani42"],
+      "japanese": [{ "word": "横綱", "reading": "よこづな" }],
+      "senses": [
+        ["yokozuna (highest rank in sumo)", "grand champion"],
+        ["best in its field", "crème de la crème", "cream of the crop"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "大綱", "reading": "たいこう" }],
+      "senses": [
+        ["fundamental principles", "main lines"],
+        ["outline", "summary", "general features"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "要綱", "reading": "ようこう" }],
+      "senses": [
+        ["main principle", "gist", "general plan", "guidelines", "outline"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n1"],
+      "tags": ["wanikani42"],
+      "japanese": [{ "word": "横綱", "reading": "よこづな" }],
+      "senses": [
+        ["yokozuna (highest rank in sumo)", "grand champion"],
+        ["best in its field", "crème de la crème", "cream of the crop"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "大綱", "reading": "たいこう" }],
+      "senses": [
+        ["fundamental principles", "main lines"],
+        ["outline", "summary", "general features"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "要綱", "reading": "ようこう" }],
+      "senses": [
+        ["main principle", "gist", "general plan", "guidelines", "outline"]
+      ]
+    }
+  ]
+}

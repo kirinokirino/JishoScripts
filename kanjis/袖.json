@@ -1,1 +1,53 @@
-{"basic":["袖","Sleeve","1189"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"長袖","reading":"ながそで"},{"word":"長そで","reading":"ながそで"}],"senses":[["long sleeves"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"半袖","reading":"はんそで"},{"word":"半そで","reading":"はんそで"}],"senses":[["short sleeves"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"領袖","reading":"りょうしゅう"}],"senses":[["leader","chief","boss"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"長袖","reading":"ながそで"},{"word":"長そで","reading":"ながそで"}],"senses":[["long sleeves"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"半袖","reading":"はんそで"},{"word":"半そで","reading":"はんそで"}],"senses":[["short sleeves"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"領袖","reading":"りょうしゅう"}],"senses":[["leader","chief","boss"]]}]}
+{
+  "basic": ["袖", "Sleeve", "1189"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "長袖", "reading": "ながそで" },
+        { "word": "長そで", "reading": "ながそで" }
+      ],
+      "senses": [["long sleeves"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "半袖", "reading": "はんそで" },
+        { "word": "半そで", "reading": "はんそで" }
+      ],
+      "senses": [["short sleeves"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "領袖", "reading": "りょうしゅう" }],
+      "senses": [["leader", "chief", "boss"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "長袖", "reading": "ながそで" },
+        { "word": "長そで", "reading": "ながそで" }
+      ],
+      "senses": [["long sleeves"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "半袖", "reading": "はんそで" },
+        { "word": "半そで", "reading": "はんそで" }
+      ],
+      "senses": [["short sleeves"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "領袖", "reading": "りょうしゅう" }],
+      "senses": [["leader", "chief", "boss"]]
+    }
+  ]
+}

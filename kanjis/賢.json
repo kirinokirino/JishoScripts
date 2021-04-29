@@ -1,1 +1,35 @@
-{"basic":["賢","Intelligent","915"],"extended":[{"jlpt":[],"tags":["wanikani50"],"japanese":[{"word":"悪賢い","reading":"わるがしこい"}],"senses":[["cunning","crafty","wily","sly"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"普賢","reading":"ふげん"}],"senses":[["Samantabhadra (bodhisattva)","Universal Compassion"],["Fugen"]]},{"jlpt":[],"tags":["wanikani50"],"japanese":[{"word":"悪賢い","reading":"わるがしこい"}],"senses":[["cunning","crafty","wily","sly"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"普賢","reading":"ふげん"}],"senses":[["Samantabhadra (bodhisattva)","Universal Compassion"],["Fugen"]]}]}
+{
+  "basic": ["賢", "Intelligent", "915"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": ["wanikani50"],
+      "japanese": [{ "word": "悪賢い", "reading": "わるがしこい" }],
+      "senses": [["cunning", "crafty", "wily", "sly"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "普賢", "reading": "ふげん" }],
+      "senses": [
+        ["Samantabhadra (bodhisattva)", "Universal Compassion"],
+        ["Fugen"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani50"],
+      "japanese": [{ "word": "悪賢い", "reading": "わるがしこい" }],
+      "senses": [["cunning", "crafty", "wily", "sly"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "普賢", "reading": "ふげん" }],
+      "senses": [
+        ["Samantabhadra (bodhisattva)", "Universal Compassion"],
+        ["Fugen"]
+      ]
+    }
+  ]
+}

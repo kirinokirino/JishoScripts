@@ -1,1 +1,37 @@
-{"basic":["遂","Consummate","579"],"extended":[{"jlpt":[],"tags":["wanikani48"],"japanese":[{"word":"未遂","reading":"みすい"}],"senses":[["failed attempt (at a crime, suicide, etc.)"],["Attempt"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"成し遂げる","reading":"なしとげる"},{"word":"成しとげる","reading":"なしとげる"},{"word":"為し遂げる","reading":"なしとげる"}],"senses":[["to accomplish","to finish","to fulfill"]]},{"jlpt":[],"tags":["wanikani48"],"japanese":[{"word":"未遂","reading":"みすい"}],"senses":[["failed attempt (at a crime, suicide, etc.)"],["Attempt"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"成し遂げる","reading":"なしとげる"},{"word":"成しとげる","reading":"なしとげる"},{"word":"為し遂げる","reading":"なしとげる"}],"senses":[["to accomplish","to finish","to fulfill"]]}]}
+{
+  "basic": ["遂", "Consummate", "579"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": ["wanikani48"],
+      "japanese": [{ "word": "未遂", "reading": "みすい" }],
+      "senses": [["failed attempt (at a crime, suicide, etc.)"], ["Attempt"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "成し遂げる", "reading": "なしとげる" },
+        { "word": "成しとげる", "reading": "なしとげる" },
+        { "word": "為し遂げる", "reading": "なしとげる" }
+      ],
+      "senses": [["to accomplish", "to finish", "to fulfill"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani48"],
+      "japanese": [{ "word": "未遂", "reading": "みすい" }],
+      "senses": [["failed attempt (at a crime, suicide, etc.)"], ["Attempt"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "成し遂げる", "reading": "なしとげる" },
+        { "word": "成しとげる", "reading": "なしとげる" },
+        { "word": "為し遂げる", "reading": "なしとげる" }
+      ],
+      "senses": [["to accomplish", "to finish", "to fulfill"]]
+    }
+  ]
+}

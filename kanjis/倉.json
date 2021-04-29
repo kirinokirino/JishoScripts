@@ -1,1 +1,35 @@
-{"basic":["倉","Godown","1758"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"鎌倉","reading":"かまくら"}],"senses":[["Kamakura (city)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"米倉","reading":"こめぐら"},{"word":"米蔵","reading":"こめぐら"}],"senses":[["rice granary"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"鎌倉","reading":"かまくら"}],"senses":[["Kamakura (city)"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"米倉","reading":"こめぐら"},{"word":"米蔵","reading":"こめぐら"}],"senses":[["rice granary"]]}]}
+{
+  "basic": ["倉", "Godown", "1758"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "鎌倉", "reading": "かまくら" }],
+      "senses": [["Kamakura (city)"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "米倉", "reading": "こめぐら" },
+        { "word": "米蔵", "reading": "こめぐら" }
+      ],
+      "senses": [["rice granary"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "鎌倉", "reading": "かまくら" }],
+      "senses": [["Kamakura (city)"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "米倉", "reading": "こめぐら" },
+        { "word": "米蔵", "reading": "こめぐら" }
+      ],
+      "senses": [["rice granary"]]
+    }
+  ]
+}

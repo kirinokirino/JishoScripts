@@ -1,1 +1,77 @@
-{"basic":["毛","Fur","2062"],"extended":[{"jlpt":["jlpt-n3"],"tags":["wanikani44"],"japanese":[{"word":"髪の毛","reading":"かみのけ"}],"senses":[["hair (of the head)"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani6"],"japanese":[{"word":"羊毛","reading":"ようもう"}],"senses":[["wool"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"羽毛","reading":"うもう"}],"senses":[["feathers","plumage","down"],["Feather"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"眉毛","reading":"まゆげ"},{"word":"まゆ毛","reading":"まゆげ"}],"senses":[["eyebrow"],["Eyebrow"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"不毛","reading":"ふもう"}],"senses":[["barren","sterile","infertile"],["unproductive (e.g. discussion)","fruitless"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani44"],"japanese":[{"word":"髪の毛","reading":"かみのけ"}],"senses":[["hair (of the head)"]]},{"jlpt":["jlpt-n2"],"tags":["wanikani6"],"japanese":[{"word":"羊毛","reading":"ようもう"}],"senses":[["wool"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"羽毛","reading":"うもう"}],"senses":[["feathers","plumage","down"],["Feather"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"眉毛","reading":"まゆげ"},{"word":"まゆ毛","reading":"まゆげ"}],"senses":[["eyebrow"],["Eyebrow"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"不毛","reading":"ふもう"}],"senses":[["barren","sterile","infertile"],["unproductive (e.g. discussion)","fruitless"]]}]}
+{
+  "basic": ["毛", "Fur", "2062"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani44"],
+      "japanese": [{ "word": "髪の毛", "reading": "かみのけ" }],
+      "senses": [["hair (of the head)"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani6"],
+      "japanese": [{ "word": "羊毛", "reading": "ようもう" }],
+      "senses": [["wool"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "羽毛", "reading": "うもう" }],
+      "senses": [["feathers", "plumage", "down"], ["Feather"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "眉毛", "reading": "まゆげ" },
+        { "word": "まゆ毛", "reading": "まゆげ" }
+      ],
+      "senses": [["eyebrow"], ["Eyebrow"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "不毛", "reading": "ふもう" }],
+      "senses": [
+        ["barren", "sterile", "infertile"],
+        ["unproductive (e.g. discussion)", "fruitless"]
+      ]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani44"],
+      "japanese": [{ "word": "髪の毛", "reading": "かみのけ" }],
+      "senses": [["hair (of the head)"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": ["wanikani6"],
+      "japanese": [{ "word": "羊毛", "reading": "ようもう" }],
+      "senses": [["wool"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "羽毛", "reading": "うもう" }],
+      "senses": [["feathers", "plumage", "down"], ["Feather"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "眉毛", "reading": "まゆげ" },
+        { "word": "まゆ毛", "reading": "まゆげ" }
+      ],
+      "senses": [["eyebrow"], ["Eyebrow"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "不毛", "reading": "ふもう" }],
+      "senses": [
+        ["barren", "sterile", "infertile"],
+        ["unproductive (e.g. discussion)", "fruitless"]
+      ]
+    }
+  ]
+}

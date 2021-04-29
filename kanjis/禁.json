@@ -1,1 +1,121 @@
-{"basic":["禁","Prohibition","1179"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"監禁","reading":"かんきん"}],"senses":[["confinement"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"解禁","reading":"かいきん"}],"senses":[["lifting a ban","raising an embargo","opening a season (hunting, fishing, etc.)"],["publishing contents","revealing information"]]},{"jlpt":[],"tags":["wanikani20"],"japanese":[{"word":"立ち入り禁止","reading":"たちいりきんし"},{"word":"立入禁止","reading":"たちいりきんし"},{"word":"立入り禁止","reading":"たちいりきんし"},{"word":"立ち入禁止","reading":"たちいりきんし"}],"senses":[["No Entry","No Trespassing","No Admittance","Off Limits","Keep Out","Keep Off"],["off-limits","restricted","forbidden"]]},{"jlpt":[],"tags":["wanikani51"],"japanese":[{"word":"軟禁","reading":"なんきん"}],"senses":[["house arrest"],["House arrest"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"拘禁","reading":"こうきん"}],"senses":[["detention","custody","confinement","internment"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"独禁法","reading":"どっきんほう"}],"senses":[["antitrust law","Antitrust Act"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"監禁","reading":"かんきん"}],"senses":[["confinement"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"解禁","reading":"かいきん"}],"senses":[["lifting a ban","raising an embargo","opening a season (hunting, fishing, etc.)"],["publishing contents","revealing information"]]},{"jlpt":[],"tags":["wanikani20"],"japanese":[{"word":"立ち入り禁止","reading":"たちいりきんし"},{"word":"立入禁止","reading":"たちいりきんし"},{"word":"立入り禁止","reading":"たちいりきんし"},{"word":"立ち入禁止","reading":"たちいりきんし"}],"senses":[["No Entry","No Trespassing","No Admittance","Off Limits","Keep Out","Keep Off"],["off-limits","restricted","forbidden"]]},{"jlpt":[],"tags":["wanikani51"],"japanese":[{"word":"軟禁","reading":"なんきん"}],"senses":[["house arrest"],["House arrest"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"拘禁","reading":"こうきん"}],"senses":[["detention","custody","confinement","internment"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"独禁法","reading":"どっきんほう"}],"senses":[["antitrust law","Antitrust Act"]]}]}
+{
+  "basic": ["禁", "Prohibition", "1179"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "監禁", "reading": "かんきん" }],
+      "senses": [["confinement"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "解禁", "reading": "かいきん" }],
+      "senses": [
+        [
+          "lifting a ban",
+          "raising an embargo",
+          "opening a season (hunting, fishing, etc.)"
+        ],
+        ["publishing contents", "revealing information"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani20"],
+      "japanese": [
+        { "word": "立ち入り禁止", "reading": "たちいりきんし" },
+        { "word": "立入禁止", "reading": "たちいりきんし" },
+        { "word": "立入り禁止", "reading": "たちいりきんし" },
+        { "word": "立ち入禁止", "reading": "たちいりきんし" }
+      ],
+      "senses": [
+        [
+          "No Entry",
+          "No Trespassing",
+          "No Admittance",
+          "Off Limits",
+          "Keep Out",
+          "Keep Off"
+        ],
+        ["off-limits", "restricted", "forbidden"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani51"],
+      "japanese": [{ "word": "軟禁", "reading": "なんきん" }],
+      "senses": [["house arrest"], ["House arrest"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "拘禁", "reading": "こうきん" }],
+      "senses": [["detention", "custody", "confinement", "internment"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "独禁法", "reading": "どっきんほう" }],
+      "senses": [["antitrust law", "Antitrust Act"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "監禁", "reading": "かんきん" }],
+      "senses": [["confinement"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "解禁", "reading": "かいきん" }],
+      "senses": [
+        [
+          "lifting a ban",
+          "raising an embargo",
+          "opening a season (hunting, fishing, etc.)"
+        ],
+        ["publishing contents", "revealing information"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani20"],
+      "japanese": [
+        { "word": "立ち入り禁止", "reading": "たちいりきんし" },
+        { "word": "立入禁止", "reading": "たちいりきんし" },
+        { "word": "立入り禁止", "reading": "たちいりきんし" },
+        { "word": "立ち入禁止", "reading": "たちいりきんし" }
+      ],
+      "senses": [
+        [
+          "No Entry",
+          "No Trespassing",
+          "No Admittance",
+          "Off Limits",
+          "Keep Out",
+          "Keep Off"
+        ],
+        ["off-limits", "restricted", "forbidden"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani51"],
+      "japanese": [{ "word": "軟禁", "reading": "なんきん" }],
+      "senses": [["house arrest"], ["House arrest"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "拘禁", "reading": "こうきん" }],
+      "senses": [["detention", "custody", "confinement", "internment"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "独禁法", "reading": "どっきんほう" }],
+      "senses": [["antitrust law", "Antitrust Act"]]
+    }
+  ]
+}

@@ -1,1 +1,89 @@
-{"basic":["終","End","1452"],"extended":[{"jlpt":["jlpt-n3"],"tags":["wanikani10"],"japanese":[{"word":"最終","reading":"さいしゅう"}],"senses":[["last","final","closing"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"始終","reading":"しじゅう"}],"senses":[["continuously","from beginning to end","from first to last"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"最終的","reading":"さいしゅうてき"}],"senses":[["final","eventual","ultimate"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"お仕舞い","reading":"おしまい"},{"word":"お終い","reading":"おしまい"},{"word":"御仕舞い","reading":"おしまい"},{"word":"御終い","reading":"おしまい"},{"word":"お仕舞","reading":"おしまい"},{"word":"御仕舞","reading":"おしまい"}],"senses":[["the end","closing","being done for"],["that's it","that's enough","that's all"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"臨終","reading":"りんじゅう"}],"senses":[["deathbed","dying hour","one's death"]]},{"jlpt":["jlpt-n3"],"tags":["wanikani10"],"japanese":[{"word":"最終","reading":"さいしゅう"}],"senses":[["last","final","closing"]]},{"jlpt":["jlpt-n2"],"tags":[],"japanese":[{"word":"始終","reading":"しじゅう"}],"senses":[["continuously","from beginning to end","from first to last"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"最終的","reading":"さいしゅうてき"}],"senses":[["final","eventual","ultimate"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"お仕舞い","reading":"おしまい"},{"word":"お終い","reading":"おしまい"},{"word":"御仕舞い","reading":"おしまい"},{"word":"御終い","reading":"おしまい"},{"word":"お仕舞","reading":"おしまい"},{"word":"御仕舞","reading":"おしまい"}],"senses":[["the end","closing","being done for"],["that's it","that's enough","that's all"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"臨終","reading":"りんじゅう"}],"senses":[["deathbed","dying hour","one's death"]]}]}
+{
+  "basic": ["終", "End", "1452"],
+  "extended": [
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani10"],
+      "japanese": [{ "word": "最終", "reading": "さいしゅう" }],
+      "senses": [["last", "final", "closing"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "始終", "reading": "しじゅう" }],
+      "senses": [
+        ["continuously", "from beginning to end", "from first to last"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "最終的", "reading": "さいしゅうてき" }],
+      "senses": [["final", "eventual", "ultimate"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "お仕舞い", "reading": "おしまい" },
+        { "word": "お終い", "reading": "おしまい" },
+        { "word": "御仕舞い", "reading": "おしまい" },
+        { "word": "御終い", "reading": "おしまい" },
+        { "word": "お仕舞", "reading": "おしまい" },
+        { "word": "御仕舞", "reading": "おしまい" }
+      ],
+      "senses": [
+        ["the end", "closing", "being done for"],
+        ["that's it", "that's enough", "that's all"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "臨終", "reading": "りんじゅう" }],
+      "senses": [["deathbed", "dying hour", "one's death"]]
+    },
+    {
+      "jlpt": ["jlpt-n3"],
+      "tags": ["wanikani10"],
+      "japanese": [{ "word": "最終", "reading": "さいしゅう" }],
+      "senses": [["last", "final", "closing"]]
+    },
+    {
+      "jlpt": ["jlpt-n2"],
+      "tags": [],
+      "japanese": [{ "word": "始終", "reading": "しじゅう" }],
+      "senses": [
+        ["continuously", "from beginning to end", "from first to last"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "最終的", "reading": "さいしゅうてき" }],
+      "senses": [["final", "eventual", "ultimate"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [
+        { "word": "お仕舞い", "reading": "おしまい" },
+        { "word": "お終い", "reading": "おしまい" },
+        { "word": "御仕舞い", "reading": "おしまい" },
+        { "word": "御終い", "reading": "おしまい" },
+        { "word": "お仕舞", "reading": "おしまい" },
+        { "word": "御仕舞", "reading": "おしまい" }
+      ],
+      "senses": [
+        ["the end", "closing", "being done for"],
+        ["that's it", "that's enough", "that's all"]
+      ]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "臨終", "reading": "りんじゅう" }],
+      "senses": [["deathbed", "dying hour", "one's death"]]
+    }
+  ]
+}

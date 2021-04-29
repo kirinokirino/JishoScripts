@@ -1,1 +1,17 @@
-{"basic":["媒","Mediator","1898"],"extended":[{"jlpt":[],"tags":["wanikani58"],"japanese":[{"word":"触媒","reading":"しょくばい"}],"senses":[["catalyst"],["Catalysis"]]},{"jlpt":[],"tags":["wanikani58"],"japanese":[{"word":"触媒","reading":"しょくばい"}],"senses":[["catalyst"],["Catalysis"]]}]}
+{
+  "basic": ["媒", "Mediator", "1898"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": ["wanikani58"],
+      "japanese": [{ "word": "触媒", "reading": "しょくばい" }],
+      "senses": [["catalyst"], ["Catalysis"]]
+    },
+    {
+      "jlpt": [],
+      "tags": ["wanikani58"],
+      "japanese": [{ "word": "触媒", "reading": "しょくばい" }],
+      "senses": [["catalyst"], ["Catalysis"]]
+    }
+  ]
+}

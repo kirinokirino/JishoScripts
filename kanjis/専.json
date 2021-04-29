@@ -1,1 +1,17 @@
-{"basic":["専","Specialty","47"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"住専","reading":"じゅうせん"}],"senses":[["housing-loan corporation"]]},{"jlpt":[],"tags":[],"japanese":[{"word":"住専","reading":"じゅうせん"}],"senses":[["housing-loan corporation"]]}]}
+{
+  "basic": ["専", "Specialty", "47"],
+  "extended": [
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "住専", "reading": "じゅうせん" }],
+      "senses": [["housing-loan corporation"]]
+    },
+    {
+      "jlpt": [],
+      "tags": [],
+      "japanese": [{ "word": "住専", "reading": "じゅうせん" }],
+      "senses": [["housing-loan corporation"]]
+    }
+  ]
+}
