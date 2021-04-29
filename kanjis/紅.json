@@ -1,17 +1,1 @@
-{
-  "basic": ["紅", "Crimson", "1455"],
-  "extended": [
-    {
-      "jlpt": ["jlpt-n2"],
-      "tags": ["wanikani36"],
-      "japanese": [{ "word": "口紅", "reading": "くちべに" }],
-      "senses": [["lipstick"], ["Lipstick"]]
-    },
-    {
-      "jlpt": ["jlpt-n2"],
-      "tags": ["wanikani36"],
-      "japanese": [{ "word": "口紅", "reading": "くちべに" }],
-      "senses": [["lipstick"], ["Lipstick"]]
-    }
-  ]
-}
+{"basic":["紅","Crimson","1455"],"extended":[{"jlpt":["jlpt-n2"],"tags":["wanikani36"],"japanese":[{"word":"口紅","reading":"くちべに"}],"senses":[["lipstick"],["Lipstick"]]}]}

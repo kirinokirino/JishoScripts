@@ -1,17 +1,1 @@
-{
-  "basic": ["勉", "Exertion", "2129"],
-  "extended": [
-    {
-      "jlpt": ["jlpt-n1"],
-      "tags": [],
-      "japanese": [{ "word": "勤勉", "reading": "きんべん" }],
-      "senses": [["diligent", "industrious"]]
-    },
-    {
-      "jlpt": ["jlpt-n1"],
-      "tags": [],
-      "japanese": [{ "word": "勤勉", "reading": "きんべん" }],
-      "senses": [["diligent", "industrious"]]
-    }
-  ]
-}
+{"basic":["勉","Exertion","2129"],"extended":[{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"勤勉","reading":"きんべん"}],"senses":[["diligent","industrious"]]}]}

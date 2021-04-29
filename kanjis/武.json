@@ -1,17 +1,1 @@
-{
-  "basic": ["武", "Warrior", "403"],
-  "extended": [
-    {
-      "jlpt": [],
-      "tags": [],
-      "japanese": [{ "word": "核武装", "reading": "かくぶそう" }],
-      "senses": [["nuclear arms"]]
-    },
-    {
-      "jlpt": [],
-      "tags": [],
-      "japanese": [{ "word": "核武装", "reading": "かくぶそう" }],
-      "senses": [["nuclear arms"]]
-    }
-  ]
-}
+{"basic":["武","Warrior","403"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"核武装","reading":"かくぶそう"}],"senses":[["nuclear arms"]]}]}

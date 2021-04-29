@@ -1,17 +1,1 @@
-{
-  "basic": ["虜", "Captive", "2146"],
-  "extended": [
-    {
-      "jlpt": ["jlpt-n1"],
-      "tags": ["wanikani55"],
-      "japanese": [{ "word": "捕虜", "reading": "ほりょ" }],
-      "senses": [["prisoner (of war)"], ["Prisoner of war"]]
-    },
-    {
-      "jlpt": ["jlpt-n1"],
-      "tags": ["wanikani55"],
-      "japanese": [{ "word": "捕虜", "reading": "ほりょ" }],
-      "senses": [["prisoner (of war)"], ["Prisoner of war"]]
-    }
-  ]
-}
+{"basic":["虜","Captive","2146"],"extended":[{"jlpt":["jlpt-n1"],"tags":["wanikani55"],"japanese":[{"word":"捕虜","reading":"ほりょ"}],"senses":[["prisoner (of war)"],["Prisoner of war"]]}]}

@@ -1,17 +1,1 @@
-{
-  "basic": ["拐", "Kidnap", "708"],
-  "extended": [
-    {
-      "jlpt": [],
-      "tags": ["wanikani54"],
-      "japanese": [{ "word": "誘拐", "reading": "ゆうかい" }],
-      "senses": [["abduction", "kidnapping", "kidnaping"], ["Kidnapping"]]
-    },
-    {
-      "jlpt": [],
-      "tags": ["wanikani54"],
-      "japanese": [{ "word": "誘拐", "reading": "ゆうかい" }],
-      "senses": [["abduction", "kidnapping", "kidnaping"], ["Kidnapping"]]
-    }
-  ]
-}
+{"basic":["拐","Kidnap","708"],"extended":[{"jlpt":[],"tags":["wanikani54"],"japanese":[{"word":"誘拐","reading":"ゆうかい"}],"senses":[["abduction","kidnapping","kidnaping"],["Kidnapping"]]}]}

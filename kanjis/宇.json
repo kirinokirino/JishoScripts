@@ -1,17 +1,1 @@
-{
-  "basic": ["宇", "Eaves", "1785"],
-  "extended": [
-    {
-      "jlpt": [],
-      "tags": [],
-      "japanese": [{ "word": "羅宇", "reading": "ラオス" }],
-      "senses": [["Laos"]]
-    },
-    {
-      "jlpt": [],
-      "tags": [],
-      "japanese": [{ "word": "羅宇", "reading": "ラオス" }],
-      "senses": [["Laos"]]
-    }
-  ]
-}
+{"basic":["宇","Eaves","1785"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"羅宇","reading":"ラオス"}],"senses":[["Laos"]]}]}

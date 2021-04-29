@@ -1,17 +1,1 @@
-{
-  "basic": ["脊", "Spinal Column", "268"],
-  "extended": [
-    {
-      "jlpt": [],
-      "tags": [],
-      "japanese": [{ "word": "猫背", "reading": "ねこぜ" }],
-      "senses": [["bent back", "hunchback", "stoop"], ["Kyphosis"]]
-    },
-    {
-      "jlpt": [],
-      "tags": [],
-      "japanese": [{ "word": "猫背", "reading": "ねこぜ" }],
-      "senses": [["bent back", "hunchback", "stoop"], ["Kyphosis"]]
-    }
-  ]
-}
+{"basic":["脊","Spinal Column","268"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"猫背","reading":"ねこぜ"}],"senses":[["bent back","hunchback","stoop"],["Kyphosis"]]}]}

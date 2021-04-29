@@ -1,17 +1,1 @@
-{
-  "basic": ["陛", "Highness", "1407"],
-  "extended": [
-    {
-      "jlpt": [],
-      "tags": [],
-      "japanese": [{ "word": "天皇陛下", "reading": "てんのうへいか" }],
-      "senses": [["His Majesty the Emperor"]]
-    },
-    {
-      "jlpt": [],
-      "tags": [],
-      "japanese": [{ "word": "天皇陛下", "reading": "てんのうへいか" }],
-      "senses": [["His Majesty the Emperor"]]
-    }
-  ]
-}
+{"basic":["陛","Highness","1407"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"天皇陛下","reading":"てんのうへいか"}],"senses":[["His Majesty the Emperor"]]}]}

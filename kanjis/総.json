@@ -1,17 +1,1 @@
-{
-  "basic": ["総", "General", "1466"],
-  "extended": [
-    {
-      "jlpt": [],
-      "tags": [],
-      "japanese": [{ "word": "国民総生産", "reading": "こくみんそうせいさん" }],
-      "senses": [["gross national product", "GNP"], ["Gross national product"]]
-    },
-    {
-      "jlpt": [],
-      "tags": [],
-      "japanese": [{ "word": "国民総生産", "reading": "こくみんそうせいさん" }],
-      "senses": [["gross national product", "GNP"], ["Gross national product"]]
-    }
-  ]
-}
+{"basic":["総","General","1466"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"国民総生産","reading":"こくみんそうせいさん"}],"senses":[["gross national product","GNP"],["Gross national product"]]}]}

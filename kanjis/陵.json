@@ -1,17 +1,1 @@
-{
-  "basic": ["陵", "Mausoleum", "1636"],
-  "extended": [
-    {
-      "jlpt": ["jlpt-n1"],
-      "tags": ["wanikani56"],
-      "japanese": [{ "word": "丘陵", "reading": "きゅうりょう" }],
-      "senses": [["hill"]]
-    },
-    {
-      "jlpt": ["jlpt-n1"],
-      "tags": ["wanikani56"],
-      "japanese": [{ "word": "丘陵", "reading": "きゅうりょう" }],
-      "senses": [["hill"]]
-    }
-  ]
-}
+{"basic":["陵","Mausoleum","1636"],"extended":[{"jlpt":["jlpt-n1"],"tags":["wanikani56"],"japanese":[{"word":"丘陵","reading":"きゅうりょう"}],"senses":[["hill"]]}]}

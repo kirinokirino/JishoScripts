@@ -1,17 +1,1 @@
-{
-  "basic": ["塾", "Cram School", "331"],
-  "extended": [
-    {
-      "jlpt": [],
-      "tags": ["wanikani45"],
-      "japanese": [{ "word": "義塾", "reading": "ぎじゅく" }],
-      "senses": [["private school"]]
-    },
-    {
-      "jlpt": [],
-      "tags": ["wanikani45"],
-      "japanese": [{ "word": "義塾", "reading": "ぎじゅく" }],
-      "senses": [["private school"]]
-    }
-  ]
-}
+{"basic":["塾","Cram School","331"],"extended":[{"jlpt":[],"tags":["wanikani45"],"japanese":[{"word":"義塾","reading":"ぎじゅく"}],"senses":[["private school"]]}]}

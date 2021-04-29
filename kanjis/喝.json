@@ -1,17 +1,1 @@
-{
-  "basic": ["喝", "Hoarse", "491"],
-  "extended": [
-    {
-      "jlpt": [],
-      "tags": ["wanikani57"],
-      "japanese": [{ "word": "恐喝", "reading": "きょうかつ" }],
-      "senses": [["blackmail", "extortion", "threat (to extort money)"]]
-    },
-    {
-      "jlpt": [],
-      "tags": ["wanikani57"],
-      "japanese": [{ "word": "恐喝", "reading": "きょうかつ" }],
-      "senses": [["blackmail", "extortion", "threat (to extort money)"]]
-    }
-  ]
-}
+{"basic":["喝","Hoarse","491"],"extended":[{"jlpt":[],"tags":["wanikani57"],"japanese":[{"word":"恐喝","reading":"きょうかつ"}],"senses":[["blackmail","extortion","threat (to extort money)"]]}]}

@@ -1,17 +1,1 @@
-{
-  "basic": ["追", "Chase", "1359"],
-  "extended": [
-    {
-      "jlpt": [],
-      "tags": [],
-      "japanese": [{ "word": "訴追", "reading": "そつい" }],
-      "senses": [["prosecution", "indictment"], ["impeachment"]]
-    },
-    {
-      "jlpt": [],
-      "tags": [],
-      "japanese": [{ "word": "訴追", "reading": "そつい" }],
-      "senses": [["prosecution", "indictment"], ["impeachment"]]
-    }
-  ]
-}
+{"basic":["追","Chase","1359"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"訴追","reading":"そつい"}],"senses":[["prosecution","indictment"],["impeachment"]]}]}

@@ -1,17 +1,1 @@
-{
-  "basic": ["朗", "Melodious", "1579"],
-  "extended": [
-    {
-      "jlpt": ["jlpt-n1"],
-      "tags": ["wanikani43"],
-      "japanese": [{ "word": "明朗", "reading": "めいろう" }],
-      "senses": [["cheerful", "bright"], ["clear", "clean", "honest", "fair"]]
-    },
-    {
-      "jlpt": ["jlpt-n1"],
-      "tags": ["wanikani43"],
-      "japanese": [{ "word": "明朗", "reading": "めいろう" }],
-      "senses": [["cheerful", "bright"], ["clear", "clean", "honest", "fair"]]
-    }
-  ]
-}
+{"basic":["朗","Melodious","1579"],"extended":[{"jlpt":["jlpt-n1"],"tags":["wanikani43"],"japanese":[{"word":"明朗","reading":"めいろう"}],"senses":[["cheerful","bright"],["clear","clean","honest","fair"]]}]}

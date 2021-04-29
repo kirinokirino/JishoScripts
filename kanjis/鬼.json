@@ -1,17 +1,1 @@
-{
-  "basic": ["鬼", "Ghost", "2175"],
-  "extended": [
-    {
-      "jlpt": [],
-      "tags": ["wanikani23"],
-      "japanese": [{ "word": "吸血鬼", "reading": "きゅうけつき" }],
-      "senses": [["vampire", "bloodsucker"], ["Vampire"]]
-    },
-    {
-      "jlpt": [],
-      "tags": ["wanikani23"],
-      "japanese": [{ "word": "吸血鬼", "reading": "きゅうけつき" }],
-      "senses": [["vampire", "bloodsucker"], ["Vampire"]]
-    }
-  ]
-}
+{"basic":["鬼","Ghost","2175"],"extended":[{"jlpt":[],"tags":["wanikani23"],"japanese":[{"word":"吸血鬼","reading":"きゅうけつき"}],"senses":[["vampire","bloodsucker"],["Vampire"]]}]}

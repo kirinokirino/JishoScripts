@@ -1,17 +1,1 @@
-{
-  "basic": ["悔", "Repent", "672"],
-  "extended": [
-    {
-      "jlpt": ["jlpt-n1"],
-      "tags": ["wanikani48"],
-      "japanese": [{ "word": "後悔", "reading": "こうかい" }],
-      "senses": [["regret", "repentance", "remorse"]]
-    },
-    {
-      "jlpt": ["jlpt-n1"],
-      "tags": ["wanikani48"],
-      "japanese": [{ "word": "後悔", "reading": "こうかい" }],
-      "senses": [["regret", "repentance", "remorse"]]
-    }
-  ]
-}
+{"basic":["悔","Repent","672"],"extended":[{"jlpt":["jlpt-n1"],"tags":["wanikani48"],"japanese":[{"word":"後悔","reading":"こうかい"}],"senses":[["regret","repentance","remorse"]]}]}

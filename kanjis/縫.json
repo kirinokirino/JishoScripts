@@ -1,17 +1,1 @@
-{
-  "basic": ["縫", "Sew", "1685"],
-  "extended": [
-    {
-      "jlpt": ["jlpt-n2"],
-      "tags": ["wanikani56"],
-      "japanese": [{ "word": "裁縫", "reading": "さいほう" }],
-      "senses": [["sewing", "needlework"], ["Sewing"]]
-    },
-    {
-      "jlpt": ["jlpt-n2"],
-      "tags": ["wanikani56"],
-      "japanese": [{ "word": "裁縫", "reading": "さいほう" }],
-      "senses": [["sewing", "needlework"], ["Sewing"]]
-    }
-  ]
-}
+{"basic":["縫","Sew","1685"],"extended":[{"jlpt":["jlpt-n2"],"tags":["wanikani56"],"japanese":[{"word":"裁縫","reading":"さいほう"}],"senses":[["sewing","needlework"],["Sewing"]]}]}

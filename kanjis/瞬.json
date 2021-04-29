@@ -1,17 +1,1 @@
-{
-  "basic": ["瞬", "Wink", "880"],
-  "extended": [
-    {
-      "jlpt": ["jlpt-n3"],
-      "tags": ["wanikani46"],
-      "japanese": [{ "word": "一瞬", "reading": "いっしゅん" }],
-      "senses": [["instant", "moment", "for an instant"]]
-    },
-    {
-      "jlpt": ["jlpt-n3"],
-      "tags": ["wanikani46"],
-      "japanese": [{ "word": "一瞬", "reading": "いっしゅん" }],
-      "senses": [["instant", "moment", "for an instant"]]
-    }
-  ]
-}
+{"basic":["瞬","Wink","880"],"extended":[{"jlpt":["jlpt-n3"],"tags":["wanikani46"],"japanese":[{"word":"一瞬","reading":"いっしゅん"}],"senses":[["instant","moment","for an instant"]]}]}

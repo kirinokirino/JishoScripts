@@ -1,17 +1,1 @@
-{
-  "basic": ["賦", "Levy", "404"],
-  "extended": [
-    {
-      "jlpt": ["jlpt-n1"],
-      "tags": [],
-      "japanese": [{ "word": "月賦", "reading": "げっぷ" }],
-      "senses": [["monthly installment (instalment)", "monthly payment"]]
-    },
-    {
-      "jlpt": ["jlpt-n1"],
-      "tags": [],
-      "japanese": [{ "word": "月賦", "reading": "げっぷ" }],
-      "senses": [["monthly installment (instalment)", "monthly payment"]]
-    }
-  ]
-}
+{"basic":["賦","Levy","404"],"extended":[{"jlpt":["jlpt-n1"],"tags":[],"japanese":[{"word":"月賦","reading":"げっぷ"}],"senses":[["monthly installment (instalment)","monthly payment"]]}]}

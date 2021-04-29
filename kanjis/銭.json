@@ -1,17 +1,1 @@
-{
-  "basic": ["銭", "Coin", "394"],
-  "extended": [
-    {
-      "jlpt": ["jlpt-n3"],
-      "tags": [],
-      "japanese": [{ "word": "金銭", "reading": "きんせん" }],
-      "senses": [["money", "cash"]]
-    },
-    {
-      "jlpt": ["jlpt-n3"],
-      "tags": [],
-      "japanese": [{ "word": "金銭", "reading": "きんせん" }],
-      "senses": [["money", "cash"]]
-    }
-  ]
-}
+{"basic":["銭","Coin","394"],"extended":[{"jlpt":["jlpt-n3"],"tags":[],"japanese":[{"word":"金銭","reading":"きんせん"}],"senses":[["money","cash"]]}]}

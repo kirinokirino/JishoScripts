@@ -1,17 +1,1 @@
-{
-  "basic": ["畿", "Capital Suburbs", "1483"],
-  "extended": [
-    {
-      "jlpt": [],
-      "tags": [],
-      "japanese": [{ "word": "近畿", "reading": "きんき" }],
-      "senses": [["Kinki (region around Osaka, Kyoto, Nara)"]]
-    },
-    {
-      "jlpt": [],
-      "tags": [],
-      "japanese": [{ "word": "近畿", "reading": "きんき" }],
-      "senses": [["Kinki (region around Osaka, Kyoto, Nara)"]]
-    }
-  ]
-}
+{"basic":["畿","Capital Suburbs","1483"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"近畿","reading":"きんき"}],"senses":[["Kinki (region around Osaka, Kyoto, Nara)"]]}]}

@@ -1,17 +1,1 @@
-{
-  "basic": ["藤", "Wisteria", "1295"],
-  "extended": [
-    {
-      "jlpt": [],
-      "tags": [],
-      "japanese": [{ "word": "葛藤", "reading": "かっとう" }],
-      "senses": [["conflict", "complication", "troubles", "discord"]]
-    },
-    {
-      "jlpt": [],
-      "tags": [],
-      "japanese": [{ "word": "葛藤", "reading": "かっとう" }],
-      "senses": [["conflict", "complication", "troubles", "discord"]]
-    }
-  ]
-}
+{"basic":["藤","Wisteria","1295"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"葛藤","reading":"かっとう"}],"senses":[["conflict","complication","troubles","discord"]]}]}
