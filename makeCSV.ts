@@ -3,12 +3,12 @@ import { rtkEntry } from "./mod.ts";
 
 const kanjisDirPath = path.join(path.join(Deno.cwd(), "kanjis"), ".");
 let csv = "";
-
+let ordered = {}
 for (const entry of walkSync(kanjisDirPath)) {
   if (!entry.path.endsWith(".json")) continue;
 
   const json = JSON.parse(Deno.readTextFileSync(entry.path)) as rtkEntry;
-  console.log(json.basic[0]);
+  console.log(json.basic[2], " - " + json.basic[0]);
 
   let csvLineArray = [];
   csvLineArray.push(json.basic[0]);
@@ -17,12 +17,16 @@ for (const entry of walkSync(kanjisDirPath)) {
 
   json.extended.forEach((vocab) => {
     csvLineArray.push(vocab.jlpt);
-    csvLineArray.push(flatDeep(japaneseFurigana(vocab.japanese), 2));
-    csvLineArray.push(flatDeep(vocab.senses, 2));
+    csvLineArray.push(flatDeep(japaneseFurigana(vocab.japanese), 20));
+    csvLineArray.push(flatDeep(vocab.senses, 20));
   });
 
-  csv += csvLineArray.join("\t");
-  csv += "\n";
+  ordered[json.basic[2]] = csvLineArray.join("\t");
+}
+
+for (let i = 0; i < 2300; i++) {
+  if (ordered[i] === undefined) continue;
+  csv += ordered[i] + "\n";
 }
 
 Deno.writeTextFileSync(path.join(Deno.cwd(), "rtkEnchanced.txt"), csv);
