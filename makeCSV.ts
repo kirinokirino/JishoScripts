@@ -15,12 +15,13 @@ for (const entry of walkSync(kanjisDirPath)) {
   csvLineArray.push(json.basic[1]);
   csvLineArray.push(json.basic[2]);
 
-  json.extended.forEach((vocab) => {
+  json.extended.forEach((vocab, index) => {
+    if (index > 13) return;
     csvLineArray.push(vocab.jlpt);
     csvLineArray.push(flatDeep(japaneseFurigana(vocab.japanese), 20));
     csvLineArray.push(flatDeep(vocab.senses, 20));
   });
-
+  while (csvLineArray.length < 45) csvLineArray.push("");
   ordered[json.basic[2]] = csvLineArray.join("\t");
 }
 
