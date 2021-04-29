@@ -1,17 +1,1 @@
-{
-  "basic": ["礎", "Cornerstone", "421"],
-  "extended": [
-    {
-      "jlpt": ["jlpt-n2"],
-      "tags": ["wanikani49"],
-      "japanese": [{ "word": "基礎", "reading": "きそ" }],
-      "senses": [["foundation", "basis"], ["Foundation (engineering)"]]
-    },
-    {
-      "jlpt": ["jlpt-n2"],
-      "tags": ["wanikani49"],
-      "japanese": [{ "word": "基礎", "reading": "きそ" }],
-      "senses": [["foundation", "basis"], ["Foundation (engineering)"]]
-    }
-  ]
-}
+{"basic":["礎","Cornerstone","421"],"extended":[{"jlpt":["jlpt-n2"],"tags":["wanikani49"],"japanese":[{"word":"基礎","reading":"きそ"}],"senses":[["foundation","basis"],["Foundation (engineering)"]]}]}

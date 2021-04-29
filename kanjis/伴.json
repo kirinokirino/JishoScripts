@@ -1,17 +1,1 @@
-{
-  "basic": ["伴", "Consort", "1287"],
-  "extended": [
-    {
-      "jlpt": [],
-      "tags": ["wanikani38"],
-      "japanese": [{ "word": "同伴", "reading": "どうはん" }],
-      "senses": [["accompanying", "being accompanied by", "going with"]]
-    },
-    {
-      "jlpt": [],
-      "tags": ["wanikani38"],
-      "japanese": [{ "word": "同伴", "reading": "どうはん" }],
-      "senses": [["accompanying", "being accompanied by", "going with"]]
-    }
-  ]
-}
+{"basic":["伴","Consort","1287"],"extended":[{"jlpt":[],"tags":["wanikani38"],"japanese":[{"word":"同伴","reading":"どうはん"}],"senses":[["accompanying","being accompanied by","going with"]]}]}

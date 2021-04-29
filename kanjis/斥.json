@@ -1,17 +1,1 @@
-{
-  "basic": ["斥", "Reject", "1220"],
-  "extended": [
-    {
-      "jlpt": [],
-      "tags": [],
-      "japanese": [{ "word": "排斥", "reading": "はいせき" }],
-      "senses": [["rejection", "expulsion", "boycott", "ostracism"]]
-    },
-    {
-      "jlpt": [],
-      "tags": [],
-      "japanese": [{ "word": "排斥", "reading": "はいせき" }],
-      "senses": [["rejection", "expulsion", "boycott", "ostracism"]]
-    }
-  ]
-}
+{"basic":["斥","Reject","1220"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"排斥","reading":"はいせき"}],"senses":[["rejection","expulsion","boycott","ostracism"]]}]}

@@ -1,17 +1,1 @@
-{
-  "basic": ["棟", "Ridgepole", "544"],
-  "extended": [
-    {
-      "jlpt": [],
-      "tags": ["wanikani46"],
-      "japanese": [{ "word": "病棟", "reading": "びょうとう" }],
-      "senses": [["(hospital) ward"]]
-    },
-    {
-      "jlpt": [],
-      "tags": ["wanikani46"],
-      "japanese": [{ "word": "病棟", "reading": "びょうとう" }],
-      "senses": [["(hospital) ward"]]
-    }
-  ]
-}
+{"basic":["棟","Ridgepole","544"],"extended":[{"jlpt":[],"tags":["wanikani46"],"japanese":[{"word":"病棟","reading":"びょうとう"}],"senses":[["(hospital) ward"]]}]}

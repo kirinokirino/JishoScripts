@@ -1,17 +1,1 @@
-{
-  "basic": ["掌", "Manipulate", "864"],
-  "extended": [
-    {
-      "jlpt": ["jlpt-n2"],
-      "tags": ["wanikani47"],
-      "japanese": [{ "word": "車掌", "reading": "しゃしょう" }],
-      "senses": [["(train) conductor"], ["Conductor (transportation)"]]
-    },
-    {
-      "jlpt": ["jlpt-n2"],
-      "tags": ["wanikani47"],
-      "japanese": [{ "word": "車掌", "reading": "しゃしょう" }],
-      "senses": [["(train) conductor"], ["Conductor (transportation)"]]
-    }
-  ]
-}
+{"basic":["掌","Manipulate","864"],"extended":[{"jlpt":["jlpt-n2"],"tags":["wanikani47"],"japanese":[{"word":"車掌","reading":"しゃしょう"}],"senses":[["(train) conductor"],["Conductor (transportation)"]]}]}

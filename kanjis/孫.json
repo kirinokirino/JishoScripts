@@ -1,17 +1,1 @@
-{
-  "basic": ["孫", "Grandchild", "1494"],
-  "extended": [
-    {
-      "jlpt": ["jlpt-n2"],
-      "tags": ["wanikani31"],
-      "japanese": [{ "word": "子孫", "reading": "しそん" }],
-      "senses": [["descendant", "posterity", "offspring"]]
-    },
-    {
-      "jlpt": ["jlpt-n2"],
-      "tags": ["wanikani31"],
-      "japanese": [{ "word": "子孫", "reading": "しそん" }],
-      "senses": [["descendant", "posterity", "offspring"]]
-    }
-  ]
-}
+{"basic":["孫","Grandchild","1494"],"extended":[{"jlpt":["jlpt-n2"],"tags":["wanikani31"],"japanese":[{"word":"子孫","reading":"しそん"}],"senses":[["descendant","posterity","offspring"]]}]}

@@ -1,17 +1,1 @@
-{
-  "basic": ["宰", "Superintend", "1615"],
-  "extended": [
-    {
-      "jlpt": [],
-      "tags": ["wanikani56"],
-      "japanese": [{ "word": "主宰", "reading": "しゅさい" }],
-      "senses": [["supervision", "superintendence", "chairmanship", "chairman"]]
-    },
-    {
-      "jlpt": [],
-      "tags": ["wanikani56"],
-      "japanese": [{ "word": "主宰", "reading": "しゅさい" }],
-      "senses": [["supervision", "superintendence", "chairmanship", "chairman"]]
-    }
-  ]
-}
+{"basic":["宰","Superintend","1615"],"extended":[{"jlpt":[],"tags":["wanikani56"],"japanese":[{"word":"主宰","reading":"しゅさい"}],"senses":[["supervision","superintendence","chairmanship","chairman"]]}]}

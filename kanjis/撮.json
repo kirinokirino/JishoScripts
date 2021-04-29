@@ -1,17 +1,1 @@
-{
-  "basic": ["撮", "Snapshot", "885"],
-  "extended": [
-    {
-      "jlpt": [],
-      "tags": [],
-      "japanese": [{ "word": "写真撮影", "reading": "しゃしんさつえい" }],
-      "senses": [["photography", "taking photographs"]]
-    },
-    {
-      "jlpt": [],
-      "tags": [],
-      "japanese": [{ "word": "写真撮影", "reading": "しゃしんさつえい" }],
-      "senses": [["photography", "taking photographs"]]
-    }
-  ]
-}
+{"basic":["撮","Snapshot","885"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"写真撮影","reading":"しゃしんさつえい"}],"senses":[["photography","taking photographs"]]}]}

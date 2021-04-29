@@ -1,17 +1,1 @@
-{
-  "basic": ["濁", "Voiced", "898"],
-  "extended": [
-    {
-      "jlpt": [],
-      "tags": ["wanikani58"],
-      "japanese": [{ "word": "汚濁", "reading": "おだく" }],
-      "senses": [["pollution", "contamination", "corruption", "graft"]]
-    },
-    {
-      "jlpt": [],
-      "tags": ["wanikani58"],
-      "japanese": [{ "word": "汚濁", "reading": "おだく" }],
-      "senses": [["pollution", "contamination", "corruption", "graft"]]
-    }
-  ]
-}
+{"basic":["濁","Voiced","898"],"extended":[{"jlpt":[],"tags":["wanikani58"],"japanese":[{"word":"汚濁","reading":"おだく"}],"senses":[["pollution","contamination","corruption","graft"]]}]}

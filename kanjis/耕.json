@@ -1,17 +1,1 @@
-{
-  "basic": ["耕", "Till", "1949"],
-  "extended": [
-    {
-      "jlpt": ["jlpt-n1"],
-      "tags": ["wanikani51"],
-      "japanese": [{ "word": "農耕", "reading": "のうこう" }],
-      "senses": [["farming", "agriculture", "cultivation"]]
-    },
-    {
-      "jlpt": ["jlpt-n1"],
-      "tags": ["wanikani51"],
-      "japanese": [{ "word": "農耕", "reading": "のうこう" }],
-      "senses": [["farming", "agriculture", "cultivation"]]
-    }
-  ]
-}
+{"basic":["耕","Till","1949"],"extended":[{"jlpt":["jlpt-n1"],"tags":["wanikani51"],"japanese":[{"word":"農耕","reading":"のうこう"}],"senses":[["farming","agriculture","cultivation"]]}]}

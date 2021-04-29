@@ -1,17 +1,1 @@
-{
-  "basic": ["慌", "Disconcerted", "671"],
-  "extended": [
-    {
-      "jlpt": [],
-      "tags": [],
-      "japanese": [{ "word": "恐慌", "reading": "きょうこう" }],
-      "senses": [["panic", "scare", "consternation"], ["Crisis theory"]]
-    },
-    {
-      "jlpt": [],
-      "tags": [],
-      "japanese": [{ "word": "恐慌", "reading": "きょうこう" }],
-      "senses": [["panic", "scare", "consternation"], ["Crisis theory"]]
-    }
-  ]
-}
+{"basic":["慌","Disconcerted","671"],"extended":[{"jlpt":[],"tags":[],"japanese":[{"word":"恐慌","reading":"きょうこう"}],"senses":[["panic","scare","consternation"],["Crisis theory"]]}]}

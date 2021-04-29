@@ -1,17 +1,1 @@
-{
-  "basic": ["患", "Afflicted", "650"],
-  "extended": [
-    {
-      "jlpt": [],
-      "tags": ["wanikani54"],
-      "japanese": [{ "word": "疾患", "reading": "しっかん" }],
-      "senses": [["disease", "ailment", "illness"]]
-    },
-    {
-      "jlpt": [],
-      "tags": ["wanikani54"],
-      "japanese": [{ "word": "疾患", "reading": "しっかん" }],
-      "senses": [["disease", "ailment", "illness"]]
-    }
-  ]
-}
+{"basic":["患","Afflicted","650"],"extended":[{"jlpt":[],"tags":["wanikani54"],"japanese":[{"word":"疾患","reading":"しっかん"}],"senses":[["disease","ailment","illness"]]}]}

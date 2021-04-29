@@ -1,17 +1,1 @@
-{
-  "basic": ["屯", "Barracks", "2189"],
-  "extended": [
-    {
-      "jlpt": [],
-      "tags": ["wanikani59"],
-      "japanese": [{ "word": "駐屯", "reading": "ちゅうとん" }],
-      "senses": [["stationing (troops)", "occupancy"]]
-    },
-    {
-      "jlpt": [],
-      "tags": ["wanikani59"],
-      "japanese": [{ "word": "駐屯", "reading": "ちゅうとん" }],
-      "senses": [["stationing (troops)", "occupancy"]]
-    }
-  ]
-}
+{"basic":["屯","Barracks","2189"],"extended":[{"jlpt":[],"tags":["wanikani59"],"japanese":[{"word":"駐屯","reading":"ちゅうとん"}],"senses":[["stationing (troops)","occupancy"]]}]}

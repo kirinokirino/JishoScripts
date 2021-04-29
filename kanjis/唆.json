@@ -1,17 +1,1 @@
-{
-  "basic": ["唆", "Tempt", "828"],
-  "extended": [
-    {
-      "jlpt": [],
-      "tags": ["wanikani52"],
-      "japanese": [{ "word": "示唆", "reading": "しさ" }],
-      "senses": [["suggestion", "hint", "implication"]]
-    },
-    {
-      "jlpt": [],
-      "tags": ["wanikani52"],
-      "japanese": [{ "word": "示唆", "reading": "しさ" }],
-      "senses": [["suggestion", "hint", "implication"]]
-    }
-  ]
-}
+{"basic":["唆","Tempt","828"],"extended":[{"jlpt":[],"tags":["wanikani52"],"japanese":[{"word":"示唆","reading":"しさ"}],"senses":[["suggestion","hint","implication"]]}]}
