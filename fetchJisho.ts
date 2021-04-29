@@ -10,7 +10,7 @@ export async function fetchFromJisho(
   if (page) {
     pageString = "&page=" + page.toString();
   }
-  const query = `${url}?keyword=%23word %23common %3F*${keyword}*${pageString}`;
+  const query = `${url}?keyword=%23word %23common *${keyword}*${pageString}`;
   console.debug(query);
   await delay(2000);
   return await fetch(query);
