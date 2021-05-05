@@ -30,14 +30,14 @@ for (const word of json.words) {
 
 Deno.writeTextFileSync(outputPath, JSON.stringify(minifiedJson));
 
-interface minifiedEntry {
+export interface minifiedEntry {
   id: string;
   kanji: Kanji[];
   kana: Kana[];
   sense: minifiedSense[];
 }
 
-interface minifiedSense {
+export interface minifiedSense {
   appliesToKanji: string[];
   translation: string;
 }
