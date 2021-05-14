@@ -5,6 +5,7 @@ const outputPath = path.join(Deno.cwd(), "jmdict-min-full.json");
 const json = JSON.parse(Deno.readTextFileSync(jmdictPath)) as Jmdict;
 const minifiedJson: minifiedEntry[] = [];
 
+const onlyCommon = false;
 for (const word of json.words) {
   const senses: minifiedSense[] = word.sense.map((sense) => {
     return {
@@ -12,20 +13,29 @@ for (const word of json.words) {
       translation: sense.gloss.reduce((prev, next) => {
         next.text = prev.text + "; " + next.text;
         return next;
-      }).text
+      }).text,
     } as minifiedSense;
   });
 
-  minifiedJson.push({
-    id: word.id,
-    kanji: word.kanji.filter((kanji) => {
-      return kanji.common;
-    }),
-    kana: word.kana.filter((kana) => {
-      return kana.common;
-    }),
-    sense: senses,
-  } as minifiedEntry);
+  if (onlyCommon) {
+    minifiedJson.push({
+      id: word.id,
+      kanji: word.kanji.filter((kanji) => {
+        return kanji.common;
+      }),
+      kana: word.kana.filter((kana) => {
+        return kana.common;
+      }),
+      sense: senses,
+    } as minifiedEntry);
+  } else {
+    minifiedJson.push({
+      id: word.id,
+      kanji: word.kanji,
+      kana: word.kana,
+      sense: senses,
+    } as minifiedEntry);
+  }
 }
 
 Deno.writeTextFileSync(outputPath, JSON.stringify(minifiedJson));
