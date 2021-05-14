@@ -1,7 +1,7 @@
 import { path } from "./deps.ts";
 
-const jmdictPath = path.join(Deno.cwd(), "jmdict-eng-common-3.1.0.json");
-const outputPath = path.join(Deno.cwd(), "jmdict-min.json");
+const jmdictPath = path.join(Deno.cwd(), "jmdict-eng-3.1.0.json");
+const outputPath = path.join(Deno.cwd(), "jmdict-min-full.json");
 const json = JSON.parse(Deno.readTextFileSync(jmdictPath)) as Jmdict;
 const minifiedJson: minifiedEntry[] = [];
 
