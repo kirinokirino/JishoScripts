@@ -12,8 +12,13 @@ For some reason, jisho api responds with some duplicates, so `cleanJSON` walks t
 Lastly, `makeCSV` reads kanjis dir and makes one tsv (tabs, yeah) file. Fills with some empty tabs so anki doesn't argue.
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 jmdict-eng-common and jmdict-eng is a converted to json jmdict dictionary from [this repository](https://github.com/scriptin/jmdict-simplified). This package uses the [JMdict/EDICT](http://www.edrdg.org/wiki/index.php/JMdict-EDICT_Dictionary_Project) dictionary files. These files are the property of the [Electronic Dictionary Research and Development Group](http://www.edrdg.org/), and are used in conformance with the Group's [licence](http://www.edrdg.org/edrdg/licence.html). 
 `jmdictLoader.ts` uses that file to simplify it into jmdict-min.json and jmdict-min-full.json. They are licensed under [Electronic Dictionary Research and Development Group's](http://www.edrdg.org/) [licence](http://www.edrdg.org/edrdg/licence.html). And then `kanjiMap.ts` uses kanji as a key and makes a `jmdictObject.json` out of that, same licence.
+=======
+jmdict-eng-common is a converted to json jmdict dictionary from [this repository](https://github.com/scriptin/jmdict-simplified). This package uses the [JMdict/EDICT](http://www.edrdg.org/wiki/index.php/JMdict-EDICT_Dictionary_Project) dictionary files. These files are the property of the [Electronic Dictionary Research and Development Group](http://www.edrdg.org/), and are used in conformance with the Group's [licence](http://www.edrdg.org/edrdg/licence.html). 
+`jmdictLoader.ts` uses that file to simplify it into jmdict-min.json. jmdict-min.json is licensed under [Electronic Dictionary Research and Development Group's](http://www.edrdg.org/) [licence](http://www.edrdg.org/edrdg/licence.html). And then `kanjiMap.ts` uses kanji as a key and makes a `jmdictObject.json` out of that, same licence.
+>>>>>>> e0c72ca20f040b033a9423fd13d5d4e83688c6bb
 =======
 jmdict-eng-common is a converted to json jmdict dictionary from [this repository](https://github.com/scriptin/jmdict-simplified). This package uses the [JMdict/EDICT](http://www.edrdg.org/wiki/index.php/JMdict-EDICT_Dictionary_Project) dictionary files. These files are the property of the [Electronic Dictionary Research and Development Group](http://www.edrdg.org/), and are used in conformance with the Group's [licence](http://www.edrdg.org/edrdg/licence.html). 
 `jmdictLoader.ts` uses that file to simplify it into jmdict-min.json. jmdict-min.json is licensed under [Electronic Dictionary Research and Development Group's](http://www.edrdg.org/) [licence](http://www.edrdg.org/edrdg/licence.html). And then `kanjiMap.ts` uses kanji as a key and makes a `jmdictObject.json` out of that, same licence.
