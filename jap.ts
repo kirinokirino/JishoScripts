@@ -1,67 +1,78 @@
 #!/usr/bin/env -S deno run --no-check --allow-read --allow-run
 
 import { path } from "./deps.ts";
-import {minifiedEntry} from "./jmdictLoader.ts";
+import { minifiedEntry } from "./jmdictLoader.ts";
 
 let dictionaryPath;
-const fullSearch = Deno.args.find(argument => { return argument.toLowerCase().includes("--full")});
+const fullSearch = Deno.args.find((argument) => {
+  return argument.toLowerCase().includes("--full");
+});
+const reverse = Deno.args.find((argument) => {
+  return argument.toLowerCase().includes("--rev");
+});
 if (fullSearch) {
   dictionaryPath = path.join(Deno.cwd(), "jmdict-min-full.json");
 } else {
   dictionaryPath = path.join(Deno.cwd(), "jmdict-min.json");
 }
 
-const query = Deno.args.find(argument => { return !argument.includes("--")});
-const jqArgument = `map(select(.sense[] .translation | contains("${query}")))`;
-
-const p = Deno.run({
-  cmd: [
-    "jq",
-    jqArgument,
-    "--unbuffered",
-    "-e",
-    dictionaryPath,
-  ],
-  stdout: "piped",
-  stderr: "piped",
+const query = Deno.args.find((argument) => {
+  return !argument.includes("--");
 });
+const enToJap = `map(select(.sense[] .translation | contains("${query}")))`;
+const japToEn = `map(select(.kanji[] .text | contains("${query}")))`;
+
+let p;
+if (reverse) {
+  p = Deno.run({
+    cmd: [
+      "jq",
+      japToEn,
+      "--unbuffered",
+      "-e",
+      dictionaryPath,
+    ],
+    stdout: "piped",
+    stderr: "piped",
+  });
+} else {
+  p = Deno.run({
+    cmd: [
+      "jq",
+      enToJap,
+      "--unbuffered",
+      "-e",
+      dictionaryPath,
+    ],
+    stdout: "piped",
+    stderr: "piped",
+  });
+}
 
 const [status, stdout, stderr] = await Promise.all([
   p.status(),
   p.output(),
-  p.stderrOutput()
+  p.stderrOutput(),
 ]);
 
 p.close();
 
 if (status.code === 0) {
-  const results = JSON.parse(new TextDecoder("utf-8").decode(stdout)) as minifiedEntry[];
+  const results = JSON.parse(
+    new TextDecoder("utf-8").decode(stdout),
+  ) as minifiedEntry[];
 
   for (const result of results) {
     let kanji = "X";
-    if (result.kanji[0]) { kanji = result.kanji[0].text }
-    console.log(kanji, result.kana[0].text, result.sense[0].translation)
+    if (result.kanji[0])kanji = result.kanji[0].text;
+    console.log(kanji, result.kana[0].text, result.sense[0].translation);
   }
-
 } else {
   const errorString = new TextDecoder().decode(stderr);
   console.log(errorString);
 }
 
 Deno.exit(status.code);
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 /*
 const translationIndex: TranslationIndex = { translations: [[]], ids: [] };
