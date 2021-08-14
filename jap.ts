@@ -1,6 +1,6 @@
 #!/usr/bin/env -S deno run --no-check --allow-read --allow-run
 
-import { path } from "./deps.ts";
+import { colors, path } from "./deps.ts";
 import { minifiedEntry } from "./jmdictLoader.ts";
 
 let dictionaryPath;
@@ -62,10 +62,18 @@ if (status.code === 0) {
     new TextDecoder("utf-8").decode(stdout),
   ) as minifiedEntry[];
 
+  const output = [];
   for (const result of results) {
-    let kanji = "X";
-    if (result.kanji[0])kanji = result.kanji[0].text;
-    console.log(kanji, result.kana[0].text, result.sense[0].translation);
+    let kanji = "";
+    if (result.kanji[0]) kanji = result.kanji[0].text;
+    output.push({
+      kanji: colors.magenta(pad(kanji, 4) + kanji),
+      furigana: colors.blue(result.kana[0].text),
+      translation: colors.italic(result.sense[0].translation),
+  });
+  }
+  for (const entry of output) {
+    console.log("%s    \t%s    \t%s",entry.kanji, entry.furigana, entry.translation);
   }
 } else {
   const errorString = new TextDecoder().decode(stderr);
@@ -74,47 +82,15 @@ if (status.code === 0) {
 
 Deno.exit(status.code);
 
-/*
-const translationIndex: TranslationIndex = { translations: [[]], ids: [] };
+function pad(str: string, amount: number): string {
+  let padLength = amount - str.length;
 
-interface TranslationIndex {
-  translations: string[][];
-  ids: string[];
+  let pad = "";
+  if (padLength === 6) pad = "      ";
+  else if (padLength === 5) pad = "     ";
+  else if (padLength === 4) pad = "    ";
+  else if (padLength === 3) pad = "   ";
+  else if (padLength === 2) pad = "  ";
+  else if (padLength === 1) pad = " ";
+  return pad;
 }
-
-dictionary.forEach((entry, entryIndex) => {
-  translationIndex.ids.push(entry.id);
-  translationIndex.translations.push([]);
-  entry.sense.forEach((value, senseIndex) => {
-    translationIndex.translations[entryIndex][senseIndex] = value.translation;
-  });
-});
-
-const num = 16234;
-console.log(translationIndex.ids[num], translationIndex.translations[num]);
-
-function lookUpById(id: string): minifiedEntry | undefined {
-  return dictionary.find((value) => {
-    return value.id === id;
-  });
-}
-
-function lookUp(query: string): string[] | undefined {
-  let ids = undefined;
-
-  for (let i = 0; i < translationIndex.ids.length; i++) {
-    ids = translationIndex.ids.filter((value, index) => {
-      return translationIndex.translations[index][0].includes(query);
-    });
-  }
-  if (!ids) {
-    for (let i = 0; i < translationIndex.ids.length; i++) {
-    ids = translationIndex.ids.filter((value, index) => {
-      return translationIndex.translations[index][1].includes(query);
-    });
-  }
-  }
-  return ids;
-}
-console.log(lookUp("expedition;"));
-*/
